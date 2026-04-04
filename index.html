@@ -7,23 +7,24 @@
   <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Noto+Sans+TC:wght@300;400;500;700&display=swap" rel="stylesheet" />
   <style>
     :root {
-      --blue:       #2563EB;
-      --blue-light: #EFF6FF;
-      --blue-mid:   #BFDBFE;
-      --navy:       #1E3A5F;
-      --white:      #FFFFFF;
-      --grey-bg:    #F8FAFC;
-      --grey-border:#E2E8F0;
-      --grey-text:  #64748B;
-      --red:        #EF4444;
-      --green:      #22C55E;
-      --shadow:     0 4px 24px rgba(37, 99, 235, 0.10);
-      --radius:     16px;
-      --radius-sm:  8px;
+      --blue:        #2563EB;
+      --blue-light:  #EFF6FF;
+      --blue-mid:    #BFDBFE;
+      --navy:        #1E3A5F;
+      --white:       #FFFFFF;
+      --grey-bg:     #F8FAFC;
+      --grey-border: #E2E8F0;
+      --grey-text:   #64748B;
+      --red:         #EF4444;
+      --green:       #22C55E;
+      --green-light: #DCFCE7;
+      --orange:      #F59E0B;
+      --orange-light:#FEF3C7;
+      --shadow:      0 4px 24px rgba(37,99,235,0.10);
+      --radius:      16px;
+      --radius-sm:   8px;
     }
-
     * { box-sizing: border-box; margin: 0; padding: 0; }
-
     body {
       font-family: 'Noto Sans TC', sans-serif;
       background: var(--grey-bg);
@@ -39,188 +40,154 @@
       text-align: center;
     }
     .hero-badge {
-      display: inline-flex;
-      align-items: center;
-      gap: 6px;
+      display: inline-flex; align-items: center; gap: 6px;
       background: rgba(255,255,255,0.15);
       border: 1px solid rgba(255,255,255,0.25);
-      border-radius: 999px;
-      padding: 6px 16px;
-      font-size: 13px;
-      font-family: 'Nunito', sans-serif;
-      font-weight: 600;
-      margin-bottom: 20px;
-      letter-spacing: 0.3px;
+      border-radius: 999px; padding: 6px 16px;
+      font-size: 13px; font-family: 'Nunito', sans-serif;
+      font-weight: 600; margin-bottom: 20px; letter-spacing: 0.3px;
     }
     .hero h1 {
-      font-family: 'Nunito', sans-serif;
-      font-weight: 900;
-      font-size: clamp(28px, 5vw, 48px);
-      line-height: 1.2;
-      margin-bottom: 12px;
+      font-family: 'Nunito', sans-serif; font-weight: 900;
+      font-size: clamp(28px, 5vw, 48px); line-height: 1.2; margin-bottom: 12px;
     }
     .hero p {
-      font-size: 16px;
-      opacity: 0.85;
-      max-width: 520px;
-      margin: 0 auto 28px;
-      line-height: 1.6;
+      font-size: 16px; opacity: 0.85; max-width: 520px;
+      margin: 0 auto 28px; line-height: 1.6;
     }
-    .hero-stats {
-      display: flex;
-      justify-content: center;
-      gap: 32px;
-      flex-wrap: wrap;
-    }
-    .hero-stat {
-      text-align: center;
-    }
+    .hero-stats { display: flex; justify-content: center; gap: 32px; flex-wrap: wrap; }
     .hero-stat .num {
-      font-family: 'Nunito', sans-serif;
-      font-weight: 800;
-      font-size: 28px;
-      display: block;
+      font-family: 'Nunito', sans-serif; font-weight: 800;
+      font-size: 28px; display: block;
     }
     .hero-stat .label {
-      font-size: 12px;
-      opacity: 0.7;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
+      font-size: 12px; opacity: 0.7;
+      text-transform: uppercase; letter-spacing: 0.5px;
     }
 
     /* ── MAIN ── */
-    .main {
-      max-width: 960px;
-      margin: 0 auto;
-      padding: 40px 20px 64px;
-    }
-
+    .main { max-width: 960px; margin: 0 auto; padding: 40px 20px 64px; }
     .section-title {
+      font-family: 'Nunito', sans-serif; font-weight: 800;
+      font-size: 22px; color: var(--navy);
+      margin-bottom: 20px; display: flex; align-items: center; gap: 10px;
+    }
+
+    /* ── TODAY BANNER ── */
+    .today-banner {
+      background: linear-gradient(135deg, #DCFCE7, #D1FAE5);
+      border: 1px solid #86EFAC;
+      border-radius: var(--radius); padding: 16px 22px;
+      display: flex; align-items: center; gap: 12px;
+      margin-bottom: 28px;
+    }
+    .today-banner .icon { font-size: 24px; }
+    .today-banner strong {
+      font-family: 'Nunito', sans-serif; font-weight: 800;
+      color: #166534; font-size: 15px;
+    }
+    .today-banner span { font-size: 13px; color: #16a34a; }
+
+    /* ── VIDEO SECTIONS ── */
+    .channel-section { margin-bottom: 36px; }
+    .channel-header {
+      display: flex; align-items: center; gap: 12px;
+      margin-bottom: 14px; flex-wrap: wrap;
+    }
+    .channel-title {
+      font-family: 'Nunito', sans-serif; font-weight: 800;
+      font-size: 18px; color: var(--navy);
+    }
+    .channel-handle-link {
+      font-size: 13px; color: var(--blue); font-weight: 600;
+      text-decoration: none; font-family: 'Nunito', sans-serif;
+    }
+    .channel-handle-link:hover { text-decoration: underline; }
+    .new-count-badge {
+      background: var(--green); color: white;
+      font-size: 11px; font-weight: 700;
+      padding: 2px 8px; border-radius: 999px;
       font-family: 'Nunito', sans-serif;
-      font-weight: 800;
-      font-size: 22px;
-      color: var(--navy);
-      margin-bottom: 20px;
-      display: flex;
-      align-items: center;
-      gap: 10px;
     }
 
-    /* ── CHANNEL CARDS ── */
-    .channels-grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-      gap: 20px;
-      margin-bottom: 48px;
-    }
-
-    .channel-card {
+    .video-list { display: flex; flex-direction: column; gap: 10px; }
+    .video-item {
       background: var(--white);
-      border-radius: var(--radius);
       border: 1px solid var(--grey-border);
-      padding: 28px 20px 22px;
-      text-align: center;
-      text-decoration: none;
-      color: inherit;
-      transition: transform 0.18s ease, box-shadow 0.18s ease;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 10px;
+      border-radius: var(--radius-sm);
+      padding: 14px 18px;
+      display: flex; align-items: flex-start; gap: 14px;
+      transition: box-shadow 0.15s, border-color 0.15s;
     }
-    .channel-card:hover {
-      transform: translateY(-5px);
-      box-shadow: var(--shadow);
-      border-color: var(--blue-mid);
+    .video-item:hover {
+      box-shadow: var(--shadow); border-color: var(--blue-mid);
     }
+    .video-item.is-new {
+      border-left: 3px solid var(--green);
+      background: #f0fdf4;
+    }
+    .video-rank {
+      font-family: 'Nunito', sans-serif; font-weight: 800;
+      font-size: 18px; color: var(--blue-mid);
+      width: 24px; flex-shrink: 0; text-align: center; padding-top: 1px;
+    }
+    .video-item.is-new .video-rank { color: var(--green); }
+    .video-body { flex: 1; min-width: 0; }
+    .video-title-link {
+      font-size: 14px; font-weight: 600; color: var(--navy);
+      text-decoration: none; line-height: 1.5;
+      display: block; margin-bottom: 6px;
+    }
+    .video-title-link:hover { color: var(--blue); text-decoration: underline; }
+    .video-meta { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+    .badge-new {
+      background: var(--green); color: white;
+      font-size: 10px; font-weight: 800;
+      padding: 2px 8px; border-radius: 999px;
+      font-family: 'Nunito', sans-serif; letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+    .badge-age {
+      font-size: 12px; color: var(--grey-text);
+      font-family: 'Nunito', sans-serif; font-weight: 600;
+    }
+    .video-date { font-size: 11px; color: #94a3b8; }
 
-    .channel-icon {
-      width: 60px;
-      height: 60px;
+    /* ── NO VIDEOS STATE ── */
+    .no-data {
+      text-align: center; padding: 40px 20px;
+      color: var(--grey-text); font-size: 14px;
+    }
+    .loading { text-align: center; padding: 60px 20px; color: var(--grey-text); }
+    .loading-spinner {
+      display: inline-block; width: 32px; height: 32px;
+      border: 3px solid var(--blue-mid);
+      border-top-color: var(--blue);
       border-radius: 50%;
-      background: linear-gradient(135deg, var(--blue) 0%, #60A5FA 100%);
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      font-size: 26px;
-      flex-shrink: 0;
+      animation: spin 0.8s linear infinite;
+      margin-bottom: 12px;
     }
-
-    .channel-name {
-      font-family: 'Nunito', sans-serif;
-      font-weight: 800;
-      font-size: 15px;
-      color: var(--navy);
-      line-height: 1.3;
-    }
-
-    .channel-handle {
-      font-size: 12px;
-      color: var(--blue);
-      font-weight: 600;
-      font-family: 'Nunito', sans-serif;
-    }
-
-    .channel-btn {
-      margin-top: 6px;
-      display: inline-flex;
-      align-items: center;
-      gap: 5px;
-      background: var(--blue-light);
-      color: var(--blue);
-      border-radius: 999px;
-      padding: 5px 14px;
-      font-size: 12px;
-      font-family: 'Nunito', sans-serif;
-      font-weight: 700;
-    }
-    .channel-card:hover .channel-btn {
-      background: var(--blue);
-      color: white;
-    }
+    @keyframes spin { to { transform: rotate(360deg); } }
 
     /* ── INFO BANNER ── */
     .info-banner {
-      background: var(--white);
-      border: 1px solid var(--grey-border);
-      border-radius: var(--radius);
-      padding: 24px 28px;
-      display: flex;
-      align-items: flex-start;
-      gap: 18px;
-      margin-bottom: 48px;
+      background: var(--white); border: 1px solid var(--grey-border);
+      border-radius: var(--radius); padding: 20px 24px;
+      display: flex; align-items: flex-start; gap: 14px;
+      margin-bottom: 32px;
     }
-    .info-banner-icon {
-      font-size: 32px;
-      flex-shrink: 0;
-    }
+    .info-banner-icon { font-size: 28px; flex-shrink: 0; }
     .info-banner h3 {
-      font-family: 'Nunito', sans-serif;
-      font-weight: 800;
-      font-size: 16px;
-      margin-bottom: 6px;
+      font-family: 'Nunito', sans-serif; font-weight: 800;
+      font-size: 15px; margin-bottom: 4px;
     }
-    .info-banner p {
-      font-size: 14px;
-      color: var(--grey-text);
-      line-height: 1.6;
-    }
-    .info-banner a {
-      color: var(--blue);
-      font-weight: 600;
-      text-decoration: none;
-    }
+    .info-banner p { font-size: 13px; color: var(--grey-text); line-height: 1.6; }
+    .info-banner a { color: var(--blue); font-weight: 600; text-decoration: none; }
     .info-banner a:hover { text-decoration: underline; }
-
     .pulse {
-      display: inline-block;
-      width: 8px;
-      height: 8px;
-      border-radius: 50%;
-      background: var(--green);
-      margin-right: 6px;
-      animation: pulse 1.8s infinite;
-      vertical-align: middle;
+      display: inline-block; width: 8px; height: 8px;
+      border-radius: 50%; background: var(--green);
+      margin-right: 6px; animation: pulse 1.8s infinite; vertical-align: middle;
     }
     @keyframes pulse {
       0%   { box-shadow: 0 0 0 0 rgba(34,197,94,0.5); }
@@ -228,83 +195,48 @@
       100% { box-shadow: 0 0 0 0 rgba(34,197,94,0); }
     }
 
-    /* ── SCHEDULE CARDS ── */
-    .schedule-grid {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 16px;
-      margin-bottom: 48px;
-    }
-    @media (max-width: 480px) { .schedule-grid { grid-template-columns: 1fr; } }
-
+    /* ── SCHEDULE ── */
+    .schedule-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 40px; }
     .schedule-card {
-      background: var(--white);
-      border: 1px solid var(--grey-border);
-      border-radius: var(--radius-sm);
-      padding: 18px 20px;
-      display: flex;
-      align-items: center;
-      gap: 14px;
+      background: var(--white); border: 1px solid var(--grey-border);
+      border-radius: var(--radius-sm); padding: 18px 20px;
+      display: flex; align-items: center; gap: 14px;
     }
     .schedule-time {
-      font-family: 'Nunito', sans-serif;
-      font-weight: 900;
-      font-size: 26px;
-      color: var(--blue);
-      flex-shrink: 0;
-      width: 80px;
+      font-family: 'Nunito', sans-serif; font-weight: 900;
+      font-size: 26px; color: var(--blue); flex-shrink: 0; width: 80px;
     }
     .schedule-info small {
-      display: block;
-      font-size: 11px;
-      text-transform: uppercase;
-      letter-spacing: 0.5px;
-      color: var(--grey-text);
-      margin-bottom: 2px;
+      display: block; font-size: 11px; text-transform: uppercase;
+      letter-spacing: 0.5px; color: var(--grey-text); margin-bottom: 2px;
     }
-    .schedule-info span {
-      font-family: 'Nunito', sans-serif;
-      font-weight: 700;
-      font-size: 14px;
-    }
+    .schedule-info span { font-family: 'Nunito', sans-serif; font-weight: 700; font-size: 14px; }
 
     /* ── GITHUB LINK ── */
     .github-link {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      background: var(--navy);
-      color: white;
-      border-radius: var(--radius);
-      padding: 24px 28px;
-      text-decoration: none;
-      transition: opacity 0.18s;
-      gap: 16px;
+      display: flex; align-items: center; justify-content: space-between;
+      background: var(--navy); color: white; border-radius: var(--radius);
+      padding: 24px 28px; text-decoration: none;
+      transition: opacity 0.18s; gap: 16px;
     }
     .github-link:hover { opacity: 0.9; }
-    .github-link-left h3 {
-      font-family: 'Nunito', sans-serif;
-      font-weight: 800;
-      font-size: 18px;
-      margin-bottom: 4px;
-    }
-    .github-link-left p { font-size: 13px; opacity: 0.75; }
-    .github-arrow {
-      font-size: 28px;
-      flex-shrink: 0;
-    }
+    .github-link h3 { font-family: 'Nunito', sans-serif; font-weight: 800; font-size: 18px; margin-bottom: 4px; }
+    .github-link p { font-size: 13px; opacity: 0.75; }
+    .github-arrow { font-size: 28px; flex-shrink: 0; }
 
     /* ── FOOTER ── */
     footer {
-      text-align: center;
-      padding: 24px;
-      font-size: 12px;
-      color: var(--grey-text);
+      text-align: center; padding: 24px;
+      font-size: 12px; color: var(--grey-text);
       border-top: 1px solid var(--grey-border);
     }
+    footer a { color: var(--blue); text-decoration: none; }
+
+    /* ── DIVIDER ── */
+    .divider { border: none; border-top: 1px solid var(--grey-border); margin: 32px 0; }
 
     @media (max-width: 600px) {
-      .channels-grid { grid-template-columns: 1fr 1fr; }
+      .schedule-grid { grid-template-columns: 1fr; }
       .info-banner { flex-direction: column; }
     }
   </style>
@@ -325,39 +257,15 @@
 
   <div class="main">
 
-    <!-- CHANNELS -->
-    <div class="section-title">📺 Tracked Channels</div>
-    <div class="channels-grid">
-
-      <a class="channel-card" href="https://www.youtube.com/@Teacher_Kong/videos" target="_blank">
-        <div class="channel-icon">👨‍🏫</div>
-        <div class="channel-name">孔老師AI研習社</div>
-        <div class="channel-handle">@Teacher_Kong</div>
-        <div class="channel-btn">Watch ▶</div>
-      </a>
-
-      <a class="channel-card" href="https://www.youtube.com/@lichangzhanglaile/videos" target="_blank">
-        <div class="channel-icon">🏭</div>
-        <div class="channel-name">李厂长来了</div>
-        <div class="channel-handle">@lichangzhanglaile</div>
-        <div class="channel-btn">Watch ▶</div>
-      </a>
-
-      <a class="channel-card" href="https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos" target="_blank">
-        <div class="channel-icon">💰</div>
-        <div class="channel-name">我想用Ai賺錢</div>
-        <div class="channel-handle">@我想用Ai賺錢</div>
-        <div class="channel-btn">Watch ▶</div>
-      </a>
-
-      <a class="channel-card" href="https://www.youtube.com/@ompshek/videos" target="_blank">
-        <div class="channel-icon">🪨</div>
-        <div class="channel-name">阿石OMP</div>
-        <div class="channel-handle">@ompshek</div>
-        <div class="channel-btn">Watch ▶</div>
-      </a>
-
+    <!-- VIDEOS SECTION (populated by JS) -->
+    <div id="videos-section">
+      <div class="loading">
+        <div class="loading-spinner"></div>
+        <div>Loading latest videos…</div>
+      </div>
     </div>
+
+    <hr class="divider" />
 
     <!-- AUTO UPDATE INFO -->
     <div class="info-banner">
@@ -365,9 +273,9 @@
       <div>
         <h3><span class="pulse"></span>Auto-updating via GitHub Actions</h3>
         <p>
-          Latest videos are fetched from YouTube RSS feeds and committed to the
+          Latest videos are fetched from YouTube RSS feeds and committed to
           <a href="https://github.com/LiverJust/AILearner" target="_blank">LiverJust/AILearner</a>
-          repository automatically twice a day. No manual refresh needed.
+          automatically twice a day. No manual refresh needed.
         </p>
       </div>
     </div>
@@ -377,25 +285,19 @@
     <div class="schedule-grid">
       <div class="schedule-card">
         <div class="schedule-time">12:00</div>
-        <div class="schedule-info">
-          <small>Midday run</small>
-          <span>Noon refresh</span>
-        </div>
+        <div class="schedule-info"><small>Midday run</small><span>Noon refresh</span></div>
       </div>
       <div class="schedule-card">
         <div class="schedule-time">18:00</div>
-        <div class="schedule-info">
-          <small>Evening run</small>
-          <span>End-of-day refresh</span>
-        </div>
+        <div class="schedule-info"><small>Evening run</small><span>End-of-day refresh</span></div>
       </div>
     </div>
 
     <!-- GITHUB CTA -->
     <a class="github-link" href="https://github.com/LiverJust/AILearner" target="_blank">
-      <div class="github-link-left">
+      <div>
         <h3>📋 View Full Video Table on GitHub</h3>
-        <p>See the latest 5 videos from all 4 channels with clickable links and relative dates</p>
+        <p>README with all channels, clickable links, and relative dates</p>
       </div>
       <div class="github-arrow">→</div>
     </a>
@@ -404,8 +306,104 @@
 
   <footer>
     AI Learner · Auto-updated at 12:00 &amp; 18:00 HKT daily ·
-    <a href="https://github.com/LiverJust/AILearner" target="_blank" style="color:var(--blue);">GitHub Repo</a>
+    <a href="https://github.com/LiverJust/AILearner" target="_blank">GitHub Repo</a>
   </footer>
 
+  <script>
+    const CHANNEL_ICONS = {
+      "@Teacher_Kong":       "👨‍🏫",
+      "@lichangzhanglaile":  "🏭",
+      "@我想用Ai賺錢":        "💰",
+      "@ompshek":            "🪨",
+    };
+
+    async function loadVideos() {
+      const section = document.getElementById("videos-section");
+      try {
+        const res = await fetch("videos.json?t=" + Date.now());
+        if (!res.ok) throw new Error("videos.json not found");
+        const data = await res.json();
+
+        // Count total new-today videos
+        let totalNew = 0;
+        data.channels.forEach(ch => {
+          ch.videos.forEach(v => { if (v.is_new_today) totalNew++; });
+        });
+
+        let html = "";
+
+        // Today's new banner
+        if (totalNew > 0) {
+          html += `
+            <div class="today-banner">
+              <div class="icon">🆕</div>
+              <div>
+                <strong>${totalNew} new video${totalNew > 1 ? "s" : ""} posted today!</strong><br/>
+                <span>Scroll down to see what's new across your tracked channels</span>
+              </div>
+            </div>`;
+        }
+
+        html += `<div class="section-title">📺 Latest Videos <span style="font-size:13px;color:var(--grey-text);font-weight:500;margin-left:4px;">— updated ${data.last_updated}</span></div>`;
+
+        data.channels.forEach(ch => {
+          const icon = CHANNEL_ICONS[ch.handle] || "📺";
+          const newCount = ch.videos.filter(v => v.is_new_today).length;
+          const newBadge = newCount > 0
+            ? `<span class="new-count-badge">+${newCount} today</span>`
+            : "";
+
+          html += `
+            <div class="channel-section">
+              <div class="channel-header">
+                <span style="font-size:22px">${icon}</span>
+                <span class="channel-title">${ch.name}</span>
+                <a class="channel-handle-link" href="${ch.url}" target="_blank">${ch.handle}</a>
+                ${newBadge}
+              </div>
+              <div class="video-list">`;
+
+          ch.videos.forEach((v, i) => {
+            const isNew = v.is_new_today;
+            html += `
+                <div class="video-item${isNew ? " is-new" : ""}">
+                  <div class="video-rank">${i + 1}</div>
+                  <div class="video-body">
+                    <a class="video-title-link" href="${v.url}" target="_blank">${escHtml(v.title)}</a>
+                    <div class="video-meta">
+                      ${isNew ? '<span class="badge-new">New Today</span>' : ""}
+                      <span class="badge-age">${v.age}</span>
+                      <span class="video-date">${v.published}</span>
+                    </div>
+                  </div>
+                </div>`;
+          });
+
+          html += `
+              </div>
+            </div>`;
+        });
+
+        section.innerHTML = html;
+
+      } catch (e) {
+        section.innerHTML = `
+          <div class="no-data">
+            <div style="font-size:40px;margin-bottom:12px">📭</div>
+            <strong>Video data not loaded yet</strong><br/>
+            <span style="font-size:13px">Run the GitHub Actions workflow to generate videos.json,<br/>
+            or check back after the next scheduled update at 12:00 or 18:00 HKT.</span><br/><br/>
+            <a href="https://github.com/LiverJust/AILearner" target="_blank"
+               style="color:var(--blue);font-weight:600">View on GitHub →</a>
+          </div>`;
+      }
+    }
+
+    function escHtml(str) {
+      return str.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+    }
+
+    loadVideos();
+  </script>
 </body>
 </html>
