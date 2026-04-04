@@ -48,10 +48,40 @@ def fetch_videos(rss_url, limit=5):
                 {
                     "title": title_el.text or "",
                     "url": "https://www.youtube.com/watch?v=" + (vid_el.text or ""),
-                    "date": (pub_el.text or "")[:10],
+                    "published": (pub_el.text or "")[:10],
                 }
             )
     return videos
+
+
+def relative_date(date_str, now_hkt):
+    """Return a human-readable relative date string."""
+    try:
+        pub = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
+        delta = now_hkt - pub
+        days = delta.days
+        if days == 0:
+            return "Today"
+        elif days == 1:
+            return "1 day ago"
+        elif days < 7:
+            return str(days) + " days ago"
+        elif days < 14:
+            return "1 week ago"
+        elif days < 30:
+            return str(days // 7) + " weeks ago"
+        elif days < 60:
+            return "1 month ago"
+        else:
+            return str(days // 30) + " months ago"
+    except Exception:
+        return date_str
+
+
+def safe_title(title):
+    """Escape pipe characters so they don't break markdown tables."""
+    # Replace both regular | and fullwidth ｜ with a safe alternative
+    return title.replace("|", r"\|").replace("\uff5c", r"\|")
 
 
 hkt = datetime.now(timezone(timedelta(hours=8)))
@@ -63,23 +93,25 @@ lines = [
     "",
     "*Last updated: " + timestamp + "*",
     "",
-    "---",
-    "",
 ]
 
 for ch in channels:
     videos = fetch_videos(ch["rss"])
     lines.append("### " + ch["name"] + " \u00b7 [" + ch["handle"] + "](" + ch["url"] + ")")
-    lines.append("| # | Video | Published |")
-    lines.append("|---|-------|-----------|")
-    for i, v in enumerate(videos, 1):
-        safe_title = v["title"].replace("|", "&#124;")
-        lines.append("| " + str(i) + " | [" + safe_title + "](" + v["url"] + ") | " + v["date"] + " |")
     lines.append("")
-    lines.append("---")
+    lines.append("| # | Title | Age |")
+    lines.append("|---|-------|-----|")
+    for i, v in enumerate(videos, 1):
+        title = safe_title(v["title"])
+        age = relative_date(v["published"], hkt)
+        lines.append("| " + str(i) + " | [" + title + "](" + v["url"] + ") | " + age + " |")
     lines.append("")
 
+lines.append("---")
+lines.append("")
+lines.append("*Auto-updated every day at 12:00 and 18:00 HKT \u00b7 [View workflow](https://github.com/LiverJust/AILearner/actions/workflows/youtube-tracker.yml)*")
 lines.append("<!-- YOUTUBE_TRACKER_END -->")
+
 tracker = "\n".join(lines)
 
 with open("README.md", "r", encoding="utf-8") as f:
