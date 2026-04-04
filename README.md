@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-04-04 17:34 HKT*
+*Last updated: 2026-04-04 17:51 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -34,6 +34,16 @@
 | 3 | [Perplexity Computer實測⚡差點放棄Perplexity！新功能讓我改變想法 Manus 終於有對手？#PerplexityComputer #AIAgent #Manus #廣東話](https://www.youtube.com/watch?v=R4hdW5AjMpo) | 4 weeks ago |
 | 4 | [Manus AI - 地表最強AI助理 2026 全面實測 \|被Meta用20億美元收購後有幾勁？#ManusAI #AI助手 #AI工具 #人工智能 #香港AI #AIAgent #ChatGPT](https://www.youtube.com/watch?v=Nq1zcGUmU94) | 1 month ago |
 | 5 | [2026 AI Agent必學：MCP同Skills係咩？仲淨係識同AI傾計？學識呢2個技術即刻變AI專家 #MCP #skills #香港ai #廣東話 #MCPVSSkills #ai工具](https://www.youtube.com/watch?v=4GjyLyK5YY8) | 1 month ago |
+
+### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
+
+| # | Title | Age |
+|---|-------|-----|
+| 1 | [打入內地市場必看！騰訊元器深度評測：強大插件、RAG 知識庫，一鍵部署到公眾號。](https://www.youtube.com/watch?v=F5aiLK8Z0tU) | 2 days ago |
+| 2 | [【企業 AI 轉型案例】告別手動報價！用 AI Agent 自動讀取 Excel 並在 Xero 出單，效率提升 10 倍！](https://www.youtube.com/watch?v=MZC-txqf9SU) | 3 days ago |
+| 3 | [廣東話 AI 評測！深度解析 8 款主流 AI 工具優缺點。](https://www.youtube.com/watch?v=U37MQX2tfUY) | 4 days ago |
+| 4 | [Gemini 記憶力大考驗：竟然輸給 ChatGPT 。別再被 AI 騙了！語言模型的「記憶」真相](https://www.youtube.com/watch?v=IBysiNXzgD4) | 1 week ago |
+| 5 | [Gemini 廣東話完整教學：新手必學 5 大實用功能 \| NanoBanana、Gems、Deep Research](https://www.youtube.com/watch?v=E485fH8WYPc) | 1 week ago |
 
 ---
 
