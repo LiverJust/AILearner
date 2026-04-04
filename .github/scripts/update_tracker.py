@@ -1,6 +1,7 @@
 import urllib.request
 import xml.etree.ElementTree as ET
 import re
+import json
 from datetime import datetime, timezone, timedelta
 
 channels = [
@@ -89,7 +90,15 @@ def safe_title(title):
 
 hkt = datetime.now(timezone(timedelta(hours=8)))
 timestamp = hkt.strftime("%Y-%m-%d %H:%M HKT")
+today_str = hkt.strftime("%Y-%m-%d")
 
+# ── Build data for videos.json ──
+json_data = {
+    "last_updated": timestamp,
+    "channels": []
+}
+
+# ── Build markdown for README ──
 lines = [
     "<!-- YOUTUBE_TRACKER_START -->",
     "## \U0001f4fa AI Learning Video Tracker",
@@ -100,6 +109,27 @@ lines = [
 
 for ch in channels:
     videos = fetch_videos(ch["rss"])
+
+    # JSON output
+    ch_data = {
+        "name": ch["name"],
+        "handle": ch["handle"],
+        "url": ch["url"],
+        "videos": []
+    }
+    for v in videos:
+        age = relative_date(v["published"], hkt)
+        is_new = v["published"] == today_str
+        ch_data["videos"].append({
+            "title": v["title"],
+            "url": v["url"],
+            "published": v["published"],
+            "age": age,
+            "is_new_today": is_new,
+        })
+    json_data["channels"].append(ch_data)
+
+    # Markdown output
     lines.append("### " + ch["name"] + " \u00b7 [" + ch["handle"] + "](" + ch["url"] + ")")
     lines.append("")
     lines.append("| # | Title | Age |")
@@ -117,6 +147,7 @@ lines.append("<!-- YOUTUBE_TRACKER_END -->")
 
 tracker = "\n".join(lines)
 
+# ── Write README.md ──
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
 
@@ -129,4 +160,8 @@ else:
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(new_content)
 
-print("README.md updated successfully.")
+# ── Write videos.json ──
+with open("videos.json", "w", encoding="utf-8") as f:
+    json.dump(json_data, f, ensure_ascii=False, indent=2)
+
+print("README.md and videos.json updated successfully.")
