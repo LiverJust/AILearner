@@ -47,7 +47,7 @@ def fetch_videos(rss_url, limit=5):
             videos.append(
                 {
                     "title": title_el.text or "",
-                    "url": f"https://www.youtube.com/watch?v={vid_el.text}",
+                    "url": "https://www.youtube.com/watch?v=" + (vid_el.text or ""),
                     "date": (pub_el.text or "")[:10],
                 }
             )
@@ -61,7 +61,7 @@ lines = [
     "<!-- YOUTUBE_TRACKER_START -->",
     "## \U0001f4fa AI Learning Video Tracker",
     "",
-    f"*Last updated: {timestamp}*",
+    "*Last updated: " + timestamp + "*",
     "",
     "---",
     "",
@@ -69,12 +69,12 @@ lines = [
 
 for ch in channels:
     videos = fetch_videos(ch["rss"])
-    lines.append(f"### {ch[\"name\"]} \u00b7 [{ch[\"handle\"]}]({ch[\"url\"]})")
+    lines.append("### " + ch["name"] + " \u00b7 [" + ch["handle"] + "](" + ch["url"] + ")")
     lines.append("| # | Video | Published |")
     lines.append("|---|-------|-----------|")
     for i, v in enumerate(videos, 1):
-        safe = v["title"].replace("|", "\\|")
-        lines.append(f"| {i} | [{safe}]({v[\"url\"]}) | {v[\"date\"]} |")
+        safe_title = v["title"].replace("|", "&#124;")
+        lines.append("| " + str(i) + " | [" + safe_title + "](" + v["url"] + ") | " + v["date"] + " |")
     lines.append("")
     lines.append("---")
     lines.append("")
