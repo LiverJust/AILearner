@@ -22,6 +22,12 @@ channels = [
         "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
         "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTU_nAAkekihOYA6mNUQMvQ",
     },
+    {
+        "name": "\u963f\u77f3OMP",
+        "handle": "@ompshek",
+        "url": "https://www.youtube.com/@ompshek/videos",
+        "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnixWoic7ATGI0AZ2LrtJ7Q",
+    },
 ]
 
 
@@ -55,7 +61,6 @@ def fetch_videos(rss_url, limit=5):
 
 
 def relative_date(date_str, now_hkt):
-    """Return a human-readable relative date string."""
     try:
         pub = datetime.strptime(date_str, "%Y-%m-%d").replace(tzinfo=timezone.utc)
         delta = now_hkt - pub
@@ -79,8 +84,6 @@ def relative_date(date_str, now_hkt):
 
 
 def safe_title(title):
-    """Escape pipe characters so they don't break markdown tables."""
-    # Replace both regular | and fullwidth ｜ with a safe alternative
     return title.replace("|", r"\|").replace("\uff5c", r"\|")
 
 
