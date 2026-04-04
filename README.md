@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-04-04 20:28 HKT*
+*Last updated: 2026-04-05 00:20 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,13 +39,13 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [打入內地市場必看！騰訊元器深度評測：強大插件、RAG 知識庫，一鍵部署到公眾號。](https://www.youtube.com/watch?v=F5aiLK8Z0tU) | 2 days ago |
-| 2 | [【企業 AI 轉型案例】告別手動報價！用 AI Agent 自動讀取 Excel 並在 Xero 出單，效率提升 10 倍！](https://www.youtube.com/watch?v=MZC-txqf9SU) | 3 days ago |
-| 3 | [廣東話 AI 評測！深度解析 8 款主流 AI 工具優缺點。](https://www.youtube.com/watch?v=U37MQX2tfUY) | 4 days ago |
-| 4 | [Gemini 記憶力大考驗：竟然輸給 ChatGPT 。別再被 AI 騙了！語言模型的「記憶」真相](https://www.youtube.com/watch?v=IBysiNXzgD4) | 1 week ago |
-| 5 | [Gemini 廣東話完整教學：新手必學 5 大實用功能 \| NanoBanana、Gems、Deep Research](https://www.youtube.com/watch?v=E485fH8WYPc) | 1 week ago |
+| 1 | [龍蝦好難用？騰訊 WorkBuddy 都可以連結 WhatsApp 、微信直接操控電腦檔案！](https://www.youtube.com/watch?v=QmAjkBS-jS0) | Today |
+| 2 | [打入內地市場必看！騰訊元器深度評測：強大插件、RAG 知識庫，一鍵部署到公眾號。](https://www.youtube.com/watch?v=F5aiLK8Z0tU) | 2 days ago |
+| 3 | [【企業 AI 轉型案例】告別手動報價！用 AI Agent 自動讀取 Excel 並在 Xero 出單，效率提升 10 倍！](https://www.youtube.com/watch?v=MZC-txqf9SU) | 3 days ago |
+| 4 | [廣東話 AI 評測！深度解析 8 款主流 AI 工具優缺點。](https://www.youtube.com/watch?v=U37MQX2tfUY) | 4 days ago |
+| 5 | [Gemini 記憶力大考驗：竟然輸給 ChatGPT 。別再被 AI 騙了！語言模型的「記憶」真相](https://www.youtube.com/watch?v=IBysiNXzgD4) | 1 week ago |
 
 ---
 
-*Auto-updated every day at 12:00 and 18:00 HKT · [View workflow](https://github.com/LiverJust/AILearner/actions/workflows/youtube-tracker.yml)*
+*Auto-updated every day at 00:00, 12:00 and 18:00 HKT · [View workflow](https://github.com/LiverJust/AILearner/actions/workflows/youtube-tracker.yml)*
 <!-- YOUTUBE_TRACKER_END -->

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-04 20:28 HKT",
+  "last_updated": "2026-04-05 00:20 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -53,7 +53,7 @@
           "url": "https://www.youtube.com/watch?v=kos_OsnuV24",
           "published": "2026-04-04",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "Claude Plugins完整功能介紹、手把手11分鐘教你學會！",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "龍蝦好難用？騰訊 WorkBuddy 都可以連結 WhatsApp 、微信直接操控電腦檔案！",
+          "url": "https://www.youtube.com/watch?v=QmAjkBS-jS0",
+          "published": "2026-04-04",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "打入內地市場必看！騰訊元器深度評測：強大插件、RAG 知識庫，一鍵部署到公眾號。",
           "url": "https://www.youtube.com/watch?v=F5aiLK8Z0tU",
           "published": "2026-04-02",
@@ -157,13 +164,6 @@
           "title": "Gemini 記憶力大考驗：竟然輸給 ChatGPT 。別再被 AI 騙了！語言模型的「記憶」真相",
           "url": "https://www.youtube.com/watch?v=IBysiNXzgD4",
           "published": "2026-03-28",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Gemini 廣東話完整教學：新手必學 5 大實用功能 | NanoBanana、Gems、Deep Research",
-          "url": "https://www.youtube.com/watch?v=E485fH8WYPc",
-          "published": "2026-03-27",
           "age": "1 week ago",
           "is_new_today": false
         }
