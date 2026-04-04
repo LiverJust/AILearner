@@ -1,5 +1,4 @@
-# AILearner
-AILearner info
+# AI Learner - Useful Youtube channel
 
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
