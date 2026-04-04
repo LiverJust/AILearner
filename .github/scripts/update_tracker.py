@@ -142,7 +142,7 @@ for ch in channels:
 
 lines.append("---")
 lines.append("")
-lines.append("*Auto-updated every day at 12:00 and 18:00 HKT \u00b7 [View workflow](https://github.com/LiverJust/AILearner/actions/workflows/youtube-tracker.yml)*")
+lines.append("*Auto-updated every day at 00:00, 12:00 and 18:00 HKT \u00b7 [View workflow](https://github.com/LiverJust/AILearner/actions/workflows/youtube-tracker.yml)*")
 lines.append("<!-- YOUTUBE_TRACKER_END -->")
 
 tracker = "\n".join(lines)
