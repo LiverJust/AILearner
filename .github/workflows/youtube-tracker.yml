@@ -14,14 +14,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Update README with latest videos
+      - name: Update README and videos.json with latest videos
         run: python3 .github/scripts/update_tracker.py
 
       - name: Commit and push if changed
         run: |
           git config user.name  "AI Video Tracker Bot"
           git config user.email "ai-tracker-bot@github.com"
-          git add README.md
+          git add README.md videos.json
           if git diff --cached --quiet; then
             echo "No changes."
           else
