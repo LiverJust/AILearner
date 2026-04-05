@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-05 18:21 HKT",
+  "last_updated": "2026-04-06 00:22 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "Manus AI 實戰教學：如何全自動經營 TikTok & Instagram，AI Agent 幫你從找素材到發帖一鍵搞定！",
+          "url": "https://www.youtube.com/watch?v=IWmdWhC4siE",
+          "published": "2026-04-05",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "龍蝦好難用？騰訊 WorkBuddy 都可以連結 WhatsApp 、微信直接操控電腦檔案！",
           "url": "https://www.youtube.com/watch?v=QmAjkBS-jS0",
           "published": "2026-04-04",
@@ -158,13 +165,6 @@
           "url": "https://www.youtube.com/watch?v=U37MQX2tfUY",
           "published": "2026-03-31",
           "age": "5 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Gemini 記憶力大考驗：竟然輸給 ChatGPT 。別再被 AI 騙了！語言模型的「記憶」真相",
-          "url": "https://www.youtube.com/watch?v=IBysiNXzgD4",
-          "published": "2026-03-28",
-          "age": "1 week ago",
           "is_new_today": false
         }
       ]
