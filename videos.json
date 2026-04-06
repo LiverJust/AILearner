@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-06 12:45 HKT",
+  "last_updated": "2026-04-06 12:47 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -47,7 +47,43 @@
       "name": "李厂长来了",
       "handle": "@lichangzhanglaile",
       "url": "https://www.youtube.com/@lichangzhanglaile/videos",
-      "videos": []
+      "videos": [
+        {
+          "title": "零基礎15分鐘學會Claude Code 80%功能！",
+          "url": "https://www.youtube.com/watch?v=kos_OsnuV24",
+          "published": "2026-04-04",
+          "age": "2 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Claude Plugins完整功能介紹、手把手11分鐘教你學會！",
+          "url": "https://www.youtube.com/watch?v=yByOC8lS5-k",
+          "published": "2026-03-28",
+          "age": "1 week ago",
+          "is_new_today": false
+        },
+        {
+          "title": "一隻視頻搞懂OpenClaw！",
+          "url": "https://www.youtube.com/watch?v=la0uGXV_G0s",
+          "published": "2026-03-21",
+          "age": "2 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "很多人不知道，Google還有這4個免費AI工具！",
+          "url": "https://www.youtube.com/watch?v=htxS4I-5Nbk",
+          "published": "2026-03-14",
+          "age": "3 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "手把手教妳學會用最強AI視頻模型: Kling 3.0，完整對比Veo 3.1和Sora 2",
+          "url": "https://www.youtube.com/watch?v=vA9zoUcC3Kw",
+          "published": "2026-03-05",
+          "age": "1 month ago",
+          "is_new_today": false
+        }
+      ]
     },
     {
       "name": "我想用Ai賺錢",
@@ -59,7 +95,43 @@
       "name": "阿石OMP",
       "handle": "@ompshek",
       "url": "https://www.youtube.com/@ompshek/videos",
-      "videos": []
+      "videos": [
+        {
+          "title": "Manus AI 實戰教學：如何全自動經營 TikTok & Instagram，AI Agent 幫你從找素材到發帖一鍵搞定！",
+          "url": "https://www.youtube.com/watch?v=IWmdWhC4siE",
+          "published": "2026-04-05",
+          "age": "1 day ago",
+          "is_new_today": false
+        },
+        {
+          "title": "龍蝦好難用？騰訊 WorkBuddy 都可以連結 WhatsApp 、微信直接操控電腦檔案！",
+          "url": "https://www.youtube.com/watch?v=QmAjkBS-jS0",
+          "published": "2026-04-04",
+          "age": "2 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "打入內地市場必看！騰訊元器深度評測：強大插件、RAG 知識庫，一鍵部署到公眾號。",
+          "url": "https://www.youtube.com/watch?v=F5aiLK8Z0tU",
+          "published": "2026-04-02",
+          "age": "4 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "【企業 AI 轉型案例】告別手動報價！用 AI Agent 自動讀取 Excel 並在 Xero 出單，效率提升 10 倍！",
+          "url": "https://www.youtube.com/watch?v=MZC-txqf9SU",
+          "published": "2026-04-01",
+          "age": "5 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "廣東話 AI 評測！深度解析 8 款主流 AI 工具優缺點。",
+          "url": "https://www.youtube.com/watch?v=U37MQX2tfUY",
+          "published": "2026-03-31",
+          "age": "6 days ago",
+          "is_new_today": false
+        }
+      ]
     }
   ]
 }

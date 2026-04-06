@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-04-06 12:45 HKT*
+*Last updated: 2026-04-06 12:47 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -19,6 +19,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
+| 1 | [零基礎15分鐘學會Claude Code 80%功能！](https://www.youtube.com/watch?v=kos_OsnuV24) | 2 days ago |
+| 2 | [Claude Plugins完整功能介紹、手把手11分鐘教你學會！](https://www.youtube.com/watch?v=yByOC8lS5-k) | 1 week ago |
+| 3 | [一隻視頻搞懂OpenClaw！](https://www.youtube.com/watch?v=la0uGXV_G0s) | 2 weeks ago |
+| 4 | [很多人不知道，Google還有這4個免費AI工具！](https://www.youtube.com/watch?v=htxS4I-5Nbk) | 3 weeks ago |
+| 5 | [手把手教妳學會用最強AI視頻模型: Kling 3.0，完整對比Veo 3.1和Sora 2](https://www.youtube.com/watch?v=vA9zoUcC3Kw) | 1 month ago |
 
 ### 我想用Ai賺錢 · [@我想用Ai賺錢](https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos)
 
@@ -29,6 +34,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
+| 1 | [Manus AI 實戰教學：如何全自動經營 TikTok & Instagram，AI Agent 幫你從找素材到發帖一鍵搞定！](https://www.youtube.com/watch?v=IWmdWhC4siE) | 1 day ago |
+| 2 | [龍蝦好難用？騰訊 WorkBuddy 都可以連結 WhatsApp 、微信直接操控電腦檔案！](https://www.youtube.com/watch?v=QmAjkBS-jS0) | 2 days ago |
+| 3 | [打入內地市場必看！騰訊元器深度評測：強大插件、RAG 知識庫，一鍵部署到公眾號。](https://www.youtube.com/watch?v=F5aiLK8Z0tU) | 4 days ago |
+| 4 | [【企業 AI 轉型案例】告別手動報價！用 AI Agent 自動讀取 Excel 並在 Xero 出單，效率提升 10 倍！](https://www.youtube.com/watch?v=MZC-txqf9SU) | 5 days ago |
+| 5 | [廣東話 AI 評測！深度解析 8 款主流 AI 工具優缺點。](https://www.youtube.com/watch?v=U37MQX2tfUY) | 6 days ago |
 
 ---
 
