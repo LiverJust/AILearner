@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-04-07 18:45 HKT*
+*Last updated: 2026-04-07 21:52 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -44,6 +44,16 @@
 | 3 | [打入內地市場必看！騰訊元器深度評測：強大插件、RAG 知識庫，一鍵部署到公眾號。](https://www.youtube.com/watch?v=F5aiLK8Z0tU) | 5 days ago |
 | 4 | [【企業 AI 轉型案例】告別手動報價！用 AI Agent 自動讀取 Excel 並在 Xero 出單，效率提升 10 倍！](https://www.youtube.com/watch?v=MZC-txqf9SU) | 6 days ago |
 | 5 | [廣東話 AI 評測！深度解析 8 款主流 AI 工具優缺點。](https://www.youtube.com/watch?v=U37MQX2tfUY) | 1 week ago |
+
+### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
+
+| # | Title | Age |
+|---|-------|-----|
+| 1 | [Claude Cowork 最友善的手把手教學！你還在叫 AI 幫你想答案？但高手們都已經在用 AI 交成品了 ~](https://www.youtube.com/watch?v=_cVTzXvb7xs) | 1 day ago |
+| 2 | [還在羨慕別人用 AI 開發酷產品？Claude Code 保姆級教學讓你輕鬆體驗 Vibe Coding, 動動嘴就能做出 Anything！](https://www.youtube.com/watch?v=2pM-7fBXc_M) | 2 weeks ago |
+| 3 | [嗯啊口頭禪全部自動消失！Typeless 語音神器直接淘汰傳統輸入法，講錯直接改口它也聽得懂喔！](https://www.youtube.com/watch?v=bPvATU2ZOLU) | 1 month ago |
+| 4 | [別再被訂閱制優化軟體綁架了！完全開源零廣告 Mole 幫你揪出藏在深處的肥大檔案，讓 Mac 順得像剛買的一樣！](https://www.youtube.com/watch?v=UEe9-w4CcQ0) | 1 month ago |
+| 5 | [開源 AI 模型比付費的更香？Hugging Face 就是你的軍火庫，免費玩頂級開源 AI 還能本地客製化！](https://www.youtube.com/watch?v=S0c4bD3daN8) | 1 month ago |
 
 ---
 
