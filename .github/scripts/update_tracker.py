@@ -29,6 +29,12 @@ channels = [
         "url": "https://www.youtube.com/@ompshek/videos",
         "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnixWoic7ATGI0AZ2LrtJ7Q",
     },
+    {
+        "name": "PAPAYA \u96fb\u8166\u6559\u5ba4",
+        "handle": "@papayaclass",
+        "url": "https://www.youtube.com/@papayaclass/videos",
+        "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdEpz2A4DzV__4C1x2quKLw",
+    },
 ]
 
 
