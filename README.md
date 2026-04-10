@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-04-10 18:41 HKT*
+*Last updated: 2026-04-10 23:09 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -29,11 +29,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Gemini App 正式上架 📱 實測 4 大生活神級應用 + Import Memory 教學 #香港ai #廣東話 #geminiapp #GeminiLive #ai實戰 #ai工具 ](https://www.youtube.com/watch?v=eYnKfMEV3tw) | 1 week ago |
-| 2 | [Gemini 正式解禁香港！免費版本有咩功能？完整教學 \| 免費功能全部試晒 #Gemini香港 #GoogleAI #AI教學 #香港AI #免費AI #ai工具 #ai實戰 #廣東話 ](https://www.youtube.com/watch?v=SLTZSZ3uTVI) | 2 weeks ago |
-| 3 | [Perplexity Computer實測⚡差點放棄Perplexity！新功能讓我改變想法 Manus 終於有對手？#PerplexityComputer #AIAgent #Manus #廣東話](https://www.youtube.com/watch?v=R4hdW5AjMpo) | 1 month ago |
-| 4 | [Manus AI - 地表最強AI助理 2026 全面實測 \|被Meta用20億美元收購後有幾勁？#ManusAI #AI助手 #AI工具 #人工智能 #香港AI #AIAgent #ChatGPT](https://www.youtube.com/watch?v=Nq1zcGUmU94) | 1 month ago |
-| 5 | [2026 AI Agent必學：MCP同Skills係咩？仲淨係識同AI傾計？學識呢2個技術即刻變AI專家 #MCP #skills #香港ai #廣東話 #MCPVSSkills #ai工具](https://www.youtube.com/watch?v=4GjyLyK5YY8) | 1 month ago |
+| 1 | [Gemma 4 本地部署教學：完全免費、免VPN \| 最強開源AI模型Gemma 4 來了！ 手機電腦離線運行教學 #gemma4 #免費AI工具 #AI實戰 #廣東話 #香港ai #我想用AI賺錢](https://www.youtube.com/watch?v=SO2vrcwd4lM) | Today |
+| 2 | [Gemini App 正式上架 📱 實測 4 大生活神級應用 + Import Memory 教學 #香港ai #廣東話 #geminiapp #GeminiLive #ai實戰 #ai工具 ](https://www.youtube.com/watch?v=eYnKfMEV3tw) | 1 week ago |
+| 3 | [Gemini 正式解禁香港！免費版本有咩功能？完整教學 \| 免費功能全部試晒 #Gemini香港 #GoogleAI #AI教學 #香港AI #免費AI #ai工具 #ai實戰 #廣東話 ](https://www.youtube.com/watch?v=SLTZSZ3uTVI) | 2 weeks ago |
+| 4 | [Perplexity Computer實測⚡差點放棄Perplexity！新功能讓我改變想法 Manus 終於有對手？#PerplexityComputer #AIAgent #Manus #廣東話](https://www.youtube.com/watch?v=R4hdW5AjMpo) | 1 month ago |
+| 5 | [Manus AI - 地表最強AI助理 2026 全面實測 \|被Meta用20億美元收購後有幾勁？#ManusAI #AI助手 #AI工具 #人工智能 #香港AI #AIAgent #ChatGPT](https://www.youtube.com/watch?v=Nq1zcGUmU94) | 1 month ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 

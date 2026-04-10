@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10 18:41 HKT",
+  "last_updated": "2026-04-10 23:09 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -91,6 +91,13 @@
       "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
       "videos": [
         {
+          "title": "Gemma 4 本地部署教學：完全免費、免VPN ｜ 最強開源AI模型Gemma 4 來了！ 手機電腦離線運行教學 #gemma4 #免費AI工具 #AI實戰 #廣東話 #香港ai #我想用AI賺錢",
+          "url": "https://www.youtube.com/watch?v=SO2vrcwd4lM",
+          "published": "2026-04-10",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "Gemini App 正式上架 📱 實測 4 大生活神級應用 + Import Memory 教學 #香港ai #廣東話 #geminiapp #GeminiLive #ai實戰 #ai工具 ",
           "url": "https://www.youtube.com/watch?v=eYnKfMEV3tw",
           "published": "2026-04-03",
@@ -115,13 +122,6 @@
           "title": "Manus AI - 地表最強AI助理 2026 全面實測 ｜被Meta用20億美元收購後有幾勁？#ManusAI #AI助手 #AI工具 #人工智能 #香港AI #AIAgent #ChatGPT",
           "url": "https://www.youtube.com/watch?v=Nq1zcGUmU94",
           "published": "2026-02-27",
-          "age": "1 month ago",
-          "is_new_today": false
-        },
-        {
-          "title": "2026 AI Agent必學：MCP同Skills係咩？仲淨係識同AI傾計？學識呢2個技術即刻變AI專家 #MCP #skills #香港ai #廣東話 #MCPVSSkills #ai工具",
-          "url": "https://www.youtube.com/watch?v=4GjyLyK5YY8",
-          "published": "2026-02-20",
           "age": "1 month ago",
           "is_new_today": false
         }
