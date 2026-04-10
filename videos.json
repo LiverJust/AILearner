@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-10 23:09 HKT",
+  "last_updated": "2026-04-11 00:38 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -95,7 +95,7 @@
           "url": "https://www.youtube.com/watch?v=SO2vrcwd4lM",
           "published": "2026-04-10",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "Gemini App 正式上架 📱 實測 4 大生活神級應用 + Import Memory 教學 #香港ai #廣東話 #geminiapp #GeminiLive #ai實戰 #ai工具 ",
