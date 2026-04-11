@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11 18:22 HKT",
+  "last_updated": "2026-04-12 00:22 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -53,7 +53,7 @@
           "url": "https://www.youtube.com/watch?v=008FknB1fqE",
           "published": "2026-04-11",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "零基礎15分鐘學會Claude Code 80%功能！",
