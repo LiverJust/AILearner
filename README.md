@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-04-11 00:38 HKT*
+*Last updated: 2026-04-11 13:20 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -19,19 +19,19 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [零基礎15分鐘學會Claude Code 80%功能！](https://www.youtube.com/watch?v=kos_OsnuV24) | 6 days ago |
-| 2 | [Claude Plugins完整功能介紹、手把手11分鐘教你學會！](https://www.youtube.com/watch?v=yByOC8lS5-k) | 1 week ago |
-| 3 | [一隻視頻搞懂OpenClaw！](https://www.youtube.com/watch?v=la0uGXV_G0s) | 2 weeks ago |
-| 4 | [很多人不知道，Google還有這4個免費AI工具！](https://www.youtube.com/watch?v=htxS4I-5Nbk) | 3 weeks ago |
-| 5 | [手把手教妳學會用最強AI視頻模型: Kling 3.0，完整對比Veo 3.1和Sora 2](https://www.youtube.com/watch?v=vA9zoUcC3Kw) | 1 month ago |
+| 1 | [一隻視頻教你把ChatGPT轉到Claude和Gemini！](https://www.youtube.com/watch?v=008FknB1fqE) | Today |
+| 2 | [零基礎15分鐘學會Claude Code 80%功能！](https://www.youtube.com/watch?v=kos_OsnuV24) | 1 week ago |
+| 3 | [Claude Plugins完整功能介紹、手把手11分鐘教你學會！](https://www.youtube.com/watch?v=yByOC8lS5-k) | 2 weeks ago |
+| 4 | [一隻視頻搞懂OpenClaw！](https://www.youtube.com/watch?v=la0uGXV_G0s) | 3 weeks ago |
+| 5 | [很多人不知道，Google還有這4個免費AI工具！](https://www.youtube.com/watch?v=htxS4I-5Nbk) | 4 weeks ago |
 
 ### 我想用Ai賺錢 · [@我想用Ai賺錢](https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Gemma 4 本地部署教學：完全免費、免VPN \| 最強開源AI模型Gemma 4 來了！ 手機電腦離線運行教學 #gemma4 #免費AI工具 #AI實戰 #廣東話 #香港ai #我想用AI賺錢](https://www.youtube.com/watch?v=SO2vrcwd4lM) | Today |
+| 1 | [Gemma 4 本地部署教學：完全免費、免VPN \| 最強開源AI模型Gemma 4 來了！ 手機電腦離線運行教學 #gemma4 #免費AI工具 #AI實戰 #廣東話 #香港ai #我想用AI賺錢](https://www.youtube.com/watch?v=SO2vrcwd4lM) | 1 day ago |
 | 2 | [Gemini App 正式上架 📱 實測 4 大生活神級應用 + Import Memory 教學 #香港ai #廣東話 #geminiapp #GeminiLive #ai實戰 #ai工具 ](https://www.youtube.com/watch?v=eYnKfMEV3tw) | 1 week ago |
-| 3 | [Gemini 正式解禁香港！免費版本有咩功能？完整教學 \| 免費功能全部試晒 #Gemini香港 #GoogleAI #AI教學 #香港AI #免費AI #ai工具 #ai實戰 #廣東話 ](https://www.youtube.com/watch?v=SLTZSZ3uTVI) | 2 weeks ago |
+| 3 | [Gemini 正式解禁香港！免費版本有咩功能？完整教學 \| 免費功能全部試晒 #Gemini香港 #GoogleAI #AI教學 #香港AI #免費AI #ai工具 #ai實戰 #廣東話 ](https://www.youtube.com/watch?v=SLTZSZ3uTVI) | 3 weeks ago |
 | 4 | [Perplexity Computer實測⚡差點放棄Perplexity！新功能讓我改變想法 Manus 終於有對手？#PerplexityComputer #AIAgent #Manus #廣東話](https://www.youtube.com/watch?v=R4hdW5AjMpo) | 1 month ago |
 | 5 | [Manus AI - 地表最強AI助理 2026 全面實測 \|被Meta用20億美元收購後有幾勁？#ManusAI #AI助手 #AI工具 #人工智能 #香港AI #AIAgent #ChatGPT](https://www.youtube.com/watch?v=Nq1zcGUmU94) | 1 month ago |
 
@@ -39,8 +39,8 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Manus AI 實戰教學：如何全自動經營 TikTok & Instagram，AI Agent 幫你從找素材到發帖一鍵搞定！](https://www.youtube.com/watch?v=IWmdWhC4siE) | 5 days ago |
-| 2 | [龍蝦好難用？騰訊 WorkBuddy 都可以連結 WhatsApp 、微信直接操控電腦檔案！](https://www.youtube.com/watch?v=QmAjkBS-jS0) | 6 days ago |
+| 1 | [Manus AI 實戰教學：如何全自動經營 TikTok & Instagram，AI Agent 幫你從找素材到發帖一鍵搞定！](https://www.youtube.com/watch?v=IWmdWhC4siE) | 6 days ago |
+| 2 | [龍蝦好難用？騰訊 WorkBuddy 都可以連結 WhatsApp 、微信直接操控電腦檔案！](https://www.youtube.com/watch?v=QmAjkBS-jS0) | 1 week ago |
 | 3 | [打入內地市場必看！騰訊元器深度評測：強大插件、RAG 知識庫，一鍵部署到公眾號。](https://www.youtube.com/watch?v=F5aiLK8Z0tU) | 1 week ago |
 | 4 | [【企業 AI 轉型案例】告別手動報價！用 AI Agent 自動讀取 Excel 並在 Xero 出單，效率提升 10 倍！](https://www.youtube.com/watch?v=MZC-txqf9SU) | 1 week ago |
 | 5 | [廣東話 AI 評測！深度解析 8 款主流 AI 工具優缺點。](https://www.youtube.com/watch?v=U37MQX2tfUY) | 1 week ago |
@@ -49,7 +49,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Claude Cowork 最友善的手把手教學！你還在叫 AI 幫你想答案？但高手們都已經在用 AI 交成品了 ~](https://www.youtube.com/watch?v=_cVTzXvb7xs) | 4 days ago |
+| 1 | [Claude Cowork 最友善的手把手教學！你還在叫 AI 幫你想答案？但高手們都已經在用 AI 交成品了 ~](https://www.youtube.com/watch?v=_cVTzXvb7xs) | 5 days ago |
 | 2 | [還在羨慕別人用 AI 開發酷產品？Claude Code 保姆級教學讓你輕鬆體驗 Vibe Coding, 動動嘴就能做出 Anything！](https://www.youtube.com/watch?v=2pM-7fBXc_M) | 2 weeks ago |
 | 3 | [嗯啊口頭禪全部自動消失！Typeless 語音神器直接淘汰傳統輸入法，講錯直接改口它也聽得懂喔！](https://www.youtube.com/watch?v=bPvATU2ZOLU) | 1 month ago |
 | 4 | [別再被訂閱制優化軟體綁架了！完全開源零廣告 Mole 幫你揪出藏在深處的肥大檔案，讓 Mac 順得像剛買的一樣！](https://www.youtube.com/watch?v=UEe9-w4CcQ0) | 1 month ago |
