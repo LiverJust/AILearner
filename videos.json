@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12 00:22 HKT",
+  "last_updated": "2026-04-12 10:16 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -17,14 +17,14 @@
           "title": "忘掉ChatGPT吧！Claude Cowork + Skills才是你的全新自動化系統！零基礎初學者該如何使用它？手把手帶你打造專屬AI工作流，用這套自動化系統處理99%的工作，從此告別重複工作！",
           "url": "https://www.youtube.com/watch?v=a5OTTbSCpO8",
           "published": "2026-03-22",
-          "age": "2 weeks ago",
+          "age": "3 weeks ago",
           "is_new_today": false
         },
         {
           "title": "【保姆級】99%的人都不知道 Claude Skills 2.0 可以這樣用！5大實戰場景從零教學，一鍵自動化你的整套工作流程！讓AI自動幫你做網頁、簡報、腳本，連接外部工具！附完整提示詞，有手就會！",
           "url": "https://www.youtube.com/watch?v=_hVXMQjofbA",
           "published": "2026-03-15",
-          "age": "3 weeks ago",
+          "age": "4 weeks ago",
           "is_new_today": false
         },
         {
@@ -52,7 +52,7 @@
           "title": "一隻視頻教你把ChatGPT轉到Claude和Gemini！",
           "url": "https://www.youtube.com/watch?v=008FknB1fqE",
           "published": "2026-04-11",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
@@ -94,7 +94,7 @@
           "title": "Gemma 4 本地部署教學：完全免費、免VPN ｜ 最強開源AI模型Gemma 4 來了！ 手機電腦離線運行教學 #gemma4 #免費AI工具 #AI實戰 #廣東話 #香港ai #我想用AI賺錢",
           "url": "https://www.youtube.com/watch?v=SO2vrcwd4lM",
           "published": "2026-04-10",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
@@ -136,7 +136,7 @@
           "title": "Manus AI 實戰教學：如何全自動經營 TikTok & Instagram，AI Agent 幫你從找素材到發帖一鍵搞定！",
           "url": "https://www.youtube.com/watch?v=IWmdWhC4siE",
           "published": "2026-04-05",
-          "age": "6 days ago",
+          "age": "1 week ago",
           "is_new_today": false
         },
         {
@@ -178,14 +178,14 @@
           "title": "Claude Cowork 最友善的手把手教學！你還在叫 AI 幫你想答案？但高手們都已經在用 AI 交成品了 ~",
           "url": "https://www.youtube.com/watch?v=_cVTzXvb7xs",
           "published": "2026-04-06",
-          "age": "5 days ago",
+          "age": "6 days ago",
           "is_new_today": false
         },
         {
           "title": "還在羨慕別人用 AI 開發酷產品？Claude Code 保姆級教學讓你輕鬆體驗 Vibe Coding, 動動嘴就能做出 Anything！",
           "url": "https://www.youtube.com/watch?v=2pM-7fBXc_M",
           "published": "2026-03-22",
-          "age": "2 weeks ago",
+          "age": "3 weeks ago",
           "is_new_today": false
         },
         {
@@ -207,6 +207,48 @@
           "url": "https://www.youtube.com/watch?v=S0c4bD3daN8",
           "published": "2026-02-15",
           "age": "1 month ago",
+          "is_new_today": false
+        }
+      ]
+    },
+    {
+      "name": "JayLuxAI | AI 自動化",
+      "handle": "@JayLuxAI",
+      "url": "https://www.youtube.com/@JayLuxAI/videos",
+      "videos": [
+        {
+          "title": "CLAUDE.md 完整教學：15分鐘讓 AI 徹底讀懂你的專案架構",
+          "url": "https://www.youtube.com/watch?v=p9qBs1fAirc",
+          "published": "2026-04-10",
+          "age": "2 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Claude Code：從0到1帶你建立一個高效率的Claude Skills",
+          "url": "https://www.youtube.com/watch?v=I2iNEzhqQdI",
+          "published": "2026-04-05",
+          "age": "1 week ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Claude Code × Google 新工具：工作效率直接提升 10 倍",
+          "url": "https://www.youtube.com/watch?v=G4JFkYx0q3s",
+          "published": "2026-03-29",
+          "age": "2 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "如果我是 Claude Code 初學者，我會這樣學",
+          "url": "https://www.youtube.com/watch?v=X7BbGxF0YFk",
+          "published": "2026-03-22",
+          "age": "3 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "只要用過 Claude Code + NotebookLM 一週，你就再也回不去了",
+          "url": "https://www.youtube.com/watch?v=qrguqTRufXw",
+          "published": "2026-03-15",
+          "age": "4 weeks ago",
           "is_new_today": false
         }
       ]
