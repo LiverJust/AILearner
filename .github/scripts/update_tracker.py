@@ -35,6 +35,12 @@ channels = [
         "url": "https://www.youtube.com/@papayaclass/videos",
         "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdEpz2A4DzV__4C1x2quKLw",
     },
+    {
+        "name": "JayLuxAI | AI \u81ea\u52d5\u5316",
+        "handle": "@JayLuxAI",
+        "url": "https://www.youtube.com/@JayLuxAI/videos",
+        "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKxp_qMkhBTVftkhTwKJFvw",
+    },
 ]
 
 
