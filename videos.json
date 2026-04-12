@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12 10:16 HKT",
+  "last_updated": "2026-04-12 13:48 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -219,9 +219,9 @@
         {
           "title": "CLAUDE.md 完整教學：15分鐘讓 AI 徹底讀懂你的專案架構",
           "url": "https://www.youtube.com/watch?v=p9qBs1fAirc",
-          "published": "2026-04-10",
-          "age": "2 days ago",
-          "is_new_today": false
+          "published": "2026-04-12",
+          "age": "Today",
+          "is_new_today": true
         },
         {
           "title": "Claude Code：從0到1帶你建立一個高效率的Claude Skills",

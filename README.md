@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-04-12 10:16 HKT*
+*Last updated: 2026-04-12 13:48 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -59,7 +59,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [CLAUDE.md 完整教學：15分鐘讓 AI 徹底讀懂你的專案架構](https://www.youtube.com/watch?v=p9qBs1fAirc) | 2 days ago |
+| 1 | [CLAUDE.md 完整教學：15分鐘讓 AI 徹底讀懂你的專案架構](https://www.youtube.com/watch?v=p9qBs1fAirc) | Today |
 | 2 | [Claude Code：從0到1帶你建立一個高效率的Claude Skills](https://www.youtube.com/watch?v=I2iNEzhqQdI) | 1 week ago |
 | 3 | [Claude Code × Google 新工具：工作效率直接提升 10 倍](https://www.youtube.com/watch?v=G4JFkYx0q3s) | 2 weeks ago |
 | 4 | [如果我是 Claude Code 初學者，我會這樣學](https://www.youtube.com/watch?v=X7BbGxF0YFk) | 3 weeks ago |
