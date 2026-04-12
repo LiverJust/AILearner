@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-12 18:27 HKT",
+  "last_updated": "2026-04-13 00:24 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -221,7 +221,7 @@
           "url": "https://www.youtube.com/watch?v=p9qBs1fAirc",
           "published": "2026-04-12",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "Claude Code：從0到1帶你建立一個高效率的Claude Skills",
