@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-04-13 00:24 HKT*
+*Last updated: 2026-04-13 14:08 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -19,17 +19,17 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [一隻視頻教你把ChatGPT轉到Claude和Gemini！](https://www.youtube.com/watch?v=008FknB1fqE) | 1 day ago |
+| 1 | [一隻視頻教你把ChatGPT轉到Claude和Gemini！](https://www.youtube.com/watch?v=008FknB1fqE) | 2 days ago |
 | 2 | [零基礎15分鐘學會Claude Code 80%功能！](https://www.youtube.com/watch?v=kos_OsnuV24) | 1 week ago |
 | 3 | [Claude Plugins完整功能介紹、手把手11分鐘教你學會！](https://www.youtube.com/watch?v=yByOC8lS5-k) | 2 weeks ago |
 | 4 | [一隻視頻搞懂OpenClaw！](https://www.youtube.com/watch?v=la0uGXV_G0s) | 3 weeks ago |
-| 5 | [很多人不知道，Google還有這4個免費AI工具！](https://www.youtube.com/watch?v=htxS4I-5Nbk) | 4 weeks ago |
+| 5 | [很多人不知道，Google還有這4個免費AI工具！](https://www.youtube.com/watch?v=htxS4I-5Nbk) | 1 month ago |
 
 ### 我想用Ai賺錢 · [@我想用Ai賺錢](https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Gemma 4 本地部署教學：完全免費、免VPN \| 最強開源AI模型Gemma 4 來了！ 手機電腦離線運行教學 #gemma4 #免費AI工具 #AI實戰 #廣東話 #香港ai #我想用AI賺錢](https://www.youtube.com/watch?v=SO2vrcwd4lM) | 2 days ago |
+| 1 | [Gemma 4 本地部署教學：完全免費、免VPN \| 最強開源AI模型Gemma 4 來了！ 手機電腦離線運行教學 #gemma4 #免費AI工具 #AI實戰 #廣東話 #香港ai #我想用AI賺錢](https://www.youtube.com/watch?v=SO2vrcwd4lM) | 3 days ago |
 | 2 | [Gemini App 正式上架 📱 實測 4 大生活神級應用 + Import Memory 教學 #香港ai #廣東話 #geminiapp #GeminiLive #ai實戰 #ai工具 ](https://www.youtube.com/watch?v=eYnKfMEV3tw) | 1 week ago |
 | 3 | [Gemini 正式解禁香港！免費版本有咩功能？完整教學 \| 免費功能全部試晒 #Gemini香港 #GoogleAI #AI教學 #香港AI #免費AI #ai工具 #ai實戰 #廣東話 ](https://www.youtube.com/watch?v=SLTZSZ3uTVI) | 3 weeks ago |
 | 4 | [Perplexity Computer實測⚡差點放棄Perplexity！新功能讓我改變想法 Manus 終於有對手？#PerplexityComputer #AIAgent #Manus #廣東話](https://www.youtube.com/watch?v=R4hdW5AjMpo) | 1 month ago |
@@ -49,7 +49,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Claude Cowork 最友善的手把手教學！你還在叫 AI 幫你想答案？但高手們都已經在用 AI 交成品了 ~](https://www.youtube.com/watch?v=_cVTzXvb7xs) | 6 days ago |
+| 1 | [Claude Cowork 最友善的手把手教學！你還在叫 AI 幫你想答案？但高手們都已經在用 AI 交成品了 ~](https://www.youtube.com/watch?v=_cVTzXvb7xs) | 1 week ago |
 | 2 | [還在羨慕別人用 AI 開發酷產品？Claude Code 保姆級教學讓你輕鬆體驗 Vibe Coding, 動動嘴就能做出 Anything！](https://www.youtube.com/watch?v=2pM-7fBXc_M) | 3 weeks ago |
 | 3 | [嗯啊口頭禪全部自動消失！Typeless 語音神器直接淘汰傳統輸入法，講錯直接改口它也聽得懂喔！](https://www.youtube.com/watch?v=bPvATU2ZOLU) | 1 month ago |
 | 4 | [別再被訂閱制優化軟體綁架了！完全開源零廣告 Mole 幫你揪出藏在深處的肥大檔案，讓 Mac 順得像剛買的一樣！](https://www.youtube.com/watch?v=UEe9-w4CcQ0) | 1 month ago |
@@ -59,7 +59,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [CLAUDE.md 完整教學：15分鐘讓 AI 徹底讀懂你的專案架構](https://www.youtube.com/watch?v=p9qBs1fAirc) | Today |
+| 1 | [CLAUDE.md 完整教學：15分鐘讓 AI 徹底讀懂你的專案架構](https://www.youtube.com/watch?v=p9qBs1fAirc) | 1 day ago |
 | 2 | [Claude Code：從0到1帶你建立一個高效率的Claude Skills](https://www.youtube.com/watch?v=I2iNEzhqQdI) | 1 week ago |
 | 3 | [Claude Code × Google 新工具：工作效率直接提升 10 倍](https://www.youtube.com/watch?v=G4JFkYx0q3s) | 2 weeks ago |
 | 4 | [如果我是 Claude Code 初學者，我會這樣學](https://www.youtube.com/watch?v=X7BbGxF0YFk) | 3 weeks ago |
