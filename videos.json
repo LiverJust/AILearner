@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-14 18:54 HKT",
+  "last_updated": "2026-04-15 00:53 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "【首次介紹 ZO Computer】這款 AI Agent 工具居然是免費~ 還能連結 Claude Pro / ChatGPT Plus / OpenRouter 跑任何模型！",
+          "url": "https://www.youtube.com/watch?v=_mdB4eRzK2g",
+          "published": "2026-04-14",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "【2026 最新】香港訂閱 Claude Pro 全攻略！VPN 選擇、App Store 轉區、SMS 驗證一次看懂！",
           "url": "https://www.youtube.com/watch?v=0crTxDyjSXg",
           "published": "2026-04-13",
@@ -157,13 +164,6 @@
           "title": "打入內地市場必看！騰訊元器深度評測：強大插件、RAG 知識庫，一鍵部署到公眾號。",
           "url": "https://www.youtube.com/watch?v=F5aiLK8Z0tU",
           "published": "2026-04-02",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "【企業 AI 轉型案例】告別手動報價！用 AI Agent 自動讀取 Excel 並在 Xero 出單，效率提升 10 倍！",
-          "url": "https://www.youtube.com/watch?v=MZC-txqf9SU",
-          "published": "2026-04-01",
           "age": "1 week ago",
           "is_new_today": false
         }
