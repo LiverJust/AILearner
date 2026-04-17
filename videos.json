@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-17 18:45 HKT",
+  "last_updated": "2026-04-18 00:40 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -175,6 +175,13 @@
       "url": "https://www.youtube.com/@papayaclass/videos",
       "videos": [
         {
+          "title": "公司規定要用 SharePoint 但完全看不懂？這套「新手生存指南」讓你輕鬆掌握它的底層邏輯！",
+          "url": "https://www.youtube.com/watch?v=8S6yvJMlmLs",
+          "published": "2026-04-17",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "Claude Cowork 最友善的手把手教學！你還在叫 AI 幫你想答案？但高手們都已經在用 AI 交成品了 ~",
           "url": "https://www.youtube.com/watch?v=_cVTzXvb7xs",
           "published": "2026-04-06",
@@ -201,13 +208,6 @@
           "published": "2026-02-18",
           "age": "1 month ago",
           "is_new_today": false
-        },
-        {
-          "title": "開源 AI 模型比付費的更香？Hugging Face 就是你的軍火庫，免費玩頂級開源 AI 還能本地客製化！",
-          "url": "https://www.youtube.com/watch?v=S0c4bD3daN8",
-          "published": "2026-02-15",
-          "age": "2 months ago",
-          "is_new_today": false
         }
       ]
     },
@@ -216,6 +216,13 @@
       "handle": "@JayLuxAI",
       "url": "https://www.youtube.com/@JayLuxAI/videos",
       "videos": [
+        {
+          "title": "10 分鐘帶你建立好 24 小時不斷線的 OpenClaw 龍蝦助理 (無需買 Mac Mini)",
+          "url": "https://www.youtube.com/watch?v=g1GTmfU91bM",
+          "published": "2026-04-17",
+          "age": "Today",
+          "is_new_today": false
+        },
         {
           "title": "CLAUDE.md 完整教學：15分鐘讓 AI 徹底讀懂你的專案架構",
           "url": "https://www.youtube.com/watch?v=p9qBs1fAirc",
@@ -242,13 +249,6 @@
           "url": "https://www.youtube.com/watch?v=X7BbGxF0YFk",
           "published": "2026-03-22",
           "age": "3 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "只要用過 Claude Code + NotebookLM 一週，你就再也回不去了",
-          "url": "https://www.youtube.com/watch?v=qrguqTRufXw",
-          "published": "2026-03-15",
-          "age": "1 month ago",
           "is_new_today": false
         }
       ]

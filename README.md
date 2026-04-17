@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-04-17 18:45 HKT*
+*Last updated: 2026-04-18 00:40 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -49,21 +49,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Claude Cowork 最友善的手把手教學！你還在叫 AI 幫你想答案？但高手們都已經在用 AI 交成品了 ~](https://www.youtube.com/watch?v=_cVTzXvb7xs) | 1 week ago |
-| 2 | [還在羨慕別人用 AI 開發酷產品？Claude Code 保姆級教學讓你輕鬆體驗 Vibe Coding, 動動嘴就能做出 Anything！](https://www.youtube.com/watch?v=2pM-7fBXc_M) | 3 weeks ago |
-| 3 | [嗯啊口頭禪全部自動消失！Typeless 語音神器直接淘汰傳統輸入法，講錯直接改口它也聽得懂喔！](https://www.youtube.com/watch?v=bPvATU2ZOLU) | 1 month ago |
-| 4 | [別再被訂閱制優化軟體綁架了！完全開源零廣告 Mole 幫你揪出藏在深處的肥大檔案，讓 Mac 順得像剛買的一樣！](https://www.youtube.com/watch?v=UEe9-w4CcQ0) | 1 month ago |
-| 5 | [開源 AI 模型比付費的更香？Hugging Face 就是你的軍火庫，免費玩頂級開源 AI 還能本地客製化！](https://www.youtube.com/watch?v=S0c4bD3daN8) | 2 months ago |
+| 1 | [公司規定要用 SharePoint 但完全看不懂？這套「新手生存指南」讓你輕鬆掌握它的底層邏輯！](https://www.youtube.com/watch?v=8S6yvJMlmLs) | Today |
+| 2 | [Claude Cowork 最友善的手把手教學！你還在叫 AI 幫你想答案？但高手們都已經在用 AI 交成品了 ~](https://www.youtube.com/watch?v=_cVTzXvb7xs) | 1 week ago |
+| 3 | [還在羨慕別人用 AI 開發酷產品？Claude Code 保姆級教學讓你輕鬆體驗 Vibe Coding, 動動嘴就能做出 Anything！](https://www.youtube.com/watch?v=2pM-7fBXc_M) | 3 weeks ago |
+| 4 | [嗯啊口頭禪全部自動消失！Typeless 語音神器直接淘汰傳統輸入法，講錯直接改口它也聽得懂喔！](https://www.youtube.com/watch?v=bPvATU2ZOLU) | 1 month ago |
+| 5 | [別再被訂閱制優化軟體綁架了！完全開源零廣告 Mole 幫你揪出藏在深處的肥大檔案，讓 Mac 順得像剛買的一樣！](https://www.youtube.com/watch?v=UEe9-w4CcQ0) | 1 month ago |
 
 ### JayLuxAI | AI 自動化 · [@JayLuxAI](https://www.youtube.com/@JayLuxAI/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [CLAUDE.md 完整教學：15分鐘讓 AI 徹底讀懂你的專案架構](https://www.youtube.com/watch?v=p9qBs1fAirc) | 5 days ago |
-| 2 | [Claude Code：從0到1帶你建立一個高效率的Claude Skills](https://www.youtube.com/watch?v=I2iNEzhqQdI) | 1 week ago |
-| 3 | [Claude Code × Google 新工具：工作效率直接提升 10 倍](https://www.youtube.com/watch?v=G4JFkYx0q3s) | 2 weeks ago |
-| 4 | [如果我是 Claude Code 初學者，我會這樣學](https://www.youtube.com/watch?v=X7BbGxF0YFk) | 3 weeks ago |
-| 5 | [只要用過 Claude Code + NotebookLM 一週，你就再也回不去了](https://www.youtube.com/watch?v=qrguqTRufXw) | 1 month ago |
+| 1 | [10 分鐘帶你建立好 24 小時不斷線的 OpenClaw 龍蝦助理 (無需買 Mac Mini)](https://www.youtube.com/watch?v=g1GTmfU91bM) | Today |
+| 2 | [CLAUDE.md 完整教學：15分鐘讓 AI 徹底讀懂你的專案架構](https://www.youtube.com/watch?v=p9qBs1fAirc) | 5 days ago |
+| 3 | [Claude Code：從0到1帶你建立一個高效率的Claude Skills](https://www.youtube.com/watch?v=I2iNEzhqQdI) | 1 week ago |
+| 4 | [Claude Code × Google 新工具：工作效率直接提升 10 倍](https://www.youtube.com/watch?v=G4JFkYx0q3s) | 2 weeks ago |
+| 5 | [如果我是 Claude Code 初學者，我會這樣學](https://www.youtube.com/watch?v=X7BbGxF0YFk) | 3 weeks ago |
 
 ---
 
