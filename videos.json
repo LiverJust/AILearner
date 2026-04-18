@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-18 18:29 HKT",
+  "last_updated": "2026-04-19 00:25 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -53,7 +53,7 @@
           "url": "https://www.youtube.com/watch?v=25iDiIDwxfk",
           "published": "2026-04-18",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "一隻視頻教你把ChatGPT轉到Claude和Gemini！",
@@ -133,7 +133,7 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
-          "title": "Manus 深度應用：如何處理非結構化資料？PDF 、試算表的自動化流程，幫你每天省下 2 小時。",
+          "title": "別再人手搬運資料！Manus AI 教學：自動化提取 PDF 資料，幫你每天省下 2 小時。",
           "url": "https://www.youtube.com/watch?v=PXeDh2IKqsk",
           "published": "2026-04-15",
           "age": "3 days ago",
