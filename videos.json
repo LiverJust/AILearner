@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-19 18:28 HKT",
+  "last_updated": "2026-04-20 00:25 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -221,7 +221,7 @@
           "url": "https://www.youtube.com/watch?v=g1GTmfU91bM",
           "published": "2026-04-19",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "CLAUDE.md 完整教學：15分鐘讓 AI 徹底讀懂你的專案架構",
