@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-20 19:09 HKT",
+  "last_updated": "2026-04-21 00:51 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -11,7 +11,7 @@
           "url": "https://www.youtube.com/watch?v=wW6_Q-5aH5o",
           "published": "2026-04-20",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "【超實用】一次搞懂Claude AI全生態！2026全新初學者完整教程，從基本用法到全新自動化系統！零基礎初學者必看，15個Claude超棒的使用方法！ChatGPT用戶看完都轉投了！",
