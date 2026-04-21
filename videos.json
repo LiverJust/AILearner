@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21 18:57 HKT",
+  "last_updated": "2026-04-22 00:46 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "【案例分析】美容業/服務業 Meta 廣告：打造「全漏斗營銷」系統！只做促銷廣告的問題在那？",
+          "url": "https://www.youtube.com/watch?v=c0BhyzC3puU",
+          "published": "2026-04-21",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "別再人手搬運資料！Manus AI 教學：自動化提取 PDF 資料，幫你每天省下 2 小時。",
           "url": "https://www.youtube.com/watch?v=PXeDh2IKqsk",
           "published": "2026-04-15",
@@ -157,13 +164,6 @@
           "title": "Manus AI 實戰教學：如何全自動經營 TikTok & Instagram，AI Agent 幫你從找素材到發帖一鍵搞定！",
           "url": "https://www.youtube.com/watch?v=IWmdWhC4siE",
           "published": "2026-04-05",
-          "age": "2 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "龍蝦好難用？騰訊 WorkBuddy 都可以連結 WhatsApp 、微信直接操控電腦檔案！",
-          "url": "https://www.youtube.com/watch?v=QmAjkBS-jS0",
-          "published": "2026-04-04",
           "age": "2 weeks ago",
           "is_new_today": false
         }

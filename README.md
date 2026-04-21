@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-04-21 18:57 HKT*
+*Last updated: 2026-04-22 00:46 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [別再人手搬運資料！Manus AI 教學：自動化提取 PDF 資料，幫你每天省下 2 小時。](https://www.youtube.com/watch?v=PXeDh2IKqsk) | 6 days ago |
-| 2 | [【首次介紹 ZO Computer】這款 AI Agent 工具居然是免費~ 還能連結 Claude Pro / ChatGPT Plus / OpenRouter 跑任何模型！](https://www.youtube.com/watch?v=_mdB4eRzK2g) | 1 week ago |
-| 3 | [【2026 最新】香港訂閱 Claude Pro 全攻略！VPN 選擇、App Store 轉區、SMS 驗證一次看懂！](https://www.youtube.com/watch?v=0crTxDyjSXg) | 1 week ago |
-| 4 | [Manus AI 實戰教學：如何全自動經營 TikTok & Instagram，AI Agent 幫你從找素材到發帖一鍵搞定！](https://www.youtube.com/watch?v=IWmdWhC4siE) | 2 weeks ago |
-| 5 | [龍蝦好難用？騰訊 WorkBuddy 都可以連結 WhatsApp 、微信直接操控電腦檔案！](https://www.youtube.com/watch?v=QmAjkBS-jS0) | 2 weeks ago |
+| 1 | [【案例分析】美容業/服務業 Meta 廣告：打造「全漏斗營銷」系統！只做促銷廣告的問題在那？](https://www.youtube.com/watch?v=c0BhyzC3puU) | Today |
+| 2 | [別再人手搬運資料！Manus AI 教學：自動化提取 PDF 資料，幫你每天省下 2 小時。](https://www.youtube.com/watch?v=PXeDh2IKqsk) | 6 days ago |
+| 3 | [【首次介紹 ZO Computer】這款 AI Agent 工具居然是免費~ 還能連結 Claude Pro / ChatGPT Plus / OpenRouter 跑任何模型！](https://www.youtube.com/watch?v=_mdB4eRzK2g) | 1 week ago |
+| 4 | [【2026 最新】香港訂閱 Claude Pro 全攻略！VPN 選擇、App Store 轉區、SMS 驗證一次看懂！](https://www.youtube.com/watch?v=0crTxDyjSXg) | 1 week ago |
+| 5 | [Manus AI 實戰教學：如何全自動經營 TikTok & Instagram，AI Agent 幫你從找素材到發帖一鍵搞定！](https://www.youtube.com/watch?v=IWmdWhC4siE) | 2 weeks ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
