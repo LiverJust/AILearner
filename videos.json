@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22 18:55 HKT",
+  "last_updated": "2026-04-23 00:47 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "【實測】OpenAI 新推出 GPT Image 2  ！竟然超越 Nanobanana",
+          "url": "https://www.youtube.com/watch?v=s0aB5HyKKHY",
+          "published": "2026-04-22",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "【案例分析】美容業/服務業 Meta 廣告：打造「全漏斗營銷」系統！只做促銷廣告的問題在那？",
           "url": "https://www.youtube.com/watch?v=c0BhyzC3puU",
           "published": "2026-04-21",
@@ -158,13 +165,6 @@
           "url": "https://www.youtube.com/watch?v=0crTxDyjSXg",
           "published": "2026-04-13",
           "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Manus AI 實戰教學：如何全自動經營 TikTok & Instagram，AI Agent 幫你從找素材到發帖一鍵搞定！",
-          "url": "https://www.youtube.com/watch?v=IWmdWhC4siE",
-          "published": "2026-04-05",
-          "age": "2 weeks ago",
           "is_new_today": false
         }
       ]
