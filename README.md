@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-04-23 18:59 HKT*
+*Last updated: 2026-04-24 01:06 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [【實測】OpenAI 新推出 GPT Image 2  ！竟然超越 Nanobanana](https://www.youtube.com/watch?v=s0aB5HyKKHY) | 1 day ago |
-| 2 | [【案例分析】美容業/服務業 Meta 廣告：打造「全漏斗營銷」系統！只做促銷廣告的問題在那？](https://www.youtube.com/watch?v=c0BhyzC3puU) | 2 days ago |
-| 3 | [別再人手搬運資料！Manus AI 教學：自動化提取 PDF 資料，幫你每天省下 2 小時。](https://www.youtube.com/watch?v=PXeDh2IKqsk) | 1 week ago |
-| 4 | [【首次介紹 ZO Computer】這款 AI Agent 工具居然是免費~ 還能連結 Claude Pro / ChatGPT Plus / OpenRouter 跑任何模型！](https://www.youtube.com/watch?v=_mdB4eRzK2g) | 1 week ago |
-| 5 | [【2026 最新】香港訂閱 Claude Pro 全攻略！VPN 選擇、App Store 轉區、SMS 驗證一次看懂！](https://www.youtube.com/watch?v=0crTxDyjSXg) | 1 week ago |
+| 1 | [如何在 Zo Computer 串接 ChatGPT 與 Claude 帳戶？免 API 費用使用頂級模型！](https://www.youtube.com/watch?v=URiRZ3DapsA) | Today |
+| 2 | [【實測】OpenAI 新推出 GPT Image 2  ！竟然超越 Nanobanana](https://www.youtube.com/watch?v=s0aB5HyKKHY) | 1 day ago |
+| 3 | [【案例分析】美容業/服務業 Meta 廣告：打造「全漏斗營銷」系統！只做促銷廣告的問題在那？](https://www.youtube.com/watch?v=c0BhyzC3puU) | 2 days ago |
+| 4 | [別再人手搬運資料！Manus AI 教學：自動化提取 PDF 資料，幫你每天省下 2 小時。](https://www.youtube.com/watch?v=PXeDh2IKqsk) | 1 week ago |
+| 5 | [【首次介紹 ZO Computer】這款 AI Agent 工具居然是免費~ 還能連結 Claude Pro / ChatGPT Plus / OpenRouter 跑任何模型！](https://www.youtube.com/watch?v=_mdB4eRzK2g) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 

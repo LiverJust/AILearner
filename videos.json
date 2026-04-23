@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23 18:59 HKT",
+  "last_updated": "2026-04-24 01:06 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "如何在 Zo Computer 串接 ChatGPT 與 Claude 帳戶？免 API 費用使用頂級模型！",
+          "url": "https://www.youtube.com/watch?v=URiRZ3DapsA",
+          "published": "2026-04-23",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "【實測】OpenAI 新推出 GPT Image 2  ！竟然超越 Nanobanana",
           "url": "https://www.youtube.com/watch?v=s0aB5HyKKHY",
           "published": "2026-04-22",
@@ -157,13 +164,6 @@
           "title": "【首次介紹 ZO Computer】這款 AI Agent 工具居然是免費~ 還能連結 Claude Pro / ChatGPT Plus / OpenRouter 跑任何模型！",
           "url": "https://www.youtube.com/watch?v=_mdB4eRzK2g",
           "published": "2026-04-14",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "【2026 最新】香港訂閱 Claude Pro 全攻略！VPN 選擇、App Store 轉區、SMS 驗證一次看懂！",
-          "url": "https://www.youtube.com/watch?v=0crTxDyjSXg",
-          "published": "2026-04-13",
           "age": "1 week ago",
           "is_new_today": false
         }
