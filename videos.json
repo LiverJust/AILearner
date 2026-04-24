@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24 18:57 HKT",
+  "last_updated": "2026-04-25 00:42 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -91,6 +91,13 @@
       "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
       "videos": [
         {
+          "title": "ChatGPT Image 2 香港實測：我差點退訂ChatGPT… 比較 Gemini Nano Banana，AI圖像誰更強？#chatgptimage2 #chatgpt #廣東話 #香港ai",
+          "url": "https://www.youtube.com/watch?v=U3K5_ur-gXg",
+          "published": "2026-04-24",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "Gemma 4 本地部署教學：完全免費、免VPN ｜ 最強開源AI模型Gemma 4 來了！ 手機電腦離線運行教學 #gemma4 #免費AI工具 #AI實戰 #廣東話 #香港ai #我想用AI賺錢",
           "url": "https://www.youtube.com/watch?v=SO2vrcwd4lM",
           "published": "2026-04-10",
@@ -117,13 +124,6 @@
           "published": "2026-03-06",
           "age": "1 month ago",
           "is_new_today": false
-        },
-        {
-          "title": "Manus AI - 地表最強AI助理 2026 全面實測 ｜被Meta用20億美元收購後有幾勁？#ManusAI #AI助手 #AI工具 #人工智能 #香港AI #AIAgent #ChatGPT",
-          "url": "https://www.youtube.com/watch?v=Nq1zcGUmU94",
-          "published": "2026-02-27",
-          "age": "1 month ago",
-          "is_new_today": false
         }
       ]
     },
@@ -132,6 +132,13 @@
       "handle": "@ompshek",
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
+        {
+          "title": "未來的辦公方式！Manus AI 自動化瀏覽器操作：從此告別繁瑣的 ERP 與數據搜集工作。",
+          "url": "https://www.youtube.com/watch?v=gyoGtD_lFbo",
+          "published": "2026-04-24",
+          "age": "Today",
+          "is_new_today": false
+        },
         {
           "title": "如何在 Zo Computer 串接 ChatGPT 與 Claude 帳戶？免 API 費用使用頂級模型！",
           "url": "https://www.youtube.com/watch?v=URiRZ3DapsA",
@@ -157,13 +164,6 @@
           "title": "別再人手搬運資料！Manus AI 教學：自動化提取 PDF 資料，幫你每天省下 2 小時。",
           "url": "https://www.youtube.com/watch?v=PXeDh2IKqsk",
           "published": "2026-04-15",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "【首次介紹 ZO Computer】這款 AI Agent 工具居然是免費~ 還能連結 Claude Pro / ChatGPT Plus / OpenRouter 跑任何模型！",
-          "url": "https://www.youtube.com/watch?v=_mdB4eRzK2g",
-          "published": "2026-04-14",
           "age": "1 week ago",
           "is_new_today": false
         }
@@ -221,7 +221,7 @@
           "url": "https://www.youtube.com/watch?v=zUnWZMiOVBs",
           "published": "2026-04-24",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "10 分鐘帶你建立好 24 小時不斷線的 OpenClaw 龍蝦助理 (無需買 Mac Mini)",

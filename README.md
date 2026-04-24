@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-04-24 18:57 HKT*
+*Last updated: 2026-04-25 00:42 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -29,21 +29,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Gemma 4 本地部署教學：完全免費、免VPN \| 最強開源AI模型Gemma 4 來了！ 手機電腦離線運行教學 #gemma4 #免費AI工具 #AI實戰 #廣東話 #香港ai #我想用AI賺錢](https://www.youtube.com/watch?v=SO2vrcwd4lM) | 2 weeks ago |
-| 2 | [Gemini App 正式上架 📱 實測 4 大生活神級應用 + Import Memory 教學 #香港ai #廣東話 #geminiapp #GeminiLive #ai實戰 #ai工具 ](https://www.youtube.com/watch?v=eYnKfMEV3tw) | 3 weeks ago |
-| 3 | [Gemini 正式解禁香港！免費版本有咩功能？完整教學 \| 免費功能全部試晒 #Gemini香港 #GoogleAI #AI教學 #香港AI #免費AI #ai工具 #ai實戰 #廣東話 ](https://www.youtube.com/watch?v=SLTZSZ3uTVI) | 1 month ago |
-| 4 | [Perplexity Computer實測⚡差點放棄Perplexity！新功能讓我改變想法 Manus 終於有對手？#PerplexityComputer #AIAgent #Manus #廣東話](https://www.youtube.com/watch?v=R4hdW5AjMpo) | 1 month ago |
-| 5 | [Manus AI - 地表最強AI助理 2026 全面實測 \|被Meta用20億美元收購後有幾勁？#ManusAI #AI助手 #AI工具 #人工智能 #香港AI #AIAgent #ChatGPT](https://www.youtube.com/watch?v=Nq1zcGUmU94) | 1 month ago |
+| 1 | [ChatGPT Image 2 香港實測：我差點退訂ChatGPT… 比較 Gemini Nano Banana，AI圖像誰更強？#chatgptimage2 #chatgpt #廣東話 #香港ai](https://www.youtube.com/watch?v=U3K5_ur-gXg) | Today |
+| 2 | [Gemma 4 本地部署教學：完全免費、免VPN \| 最強開源AI模型Gemma 4 來了！ 手機電腦離線運行教學 #gemma4 #免費AI工具 #AI實戰 #廣東話 #香港ai #我想用AI賺錢](https://www.youtube.com/watch?v=SO2vrcwd4lM) | 2 weeks ago |
+| 3 | [Gemini App 正式上架 📱 實測 4 大生活神級應用 + Import Memory 教學 #香港ai #廣東話 #geminiapp #GeminiLive #ai實戰 #ai工具 ](https://www.youtube.com/watch?v=eYnKfMEV3tw) | 3 weeks ago |
+| 4 | [Gemini 正式解禁香港！免費版本有咩功能？完整教學 \| 免費功能全部試晒 #Gemini香港 #GoogleAI #AI教學 #香港AI #免費AI #ai工具 #ai實戰 #廣東話 ](https://www.youtube.com/watch?v=SLTZSZ3uTVI) | 1 month ago |
+| 5 | [Perplexity Computer實測⚡差點放棄Perplexity！新功能讓我改變想法 Manus 終於有對手？#PerplexityComputer #AIAgent #Manus #廣東話](https://www.youtube.com/watch?v=R4hdW5AjMpo) | 1 month ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [如何在 Zo Computer 串接 ChatGPT 與 Claude 帳戶？免 API 費用使用頂級模型！](https://www.youtube.com/watch?v=URiRZ3DapsA) | 1 day ago |
-| 2 | [【實測】OpenAI 新推出 GPT Image 2  ！竟然超越 Nanobanana](https://www.youtube.com/watch?v=s0aB5HyKKHY) | 2 days ago |
-| 3 | [【案例分析】美容業/服務業 Meta 廣告：打造「全漏斗營銷」系統！只做促銷廣告的問題在那？](https://www.youtube.com/watch?v=c0BhyzC3puU) | 3 days ago |
-| 4 | [別再人手搬運資料！Manus AI 教學：自動化提取 PDF 資料，幫你每天省下 2 小時。](https://www.youtube.com/watch?v=PXeDh2IKqsk) | 1 week ago |
-| 5 | [【首次介紹 ZO Computer】這款 AI Agent 工具居然是免費~ 還能連結 Claude Pro / ChatGPT Plus / OpenRouter 跑任何模型！](https://www.youtube.com/watch?v=_mdB4eRzK2g) | 1 week ago |
+| 1 | [未來的辦公方式！Manus AI 自動化瀏覽器操作：從此告別繁瑣的 ERP 與數據搜集工作。](https://www.youtube.com/watch?v=gyoGtD_lFbo) | Today |
+| 2 | [如何在 Zo Computer 串接 ChatGPT 與 Claude 帳戶？免 API 費用使用頂級模型！](https://www.youtube.com/watch?v=URiRZ3DapsA) | 1 day ago |
+| 3 | [【實測】OpenAI 新推出 GPT Image 2  ！竟然超越 Nanobanana](https://www.youtube.com/watch?v=s0aB5HyKKHY) | 2 days ago |
+| 4 | [【案例分析】美容業/服務業 Meta 廣告：打造「全漏斗營銷」系統！只做促銷廣告的問題在那？](https://www.youtube.com/watch?v=c0BhyzC3puU) | 3 days ago |
+| 5 | [別再人手搬運資料！Manus AI 教學：自動化提取 PDF 資料，幫你每天省下 2 小時。](https://www.youtube.com/watch?v=PXeDh2IKqsk) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
