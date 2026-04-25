@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25 18:33 HKT",
+  "last_updated": "2026-04-26 00:28 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -53,7 +53,7 @@
           "url": "https://www.youtube.com/watch?v=Nm4n7W5ZNLQ",
           "published": "2026-04-25",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "一隻視頻搞懂Claude所有免費功能！",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "實測 ChatGPT 生成簡報 PDF + 搭配 Canva Magic Layers 輕鬆修改內容",
+          "url": "https://www.youtube.com/watch?v=2Wn25qX6EdU",
+          "published": "2026-04-25",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "未來的辦公方式！Manus AI 自動化瀏覽器操作：從此告別繁瑣的 ERP 與數據搜集工作。",
           "url": "https://www.youtube.com/watch?v=gyoGtD_lFbo",
           "published": "2026-04-24",
@@ -158,13 +165,6 @@
           "url": "https://www.youtube.com/watch?v=c0BhyzC3puU",
           "published": "2026-04-21",
           "age": "4 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "別再人手搬運資料！Manus AI 教學：自動化提取 PDF 資料，幫你每天省下 2 小時。",
-          "url": "https://www.youtube.com/watch?v=PXeDh2IKqsk",
-          "published": "2026-04-15",
-          "age": "1 week ago",
           "is_new_today": false
         }
       ]

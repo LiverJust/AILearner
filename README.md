@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-04-25 18:33 HKT*
+*Last updated: 2026-04-26 00:28 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [未來的辦公方式！Manus AI 自動化瀏覽器操作：從此告別繁瑣的 ERP 與數據搜集工作。](https://www.youtube.com/watch?v=gyoGtD_lFbo) | 1 day ago |
-| 2 | [如何在 Zo Computer 串接 ChatGPT 與 Claude 帳戶？免 API 費用使用頂級模型！](https://www.youtube.com/watch?v=URiRZ3DapsA) | 2 days ago |
-| 3 | [【實測】OpenAI 新推出 GPT Image 2  ！竟然超越 Nanobanana](https://www.youtube.com/watch?v=s0aB5HyKKHY) | 3 days ago |
-| 4 | [【案例分析】美容業/服務業 Meta 廣告：打造「全漏斗營銷」系統！只做促銷廣告的問題在那？](https://www.youtube.com/watch?v=c0BhyzC3puU) | 4 days ago |
-| 5 | [別再人手搬運資料！Manus AI 教學：自動化提取 PDF 資料，幫你每天省下 2 小時。](https://www.youtube.com/watch?v=PXeDh2IKqsk) | 1 week ago |
+| 1 | [實測 ChatGPT 生成簡報 PDF + 搭配 Canva Magic Layers 輕鬆修改內容](https://www.youtube.com/watch?v=2Wn25qX6EdU) | Today |
+| 2 | [未來的辦公方式！Manus AI 自動化瀏覽器操作：從此告別繁瑣的 ERP 與數據搜集工作。](https://www.youtube.com/watch?v=gyoGtD_lFbo) | 1 day ago |
+| 3 | [如何在 Zo Computer 串接 ChatGPT 與 Claude 帳戶？免 API 費用使用頂級模型！](https://www.youtube.com/watch?v=URiRZ3DapsA) | 2 days ago |
+| 4 | [【實測】OpenAI 新推出 GPT Image 2  ！竟然超越 Nanobanana](https://www.youtube.com/watch?v=s0aB5HyKKHY) | 3 days ago |
+| 5 | [【案例分析】美容業/服務業 Meta 廣告：打造「全漏斗營銷」系統！只做促銷廣告的問題在那？](https://www.youtube.com/watch?v=c0BhyzC3puU) | 4 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
