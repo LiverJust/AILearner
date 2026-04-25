@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25 00:42 HKT",
+  "last_updated": "2026-04-25 13:42 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -10,7 +10,7 @@
           "title": "【超級新手指南】我如何使用Claude Code？基礎知識和驚人用途一次說清楚！我每天都在用的5項Claude Code技能全公開，就算你是初學者，也能用它打造一人公司！",
           "url": "https://www.youtube.com/watch?v=wW6_Q-5aH5o",
           "published": "2026-04-20",
-          "age": "4 days ago",
+          "age": "5 days ago",
           "is_new_today": false
         },
         {
@@ -49,38 +49,38 @@
       "url": "https://www.youtube.com/@lichangzhanglaile/videos",
       "videos": [
         {
+          "title": "零基礎12分鐘搞懂Claude Design 90%功能：一次性學會設計系統、PPT、落地頁！",
+          "url": "https://www.youtube.com/watch?v=Nm4n7W5ZNLQ",
+          "published": "2026-04-25",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "一隻視頻搞懂Claude所有免費功能！",
           "url": "https://www.youtube.com/watch?v=25iDiIDwxfk",
           "published": "2026-04-18",
-          "age": "6 days ago",
+          "age": "1 week ago",
           "is_new_today": false
         },
         {
           "title": "一隻視頻教你把ChatGPT轉到Claude和Gemini！",
           "url": "https://www.youtube.com/watch?v=008FknB1fqE",
           "published": "2026-04-11",
-          "age": "1 week ago",
+          "age": "2 weeks ago",
           "is_new_today": false
         },
         {
           "title": "零基礎15分鐘學會Claude Code 80%功能！",
           "url": "https://www.youtube.com/watch?v=kos_OsnuV24",
           "published": "2026-04-04",
-          "age": "2 weeks ago",
+          "age": "3 weeks ago",
           "is_new_today": false
         },
         {
           "title": "Claude Plugins完整功能介紹、手把手11分鐘教你學會！",
           "url": "https://www.youtube.com/watch?v=yByOC8lS5-k",
           "published": "2026-03-28",
-          "age": "3 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "一隻視頻搞懂OpenClaw！",
-          "url": "https://www.youtube.com/watch?v=la0uGXV_G0s",
-          "published": "2026-03-21",
-          "age": "1 month ago",
+          "age": "4 weeks ago",
           "is_new_today": false
         }
       ]
@@ -94,7 +94,7 @@
           "title": "ChatGPT Image 2 香港實測：我差點退訂ChatGPT… 比較 Gemini Nano Banana，AI圖像誰更強？#chatgptimage2 #chatgpt #廣東話 #香港ai",
           "url": "https://www.youtube.com/watch?v=U3K5_ur-gXg",
           "published": "2026-04-24",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
@@ -136,28 +136,28 @@
           "title": "未來的辦公方式！Manus AI 自動化瀏覽器操作：從此告別繁瑣的 ERP 與數據搜集工作。",
           "url": "https://www.youtube.com/watch?v=gyoGtD_lFbo",
           "published": "2026-04-24",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
           "title": "如何在 Zo Computer 串接 ChatGPT 與 Claude 帳戶？免 API 費用使用頂級模型！",
           "url": "https://www.youtube.com/watch?v=URiRZ3DapsA",
           "published": "2026-04-23",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
           "title": "【實測】OpenAI 新推出 GPT Image 2  ！竟然超越 Nanobanana",
           "url": "https://www.youtube.com/watch?v=s0aB5HyKKHY",
           "published": "2026-04-22",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
           "title": "【案例分析】美容業/服務業 Meta 廣告：打造「全漏斗營銷」系統！只做促銷廣告的問題在那？",
           "url": "https://www.youtube.com/watch?v=c0BhyzC3puU",
           "published": "2026-04-21",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
@@ -199,7 +199,7 @@
           "title": "嗯啊口頭禪全部自動消失！Typeless 語音神器直接淘汰傳統輸入法，講錯直接改口它也聽得懂喔！",
           "url": "https://www.youtube.com/watch?v=bPvATU2ZOLU",
           "published": "2026-02-24",
-          "age": "1 month ago",
+          "age": "2 months ago",
           "is_new_today": false
         },
         {
@@ -220,14 +220,14 @@
           "title": "Claude Code + 這個免費 Plugin = 效能直接提升10 倍",
           "url": "https://www.youtube.com/watch?v=zUnWZMiOVBs",
           "published": "2026-04-24",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
           "title": "10 分鐘帶你建立好 24 小時不斷線的 OpenClaw 龍蝦助理 (無需買 Mac Mini)",
           "url": "https://www.youtube.com/watch?v=g1GTmfU91bM",
           "published": "2026-04-19",
-          "age": "5 days ago",
+          "age": "6 days ago",
           "is_new_today": false
         },
         {
