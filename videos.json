@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26 18:34 HKT",
+  "last_updated": "2026-04-27 00:28 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -175,6 +175,13 @@
       "url": "https://www.youtube.com/@papayaclass/videos",
       "videos": [
         {
+          "title": "超強的 AI 前端設計師來了！Claude Design 跟你聊聊天就把網站設計出來，而且還貼心地幫你一鍵上線！",
+          "url": "https://www.youtube.com/watch?v=JxaI6HK2onc",
+          "published": "2026-04-26",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "公司規定要用 SharePoint 但完全看不懂？這套「新手生存指南」讓你輕鬆掌握它的底層邏輯！",
           "url": "https://www.youtube.com/watch?v=8S6yvJMlmLs",
           "published": "2026-04-17",
@@ -201,13 +208,6 @@
           "published": "2026-02-24",
           "age": "2 months ago",
           "is_new_today": false
-        },
-        {
-          "title": "別再被訂閱制優化軟體綁架了！完全開源零廣告 Mole 幫你揪出藏在深處的肥大檔案，讓 Mac 順得像剛買的一樣！",
-          "url": "https://www.youtube.com/watch?v=UEe9-w4CcQ0",
-          "published": "2026-02-18",
-          "age": "2 months ago",
-          "is_new_today": false
         }
       ]
     },
@@ -221,7 +221,7 @@
           "url": "https://www.youtube.com/watch?v=zUnWZMiOVBs",
           "published": "2026-04-26",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "10 分鐘帶你建立好 24 小時不斷線的 OpenClaw 龍蝦助理 (無需買 Mac Mini)",

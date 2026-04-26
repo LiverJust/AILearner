@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-04-26 18:34 HKT*
+*Last updated: 2026-04-27 00:28 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -49,11 +49,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [公司規定要用 SharePoint 但完全看不懂？這套「新手生存指南」讓你輕鬆掌握它的底層邏輯！](https://www.youtube.com/watch?v=8S6yvJMlmLs) | 1 week ago |
-| 2 | [Claude Cowork 最友善的手把手教學！你還在叫 AI 幫你想答案？但高手們都已經在用 AI 交成品了 ~](https://www.youtube.com/watch?v=_cVTzXvb7xs) | 2 weeks ago |
-| 3 | [還在羨慕別人用 AI 開發酷產品？Claude Code 保姆級教學讓你輕鬆體驗 Vibe Coding, 動動嘴就能做出 Anything！](https://www.youtube.com/watch?v=2pM-7fBXc_M) | 1 month ago |
-| 4 | [嗯啊口頭禪全部自動消失！Typeless 語音神器直接淘汰傳統輸入法，講錯直接改口它也聽得懂喔！](https://www.youtube.com/watch?v=bPvATU2ZOLU) | 2 months ago |
-| 5 | [別再被訂閱制優化軟體綁架了！完全開源零廣告 Mole 幫你揪出藏在深處的肥大檔案，讓 Mac 順得像剛買的一樣！](https://www.youtube.com/watch?v=UEe9-w4CcQ0) | 2 months ago |
+| 1 | [超強的 AI 前端設計師來了！Claude Design 跟你聊聊天就把網站設計出來，而且還貼心地幫你一鍵上線！](https://www.youtube.com/watch?v=JxaI6HK2onc) | Today |
+| 2 | [公司規定要用 SharePoint 但完全看不懂？這套「新手生存指南」讓你輕鬆掌握它的底層邏輯！](https://www.youtube.com/watch?v=8S6yvJMlmLs) | 1 week ago |
+| 3 | [Claude Cowork 最友善的手把手教學！你還在叫 AI 幫你想答案？但高手們都已經在用 AI 交成品了 ~](https://www.youtube.com/watch?v=_cVTzXvb7xs) | 2 weeks ago |
+| 4 | [還在羨慕別人用 AI 開發酷產品？Claude Code 保姆級教學讓你輕鬆體驗 Vibe Coding, 動動嘴就能做出 Anything！](https://www.youtube.com/watch?v=2pM-7fBXc_M) | 1 month ago |
+| 5 | [嗯啊口頭禪全部自動消失！Typeless 語音神器直接淘汰傳統輸入法，講錯直接改口它也聽得懂喔！](https://www.youtube.com/watch?v=bPvATU2ZOLU) | 2 months ago |
 
 ### JayLuxAI | AI 自動化 · [@JayLuxAI](https://www.youtube.com/@JayLuxAI/videos)
 
