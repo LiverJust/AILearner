@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27 19:29 HKT",
+  "last_updated": "2026-04-28 01:13 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "【給初學者】什麼是 AI Agent ？如何選？要留意五個核心功能。",
+          "url": "https://www.youtube.com/watch?v=sJY_2uUAL9o",
+          "published": "2026-04-27",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "實測 ChatGPT 生成簡報 PDF + 搭配 Canva Magic Layers 輕鬆修改內容",
           "url": "https://www.youtube.com/watch?v=2Wn25qX6EdU",
           "published": "2026-04-25",
@@ -158,13 +165,6 @@
           "url": "https://www.youtube.com/watch?v=s0aB5HyKKHY",
           "published": "2026-04-22",
           "age": "5 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "【案例分析】美容業/服務業 Meta 廣告：打造「全漏斗營銷」系統！只做促銷廣告的問題在那？",
-          "url": "https://www.youtube.com/watch?v=c0BhyzC3puU",
-          "published": "2026-04-21",
-          "age": "6 days ago",
           "is_new_today": false
         }
       ]
