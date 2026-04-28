@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28 19:29 HKT",
+  "last_updated": "2026-04-29 01:27 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "2026 最新奇工具！Claude Design 教學：設計 UI 介面及 PPT，還懂得自動修正設計細節。",
+          "url": "https://www.youtube.com/watch?v=NLdtSahDoxo",
+          "published": "2026-04-28",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "【給初學者】什麼是 AI Agent ？如何選？要留意五個核心功能。",
           "url": "https://www.youtube.com/watch?v=sJY_2uUAL9o",
           "published": "2026-04-27",
@@ -158,13 +165,6 @@
           "url": "https://www.youtube.com/watch?v=URiRZ3DapsA",
           "published": "2026-04-23",
           "age": "5 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "【實測】OpenAI 新推出 GPT Image 2  ！竟然超越 Nanobanana",
-          "url": "https://www.youtube.com/watch?v=s0aB5HyKKHY",
-          "published": "2026-04-22",
-          "age": "6 days ago",
           "is_new_today": false
         }
       ]

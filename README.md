@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-04-28 19:29 HKT*
+*Last updated: 2026-04-29 01:27 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [【給初學者】什麼是 AI Agent ？如何選？要留意五個核心功能。](https://www.youtube.com/watch?v=sJY_2uUAL9o) | 1 day ago |
-| 2 | [實測 ChatGPT 生成簡報 PDF + 搭配 Canva Magic Layers 輕鬆修改內容](https://www.youtube.com/watch?v=2Wn25qX6EdU) | 3 days ago |
-| 3 | [未來的辦公方式！Manus AI 自動化瀏覽器操作：從此告別繁瑣的 ERP 與數據搜集工作。](https://www.youtube.com/watch?v=gyoGtD_lFbo) | 4 days ago |
-| 4 | [如何在 Zo Computer 串接 ChatGPT 與 Claude 帳戶？免 API 費用使用頂級模型！](https://www.youtube.com/watch?v=URiRZ3DapsA) | 5 days ago |
-| 5 | [【實測】OpenAI 新推出 GPT Image 2  ！竟然超越 Nanobanana](https://www.youtube.com/watch?v=s0aB5HyKKHY) | 6 days ago |
+| 1 | [2026 最新奇工具！Claude Design 教學：設計 UI 介面及 PPT，還懂得自動修正設計細節。](https://www.youtube.com/watch?v=NLdtSahDoxo) | Today |
+| 2 | [【給初學者】什麼是 AI Agent ？如何選？要留意五個核心功能。](https://www.youtube.com/watch?v=sJY_2uUAL9o) | 1 day ago |
+| 3 | [實測 ChatGPT 生成簡報 PDF + 搭配 Canva Magic Layers 輕鬆修改內容](https://www.youtube.com/watch?v=2Wn25qX6EdU) | 3 days ago |
+| 4 | [未來的辦公方式！Manus AI 自動化瀏覽器操作：從此告別繁瑣的 ERP 與數據搜集工作。](https://www.youtube.com/watch?v=gyoGtD_lFbo) | 4 days ago |
+| 5 | [如何在 Zo Computer 串接 ChatGPT 與 Claude 帳戶？免 API 費用使用頂級模型！](https://www.youtube.com/watch?v=URiRZ3DapsA) | 5 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
