@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29 19:22 HKT",
+  "last_updated": "2026-04-30 01:13 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -11,7 +11,7 @@
           "url": "https://www.youtube.com/watch?v=yuIbPmOw8ZE",
           "published": "2026-04-29",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "【超級新手指南】我如何使用Claude Code？基礎知識和驚人用途一次說清楚！我每天都在用的5項Claude Code技能全公開，就算你是初學者，也能用它打造一人公司！",
