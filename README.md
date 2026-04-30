@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-04-30 19:21 HKT*
+*Last updated: 2026-05-01 01:07 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
