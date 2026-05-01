@@ -1,35 +1,215 @@
 {
-  "last_updated": "2026-05-01 14:30 HKT",
+  "last_updated": "2026-05-01 18:59 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
       "handle": "@Teacher_Kong",
       "url": "https://www.youtube.com/@Teacher_Kong/videos",
-      "videos": []
+      "videos": [
+        {
+          "title": "Claude Design保姆級完整教學：跟你聊聊天就建造一切還一鍵上線，5個真實案例手把手帶你做，適合初學者的簡易網站，0門檻人人可做！簡報｜動態圖形｜AI影片｜網站部署，3個月內把副業變主業！",
+          "url": "https://www.youtube.com/watch?v=yuIbPmOw8ZE",
+          "published": "2026-04-29",
+          "age": "2 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "【超級新手指南】我如何使用Claude Code？基礎知識和驚人用途一次說清楚！我每天都在用的5項Claude Code技能全公開，就算你是初學者，也能用它打造一人公司！",
+          "url": "https://www.youtube.com/watch?v=wW6_Q-5aH5o",
+          "published": "2026-04-20",
+          "age": "1 week ago",
+          "is_new_today": false
+        },
+        {
+          "title": "【超實用】一次搞懂Claude AI全生態！2026全新初學者完整教程，從基本用法到全新自動化系統！零基礎初學者必看，15個Claude超棒的使用方法！ChatGPT用戶看完都轉投了！",
+          "url": "https://www.youtube.com/watch?v=zm3K831v470",
+          "published": "2026-03-31",
+          "age": "1 month ago",
+          "is_new_today": false
+        },
+        {
+          "title": "忘掉ChatGPT吧！Claude Cowork + Skills才是你的全新自動化系統！零基礎初學者該如何使用它？手把手帶你打造專屬AI工作流，用這套自動化系統處理99%的工作，從此告別重複工作！",
+          "url": "https://www.youtube.com/watch?v=a5OTTbSCpO8",
+          "published": "2026-03-22",
+          "age": "1 month ago",
+          "is_new_today": false
+        },
+        {
+          "title": "【保姆級】99%的人都不知道 Claude Skills 2.0 可以這樣用！5大實戰場景從零教學，一鍵自動化你的整套工作流程！讓AI自動幫你做網頁、簡報、腳本，連接外部工具！附完整提示詞，有手就會！",
+          "url": "https://www.youtube.com/watch?v=_hVXMQjofbA",
+          "published": "2026-03-15",
+          "age": "1 month ago",
+          "is_new_today": false
+        }
+      ]
     },
     {
       "name": "李厂长来了",
       "handle": "@lichangzhanglaile",
       "url": "https://www.youtube.com/@lichangzhanglaile/videos",
-      "videos": []
+      "videos": [
+        {
+          "title": "零基礎12分鐘搞懂Claude Design 90%功能：一次性學會設計系統、PPT、落地頁！",
+          "url": "https://www.youtube.com/watch?v=Nm4n7W5ZNLQ",
+          "published": "2026-04-25",
+          "age": "6 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "一隻視頻搞懂Claude所有免費功能！",
+          "url": "https://www.youtube.com/watch?v=25iDiIDwxfk",
+          "published": "2026-04-18",
+          "age": "1 week ago",
+          "is_new_today": false
+        },
+        {
+          "title": "一隻視頻教你把ChatGPT轉到Claude和Gemini！",
+          "url": "https://www.youtube.com/watch?v=008FknB1fqE",
+          "published": "2026-04-11",
+          "age": "2 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "零基礎15分鐘學會Claude Code 80%功能！",
+          "url": "https://www.youtube.com/watch?v=kos_OsnuV24",
+          "published": "2026-04-04",
+          "age": "3 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Claude Plugins完整功能介紹、手把手11分鐘教你學會！",
+          "url": "https://www.youtube.com/watch?v=yByOC8lS5-k",
+          "published": "2026-03-28",
+          "age": "1 month ago",
+          "is_new_today": false
+        }
+      ]
     },
     {
       "name": "我想用Ai賺錢",
       "handle": "@我想用Ai賺錢",
       "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
-      "videos": []
+      "videos": [
+        {
+          "title": "ChatGPT Image 2 香港實測：我差點退訂ChatGPT… 比較 Gemini Nano Banana，AI圖像誰更強？#chatgptimage2 #chatgpt #廣東話 #香港ai",
+          "url": "https://www.youtube.com/watch?v=U3K5_ur-gXg",
+          "published": "2026-04-24",
+          "age": "1 week ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Gemma 4 本地部署教學：完全免費、免VPN ｜ 最強開源AI模型Gemma 4 來了！ 手機電腦離線運行教學 #gemma4 #免費AI工具 #AI實戰 #廣東話 #香港ai #我想用AI賺錢",
+          "url": "https://www.youtube.com/watch?v=SO2vrcwd4lM",
+          "published": "2026-04-10",
+          "age": "3 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Gemini App 正式上架 📱 實測 4 大生活神級應用 + Import Memory 教學 #香港ai #廣東話 #geminiapp #GeminiLive #ai實戰 #ai工具 ",
+          "url": "https://www.youtube.com/watch?v=eYnKfMEV3tw",
+          "published": "2026-04-03",
+          "age": "4 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Gemini 正式解禁香港！免費版本有咩功能？完整教學 | 免費功能全部試晒 #Gemini香港 #GoogleAI #AI教學 #香港AI #免費AI #ai工具 #ai實戰 #廣東話 ",
+          "url": "https://www.youtube.com/watch?v=SLTZSZ3uTVI",
+          "published": "2026-03-21",
+          "age": "1 month ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Perplexity Computer實測⚡差點放棄Perplexity！新功能讓我改變想法 Manus 終於有對手？#PerplexityComputer #AIAgent #Manus #廣東話",
+          "url": "https://www.youtube.com/watch?v=R4hdW5AjMpo",
+          "published": "2026-03-06",
+          "age": "1 month ago",
+          "is_new_today": false
+        }
+      ]
     },
     {
       "name": "阿石OMP",
       "handle": "@ompshek",
       "url": "https://www.youtube.com/@ompshek/videos",
-      "videos": []
+      "videos": [
+        {
+          "title": "2026 最新奇工具！Claude Design 教學：設計 UI 介面及 PPT，還懂得自動修正設計細節。",
+          "url": "https://www.youtube.com/watch?v=NLdtSahDoxo",
+          "published": "2026-04-28",
+          "age": "3 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "【給初學者】什麼是 AI Agent ？如何選？要留意五個核心功能。",
+          "url": "https://www.youtube.com/watch?v=sJY_2uUAL9o",
+          "published": "2026-04-27",
+          "age": "4 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "實測 ChatGPT 生成簡報 PDF + 搭配 Canva Magic Layers 輕鬆修改內容",
+          "url": "https://www.youtube.com/watch?v=2Wn25qX6EdU",
+          "published": "2026-04-25",
+          "age": "6 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "未來的辦公方式！Manus AI 自動化瀏覽器操作：從此告別繁瑣的 ERP 與數據搜集工作。",
+          "url": "https://www.youtube.com/watch?v=gyoGtD_lFbo",
+          "published": "2026-04-24",
+          "age": "1 week ago",
+          "is_new_today": false
+        },
+        {
+          "title": "如何在 Zo Computer 串接 ChatGPT 與 Claude 帳戶？免 API 費用使用頂級模型！",
+          "url": "https://www.youtube.com/watch?v=URiRZ3DapsA",
+          "published": "2026-04-23",
+          "age": "1 week ago",
+          "is_new_today": false
+        }
+      ]
     },
     {
       "name": "PAPAYA 電腦教室",
       "handle": "@papayaclass",
       "url": "https://www.youtube.com/@papayaclass/videos",
-      "videos": []
+      "videos": [
+        {
+          "title": "超強的 AI 前端設計師來了！Claude Design 跟你聊聊天就把網站設計出來，而且還貼心地幫你一鍵上線！",
+          "url": "https://www.youtube.com/watch?v=JxaI6HK2onc",
+          "published": "2026-04-26",
+          "age": "5 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "公司規定要用 SharePoint 但完全看不懂？這套「新手生存指南」讓你輕鬆掌握它的底層邏輯！",
+          "url": "https://www.youtube.com/watch?v=8S6yvJMlmLs",
+          "published": "2026-04-17",
+          "age": "2 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Claude Cowork 最友善的手把手教學！你還在叫 AI 幫你想答案？但高手們都已經在用 AI 交成品了 ~",
+          "url": "https://www.youtube.com/watch?v=_cVTzXvb7xs",
+          "published": "2026-04-06",
+          "age": "3 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "還在羨慕別人用 AI 開發酷產品？Claude Code 保姆級教學讓你輕鬆體驗 Vibe Coding, 動動嘴就能做出 Anything！",
+          "url": "https://www.youtube.com/watch?v=2pM-7fBXc_M",
+          "published": "2026-03-22",
+          "age": "1 month ago",
+          "is_new_today": false
+        },
+        {
+          "title": "嗯啊口頭禪全部自動消失！Typeless 語音神器直接淘汰傳統輸入法，講錯直接改口它也聽得懂喔！",
+          "url": "https://www.youtube.com/watch?v=bPvATU2ZOLU",
+          "published": "2026-02-24",
+          "age": "2 months ago",
+          "is_new_today": false
+        }
+      ]
     },
     {
       "name": "JayLuxAI | AI 自動化",
