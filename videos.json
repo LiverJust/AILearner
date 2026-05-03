@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 18:41 HKT",
+  "last_updated": "2026-05-04 00:34 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -221,7 +221,7 @@
           "url": "https://www.youtube.com/watch?v=dlnqJIgsiAg",
           "published": "2026-05-03",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "Claude Code + 這個免費 Plugin = 效能直接提升10 倍",
