@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05 19:08 HKT",
+  "last_updated": "2026-05-06 01:10 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "Zapier MCP 教學，如何連結到 Manus 等 AI Agent | CLI 取代不了 MCP 的原因",
+          "url": "https://www.youtube.com/watch?v=uZ4i3g_WoLw",
+          "published": "2026-05-05",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "2026 最新奇工具！Claude Design 教學：設計 UI 介面及 PPT，還懂得自動修正設計細節。",
           "url": "https://www.youtube.com/watch?v=NLdtSahDoxo",
           "published": "2026-04-28",
@@ -157,13 +164,6 @@
           "title": "未來的辦公方式！Manus AI 自動化瀏覽器操作：從此告別繁瑣的 ERP 與數據搜集工作。",
           "url": "https://www.youtube.com/watch?v=gyoGtD_lFbo",
           "published": "2026-04-24",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "如何在 Zo Computer 串接 ChatGPT 與 Claude 帳戶？免 API 費用使用頂級模型！",
-          "url": "https://www.youtube.com/watch?v=URiRZ3DapsA",
-          "published": "2026-04-23",
           "age": "1 week ago",
           "is_new_today": false
         }
