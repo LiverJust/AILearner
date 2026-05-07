@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-05-07 19:30 HKT",
+  "last_updated": "2026-05-08 01:29 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
       "handle": "@Teacher_Kong",
       "url": "https://www.youtube.com/@Teacher_Kong/videos",
       "videos": [
+        {
+          "title": "OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的工作方式全都白費了…",
+          "url": "https://www.youtube.com/watch?v=vpHX-WzpHTw",
+          "published": "2026-05-07",
+          "age": "Today",
+          "is_new_today": false
+        },
         {
           "title": "Claude Design保姆級完整教學：跟你聊聊天就建造一切還一鍵上線，5個真實案例手把手帶你做，適合初學者的簡易網站，0門檻人人可做！簡報｜動態圖形｜AI影片｜網站部署，3個月內把副業變主業！",
           "url": "https://www.youtube.com/watch?v=yuIbPmOw8ZE",
@@ -31,13 +38,6 @@
           "title": "忘掉ChatGPT吧！Claude Cowork + Skills才是你的全新自動化系統！零基礎初學者該如何使用它？手把手帶你打造專屬AI工作流，用這套自動化系統處理99%的工作，從此告別重複工作！",
           "url": "https://www.youtube.com/watch?v=a5OTTbSCpO8",
           "published": "2026-03-22",
-          "age": "1 month ago",
-          "is_new_today": false
-        },
-        {
-          "title": "【保姆級】99%的人都不知道 Claude Skills 2.0 可以這樣用！5大實戰場景從零教學，一鍵自動化你的整套工作流程！讓AI自動幫你做網頁、簡報、腳本，連接外部工具！附完整提示詞，有手就會！",
-          "url": "https://www.youtube.com/watch?v=_hVXMQjofbA",
-          "published": "2026-03-15",
           "age": "1 month ago",
           "is_new_today": false
         }
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "【AI 新趨勢】Harness Engineering 是什麼？2026 年駕馭 AI Agent 的 6 大核心技術！",
+          "url": "https://www.youtube.com/watch?v=fvoJ-UuescE",
+          "published": "2026-05-07",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "Zapier MCP 教學，如何連結到 Manus 等 AI Agent | CLI 取代不了 MCP 的原因",
           "url": "https://www.youtube.com/watch?v=uZ4i3g_WoLw",
           "published": "2026-05-05",
@@ -159,13 +166,6 @@
           "published": "2026-04-25",
           "age": "1 week ago",
           "is_new_today": false
-        },
-        {
-          "title": "未來的辦公方式！Manus AI 自動化瀏覽器操作：從此告別繁瑣的 ERP 與數據搜集工作。",
-          "url": "https://www.youtube.com/watch?v=gyoGtD_lFbo",
-          "published": "2026-04-24",
-          "age": "1 week ago",
-          "is_new_today": false
         }
       ]
     },
@@ -179,7 +179,7 @@
           "url": "https://www.youtube.com/watch?v=r5M0W66xcGc",
           "published": "2026-05-07",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "超強的 AI 前端設計師來了！Claude Design 跟你聊聊天就把網站設計出來，而且還貼心地幫你一鍵上線！",

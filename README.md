@@ -3,17 +3,17 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-05-07 19:30 HKT*
+*Last updated: 2026-05-08 01:29 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Claude Design保姆級完整教學：跟你聊聊天就建造一切還一鍵上線，5個真實案例手把手帶你做，適合初學者的簡易網站，0門檻人人可做！簡報\|動態圖形\|AI影片\|網站部署，3個月內把副業變主業！](https://www.youtube.com/watch?v=yuIbPmOw8ZE) | 1 week ago |
-| 2 | [【超級新手指南】我如何使用Claude Code？基礎知識和驚人用途一次說清楚！我每天都在用的5項Claude Code技能全公開，就算你是初學者，也能用它打造一人公司！](https://www.youtube.com/watch?v=wW6_Q-5aH5o) | 2 weeks ago |
-| 3 | [【超實用】一次搞懂Claude AI全生態！2026全新初學者完整教程，從基本用法到全新自動化系統！零基礎初學者必看，15個Claude超棒的使用方法！ChatGPT用戶看完都轉投了！](https://www.youtube.com/watch?v=zm3K831v470) | 1 month ago |
-| 4 | [忘掉ChatGPT吧！Claude Cowork + Skills才是你的全新自動化系統！零基礎初學者該如何使用它？手把手帶你打造專屬AI工作流，用這套自動化系統處理99%的工作，從此告別重複工作！](https://www.youtube.com/watch?v=a5OTTbSCpO8) | 1 month ago |
-| 5 | [【保姆級】99%的人都不知道 Claude Skills 2.0 可以這樣用！5大實戰場景從零教學，一鍵自動化你的整套工作流程！讓AI自動幫你做網頁、簡報、腳本，連接外部工具！附完整提示詞，有手就會！](https://www.youtube.com/watch?v=_hVXMQjofbA) | 1 month ago |
+| 1 | [OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的工作方式全都白費了…](https://www.youtube.com/watch?v=vpHX-WzpHTw) | Today |
+| 2 | [Claude Design保姆級完整教學：跟你聊聊天就建造一切還一鍵上線，5個真實案例手把手帶你做，適合初學者的簡易網站，0門檻人人可做！簡報\|動態圖形\|AI影片\|網站部署，3個月內把副業變主業！](https://www.youtube.com/watch?v=yuIbPmOw8ZE) | 1 week ago |
+| 3 | [【超級新手指南】我如何使用Claude Code？基礎知識和驚人用途一次說清楚！我每天都在用的5項Claude Code技能全公開，就算你是初學者，也能用它打造一人公司！](https://www.youtube.com/watch?v=wW6_Q-5aH5o) | 2 weeks ago |
+| 4 | [【超實用】一次搞懂Claude AI全生態！2026全新初學者完整教程，從基本用法到全新自動化系統！零基礎初學者必看，15個Claude超棒的使用方法！ChatGPT用戶看完都轉投了！](https://www.youtube.com/watch?v=zm3K831v470) | 1 month ago |
+| 5 | [忘掉ChatGPT吧！Claude Cowork + Skills才是你的全新自動化系統！零基礎初學者該如何使用它？手把手帶你打造專屬AI工作流，用這套自動化系統處理99%的工作，從此告別重複工作！](https://www.youtube.com/watch?v=a5OTTbSCpO8) | 1 month ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Zapier MCP 教學，如何連結到 Manus 等 AI Agent \| CLI 取代不了 MCP 的原因](https://www.youtube.com/watch?v=uZ4i3g_WoLw) | 2 days ago |
-| 2 | [2026 最新奇工具！Claude Design 教學：設計 UI 介面及 PPT，還懂得自動修正設計細節。](https://www.youtube.com/watch?v=NLdtSahDoxo) | 1 week ago |
-| 3 | [【給初學者】什麼是 AI Agent ？如何選？要留意五個核心功能。](https://www.youtube.com/watch?v=sJY_2uUAL9o) | 1 week ago |
-| 4 | [實測 ChatGPT 生成簡報 PDF + 搭配 Canva Magic Layers 輕鬆修改內容](https://www.youtube.com/watch?v=2Wn25qX6EdU) | 1 week ago |
-| 5 | [未來的辦公方式！Manus AI 自動化瀏覽器操作：從此告別繁瑣的 ERP 與數據搜集工作。](https://www.youtube.com/watch?v=gyoGtD_lFbo) | 1 week ago |
+| 1 | [【AI 新趨勢】Harness Engineering 是什麼？2026 年駕馭 AI Agent 的 6 大核心技術！](https://www.youtube.com/watch?v=fvoJ-UuescE) | Today |
+| 2 | [Zapier MCP 教學，如何連結到 Manus 等 AI Agent \| CLI 取代不了 MCP 的原因](https://www.youtube.com/watch?v=uZ4i3g_WoLw) | 2 days ago |
+| 3 | [2026 最新奇工具！Claude Design 教學：設計 UI 介面及 PPT，還懂得自動修正設計細節。](https://www.youtube.com/watch?v=NLdtSahDoxo) | 1 week ago |
+| 4 | [【給初學者】什麼是 AI Agent ？如何選？要留意五個核心功能。](https://www.youtube.com/watch?v=sJY_2uUAL9o) | 1 week ago |
+| 5 | [實測 ChatGPT 生成簡報 PDF + 搭配 Canva Magic Layers 輕鬆修改內容](https://www.youtube.com/watch?v=2Wn25qX6EdU) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
