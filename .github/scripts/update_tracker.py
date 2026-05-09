@@ -2,74 +2,140 @@ import urllib.request
 import xml.etree.ElementTree as ET
 import re
 import json
+import io
 from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
+
+# Channel list \u2014 uses RSSHub proxy (rsshub.rssforever.com) as primary feed source
+# because YouTube blocks direct RSS requests from GitHub Actions IP ranges.
+# Falls back to native YouTube RSS if the proxy is unavailable.
+RSSHUB_BASE = "https://rsshub.rssforever.com/youtube/channel/"
+YT_RSS_BASE = "https://www.youtube.com/feeds/videos.xml?channel_id="
 
 channels = [
     {
         "name": "\u5b54\u8001\u5e2bAI\u7814\u7fd2\u793e",
         "handle": "@Teacher_Kong",
         "url": "https://www.youtube.com/@Teacher_Kong/videos",
-        "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpnBpREMjMNFvLTLnc2iLPQ",
+        "channel_id": "UCpnBpREMjMNFvLTLnc2iLPQ",
     },
     {
         "name": "\u674e\u5382\u957f\u6765\u4e86",
         "handle": "@lichangzhanglaile",
         "url": "https://www.youtube.com/@lichangzhanglaile/videos",
-        "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0v9b0Z00wWED_vGy-Q6ibg",
+        "channel_id": "UC0v9b0Z00wWED_vGy-Q6ibg",
     },
     {
         "name": "\u6211\u60f3\u7528Ai\u8cfa\u9322",
         "handle": "@\u6211\u60f3\u7528Ai\u8cfa\u9322",
         "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
-        "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTU_nAAkekihOYA6mNUQMvQ",
+        "channel_id": "UCTU_nAAkekihOYA6mNUQMvQ",
     },
     {
         "name": "\u963f\u77f3OMP",
         "handle": "@ompshek",
         "url": "https://www.youtube.com/@ompshek/videos",
-        "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnixWoic7ATGI0AZ2LrtJ7Q",
+        "channel_id": "UCnixWoic7ATGI0AZ2LrtJ7Q",
     },
     {
         "name": "PAPAYA \u96fb\u8166\u6559\u5ba4",
         "handle": "@papayaclass",
         "url": "https://www.youtube.com/@papayaclass/videos",
-        "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdEpz2A4DzV__4C1x2quKLw",
+        "channel_id": "UCdEpz2A4DzV__4C1x2quKLw",
     },
     {
         "name": "JayLuxAI | AI \u81ea\u52d5\u5316",
         "handle": "@JayLuxAI",
         "url": "https://www.youtube.com/@JayLuxAI/videos",
-        "rss": "https://www.youtube.com/feeds/videos.xml?channel_id=UCKxp_qMkhBTVftkhTwKJFvw",
+        "channel_id": "UCKxp_qMkhBTVftkhTwKJFvw",
     },
 ]
 
 
-def fetch_videos(rss_url, limit=5):
+def parse_pub_date(date_str):
+    """Parse both RFC 2822 (RSS 2.0) and ISO 8601 (Atom) date formats \u2192 YYYY-MM-DD."""
+    if not date_str:
+        return ""
+    try:
+        # RFC 2822: "Sat, 09 May 2026 10:02:51 GMT"
+        dt = parsedate_to_datetime(date_str)
+        return dt.strftime("%Y-%m-%d")
+    except Exception:
+        pass
+    try:
+        # ISO 8601: "2026-05-09T10:02:51+00:00"
+        return date_str[:10]
+    except Exception:
+        return date_str
+
+
+def fetch_from_url(url, limit=5):
+    """Fetch and parse RSS/Atom feed. Returns list of video dicts or []."""
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=15) as r:
+            raw = r.read()
+    except Exception as e:
+        print(f"    fetch error: {e}")
+        return []
+
+    try:
+        root = ET.parse(io.BytesIO(raw)).getroot()
+    except Exception as e:
+        print(f"    parse error: {e}")
+        return []
+
+    videos = []
+
+    # \u2500\u2500 RSS 2.0 format (RSSHub) \u2500\u2500
+    items = root.findall(".//item")
+    if items:
+        for item in items[:limit]:
+            title_el = item.find("title")
+            link_el = item.find("link")
+            pub_el = item.find("pubDate")
+            title = title_el.text if title_el is not None else ""
+            link = link_el.text if link_el is not None else ""
+            pub = parse_pub_date(pub_el.text if pub_el is not None else "")
+            if title and link:
+                videos.append({"title": title, "url": link, "published": pub})
+        return videos
+
+    # \u2500\u2500 Atom format (native YouTube RSS) \u2500\u2500
     ns = {
         "atom": "http://www.w3.org/2005/Atom",
         "yt": "http://www.youtube.com/xml/schemas/2015",
     }
-    try:
-        req = urllib.request.Request(rss_url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=15) as r:
-            tree = ET.parse(r)
-    except Exception as e:
-        print(f"ERROR fetching {rss_url}: {e}")
-        return []
-    root = tree.getroot()
-    videos = []
     for entry in root.findall("atom:entry", ns)[:limit]:
         title_el = entry.find("atom:title", ns)
         vid_el = entry.find("yt:videoId", ns)
         pub_el = entry.find("atom:published", ns)
         if title_el is not None and vid_el is not None:
-            videos.append(
-                {
-                    "title": title_el.text or "",
-                    "url": "https://www.youtube.com/watch?v=" + (vid_el.text or ""),
-                    "published": (pub_el.text or "")[:10],
-                }
-            )
+            videos.append({
+                "title": title_el.text or "",
+                "url": "https://www.youtube.com/watch?v=" + (vid_el.text or ""),
+                "published": parse_pub_date(pub_el.text if pub_el is not None else ""),
+            })
+    return videos
+
+
+def fetch_videos(channel_id, limit=5):
+    """Try RSSHub proxy first, fall back to native YouTube RSS."""
+    proxy_url = RSSHUB_BASE + channel_id
+    yt_url = YT_RSS_BASE + channel_id
+
+    print(f"  Trying RSSHub proxy...")
+    videos = fetch_from_url(proxy_url, limit)
+    if videos:
+        print(f"  RSSHub OK: {len(videos)} videos")
+        return videos
+
+    print(f"  RSSHub failed, trying native YouTube RSS...")
+    videos = fetch_from_url(yt_url, limit)
+    if videos:
+        print(f"  YouTube RSS OK: {len(videos)} videos")
+    else:
+        print(f"  Both sources failed.")
     return videos
 
 
@@ -131,17 +197,18 @@ lines = [
 ]
 
 for ch in channels:
-    fetched = fetch_videos(ch["rss"])
-    # Use fallback if fetch returned nothing (e.g. YouTube blocking GitHub IPs)
+    print(f"\n[{ch['handle']}]")
+    fetched = fetch_videos(ch["channel_id"])
+    # Use fallback cache if both RSS sources failed
     if fetched:
         videos = fetched
-        print(f"  {ch['handle']}: fetched {len(videos)} fresh videos")
     else:
         fallback = existing_videos.get(ch["handle"], [])
-        videos_raw = [{"title": v["title"], "url": v["url"], "published": v["published"]} for v in fallback]
-        videos = videos_raw
+        videos = [{"title": v["title"], "url": v["url"], "published": v["published"]} for v in fallback]
         if videos:
-            print(f"  {ch['handle']}: RSS blocked, using {len(videos)} cached videos")
+            print(f"  Using cached fallback: {len(videos)} videos")
+        else:
+            print(f"  No data available.")
 
     # JSON output
     ch_data = {
