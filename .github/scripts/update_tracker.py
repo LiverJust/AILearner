@@ -104,6 +104,17 @@ hkt = datetime.now(timezone(timedelta(hours=8)))
 timestamp = hkt.strftime("%Y-%m-%d %H:%M HKT")
 today_str = hkt.strftime("%Y-%m-%d")
 
+# ── Load existing videos.json as fallback (in case RSS is blocked) ──
+existing_videos = {}
+try:
+    with open("videos.json", "r", encoding="utf-8") as f:
+        existing = json.load(f)
+    for ch in existing.get("channels", []):
+        existing_videos[ch["handle"]] = ch.get("videos", [])
+    print(f"Loaded existing videos.json with {len(existing_videos)} channels as fallback.")
+except Exception:
+    print("No existing videos.json found, starting fresh.")
+
 # ── Build data for videos.json ──
 json_data = {
     "last_updated": timestamp,
@@ -120,7 +131,17 @@ lines = [
 ]
 
 for ch in channels:
-    videos = fetch_videos(ch["rss"])
+    fetched = fetch_videos(ch["rss"])
+    # Use fallback if fetch returned nothing (e.g. YouTube blocking GitHub IPs)
+    if fetched:
+        videos = fetched
+        print(f"  {ch['handle']}: fetched {len(videos)} fresh videos")
+    else:
+        fallback = existing_videos.get(ch["handle"], [])
+        videos_raw = [{"title": v["title"], "url": v["url"], "published": v["published"]} for v in fallback]
+        videos = videos_raw
+        if videos:
+            print(f"  {ch['handle']}: RSS blocked, using {len(videos)} cached videos")
 
     # JSON output
     ch_data = {
