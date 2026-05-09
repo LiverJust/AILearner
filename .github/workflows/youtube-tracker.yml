@@ -15,6 +15,10 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          ref: main
+
+      - name: Pull latest changes before running script
+        run: git pull origin main
 
       - name: Update README and videos.json with latest videos
         run: python3 .github/scripts/update_tracker.py
@@ -28,6 +32,5 @@ jobs:
             echo "No changes."
           else
             git commit -m "chore: update YouTube tracker $(date -u '+%Y-%m-%d %H:%M UTC')"
-            git pull --rebase origin main
             git push
           fi
