@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10 00:38 HKT",
+  "last_updated": "2026-05-10 14:27 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -10,7 +10,7 @@
           "title": "OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的工作方式全都白費了…",
           "url": "https://www.youtube.com/watch?v=vpHX-WzpHTw",
           "published": "2026-05-07",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
@@ -52,7 +52,7 @@
           "title": "11分鐘學完吳恩達AI For Everyone: 普通人學AI先看這一支！",
           "url": "https://www.youtube.com/watch?v=4INxohsHJCc",
           "published": "2026-05-09",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
@@ -94,7 +94,7 @@
           "title": "AI製作可愛IG Bios 動畫：活用ChatGPT Image 2 為自己增添更多樂趣 ｜ 完全免費 #香港ai #chatgpt #ai實戰 #ai工具 #廣東話 #openai #我想用ai賺錢",
           "url": "https://www.youtube.com/watch?v=ks1PWdUrH2Q",
           "published": "2026-05-06",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
@@ -115,7 +115,7 @@
           "title": "Gemma 4 本地部署教學：完全免費、免VPN ｜ 最強開源AI模型Gemma 4 來了！ 手機電腦離線運行教學 #gemma4 #免費AI工具 #AI實戰 #廣東話 #香港ai #我想用AI賺錢",
           "url": "https://www.youtube.com/watch?v=SO2vrcwd4lM",
           "published": "2026-04-10",
-          "age": "4 weeks ago",
+          "age": "1 month ago",
           "is_new_today": false
         },
         {
@@ -136,21 +136,21 @@
           "title": "【訪談 Claude 香港用戶】如何付款、用 VPS 防止帳號被封 + 處理影片字幕及發佈到社交平台",
           "url": "https://www.youtube.com/watch?v=Sp8MM1HMdB4",
           "published": "2026-05-08",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
           "title": "深入淺出 Harness Engineering：從 Prompt 到長效工作代理的約束指南",
           "url": "https://www.youtube.com/watch?v=fvoJ-UuescE",
           "published": "2026-05-07",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
           "title": "Zapier MCP 教學，如何連結到 Manus 等 AI Agent | CLI 取代不了 MCP 的原因",
           "url": "https://www.youtube.com/watch?v=uZ4i3g_WoLw",
           "published": "2026-05-05",
-          "age": "4 days ago",
+          "age": "5 days ago",
           "is_new_today": false
         },
         {
@@ -178,14 +178,14 @@
           "title": "別再小看本地 AI！Gemma 4 + LM Studio 讓你的電腦變成超級離線 AI 工作站，而且完全免費 (手機也能使用喔！)",
           "url": "https://www.youtube.com/watch?v=r5M0W66xcGc",
           "published": "2026-05-07",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
           "title": "超強的 AI 前端設計師來了！Claude Design 跟你聊聊天就把網站設計出來，而且還貼心地幫你一鍵上線！",
           "url": "https://www.youtube.com/watch?v=JxaI6HK2onc",
           "published": "2026-04-26",
-          "age": "1 week ago",
+          "age": "2 weeks ago",
           "is_new_today": false
         },
         {
@@ -220,35 +220,35 @@
           "title": "一次搞懂 Harness Engineering：定義、Claude Code 實作、未來公司架構",
           "url": "https://www.youtube.com/watch?v=unpUDo5UPb4",
           "published": "2026-05-09",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
           "title": "Claude Code + Obsidian 個人知識庫，token 用量直接節省 95%",
           "url": "https://www.youtube.com/watch?v=dlnqJIgsiAg",
           "published": "2026-05-03",
-          "age": "6 days ago",
+          "age": "1 week ago",
           "is_new_today": false
         },
         {
           "title": "Claude Code + 這個免費 Plugin = 效能直接提升10 倍",
           "url": "https://www.youtube.com/watch?v=zUnWZMiOVBs",
           "published": "2026-04-26",
-          "age": "1 week ago",
+          "age": "2 weeks ago",
           "is_new_today": false
         },
         {
           "title": "10 分鐘帶你建立好 24 小時不斷線的 OpenClaw 龍蝦助理 (無需買 Mac Mini)",
           "url": "https://www.youtube.com/watch?v=g1GTmfU91bM",
           "published": "2026-04-19",
-          "age": "2 weeks ago",
+          "age": "3 weeks ago",
           "is_new_today": false
         },
         {
           "title": "CLAUDE.md 完整教學：15分鐘讓 AI 徹底讀懂你的專案架構",
           "url": "https://www.youtube.com/watch?v=p9qBs1fAirc",
           "published": "2026-04-12",
-          "age": "3 weeks ago",
+          "age": "4 weeks ago",
           "is_new_today": false
         }
       ]
