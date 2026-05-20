@@ -3,17 +3,17 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-05-20 15:33 HKT*
+*Last updated: 2026-05-20 20:13 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案\|整理聊天記錄\|超強記憶體，何時使用哪個工具一次告訴你！手把手帶你做！](https://www.youtube.com/watch?v=uE1XDwDOtbU) | 1 week ago |
-| 2 | [OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的工作方式全都白費了…](https://www.youtube.com/watch?v=vpHX-WzpHTw) | 1 week ago |
-| 3 | [Claude Design保姆級完整教學：跟你聊聊天就建造一切還一鍵上線，5個真實案例手把手帶你做，適合初學者的簡易網站，0門檻人人可做！簡報\|動態圖形\|AI影片\|網站部署，3個月內把副業變主業！](https://www.youtube.com/watch?v=yuIbPmOw8ZE) | 3 weeks ago |
+| 1 | [重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案\|整理聊天記錄\|超強記憶體，何時使用哪個工具...](https://www.youtube.com/watch?v=uE1XDwDOtbU) | 1 week ago |
+| 2 | [OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的...](https://www.youtube.com/watch?v=vpHX-WzpHTw) | 1 week ago |
+| 3 | [Claude Design保姆級完整教學：跟你聊聊天就建造一切還一鍵上線，5個真實案例手把手帶你做，適合初學者的簡易網站，0門檻人人可做！簡報\|動態圖形\|AI影片\|網...](https://www.youtube.com/watch?v=yuIbPmOw8ZE) | 3 weeks ago |
 | 4 | [【超級新手指南】我如何使用Claude Code？基礎知識和驚人用途一次說清楚！我每天都在用的5項Claude Code技能全公開，就算你是初學者，也能用它打造一人公司！](https://www.youtube.com/watch?v=wW6_Q-5aH5o) | 1 month ago |
-| 5 | [【超實用】一次搞懂Claude AI全生態！2026全新初學者完整教程，從基本用法到全新自動化系統！零基礎初學者必看，15個Claude超棒的使用方法！ChatGPT用戶看完都轉投了！](https://www.youtube.com/watch?v=zm3K831v470) | 1 month ago |
+| 5 | [【超實用】一次搞懂Claude AI全生態！2026全新初學者完整教程，從基本用法到全新自動化系統！零基礎初學者必看，15個Claude超棒的使用方法！ChatGPT用戶看完都轉...](https://www.youtube.com/watch?v=zm3K831v470) | 1 month ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
 
