@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20 01:54 HKT",
+  "last_updated": "2026-05-20 15:33 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -24,14 +24,14 @@
           "title": "Claude Design保姆級完整教學：跟你聊聊天就建造一切還一鍵上線，5個真實案例手把手帶你做，適合初學者的簡易網站，0門檻人人可做！簡報｜動態圖形｜AI影片｜網站部署，3個月內把副業變主業！",
           "url": "https://www.youtube.com/watch?v=yuIbPmOw8ZE",
           "published": "2026-04-29",
-          "age": "2 weeks ago",
+          "age": "3 weeks ago",
           "is_new_today": false
         },
         {
           "title": "【超級新手指南】我如何使用Claude Code？基礎知識和驚人用途一次說清楚！我每天都在用的5項Claude Code技能全公開，就算你是初學者，也能用它打造一人公司！",
           "url": "https://www.youtube.com/watch?v=wW6_Q-5aH5o",
           "published": "2026-04-20",
-          "age": "4 weeks ago",
+          "age": "1 month ago",
           "is_new_today": false
         },
         {
@@ -52,7 +52,7 @@
           "title": "11分鐘學完谷歌8小時AI王牌課程！",
           "url": "https://www.youtube.com/watch?v=maNOUZhYTHI",
           "published": "2026-05-16",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
@@ -91,24 +91,10 @@
       "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
       "videos": [
         {
-          "title": "由 Idea 到 Vibe Coding，未來不是人人都要識Coding，而是要學識指揮 AI 幫你Code。GPT-5.5 Codex Mac App 保姆級教學 #chatgpt #codex",
-          "url": "https://www.youtube.com/watch?v=klJ_PV5zMsE",
-          "published": "2026-05-18",
-          "age": "1 day ago",
-          "is_new_today": false
-        },
-        {
           "title": "GPT-5.5 Codex Mac App 保姆級教學：零Coding 30分鐘就整到網站？由 Idea 到 Vibe Coding 實戰 #codex #香港ai #chatgpt #ai實戰",
           "url": "https://www.youtube.com/watch?v=SJsP22EO5RQ",
           "published": "2026-05-16",
-          "age": "3 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "AI製作可愛IG Bios 動畫：活用ChatGPT Image 2 為自己增添更多樂趣 ｜ 完全免費 #香港ai #chatgpt #ai實戰 #ai工具 #廣東話 #openai #我想用ai賺錢",
-          "url": "https://www.youtube.com/watch?v=ks1PWdUrH2Q",
-          "published": "2026-05-06",
-          "age": "1 week ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
@@ -124,6 +110,20 @@
           "published": "2026-04-24",
           "age": "3 weeks ago",
           "is_new_today": false
+        },
+        {
+          "title": "Gemma 4 本地部署教學：完全免費、免VPN ｜ 最強開源AI模型Gemma 4 來了！ 手機電腦離線運行教學 #gemma4 #免費AI工具 #AI實戰 #廣東話 #香港ai #我想用AI賺錢",
+          "url": "https://www.youtube.com/watch?v=SO2vrcwd4lM",
+          "published": "2026-04-10",
+          "age": "1 month ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Gemini App 正式上架 📱 實測 4 大生活神級應用 + Import Memory 教學 #香港ai #廣東話 #geminiapp #GeminiLive #ai實戰 #ai工具",
+          "url": "https://www.youtube.com/watch?v=eYnKfMEV3tw",
+          "published": "2026-04-03",
+          "age": "1 month ago",
+          "is_new_today": false
         }
       ]
     },
@@ -136,28 +136,28 @@
           "title": "Copilot 隱藏功能、結合 Claude Cowork 強大功能！打造「自動化報價 AI Agent」",
           "url": "https://www.youtube.com/watch?v=To3wip2tfGc",
           "published": "2026-05-19",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
           "title": "【超簡單】用 Zo Computer 幾分鐘 Vibe Code自己的 Linktree 首頁！",
           "url": "https://www.youtube.com/watch?v=TcPBnomxk48",
           "published": "2026-05-18",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
-          "title": "【限時領 US$100】AI Agent 實戰教學：結合 Nano Banana 2 / GPT-image-2  自動發佈社群貼文！",
+          "title": "【限時領 US$100】AI Agent 實戰教學：結合 Nano Banana 2 / GPT-image-2 自動發佈社群貼文！",
           "url": "https://www.youtube.com/watch?v=_96FEeppn40",
           "published": "2026-05-14",
-          "age": "5 days ago",
+          "age": "6 days ago",
           "is_new_today": false
         },
         {
           "title": "Hermes Agent 超越 OpenClaw？用 Zo 打造會自動進化的 AI 助手！",
           "url": "https://www.youtube.com/watch?v=yPLs6zA4KbU",
           "published": "2026-05-13",
-          "age": "6 days ago",
+          "age": "1 week ago",
           "is_new_today": false
         },
         {
@@ -220,7 +220,7 @@
           "title": "PrintingPress：把任何網站變成 Claude Code 能用的 CLI",
           "url": "https://www.youtube.com/watch?v=48yu2garzl0",
           "published": "2026-05-17",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
