@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-21 20:37 HKT",
+  "last_updated": "2026-05-22 01:48 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -11,7 +11,7 @@
           "url": "https://www.youtube.com/watch?v=8244knXN9e0",
           "published": "2026-05-21",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案｜整理聊天記錄｜超強記憶體，何時使用哪個工具一次告訴你！手把手帶你做！",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "OpenAI Codex 實測！瀏覽器＋電腦操作順暢，未來辦公自動化必學！",
+          "url": "https://www.youtube.com/watch?v=Ril7im9zyhs",
+          "published": "2026-05-21",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "【導師 AI 應用小技巧】使用 Gemimi 一鍵同步課程表到 Google Calendar！",
           "url": "https://www.youtube.com/watch?v=Pqo9-pXJp4s",
           "published": "2026-05-20",
@@ -157,13 +164,6 @@
           "title": "【限時領 US$100】AI Agent 實戰教學：結合 Nano Banana 2 / GPT-image-2  自動發佈社群貼文！",
           "url": "https://www.youtube.com/watch?v=_96FEeppn40",
           "published": "2026-05-14",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Hermes Agent 超越 OpenClaw？用 Zo 打造會自動進化的 AI 助手！",
-          "url": "https://www.youtube.com/watch?v=yPLs6zA4KbU",
-          "published": "2026-05-13",
           "age": "1 week ago",
           "is_new_today": false
         }

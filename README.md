@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-05-21 20:37 HKT*
+*Last updated: 2026-05-22 01:48 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [【導師 AI 應用小技巧】使用 Gemimi 一鍵同步課程表到 Google Calendar！](https://www.youtube.com/watch?v=Pqo9-pXJp4s) | 1 day ago |
-| 2 | [Copilot 隱藏功能、結合 Claude Cowork 強大功能！打造「自動化報價 AI Agent」](https://www.youtube.com/watch?v=To3wip2tfGc) | 2 days ago |
-| 3 | [【超簡單】用 Zo Computer 幾分鐘 Vibe Code自己的 Linktree 首頁！](https://www.youtube.com/watch?v=TcPBnomxk48) | 3 days ago |
-| 4 | [【限時領 US$100】AI Agent 實戰教學：結合 Nano Banana 2 / GPT-image-2  自動發佈社群貼文！](https://www.youtube.com/watch?v=_96FEeppn40) | 1 week ago |
-| 5 | [Hermes Agent 超越 OpenClaw？用 Zo 打造會自動進化的 AI 助手！](https://www.youtube.com/watch?v=yPLs6zA4KbU) | 1 week ago |
+| 1 | [OpenAI Codex 實測！瀏覽器＋電腦操作順暢，未來辦公自動化必學！](https://www.youtube.com/watch?v=Ril7im9zyhs) | Today |
+| 2 | [【導師 AI 應用小技巧】使用 Gemimi 一鍵同步課程表到 Google Calendar！](https://www.youtube.com/watch?v=Pqo9-pXJp4s) | 1 day ago |
+| 3 | [Copilot 隱藏功能、結合 Claude Cowork 強大功能！打造「自動化報價 AI Agent」](https://www.youtube.com/watch?v=To3wip2tfGc) | 2 days ago |
+| 4 | [【超簡單】用 Zo Computer 幾分鐘 Vibe Code自己的 Linktree 首頁！](https://www.youtube.com/watch?v=TcPBnomxk48) | 3 days ago |
+| 5 | [【限時領 US$100】AI Agent 實戰教學：結合 Nano Banana 2 / GPT-image-2  自動發佈社群貼文！](https://www.youtube.com/watch?v=_96FEeppn40) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
