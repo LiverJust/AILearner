@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-05-22 20:10 HKT*
+*Last updated: 2026-05-23 01:30 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -29,21 +29,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [GPT-5.5 Codex Mac App 保姆級教學：零Coding 30分鐘就整到網站？由 Idea 到 Vibe Coding 實戰 #codex #香港ai #chatgpt #ai實戰](https://www.youtube.com/watch?v=SJsP22EO5RQ) | 6 days ago |
-| 2 | [ChatGPT 5.5 有幾強？今次升級真係震驚到我 \| 三大升級令我重新愛上 ChatGPT #香港AI實戰示範 #chatgpt #香港ai #廣東話 #ai工具 #ai實戰 -#claude](https://www.youtube.com/watch?v=KYoih5c5FWA) | 2 weeks ago |
-| 3 | [ChatGPT Image 2 香港實測：我差點退訂ChatGPT… 比較 Gemini Nano Banana，AI圖像誰更強？#chatgptimage2 #chatgpt #廣東話 #香港ai](https://www.youtube.com/watch?v=U3K5_ur-gXg) | 4 weeks ago |
-| 4 | [Gemma 4 本地部署教學：完全免費、免VPN \| 最強開源AI模型Gemma 4 來了！ 手機電腦離線運行教學 #gemma4 #免費AI工具 #AI實戰 #廣東話 #香港ai #我想用AI賺錢](https://www.youtube.com/watch?v=SO2vrcwd4lM) | 1 month ago |
-| 5 | [Gemini App 正式上架 📱 實測 4 大生活神級應用 + Import Memory 教學 #香港ai #廣東話 #geminiapp #GeminiLive #ai實戰 #ai工具](https://www.youtube.com/watch?v=eYnKfMEV3tw) | 1 month ago |
+| 1 | [Google I/O 2026 15分鐘懶人包：Google AI 全面 Agent 化！但香港人又用唔用到？#GoogleIO2026 #Gemini35 #香港ai #ai工具 #廣東話](https://www.youtube.com/watch?v=KDyjBnX1Tz0) | Today |
+| 2 | [由 Idea 到 Vibe Coding，未來不是人人都要識Coding，而是要學識指揮 AI 幫你Code。GPT-5.5 Codex Mac App 保姆級教學 #chatgpt #codex](https://www.youtube.com/watch?v=klJ_PV5zMsE) | 4 days ago |
+| 3 | [GPT-5.5 Codex Mac App 保姆級教學：零Coding 30分鐘就整到網站？由 Idea 到 Vibe Coding 實戰 #codex #香港ai #chatgpt #ai實戰](https://www.youtube.com/watch?v=SJsP22EO5RQ) | 6 days ago |
+| 4 | [AI製作可愛IG Bios 動畫：活用ChatGPT Image 2 為自己增添更多樂趣 \| 完全免費 #香港ai #chatgpt #ai實戰 #ai工具 #廣東話 #openai #我想用ai賺錢](https://www.youtube.com/watch?v=ks1PWdUrH2Q) | 2 weeks ago |
+| 5 | [ChatGPT 5.5 有幾強？今次升級真係震驚到我 \| 三大升級令我重新愛上 ChatGPT #香港AI實戰示範 #chatgpt #香港ai #廣東話 #ai工具 #ai實戰 -#claude](https://www.youtube.com/watch?v=KYoih5c5FWA) | 2 weeks ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [OpenAI Codex 實測！瀏覽器＋電腦操作順暢，未來辦公自動化必學！](https://www.youtube.com/watch?v=Ril7im9zyhs) | 1 day ago |
-| 2 | [【導師 AI 應用小技巧】使用 Gemimi 一鍵同步課程表到 Google Calendar！](https://www.youtube.com/watch?v=Pqo9-pXJp4s) | 2 days ago |
-| 3 | [Copilot 隱藏功能、結合 Claude Cowork 強大功能！打造「自動化報價 AI Agent」](https://www.youtube.com/watch?v=To3wip2tfGc) | 3 days ago |
-| 4 | [【超簡單】用 Zo Computer 幾分鐘 Vibe Code自己的 Linktree 首頁！](https://www.youtube.com/watch?v=TcPBnomxk48) | 4 days ago |
-| 5 | [【限時領 US$100】AI Agent 實戰教學：結合 Nano Banana 2 / GPT-image-2  自動發佈社群貼文！](https://www.youtube.com/watch?v=_96FEeppn40) | 1 week ago |
+| 1 | [實測 7 大 AI 翻譯 PowerPoint！Gemini、Copilot、ChatGPT、Codex、Grok、Manus 以及 Claude](https://www.youtube.com/watch?v=Hu7fjlnhFvs) | Today |
+| 2 | [OpenAI Codex 實測！瀏覽器＋電腦操作順暢，未來辦公自動化必學！](https://www.youtube.com/watch?v=Ril7im9zyhs) | 1 day ago |
+| 3 | [【導師 AI 應用小技巧】使用 Gemimi 一鍵同步課程表到 Google Calendar！](https://www.youtube.com/watch?v=Pqo9-pXJp4s) | 2 days ago |
+| 4 | [Copilot 隱藏功能、結合 Claude Cowork 強大功能！打造「自動化報價 AI Agent」](https://www.youtube.com/watch?v=To3wip2tfGc) | 3 days ago |
+| 5 | [【超簡單】用 Zo Computer 幾分鐘 Vibe Code自己的 Linktree 首頁！](https://www.youtube.com/watch?v=TcPBnomxk48) | 4 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
