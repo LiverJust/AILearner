@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-05-30 02:24 HKT*
+*Last updated: 2026-05-30 14:38 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -19,31 +19,31 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [AI時代，真正拉開差距的3种能力！](https://www.youtube.com/watch?v=pyqUiHyz_-c) | 6 days ago |
-| 2 | [11分鐘學完谷歌8小時AI王牌課程！](https://www.youtube.com/watch?v=maNOUZhYTHI) | 1 week ago |
-| 3 | [11分鐘學完吳恩達AI For Everyone: 普通人學AI先看這一支！](https://www.youtube.com/watch?v=4INxohsHJCc) | 2 weeks ago |
-| 4 | [13分鐘搞懂付費Claude全部功能\|核心功能完整介紹！](https://www.youtube.com/watch?v=w1M9tS7oyiU) | 3 weeks ago |
-| 5 | [零基礎12分鐘搞懂Claude Design 90%功能：一次性學會設計系統、PPT、落地頁！](https://www.youtube.com/watch?v=Nm4n7W5ZNLQ) | 1 month ago |
+| 1 | [現在學AI，真的還不晚：30天從小白到上手！](https://www.youtube.com/watch?v=vWzKHp9yl3M) | Today |
+| 2 | [AI時代，真正拉開差距的3种能力！](https://www.youtube.com/watch?v=pyqUiHyz_-c) | 1 week ago |
+| 3 | [11分鐘學完谷歌8小時AI王牌課程！](https://www.youtube.com/watch?v=maNOUZhYTHI) | 2 weeks ago |
+| 4 | [11分鐘學完吳恩達AI For Everyone: 普通人學AI先看這一支！](https://www.youtube.com/watch?v=4INxohsHJCc) | 3 weeks ago |
+| 5 | [13分鐘搞懂付費Claude全部功能\|核心功能完整介紹！](https://www.youtube.com/watch?v=w1M9tS7oyiU) | 4 weeks ago |
 
 ### 我想用Ai賺錢 · [@我想用Ai賺錢](https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Google I/O 2026重點懶人包：有咩關香港人事？#googleio2026 #gemini #geminispark #geminiomni #gemini35 #Googleglasses](https://www.youtube.com/watch?v=0jw5ON-o7OY) | 3 days ago |
+| 1 | [Google I/O 2026重點懶人包：有咩關香港人事？#googleio2026 #gemini #geminispark #geminiomni #gemini35 #Googleglasses](https://www.youtube.com/watch?v=0jw5ON-o7OY) | 4 days ago |
 | 2 | [Google I/O 2026 15分鐘懶人包：Google AI 全面 Agent 化！但香港人又用唔用到？#GoogleIO2026 #Gemini35 #香港ai #ai工具 #廣東話](https://www.youtube.com/watch?v=KDyjBnX1Tz0) | 1 week ago |
 | 3 | [由 Idea 到 Vibe Coding，未來不是人人都要識Coding，而是要學識指揮 AI 幫你Code。GPT-5.5 Codex Mac App 保姆級教學 #chatgpt #codex](https://www.youtube.com/watch?v=klJ_PV5zMsE) | 1 week ago |
-| 4 | [GPT-5.5 Codex Mac App 保姆級教學：零Coding 30分鐘就整到網站？由 Idea 到 Vibe Coding 實戰 #codex #香港ai #chatgpt #ai實戰](https://www.youtube.com/watch?v=SJsP22EO5RQ) | 1 week ago |
+| 4 | [GPT-5.5 Codex Mac App 保姆級教學：零Coding 30分鐘就整到網站？由 Idea 到 Vibe Coding 實戰 #codex #香港ai #chatgpt #ai實戰](https://www.youtube.com/watch?v=SJsP22EO5RQ) | 2 weeks ago |
 | 5 | [AI製作可愛IG Bios 動畫：活用ChatGPT Image 2 為自己增添更多樂趣 \| 完全免費 #香港ai #chatgpt #ai實戰 #ai工具 #廣東話 #openai #我想用ai賺錢](https://www.youtube.com/watch?v=ks1PWdUrH2Q) | 3 weeks ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [香港免 VPN 使用 Claude Code 攻略！配合 Zo Computer 雲端電腦，用手機隨時隨地 Vibe Coding 兼一鍵發佈！](https://www.youtube.com/watch?v=I0zYa9ecT3M) | Today |
-| 2 | [為什麼 AI 小學數學都答錯？因為 AI 的本質不是「計數機」](https://www.youtube.com/watch?v=TqHubtuMBb8) | 1 day ago |
-| 3 | [Altman、Amodei 改口：AI 未有大規模取代白領？](https://www.youtube.com/watch?v=V0GFn50jtcc) | 1 day ago |
-| 4 | [【AI 整 PPT 實測】ChatGPT、Claude、Copilot 大對決！那個完美保留公司設計 Template？](https://www.youtube.com/watch?v=g4GtdDi1AA4) | 2 days ago |
-| 5 | [AI真的會搶你份工？2026最新數據，職缺不跌反升](https://www.youtube.com/watch?v=ujJ5bY7O1Ho) | 3 days ago |
+| 1 | [香港免 VPN 使用 Claude Code 攻略！配合 Zo Computer 雲端電腦，用手機隨時隨地 Vibe Coding 兼一鍵發佈！](https://www.youtube.com/watch?v=I0zYa9ecT3M) | 1 day ago |
+| 2 | [為什麼 AI 小學數學都答錯？因為 AI 的本質不是「計數機」](https://www.youtube.com/watch?v=TqHubtuMBb8) | 2 days ago |
+| 3 | [Altman、Amodei 改口：AI 未有大規模取代白領？](https://www.youtube.com/watch?v=V0GFn50jtcc) | 2 days ago |
+| 4 | [【AI 整 PPT 實測】ChatGPT、Claude、Copilot 大對決！那個完美保留公司設計 Template？](https://www.youtube.com/watch?v=g4GtdDi1AA4) | 3 days ago |
+| 5 | [AI真的會搶你份工？2026最新數據，職缺不跌反升](https://www.youtube.com/watch?v=ujJ5bY7O1Ho) | 4 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -59,7 +59,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Claude Code 轉 Codex：五分鐘無痛轉移整個專案](https://www.youtube.com/watch?v=DmkKxzdRUAc) | 5 days ago |
+| 1 | [Claude Code 轉 Codex：五分鐘無痛轉移整個專案](https://www.youtube.com/watch?v=DmkKxzdRUAc) | 6 days ago |
 | 2 | [PrintingPress：把任何網站變成 Claude Code 能用的 CLI](https://www.youtube.com/watch?v=48yu2garzl0) | 1 week ago |
 | 3 | [一次搞懂 Harness Engineering：定義、Claude Code 實作、未來公司架構](https://www.youtube.com/watch?v=unpUDo5UPb4) | 2 weeks ago |
 | 4 | [Claude Code + Obsidian 個人知識庫，token 用量直接節省 95%](https://www.youtube.com/watch?v=dlnqJIgsiAg) | 3 weeks ago |
