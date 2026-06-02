@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-06-02 21:45 HKT*
+*Last updated: 2026-06-03 03:34 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [香港免 VPN 使用 Claude Code 攻略！配合 Zo Computer 雲端電腦，用手機隨時隨地 Vibe Coding 兼一鍵發佈！](https://www.youtube.com/watch?v=I0zYa9ecT3M) | 4 days ago |
-| 2 | [為什麼 AI 小學數學都答錯？因為 AI 的本質不是「計數機」](https://www.youtube.com/watch?v=TqHubtuMBb8) | 5 days ago |
-| 3 | [Altman、Amodei 改口：AI 未有大規模取代白領？](https://www.youtube.com/watch?v=V0GFn50jtcc) | 5 days ago |
-| 4 | [【AI 整 PPT 實測】ChatGPT、Claude、Copilot 大對決！那個完美保留公司設計 Template？](https://www.youtube.com/watch?v=g4GtdDi1AA4) | 6 days ago |
-| 5 | [AI真的會搶你份工？2026最新數據，職缺不跌反升](https://www.youtube.com/watch?v=ujJ5bY7O1Ho) | 1 week ago |
+| 1 | [【 SEO/GEO 免費流量】 Ivan So 新網站 30日過萬點擊 \| 拆解 Ahrefs 報告，用 Vibe Coding 搶佔 AI 流量！](https://www.youtube.com/watch?v=DfZbR2VFJII) | Today |
+| 2 | [香港免 VPN 使用 Claude Code 攻略！配合 Zo Computer 雲端電腦，用手機隨時隨地 Vibe Coding 兼一鍵發佈！](https://www.youtube.com/watch?v=I0zYa9ecT3M) | 4 days ago |
+| 3 | [為什麼 AI 小學數學都答錯？因為 AI 的本質不是「計數機」](https://www.youtube.com/watch?v=TqHubtuMBb8) | 5 days ago |
+| 4 | [Altman、Amodei 改口：AI 未有大規模取代白領？](https://www.youtube.com/watch?v=V0GFn50jtcc) | 5 days ago |
+| 5 | [【AI 整 PPT 實測】ChatGPT、Claude、Copilot 大對決！那個完美保留公司設計 Template？](https://www.youtube.com/watch?v=g4GtdDi1AA4) | 6 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
