@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03 22:18 HKT",
+  "last_updated": "2026-06-04 03:39 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -137,7 +137,7 @@
           "url": "https://www.youtube.com/watch?v=Jv-rVgqqKMY",
           "published": "2026-06-03",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "【 SEO/GEO 免費流量】 Ivan So 新網站 30日過萬點擊 | 拆解 Ahrefs 報告，用 Vibe Coding 搶佔 AI 流量！",
