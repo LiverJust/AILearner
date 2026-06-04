@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04 20:35 HKT",
+  "last_updated": "2026-06-05 02:05 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -137,7 +137,7 @@
           "url": "https://www.youtube.com/watch?v=PEVR_KZXff0",
           "published": "2026-06-04",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "Perplexity Search as Code：AI 自己寫程式去搜尋？",
