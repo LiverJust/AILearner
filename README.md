@@ -3,16 +3,16 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-06-05 15:57 HKT*
+*Last updated: 2026-06-05 20:28 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [6個Claude核心功能讓你超越99%的AI使用者！Cowork/Code保姆級完整教學，自動生成內容\|簡報\|網頁\|工作流，從入門到進階一次精通，打造你的專屬AI員工！](https://www.youtube.com/watch?v=8244knXN9e0) | 2 weeks ago |
-| 2 | [重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案\|整理聊天記錄\|超強記憶體，何時使用哪個工具...](https://www.youtube.com/watch?v=uE1XDwDOtbU) | 3 weeks ago |
-| 3 | [OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的...](https://www.youtube.com/watch?v=vpHX-WzpHTw) | 4 weeks ago |
-| 4 | [Claude Design保姆級完整教學：跟你聊聊天就建造一切還一鍵上線，5個真實案例手把手帶你做，適合初學者的簡易網站，0門檻人人可做！簡報\|動態圖形\|AI影片\|網...](https://www.youtube.com/watch?v=yuIbPmOw8ZE) | 1 month ago |
+| 2 | [重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案\|整理聊天記錄\|超強記憶體，何時使用哪個工具一次告訴你！手把手帶你做！](https://www.youtube.com/watch?v=uE1XDwDOtbU) | 3 weeks ago |
+| 3 | [OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的工作方式全都白費了…](https://www.youtube.com/watch?v=vpHX-WzpHTw) | 4 weeks ago |
+| 4 | [Claude Design保姆級完整教學：跟你聊聊天就建造一切還一鍵上線，5個真實案例手把手帶你做，適合初學者的簡易網站，0門檻人人可做！簡報\|動態圖形\|AI影片\|網站部署，3個月內把副業變主業！](https://www.youtube.com/watch?v=yuIbPmOw8ZE) | 1 month ago |
 | 5 | [【超級新手指南】我如何使用Claude Code？基礎知識和驚人用途一次說清楚！我每天都在用的5項Claude Code技能全公開，就算你是初學者，也能用它打造一人公司！](https://www.youtube.com/watch?v=wW6_Q-5aH5o) | 1 month ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [【電郵全自動化】別再人手追客！實測 Manus & Zo Computer 打造每日自動化 AI 電郵助手！](https://www.youtube.com/watch?v=PEVR_KZXff0) | 1 day ago |
-| 2 | [【 SEO/GEO 免費流量】 Ivan So 新網站 30日過萬點擊 \| 拆解 Ahrefs 報告，用 Vibe Coding 搶佔 AI 流量！](https://www.youtube.com/watch?v=DfZbR2VFJII) | 3 days ago |
-| 3 | [香港免 VPN 使用 Claude Code 攻略！配合 Zo Computer 雲端電腦，用手機隨時隨地 Vibe Coding 兼一鍵發佈！](https://www.youtube.com/watch?v=I0zYa9ecT3M) | 1 week ago |
-| 4 | [為什麼 AI 小學數學都答錯？因為 AI 的本質不是「計數機」](https://www.youtube.com/watch?v=TqHubtuMBb8) | 1 week ago |
-| 5 | [【AI 整 PPT 實測】ChatGPT、Claude、Copilot 大對決！那個完美保留公司設計 Template？](https://www.youtube.com/watch?v=g4GtdDi1AA4) | 1 week ago |
+| 1 | [Claude Code Dynamic Workflows 係咩？同舊 sub-agent 有咩分別？\|OMP 科技新聞](https://www.youtube.com/watch?v=H1yKylx7eHA) | Today |
+| 2 | [Claude Code 推出 Dynamic Workflows\|同舊 sub-agent 有咩唔同？#Shorts](https://www.youtube.com/watch?v=0o1pBf3BcyE) | Today |
+| 3 | [【電郵全自動化】別再人手追客！實測 Manus & Zo Computer 打造每日自動化 AI 電郵助手！](https://www.youtube.com/watch?v=PEVR_KZXff0) | 1 day ago |
+| 4 | [Perplexity Search as Code：AI 自己寫程式去搜尋？](https://www.youtube.com/watch?v=Jv-rVgqqKMY) | 2 days ago |
+| 5 | [【 SEO/GEO 免費流量】 Ivan So 新網站 30日過萬點擊 \| 拆解 Ahrefs 報告，用 Vibe Coding 搶佔 AI 流量！](https://www.youtube.com/watch?v=DfZbR2VFJII) | 3 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -59,7 +59,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Higgsfield + Claude Code = 全自動化的個人內容創作工作室](https://www.youtube.com/watch?v=NTh_f5gb-nU) | 5 days ago |
+| 1 | [Higgsfield + Claude Code = 全自動化的個人內容創作工作室 ](https://www.youtube.com/watch?v=NTh_f5gb-nU) | 5 days ago |
 | 2 | [Claude Code 轉 Codex：五分鐘無痛轉移整個專案](https://www.youtube.com/watch?v=DmkKxzdRUAc) | 1 week ago |
 | 3 | [PrintingPress：把任何網站變成 Claude Code 能用的 CLI](https://www.youtube.com/watch?v=48yu2garzl0) | 2 weeks ago |
 | 4 | [一次搞懂 Harness Engineering：定義、Claude Code 實作、未來公司架構](https://www.youtube.com/watch?v=unpUDo5UPb4) | 3 weeks ago |

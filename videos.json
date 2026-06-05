@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05 15:57 HKT",
+  "last_updated": "2026-06-05 20:28 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -14,21 +14,21 @@
           "is_new_today": false
         },
         {
-          "title": "重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案｜整理聊天記錄｜超強記憶體，何時使用哪個工具...",
+          "title": "重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案｜整理聊天記錄｜超強記憶體，何時使用哪個工具一次告訴你！手把手帶你做！",
           "url": "https://www.youtube.com/watch?v=uE1XDwDOtbU",
           "published": "2026-05-10",
           "age": "3 weeks ago",
           "is_new_today": false
         },
         {
-          "title": "OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的...",
+          "title": "OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的工作方式全都白費了…",
           "url": "https://www.youtube.com/watch?v=vpHX-WzpHTw",
           "published": "2026-05-07",
           "age": "4 weeks ago",
           "is_new_today": false
         },
         {
-          "title": "Claude Design保姆級完整教學：跟你聊聊天就建造一切還一鍵上線，5個真實案例手把手帶你做，適合初學者的簡易網站，0門檻人人可做！簡報｜動態圖形｜AI影片｜網...",
+          "title": "Claude Design保姆級完整教學：跟你聊聊天就建造一切還一鍵上線，5個真實案例手把手帶你做，適合初學者的簡易網站，0門檻人人可做！簡報｜動態圖形｜AI影片｜網站部署，3個月內把副業變主業！",
           "url": "https://www.youtube.com/watch?v=yuIbPmOw8ZE",
           "published": "2026-04-29",
           "age": "1 month ago",
@@ -133,6 +133,20 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "Claude Code Dynamic Workflows 係咩？同舊 sub-agent 有咩分別？｜OMP 科技新聞",
+          "url": "https://www.youtube.com/watch?v=H1yKylx7eHA",
+          "published": "2026-06-05",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
+          "title": "Claude Code 推出 Dynamic Workflows｜同舊 sub-agent 有咩唔同？#Shorts",
+          "url": "https://www.youtube.com/watch?v=0o1pBf3BcyE",
+          "published": "2026-06-05",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "【電郵全自動化】別再人手追客！實測 Manus & Zo Computer 打造每日自動化 AI 電郵助手！",
           "url": "https://www.youtube.com/watch?v=PEVR_KZXff0",
           "published": "2026-06-04",
@@ -140,31 +154,17 @@
           "is_new_today": false
         },
         {
+          "title": "Perplexity Search as Code：AI 自己寫程式去搜尋？",
+          "url": "https://www.youtube.com/watch?v=Jv-rVgqqKMY",
+          "published": "2026-06-03",
+          "age": "2 days ago",
+          "is_new_today": false
+        },
+        {
           "title": "【 SEO/GEO 免費流量】 Ivan So 新網站 30日過萬點擊 | 拆解 Ahrefs 報告，用 Vibe Coding 搶佔 AI 流量！",
           "url": "https://www.youtube.com/watch?v=DfZbR2VFJII",
           "published": "2026-06-02",
           "age": "3 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "香港免 VPN 使用 Claude Code 攻略！配合 Zo Computer 雲端電腦，用手機隨時隨地 Vibe Coding 兼一鍵發佈！",
-          "url": "https://www.youtube.com/watch?v=I0zYa9ecT3M",
-          "published": "2026-05-29",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "為什麼 AI 小學數學都答錯？因為 AI 的本質不是「計數機」",
-          "url": "https://www.youtube.com/watch?v=TqHubtuMBb8",
-          "published": "2026-05-28",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "【AI 整 PPT 實測】ChatGPT、Claude、Copilot 大對決！那個完美保留公司設計 Template？",
-          "url": "https://www.youtube.com/watch?v=g4GtdDi1AA4",
-          "published": "2026-05-27",
-          "age": "1 week ago",
           "is_new_today": false
         }
       ]
@@ -217,7 +217,7 @@
       "url": "https://www.youtube.com/@JayLuxAI/videos",
       "videos": [
         {
-          "title": "Higgsfield + Claude Code = 全自動化的個人內容創作工作室",
+          "title": "Higgsfield + Claude Code = 全自動化的個人內容創作工作室 ",
           "url": "https://www.youtube.com/watch?v=NTh_f5gb-nU",
           "published": "2026-05-31",
           "age": "5 days ago",
