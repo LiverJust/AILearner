@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-06-08 21:56 HKT*
+*Last updated: 2026-06-09 02:15 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -40,10 +40,10 @@
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [Google Gemma 4 12B：多模態 AI 開始走向本地手提電腦 #Shorts](https://www.youtube.com/watch?v=YxHUTh6CvcQ) | Today |
-| 2 | [Google 開放 Gemma 4 12B：16GB 手提電腦跑多模態 AI](https://www.youtube.com/watch?v=raO8E-iQZig) | Today |
-| 3 | [AI 公司值幾萬億，普通人有冇份？Bernie Sanders 提案要分 50%](https://www.youtube.com/watch?v=dqABrmGUT5k) | 2 days ago |
-| 4 | [【Manus 新功能】自動化管理 Shopify ! 過百件產品都能自動換季宣傳](https://www.youtube.com/watch?v=LetkSvgLsxQ) | 3 days ago |
-| 5 | [Claude Code Dynamic Workflows 係咩？同舊 sub-agent 有咩分別？\|OMP 科技新聞](https://www.youtube.com/watch?v=H1yKylx7eHA) | 3 days ago |
+| 2 | [AI 公司值幾萬億，普通人有冇份？Bernie Sanders 提案要分 50%](https://www.youtube.com/watch?v=dqABrmGUT5k) | 2 days ago |
+| 3 | [【Manus 新功能】自動化管理 Shopify ! 過百件產品都能自動換季宣傳](https://www.youtube.com/watch?v=LetkSvgLsxQ) | 3 days ago |
+| 4 | [Claude Code Dynamic Workflows 係咩？同舊 sub-agent 有咩分別？\|OMP 科技新聞](https://www.youtube.com/watch?v=H1yKylx7eHA) | 3 days ago |
+| 5 | [Claude Code 推出 Dynamic Workflows\|同舊 sub-agent 有咩唔同？#Shorts](https://www.youtube.com/watch?v=0o1pBf3BcyE) | 3 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08 21:56 HKT",
+  "last_updated": "2026-06-09 02:15 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -137,14 +137,7 @@
           "url": "https://www.youtube.com/watch?v=YxHUTh6CvcQ",
           "published": "2026-06-08",
           "age": "Today",
-          "is_new_today": true
-        },
-        {
-          "title": "Google 開放 Gemma 4 12B：16GB 手提電腦跑多模態 AI",
-          "url": "https://www.youtube.com/watch?v=raO8E-iQZig",
-          "published": "2026-06-08",
-          "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "AI 公司值幾萬億，普通人有冇份？Bernie Sanders 提案要分 50%",
@@ -163,6 +156,13 @@
         {
           "title": "Claude Code Dynamic Workflows 係咩？同舊 sub-agent 有咩分別？｜OMP 科技新聞",
           "url": "https://www.youtube.com/watch?v=H1yKylx7eHA",
+          "published": "2026-06-05",
+          "age": "3 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Claude Code 推出 Dynamic Workflows｜同舊 sub-agent 有咩唔同？#Shorts",
+          "url": "https://www.youtube.com/watch?v=0o1pBf3BcyE",
           "published": "2026-06-05",
           "age": "3 days ago",
           "is_new_today": false
