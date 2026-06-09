@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09 20:28 HKT",
+  "last_updated": "2026-06-10 01:49 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -95,7 +95,7 @@
           "url": "https://www.youtube.com/watch?v=kShQyIiO4RI",
           "published": "2026-06-09",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "Hermes Desktop App 教學：放棄再修龍蝦，零基礎開通 WhatsApp / Telegram AI 助理！#HermesAgent #HermesDesktop #AI工具 #廣東話",
