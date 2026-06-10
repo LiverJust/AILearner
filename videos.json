@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10 15:57 HKT",
+  "last_updated": "2026-06-10 20:47 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -91,6 +91,13 @@
       "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
       "videos": [
         {
+          "title": "24小時實測 Kuse AI Coworker：將所有工作交俾 AI 同事 真係幫到手？ #Kuse #AICoworker #KuseAI #香港ai #ai工具 #廣東話 #ai實戰 #ai賺錢",
+          "url": "https://www.youtube.com/watch?v=IuHAYtgtAsE",
+          "published": "2026-06-10",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "Hermes Desktop App 教學：放棄再修龍蝦，零基礎開通 WhatsApp / Telegram AI 助理！#HermesAgent #HermesDesktop #AI工具 #廣東話",
           "url": "https://www.youtube.com/watch?v=ggCGubddqm0",
           "published": "2026-06-05",
@@ -115,13 +122,6 @@
           "title": "ChatGPT 5.5 有幾強？今次升級真係震驚到我 ｜ 三大升級令我重新愛上 ChatGPT #香港AI實戰示範 #chatgpt #香港ai #廣東話 #ai工具 #ai實戰 -#claude",
           "url": "https://www.youtube.com/watch?v=KYoih5c5FWA",
           "published": "2026-05-02",
-          "age": "1 month ago",
-          "is_new_today": false
-        },
-        {
-          "title": "ChatGPT Image 2 香港實測：我差點退訂ChatGPT… 比較 Gemini Nano Banana，AI圖像誰更強？#chatgptimage2 #chatgpt #廣東話 #香港ai",
-          "url": "https://www.youtube.com/watch?v=U3K5_ur-gXg",
-          "published": "2026-04-24",
           "age": "1 month ago",
           "is_new_today": false
         }
