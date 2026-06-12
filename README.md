@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-06-12 16:13 HKT*
+*Last updated: 2026-06-12 20:46 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -29,11 +29,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [24小時實測將所有工作交俾 AI 同事 Kuse AI Coworker真係幫到手？ #Kuse #AICoworker #KuseAI #香港ai #ai工具 #廣東話 #ai實戰 #ai賺錢](https://www.youtube.com/watch?v=IuHAYtgtAsE) | 2 days ago |
-| 2 | [Hermes Desktop App 教學：放棄再修龍蝦，零基礎開通 WhatsApp / Telegram AI 助理！#HermesAgent #HermesDesktop #AI工具 #廣東話](https://www.youtube.com/watch?v=ggCGubddqm0) | 1 week ago |
-| 3 | [Google I/O 2026 15分鐘懶人包：Google AI 全面 Agent 化！但香港人又用唔用到？#GoogleIO2026 #Gemini35 #香港ai #ai工具 #廣東話](https://www.youtube.com/watch?v=KDyjBnX1Tz0) | 3 weeks ago |
-| 4 | [GPT-5.5 Codex Mac App 保姆級教學：零Coding 30分鐘就整到網站？由 Idea 到 Vibe Coding 實戰 #codex #香港ai #chatgpt #ai實戰](https://www.youtube.com/watch?v=SJsP22EO5RQ) | 3 weeks ago |
-| 5 | [ChatGPT 5.5 有幾強？今次升級真係震驚到我 \| 三大升級令我重新愛上 ChatGPT #香港AI實戰示範 #chatgpt #香港ai #廣東話 #ai工具 #ai實戰 -#claude](https://www.youtube.com/watch?v=KYoih5c5FWA) | 1 month ago |
+| 1 | [WWDC26 重點：香港懶人包！Apple AI 真正出手了！終於認真玩 AI？#WWDC26 #AppleAI #SiriAI #AppleIntelligence #香港AI #廣東話](https://www.youtube.com/watch?v=-6UakfO_C94) | Today |
+| 2 | [24小時實測將所有工作交俾 AI 同事 Kuse AI Coworker真係幫到手？ #Kuse #AICoworker #KuseAI #香港ai #ai工具 #廣東話 #ai實戰 #ai賺錢](https://www.youtube.com/watch?v=IuHAYtgtAsE) | 2 days ago |
+| 3 | [Hermes Desktop App 教學：放棄再修龍蝦，零基礎開通 WhatsApp / Telegram AI 助理！#HermesAgent #HermesDesktop #AI工具 #廣東話](https://www.youtube.com/watch?v=ggCGubddqm0) | 1 week ago |
+| 4 | [Google I/O 2026 15分鐘懶人包：Google AI 全面 Agent 化！但香港人又用唔用到？#GoogleIO2026 #Gemini35 #香港ai #ai工具 #廣東話](https://www.youtube.com/watch?v=KDyjBnX1Tz0) | 3 weeks ago |
+| 5 | [GPT-5.5 Codex Mac App 保姆級教學：零Coding 30分鐘就整到網站？由 Idea 到 Vibe Coding 實戰 #codex #香港ai #chatgpt #ai實戰](https://www.youtube.com/watch?v=SJsP22EO5RQ) | 3 weeks ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
