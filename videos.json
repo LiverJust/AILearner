@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13 15:37 HKT",
+  "last_updated": "2026-06-13 19:44 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -49,6 +49,13 @@
       "url": "https://www.youtube.com/@lichangzhanglaile/videos",
       "videos": [
         {
+          "title": "零基礎30分鐘學會Codex 95%功能！【福利贈送】",
+          "url": "https://www.youtube.com/watch?v=dMiV7Yx9yk4",
+          "published": "2026-06-13",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "15分鐘學會AI Agent｜完整講解",
           "url": "https://www.youtube.com/watch?v=fwdzsY9KWKk",
           "published": "2026-06-06",
@@ -74,13 +81,6 @@
           "url": "https://www.youtube.com/watch?v=maNOUZhYTHI",
           "published": "2026-05-16",
           "age": "4 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "11分鐘學完吳恩達AI For Everyone: 普通人學AI先看這一支！",
-          "url": "https://www.youtube.com/watch?v=4INxohsHJCc",
-          "published": "2026-05-09",
-          "age": "1 month ago",
           "is_new_today": false
         }
       ]

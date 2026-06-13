@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-06-13 15:37 HKT*
+*Last updated: 2026-06-13 19:44 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -19,11 +19,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [15分鐘學會AI Agent\|完整講解](https://www.youtube.com/watch?v=fwdzsY9KWKk) | 1 week ago |
-| 2 | [現在學AI，真的還不晚：30天從小白到上手！](https://www.youtube.com/watch?v=vWzKHp9yl3M) | 2 weeks ago |
-| 3 | [AI時代，真正拉開差距的3种能力！](https://www.youtube.com/watch?v=pyqUiHyz_-c) | 3 weeks ago |
-| 4 | [11分鐘學完谷歌8小時AI王牌課程！](https://www.youtube.com/watch?v=maNOUZhYTHI) | 4 weeks ago |
-| 5 | [11分鐘學完吳恩達AI For Everyone: 普通人學AI先看這一支！](https://www.youtube.com/watch?v=4INxohsHJCc) | 1 month ago |
+| 1 | [零基礎30分鐘學會Codex 95%功能！【福利贈送】](https://www.youtube.com/watch?v=dMiV7Yx9yk4) | Today |
+| 2 | [15分鐘學會AI Agent\|完整講解](https://www.youtube.com/watch?v=fwdzsY9KWKk) | 1 week ago |
+| 3 | [現在學AI，真的還不晚：30天從小白到上手！](https://www.youtube.com/watch?v=vWzKHp9yl3M) | 2 weeks ago |
+| 4 | [AI時代，真正拉開差距的3种能力！](https://www.youtube.com/watch?v=pyqUiHyz_-c) | 3 weeks ago |
+| 5 | [11分鐘學完谷歌8小時AI王牌課程！](https://www.youtube.com/watch?v=maNOUZhYTHI) | 4 weeks ago |
 
 ### 我想用Ai賺錢 · [@我想用Ai賺錢](https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos)
 
