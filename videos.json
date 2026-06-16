@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-16 03:35 HKT",
+  "last_updated": "2026-06-16 17:13 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -21,21 +21,21 @@
           "is_new_today": false
         },
         {
-          "title": "重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案｜整理聊天記錄｜超強記憶體，何時使用哪個工具一次告訴你！手把手帶你做！",
+          "title": "重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案｜整理聊天記錄｜超強記憶體，何時使用哪個工具...",
           "url": "https://www.youtube.com/watch?v=uE1XDwDOtbU",
           "published": "2026-05-10",
           "age": "1 month ago",
           "is_new_today": false
         },
         {
-          "title": "OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的工作方式全都白費了…",
+          "title": "OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的...",
           "url": "https://www.youtube.com/watch?v=vpHX-WzpHTw",
           "published": "2026-05-07",
           "age": "1 month ago",
           "is_new_today": false
         },
         {
-          "title": "Claude Design保姆級完整教學：跟你聊聊天就建造一切還一鍵上線，5個真實案例手把手帶你做，適合初學者的簡易網站，0門檻人人可做！簡報｜動態圖形｜AI影片｜網站部署，3個月內把副業變主業！",
+          "title": "Claude Design保姆級完整教學：跟你聊聊天就建造一切還一鍵上線，5個真實案例手把手帶你做，適合初學者的簡易網站，0門檻人人可做！簡報｜動態圖形｜AI影片｜網...",
           "url": "https://www.youtube.com/watch?v=yuIbPmOw8ZE",
           "published": "2026-04-29",
           "age": "1 month ago",
@@ -52,7 +52,7 @@
           "title": "零基礎30分鐘學會Codex 95%功能！【福利贈送】",
           "url": "https://www.youtube.com/watch?v=dMiV7Yx9yk4",
           "published": "2026-06-13",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
@@ -94,20 +94,13 @@
           "title": "WWDC26 重點：香港懶人包！Apple AI 真正出手了！終於認真玩 AI？#WWDC26 #AppleAI #SiriAI #AppleIntelligence #香港AI #廣東話",
           "url": "https://www.youtube.com/watch?v=-6UakfO_C94",
           "published": "2026-06-12",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
           "title": "24小時實測將所有工作交俾 AI 同事 Kuse AI Coworker真係幫到手？ #Kuse #AICoworker #KuseAI #香港ai #ai工具 #廣東話 #ai實戰 #ai賺錢",
           "url": "https://www.youtube.com/watch?v=IuHAYtgtAsE",
           "published": "2026-06-10",
-          "age": "5 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "不用 Terminal 都可以開 AI Agent？Hermes Desktop App 零基礎教學 #香港ai #shorts #shortvideo #hermesagent #廣東話 #ai工具",
-          "url": "https://www.youtube.com/watch?v=kShQyIiO4RI",
-          "published": "2026-06-09",
           "age": "6 days ago",
           "is_new_today": false
         },
@@ -119,10 +112,17 @@
           "is_new_today": false
         },
         {
-          "title": "Google I/O 2026重點懶人包：有咩關香港人事？#googleio2026 #gemini #geminispark #geminiomni #gemini35 #Googleglasses",
-          "url": "https://www.youtube.com/watch?v=0jw5ON-o7OY",
-          "published": "2026-05-26",
-          "age": "2 weeks ago",
+          "title": "Google I/O 2026 15分鐘懶人包：Google AI 全面 Agent 化！但香港人又用唔用到？#GoogleIO2026 #Gemini35 #香港ai #ai工具 #廣東話",
+          "url": "https://www.youtube.com/watch?v=KDyjBnX1Tz0",
+          "published": "2026-05-22",
+          "age": "3 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "GPT-5.5 Codex Mac App 保姆級教學：零Coding 30分鐘就整到網站？由 Idea 到 Vibe Coding 實戰 #codex #香港ai #chatgpt #ai實戰",
+          "url": "https://www.youtube.com/watch?v=SJsP22EO5RQ",
+          "published": "2026-05-16",
+          "age": "1 month ago",
           "is_new_today": false
         }
       ]
@@ -132,27 +132,6 @@
       "handle": "@ompshek",
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
-        {
-          "title": "Google 用 2,000 部退役 Pixel 砌數據中心？低碳運算嘅新諗法 #Shorts",
-          "url": "https://www.youtube.com/watch?v=LMf-dA-Xfx4",
-          "published": "2026-06-14",
-          "age": "1 day ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Claude Fable 5 與 Mythos 5 登場｜SWE-Bench 80.3% 屠榜，頂尖模型首次對外開放",
-          "url": "https://www.youtube.com/watch?v=tfk0YIyI8dA",
-          "published": "2026-06-10",
-          "age": "5 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Google Gemma 4 12B：多模態 AI 開始走向本地手提電腦 #Shorts",
-          "url": "https://www.youtube.com/watch?v=YxHUTh6CvcQ",
-          "published": "2026-06-08",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
         {
           "title": "AI 公司值幾萬億，普通人有冇份？Bernie Sanders 提案要分 50%",
           "url": "https://www.youtube.com/watch?v=dqABrmGUT5k",
@@ -166,6 +145,27 @@
           "published": "2026-06-05",
           "age": "1 week ago",
           "is_new_today": false
+        },
+        {
+          "title": "【職場必學 AI】別再人手追客！實測 Manus & Zo Computer 打造每日自動化 AI 電郵助手！",
+          "url": "https://www.youtube.com/watch?v=PEVR_KZXff0",
+          "published": "2026-06-04",
+          "age": "1 week ago",
+          "is_new_today": false
+        },
+        {
+          "title": "【 SEO/GEO 免費流量】 Ivan So 新網站 30日過萬點擊 | 拆解 Ahrefs 報告，用 Vibe Coding 搶佔 AI 流量！",
+          "url": "https://www.youtube.com/watch?v=DfZbR2VFJII",
+          "published": "2026-06-02",
+          "age": "2 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "香港免 VPN 使用 Claude Code 攻略！配合 Zo Computer 雲端電腦，用手機隨時隨地 Vibe Coding 兼一鍵發佈！",
+          "url": "https://www.youtube.com/watch?v=I0zYa9ecT3M",
+          "published": "2026-05-29",
+          "age": "2 weeks ago",
+          "is_new_today": false
         }
       ]
     },
@@ -178,7 +178,7 @@
           "title": "Hermes Agent 保姆級教學來了！最安全的 AI 私人助理造成 OpanClaw 大規模棄養潮，用過就回不去了！",
           "url": "https://www.youtube.com/watch?v=-EivK7vpOXY",
           "published": "2026-06-14",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
@@ -206,7 +206,7 @@
           "title": "公司規定要用 SharePoint 但完全看不懂？這套「新手生存指南」讓你輕鬆掌握它的底層邏輯！",
           "url": "https://www.youtube.com/watch?v=8S6yvJMlmLs",
           "published": "2026-04-17",
-          "age": "1 month ago",
+          "age": "2 months ago",
           "is_new_today": false
         }
       ]
@@ -220,7 +220,7 @@
           "title": "500+ 小時 Claude Code 心得：5 件我希望早點知道的事",
           "url": "https://www.youtube.com/watch?v=JbNTSwevk3w",
           "published": "2026-06-14",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
@@ -231,7 +231,7 @@
           "is_new_today": false
         },
         {
-          "title": "Higgsfield + Claude Code = 全自動化的個人內容創作工作室 ",
+          "title": "Higgsfield + Claude Code = 全自動化的個人內容創作工作室",
           "url": "https://www.youtube.com/watch?v=NTh_f5gb-nU",
           "published": "2026-05-31",
           "age": "2 weeks ago",
@@ -248,7 +248,7 @@
           "title": "PrintingPress：把任何網站變成 Claude Code 能用的 CLI",
           "url": "https://www.youtube.com/watch?v=48yu2garzl0",
           "published": "2026-05-17",
-          "age": "4 weeks ago",
+          "age": "1 month ago",
           "is_new_today": false
         }
       ]
