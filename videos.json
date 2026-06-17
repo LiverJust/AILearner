@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17 16:51 HKT",
+  "last_updated": "2026-06-17 21:34 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -91,6 +91,13 @@
       "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
       "videos": [
         {
+          "title": "【香港創業者必備】5 分鐘無痛上線專業網站：Readdy AI 全能網站製作教學及實測 ｜ 超簡易AI網站製作工具 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI",
+          "url": "https://www.youtube.com/watch?v=9M8TtoJKUC0",
+          "published": "2026-06-17",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "WWDC26 重點：香港懶人包！Apple AI 真正出手了！終於認真玩 AI？#WWDC26 #AppleAI #SiriAI #AppleIntelligence #香港AI #廣東話",
           "url": "https://www.youtube.com/watch?v=-6UakfO_C94",
           "published": "2026-06-12",
@@ -116,13 +123,6 @@
           "url": "https://www.youtube.com/watch?v=KDyjBnX1Tz0",
           "published": "2026-05-22",
           "age": "3 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "GPT-5.5 Codex Mac App 保姆級教學：零Coding 30分鐘就整到網站？由 Idea 到 Vibe Coding 實戰 #codex #香港ai #chatgpt #ai實戰",
-          "url": "https://www.youtube.com/watch?v=SJsP22EO5RQ",
-          "published": "2026-05-16",
-          "age": "1 month ago",
           "is_new_today": false
         }
       ]

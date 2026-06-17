@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-06-17 16:51 HKT*
+*Last updated: 2026-06-17 21:34 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -29,11 +29,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [WWDC26 重點：香港懶人包！Apple AI 真正出手了！終於認真玩 AI？#WWDC26 #AppleAI #SiriAI #AppleIntelligence #香港AI #廣東話](https://www.youtube.com/watch?v=-6UakfO_C94) | 5 days ago |
-| 2 | [24小時實測將所有工作交俾 AI 同事 Kuse AI Coworker真係幫到手？ #Kuse #AICoworker #KuseAI #香港ai #ai工具 #廣東話 #ai實戰 #ai賺錢](https://www.youtube.com/watch?v=IuHAYtgtAsE) | 1 week ago |
-| 3 | [Hermes Desktop App 教學：放棄再修龍蝦，零基礎開通 WhatsApp / Telegram AI 助理！#HermesAgent #HermesDesktop #AI工具 #廣東話](https://www.youtube.com/watch?v=ggCGubddqm0) | 1 week ago |
-| 4 | [Google I/O 2026 15分鐘懶人包：Google AI 全面 Agent 化！但香港人又用唔用到？#GoogleIO2026 #Gemini35 #香港ai #ai工具 #廣東話](https://www.youtube.com/watch?v=KDyjBnX1Tz0) | 3 weeks ago |
-| 5 | [GPT-5.5 Codex Mac App 保姆級教學：零Coding 30分鐘就整到網站？由 Idea 到 Vibe Coding 實戰 #codex #香港ai #chatgpt #ai實戰](https://www.youtube.com/watch?v=SJsP22EO5RQ) | 1 month ago |
+| 1 | [【香港創業者必備】5 分鐘無痛上線專業網站：Readdy AI 全能網站製作教學及實測 \| 超簡易AI網站製作工具 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI](https://www.youtube.com/watch?v=9M8TtoJKUC0) | Today |
+| 2 | [WWDC26 重點：香港懶人包！Apple AI 真正出手了！終於認真玩 AI？#WWDC26 #AppleAI #SiriAI #AppleIntelligence #香港AI #廣東話](https://www.youtube.com/watch?v=-6UakfO_C94) | 5 days ago |
+| 3 | [24小時實測將所有工作交俾 AI 同事 Kuse AI Coworker真係幫到手？ #Kuse #AICoworker #KuseAI #香港ai #ai工具 #廣東話 #ai實戰 #ai賺錢](https://www.youtube.com/watch?v=IuHAYtgtAsE) | 1 week ago |
+| 4 | [Hermes Desktop App 教學：放棄再修龍蝦，零基礎開通 WhatsApp / Telegram AI 助理！#HermesAgent #HermesDesktop #AI工具 #廣東話](https://www.youtube.com/watch?v=ggCGubddqm0) | 1 week ago |
+| 5 | [Google I/O 2026 15分鐘懶人包：Google AI 全面 Agent 化！但香港人又用唔用到？#GoogleIO2026 #Gemini35 #香港ai #ai工具 #廣東話](https://www.youtube.com/watch?v=KDyjBnX1Tz0) | 3 weeks ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
