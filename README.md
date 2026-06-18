@@ -3,17 +3,17 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-06-18 16:28 HKT*
+*Last updated: 2026-06-18 20:43 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [【全網最細】OpenAI Codex 徹底免費！新手必學的「進化版 ChatGPT」，從 0 到 1 完整入門教學！10 個高頻功能快速學會指揮你的超級 AI Agent，工作全自動！！](https://www.youtube.com/watch?v=39_iw_KLEFk) | 1 week ago |
-| 2 | [6個Claude核心功能讓你超越99%的AI使用者！Cowork/Code保姆級完整教學，自動生成內容\|簡報\|網頁\|工作流，從入門到進階一次精通，打造你的專屬AI員工！](https://www.youtube.com/watch?v=8244knXN9e0) | 4 weeks ago |
-| 3 | [重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案\|整理聊天記錄\|超強記憶體，何時使用哪個工具...](https://www.youtube.com/watch?v=uE1XDwDOtbU) | 1 month ago |
-| 4 | [OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的...](https://www.youtube.com/watch?v=vpHX-WzpHTw) | 1 month ago |
-| 5 | [Claude Design保姆級完整教學：跟你聊聊天就建造一切還一鍵上線，5個真實案例手把手帶你做，適合初學者的簡易網站，0門檻人人可做！簡報\|動態圖形\|AI影片\|網...](https://www.youtube.com/watch?v=yuIbPmOw8ZE) | 1 month ago |
+| 1 | [別再亂裝Skills了！我試用了100多個，真正離不開的只有這10個！免費、0門檻、不用寫程式，充分發揮Codex和Claude全部潛能的終極指南，看完直接領先99%的人！](https://www.youtube.com/watch?v=e-9zHHzGM3k) | Today |
+| 2 | [【全網最細】OpenAI Codex 徹底免費！新手必學的「進化版 ChatGPT」，從 0 到 1 完整入門教學！10 個高頻功能快速學會指揮你的超級 AI Agent，工作全自動！！](https://www.youtube.com/watch?v=39_iw_KLEFk) | 1 week ago |
+| 3 | [6個Claude核心功能讓你超越99%的AI使用者！Cowork/Code保姆級完整教學，自動生成內容\|簡報\|網頁\|工作流，從入門到進階一次精通，打造你的專屬AI員工！](https://www.youtube.com/watch?v=8244knXN9e0) | 4 weeks ago |
+| 4 | [重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案\|整理聊天記錄\|超強記憶體，何時使用哪個工具...](https://www.youtube.com/watch?v=uE1XDwDOtbU) | 1 month ago |
+| 5 | [OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的...](https://www.youtube.com/watch?v=vpHX-WzpHTw) | 1 month ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
 

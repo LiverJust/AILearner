@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-06-18 16:28 HKT",
+  "last_updated": "2026-06-18 20:43 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
       "handle": "@Teacher_Kong",
       "url": "https://www.youtube.com/@Teacher_Kong/videos",
       "videos": [
+        {
+          "title": "別再亂裝Skills了！我試用了100多個，真正離不開的只有這10個！免費、0門檻、不用寫程式，充分發揮Codex和Claude全部潛能的終極指南，看完直接領先99%的人！",
+          "url": "https://www.youtube.com/watch?v=e-9zHHzGM3k",
+          "published": "2026-06-18",
+          "age": "Today",
+          "is_new_today": true
+        },
         {
           "title": "【全網最細】OpenAI Codex 徹底免費！新手必學的「進化版 ChatGPT」，從 0 到 1 完整入門教學！10 個高頻功能快速學會指揮你的超級 AI Agent，工作全自動！！",
           "url": "https://www.youtube.com/watch?v=39_iw_KLEFk",
@@ -31,13 +38,6 @@
           "title": "OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的...",
           "url": "https://www.youtube.com/watch?v=vpHX-WzpHTw",
           "published": "2026-05-07",
-          "age": "1 month ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Claude Design保姆級完整教學：跟你聊聊天就建造一切還一鍵上線，5個真實案例手把手帶你做，適合初學者的簡易網站，0門檻人人可做！簡報｜動態圖形｜AI影片｜網...",
-          "url": "https://www.youtube.com/watch?v=yuIbPmOw8ZE",
-          "published": "2026-04-29",
           "age": "1 month ago",
           "is_new_today": false
         }
