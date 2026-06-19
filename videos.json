@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19 16:55 HKT",
+  "last_updated": "2026-06-19 21:25 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -28,14 +28,14 @@
           "is_new_today": false
         },
         {
-          "title": "重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案｜整理聊天記錄｜超強記憶體，何時使用哪個工具...",
+          "title": "重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案｜整理聊天記錄｜超強記憶體，何時使用哪個工具一次告訴你！手把手帶你做！",
           "url": "https://www.youtube.com/watch?v=uE1XDwDOtbU",
           "published": "2026-05-10",
           "age": "1 month ago",
           "is_new_today": false
         },
         {
-          "title": "OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的...",
+          "title": "OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的工作方式全都白費了…",
           "url": "https://www.youtube.com/watch?v=vpHX-WzpHTw",
           "published": "2026-05-07",
           "age": "1 month ago",
@@ -91,6 +91,13 @@
       "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
       "videos": [
         {
+          "title": "【 AI網站避雷 】網站上線後唔知做咩？如何避免淪為電子卡片？用#Readdy AI打造24小時AI客服系統 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI #ai實戰",
+          "url": "https://www.youtube.com/watch?v=wTMknf2MsZg",
+          "published": "2026-06-19",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "【香港創業者必備】5 分鐘無痛上線專業網站：Readdy AI 全能網站製作教學及實測 ｜ 超簡易AI網站製作工具 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI",
           "url": "https://www.youtube.com/watch?v=9M8TtoJKUC0",
           "published": "2026-06-17",
@@ -112,17 +119,10 @@
           "is_new_today": false
         },
         {
-          "title": "Hermes Desktop App 教學：放棄再修龍蝦，零基礎開通 WhatsApp / Telegram AI 助理！#HermesAgent #HermesDesktop #AI工具 #廣東話",
-          "url": "https://www.youtube.com/watch?v=ggCGubddqm0",
-          "published": "2026-06-05",
-          "age": "2 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Google I/O 2026 15分鐘懶人包：Google AI 全面 Agent 化！但香港人又用唔用到？#GoogleIO2026 #Gemini35 #香港ai #ai工具 #廣東話",
-          "url": "https://www.youtube.com/watch?v=KDyjBnX1Tz0",
-          "published": "2026-05-22",
-          "age": "4 weeks ago",
+          "title": "不用 Terminal 都可以開 AI Agent？Hermes Desktop App 零基礎教學 #香港ai #shorts #shortvideo #hermesagent #廣東話 #ai工具",
+          "url": "https://www.youtube.com/watch?v=kShQyIiO4RI",
+          "published": "2026-06-09",
+          "age": "1 week ago",
           "is_new_today": false
         }
       ]
@@ -132,6 +132,27 @@
       "handle": "@ompshek",
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
+        {
+          "title": "Google 用 2,000 部退役 Pixel 砌數據中心？低碳運算嘅新諗法 #Shorts",
+          "url": "https://www.youtube.com/watch?v=LMf-dA-Xfx4",
+          "published": "2026-06-14",
+          "age": "5 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Claude Fable 5 與 Mythos 5 登場｜SWE-Bench 80.3% 屠榜，頂尖模型首次對外開放",
+          "url": "https://www.youtube.com/watch?v=tfk0YIyI8dA",
+          "published": "2026-06-10",
+          "age": "1 week ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Google Gemma 4 12B：多模態 AI 開始走向本地手提電腦 #Shorts",
+          "url": "https://www.youtube.com/watch?v=YxHUTh6CvcQ",
+          "published": "2026-06-08",
+          "age": "1 week ago",
+          "is_new_today": false
+        },
         {
           "title": "AI 公司值幾萬億，普通人有冇份？Bernie Sanders 提案要分 50%",
           "url": "https://www.youtube.com/watch?v=dqABrmGUT5k",
@@ -144,27 +165,6 @@
           "url": "https://www.youtube.com/watch?v=LetkSvgLsxQ",
           "published": "2026-06-05",
           "age": "2 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "【職場必學 AI】別再人手追客！實測 Manus & Zo Computer 打造每日自動化 AI 電郵助手！",
-          "url": "https://www.youtube.com/watch?v=PEVR_KZXff0",
-          "published": "2026-06-04",
-          "age": "2 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "【 SEO/GEO 免費流量】 Ivan So 新網站 30日過萬點擊 | 拆解 Ahrefs 報告，用 Vibe Coding 搶佔 AI 流量！",
-          "url": "https://www.youtube.com/watch?v=DfZbR2VFJII",
-          "published": "2026-06-02",
-          "age": "2 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "香港免 VPN 使用 Claude Code 攻略！配合 Zo Computer 雲端電腦，用手機隨時隨地 Vibe Coding 兼一鍵發佈！",
-          "url": "https://www.youtube.com/watch?v=I0zYa9ecT3M",
-          "published": "2026-05-29",
-          "age": "3 weeks ago",
           "is_new_today": false
         }
       ]
@@ -231,7 +231,7 @@
           "is_new_today": false
         },
         {
-          "title": "Higgsfield + Claude Code = 全自動化的個人內容創作工作室",
+          "title": "Higgsfield + Claude Code = 全自動化的個人內容創作工作室 ",
           "url": "https://www.youtube.com/watch?v=NTh_f5gb-nU",
           "published": "2026-05-31",
           "age": "2 weeks ago",

@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-06-19 16:55 HKT*
+*Last updated: 2026-06-19 21:25 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -12,8 +12,8 @@
 | 1 | [別再亂裝Skills了！我試用了100多個，真正離不開的只有這10個！免費、0門檻、不用寫程式，充分發揮Codex和Claude全部潛能的終極指南，看完直接領先99%的人！](https://www.youtube.com/watch?v=e-9zHHzGM3k) | 1 day ago |
 | 2 | [【全網最細】OpenAI Codex 徹底免費！新手必學的「進化版 ChatGPT」，從 0 到 1 完整入門教學！10 個高頻功能快速學會指揮你的超級 AI Agent，工作全自動！！](https://www.youtube.com/watch?v=39_iw_KLEFk) | 2 weeks ago |
 | 3 | [6個Claude核心功能讓你超越99%的AI使用者！Cowork/Code保姆級完整教學，自動生成內容\|簡報\|網頁\|工作流，從入門到進階一次精通，打造你的專屬AI員工！](https://www.youtube.com/watch?v=8244knXN9e0) | 4 weeks ago |
-| 4 | [重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案\|整理聊天記錄\|超強記憶體，何時使用哪個工具...](https://www.youtube.com/watch?v=uE1XDwDOtbU) | 1 month ago |
-| 5 | [OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的...](https://www.youtube.com/watch?v=vpHX-WzpHTw) | 1 month ago |
+| 4 | [重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案\|整理聊天記錄\|超強記憶體，何時使用哪個工具一次告訴你！手把手帶你做！](https://www.youtube.com/watch?v=uE1XDwDOtbU) | 1 month ago |
+| 5 | [OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的工作方式全都白費了…](https://www.youtube.com/watch?v=vpHX-WzpHTw) | 1 month ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
 
@@ -29,21 +29,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [【香港創業者必備】5 分鐘無痛上線專業網站：Readdy AI 全能網站製作教學及實測 \| 超簡易AI網站製作工具 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI](https://www.youtube.com/watch?v=9M8TtoJKUC0) | 2 days ago |
-| 2 | [WWDC26 重點：香港懶人包！Apple AI 真正出手了！終於認真玩 AI？#WWDC26 #AppleAI #SiriAI #AppleIntelligence #香港AI #廣東話](https://www.youtube.com/watch?v=-6UakfO_C94) | 1 week ago |
-| 3 | [24小時實測將所有工作交俾 AI 同事 Kuse AI Coworker真係幫到手？ #Kuse #AICoworker #KuseAI #香港ai #ai工具 #廣東話 #ai實戰 #ai賺錢](https://www.youtube.com/watch?v=IuHAYtgtAsE) | 1 week ago |
-| 4 | [Hermes Desktop App 教學：放棄再修龍蝦，零基礎開通 WhatsApp / Telegram AI 助理！#HermesAgent #HermesDesktop #AI工具 #廣東話](https://www.youtube.com/watch?v=ggCGubddqm0) | 2 weeks ago |
-| 5 | [Google I/O 2026 15分鐘懶人包：Google AI 全面 Agent 化！但香港人又用唔用到？#GoogleIO2026 #Gemini35 #香港ai #ai工具 #廣東話](https://www.youtube.com/watch?v=KDyjBnX1Tz0) | 4 weeks ago |
+| 1 | [【 AI網站避雷 】網站上線後唔知做咩？如何避免淪為電子卡片？用#Readdy AI打造24小時AI客服系統 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI #ai實戰](https://www.youtube.com/watch?v=wTMknf2MsZg) | Today |
+| 2 | [【香港創業者必備】5 分鐘無痛上線專業網站：Readdy AI 全能網站製作教學及實測 \| 超簡易AI網站製作工具 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI](https://www.youtube.com/watch?v=9M8TtoJKUC0) | 2 days ago |
+| 3 | [WWDC26 重點：香港懶人包！Apple AI 真正出手了！終於認真玩 AI？#WWDC26 #AppleAI #SiriAI #AppleIntelligence #香港AI #廣東話](https://www.youtube.com/watch?v=-6UakfO_C94) | 1 week ago |
+| 4 | [24小時實測將所有工作交俾 AI 同事 Kuse AI Coworker真係幫到手？ #Kuse #AICoworker #KuseAI #香港ai #ai工具 #廣東話 #ai實戰 #ai賺錢](https://www.youtube.com/watch?v=IuHAYtgtAsE) | 1 week ago |
+| 5 | [不用 Terminal 都可以開 AI Agent？Hermes Desktop App 零基礎教學 #香港ai #shorts #shortvideo #hermesagent #廣東話 #ai工具](https://www.youtube.com/watch?v=kShQyIiO4RI) | 1 week ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [AI 公司值幾萬億，普通人有冇份？Bernie Sanders 提案要分 50%](https://www.youtube.com/watch?v=dqABrmGUT5k) | 1 week ago |
-| 2 | [【Manus 新功能】自動化管理 Shopify ! 過百件產品都能自動換季宣傳](https://www.youtube.com/watch?v=LetkSvgLsxQ) | 2 weeks ago |
-| 3 | [【職場必學 AI】別再人手追客！實測 Manus & Zo Computer 打造每日自動化 AI 電郵助手！](https://www.youtube.com/watch?v=PEVR_KZXff0) | 2 weeks ago |
-| 4 | [【 SEO/GEO 免費流量】 Ivan So 新網站 30日過萬點擊 \| 拆解 Ahrefs 報告，用 Vibe Coding 搶佔 AI 流量！](https://www.youtube.com/watch?v=DfZbR2VFJII) | 2 weeks ago |
-| 5 | [香港免 VPN 使用 Claude Code 攻略！配合 Zo Computer 雲端電腦，用手機隨時隨地 Vibe Coding 兼一鍵發佈！](https://www.youtube.com/watch?v=I0zYa9ecT3M) | 3 weeks ago |
+| 1 | [Google 用 2,000 部退役 Pixel 砌數據中心？低碳運算嘅新諗法 #Shorts](https://www.youtube.com/watch?v=LMf-dA-Xfx4) | 5 days ago |
+| 2 | [Claude Fable 5 與 Mythos 5 登場\|SWE-Bench 80.3% 屠榜，頂尖模型首次對外開放](https://www.youtube.com/watch?v=tfk0YIyI8dA) | 1 week ago |
+| 3 | [Google Gemma 4 12B：多模態 AI 開始走向本地手提電腦 #Shorts](https://www.youtube.com/watch?v=YxHUTh6CvcQ) | 1 week ago |
+| 4 | [AI 公司值幾萬億，普通人有冇份？Bernie Sanders 提案要分 50%](https://www.youtube.com/watch?v=dqABrmGUT5k) | 1 week ago |
+| 5 | [【Manus 新功能】自動化管理 Shopify ! 過百件產品都能自動換季宣傳](https://www.youtube.com/watch?v=LetkSvgLsxQ) | 2 weeks ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -61,7 +61,7 @@
 |---|-------|-----|
 | 1 | [500+ 小時 Claude Code 心得：5 件我希望早點知道的事](https://www.youtube.com/watch?v=JbNTSwevk3w) | 5 days ago |
 | 2 | [什麼是 AI Operating System？一套能讓AI 替你工作的系統 (附免費設定)](https://www.youtube.com/watch?v=EyZEJPP2JNQ) | 1 week ago |
-| 3 | [Higgsfield + Claude Code = 全自動化的個人內容創作工作室](https://www.youtube.com/watch?v=NTh_f5gb-nU) | 2 weeks ago |
+| 3 | [Higgsfield + Claude Code = 全自動化的個人內容創作工作室 ](https://www.youtube.com/watch?v=NTh_f5gb-nU) | 2 weeks ago |
 | 4 | [Claude Code 轉 Codex：五分鐘無痛轉移整個專案](https://www.youtube.com/watch?v=DmkKxzdRUAc) | 3 weeks ago |
 | 5 | [PrintingPress：把任何網站變成 Claude Code 能用的 CLI](https://www.youtube.com/watch?v=48yu2garzl0) | 1 month ago |
 
