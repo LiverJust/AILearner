@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-06-19 21:25 HKT*
+*Last updated: 2026-06-19 23:30 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Google 用 2,000 部退役 Pixel 砌數據中心？低碳運算嘅新諗法 #Shorts](https://www.youtube.com/watch?v=LMf-dA-Xfx4) | 5 days ago |
-| 2 | [Claude Fable 5 與 Mythos 5 登場\|SWE-Bench 80.3% 屠榜，頂尖模型首次對外開放](https://www.youtube.com/watch?v=tfk0YIyI8dA) | 1 week ago |
-| 3 | [Google Gemma 4 12B：多模態 AI 開始走向本地手提電腦 #Shorts](https://www.youtube.com/watch?v=YxHUTh6CvcQ) | 1 week ago |
-| 4 | [AI 公司值幾萬億，普通人有冇份？Bernie Sanders 提案要分 50%](https://www.youtube.com/watch?v=dqABrmGUT5k) | 1 week ago |
-| 5 | [【Manus 新功能】自動化管理 Shopify ! 過百件產品都能自動換季宣傳](https://www.youtube.com/watch?v=LetkSvgLsxQ) | 2 weeks ago |
+| 1 | [【AI Agent 大比拼】GPT-5.5 vs Claude Opus vs DeepSeek v4 Pro vs GLM 5.2：實測自動化工作流程，誰是性價比之王？](https://www.youtube.com/watch?v=h6ujUOYEUII) | Today |
+| 2 | [Google 用 2,000 部退役 Pixel 砌數據中心？低碳運算嘅新諗法 #Shorts](https://www.youtube.com/watch?v=LMf-dA-Xfx4) | 5 days ago |
+| 3 | [Claude Fable 5 與 Mythos 5 登場\|SWE-Bench 80.3% 屠榜，頂尖模型首次對外開放](https://www.youtube.com/watch?v=tfk0YIyI8dA) | 1 week ago |
+| 4 | [Google Gemma 4 12B：多模態 AI 開始走向本地手提電腦 #Shorts](https://www.youtube.com/watch?v=YxHUTh6CvcQ) | 1 week ago |
+| 5 | [AI 公司值幾萬億，普通人有冇份？Bernie Sanders 提案要分 50%](https://www.youtube.com/watch?v=dqABrmGUT5k) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -64,6 +64,16 @@
 | 3 | [Higgsfield + Claude Code = 全自動化的個人內容創作工作室 ](https://www.youtube.com/watch?v=NTh_f5gb-nU) | 2 weeks ago |
 | 4 | [Claude Code 轉 Codex：五分鐘無痛轉移整個專案](https://www.youtube.com/watch?v=DmkKxzdRUAc) | 3 weeks ago |
 | 5 | [PrintingPress：把任何網站變成 Claude Code 能用的 CLI](https://www.youtube.com/watch?v=48yu2garzl0) | 1 month ago |
+
+### PanSci 氾科學 · [@panscischool](https://www.youtube.com/@panscischool/videos)
+
+| # | Title | Age |
+|---|-------|-----|
+| 1 | [科學家終於做出真正的隨機](https://www.youtube.com/watch?v=eVBdIDj6dXk) | Today |
+| 2 | [一條鮭魚如何養大一棵樹？揭開三億年的地底網路【慢科學EP9】](https://www.youtube.com/watch?v=lH_zozgKHE4) | 1 day ago |
+| 3 | [泛科學YouTube會員六月專屬直播](https://www.youtube.com/watch?v=3Nde7jNPfAY) | 1 day ago |
+| 4 | [電哪來？公開電鰻的發電細胞](https://www.youtube.com/watch?v=0XFJ5ZWr1bk) | 1 day ago |
+| 5 | [靠TurboQuant擺脫記憶體焦慮？](https://www.youtube.com/watch?v=d7YGt1kWiv4) | 2 days ago |
 
 ---
 

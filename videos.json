@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19 21:25 HKT",
+  "last_updated": "2026-06-19 23:30 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "【AI Agent 大比拼】GPT-5.5 vs Claude Opus vs DeepSeek v4 Pro vs GLM 5.2：實測自動化工作流程，誰是性價比之王？",
+          "url": "https://www.youtube.com/watch?v=h6ujUOYEUII",
+          "published": "2026-06-19",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "Google 用 2,000 部退役 Pixel 砌數據中心？低碳運算嘅新諗法 #Shorts",
           "url": "https://www.youtube.com/watch?v=LMf-dA-Xfx4",
           "published": "2026-06-14",
@@ -158,13 +165,6 @@
           "url": "https://www.youtube.com/watch?v=dqABrmGUT5k",
           "published": "2026-06-06",
           "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "【Manus 新功能】自動化管理 Shopify ! 過百件產品都能自動換季宣傳",
-          "url": "https://www.youtube.com/watch?v=LetkSvgLsxQ",
-          "published": "2026-06-05",
-          "age": "2 weeks ago",
           "is_new_today": false
         }
       ]
@@ -249,6 +249,48 @@
           "url": "https://www.youtube.com/watch?v=48yu2garzl0",
           "published": "2026-05-17",
           "age": "1 month ago",
+          "is_new_today": false
+        }
+      ]
+    },
+    {
+      "name": "PanSci 氾科學",
+      "handle": "@panscischool",
+      "url": "https://www.youtube.com/@panscischool/videos",
+      "videos": [
+        {
+          "title": "科學家終於做出真正的隨機",
+          "url": "https://www.youtube.com/watch?v=eVBdIDj6dXk",
+          "published": "2026-06-19",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
+          "title": "一條鮭魚如何養大一棵樹？揭開三億年的地底網路【慢科學EP9】",
+          "url": "https://www.youtube.com/watch?v=lH_zozgKHE4",
+          "published": "2026-06-18",
+          "age": "1 day ago",
+          "is_new_today": false
+        },
+        {
+          "title": "泛科學YouTube會員六月專屬直播",
+          "url": "https://www.youtube.com/watch?v=3Nde7jNPfAY",
+          "published": "2026-06-18",
+          "age": "1 day ago",
+          "is_new_today": false
+        },
+        {
+          "title": "電哪來？公開電鰻的發電細胞",
+          "url": "https://www.youtube.com/watch?v=0XFJ5ZWr1bk",
+          "published": "2026-06-18",
+          "age": "1 day ago",
+          "is_new_today": false
+        },
+        {
+          "title": "靠TurboQuant擺脫記憶體焦慮？",
+          "url": "https://www.youtube.com/watch?v=d7YGt1kWiv4",
+          "published": "2026-06-17",
+          "age": "2 days ago",
           "is_new_today": false
         }
       ]

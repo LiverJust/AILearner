@@ -49,6 +49,12 @@ channels = [
         "url": "https://www.youtube.com/@JayLuxAI/videos",
         "channel_id": "UCKxp_qMkhBTVftkhTwKJFvw",
     },
+    {
+        "name": "PanSci \u6c3e\u79d1\u5b78",
+        "handle": "@panscischool",
+        "url": "https://www.youtube.com/@panscischool/videos",
+        "channel_id": "UCuHHKbwC0TWjeqxbqdO-N_g",
+    },
 ]
 
 
