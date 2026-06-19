@@ -50,7 +50,7 @@ channels = [
         "channel_id": "UCKxp_qMkhBTVftkhTwKJFvw",
     },
     {
-        "name": "PanSci \u6cdb\u79d1\u5b78",
+        "name": "PanSci \u6cdb\u79d1\u5b78\u9662",
         "handle": "@panscischool",
         "url": "https://www.youtube.com/@panscischool/featured",
         "channel_id": "UCuHHKbwC0TWjeqxbqdO-N_g",
