@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19 23:50 HKT",
+  "last_updated": "2026-06-20 01:45 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -95,7 +95,7 @@
           "url": "https://www.youtube.com/watch?v=wTMknf2MsZg",
           "published": "2026-06-19",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "【香港創業者必備】5 分鐘無痛上線專業網站：Readdy AI 全能網站製作教學及實測 ｜ 超簡易AI網站製作工具 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI",
@@ -137,7 +137,7 @@
           "url": "https://www.youtube.com/watch?v=h6ujUOYEUII",
           "published": "2026-06-19",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "Google 用 2,000 部退役 Pixel 砌數據中心？低碳運算嘅新諗法 #Shorts",
