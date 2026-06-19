@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19 23:46 HKT",
+  "last_updated": "2026-06-19 23:50 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -259,38 +259,38 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
-          "title": "科學家終於做出真正的隨機",
-          "url": "https://www.youtube.com/watch?v=eVBdIDj6dXk",
-          "published": "2026-06-19",
-          "age": "Today",
-          "is_new_today": true
-        },
-        {
-          "title": "一條鮭魚如何養大一棵樹？揭開三億年的地底網路【慢科學EP9】",
-          "url": "https://www.youtube.com/watch?v=lH_zozgKHE4",
-          "published": "2026-06-18",
-          "age": "1 day ago",
-          "is_new_today": false
-        },
-        {
-          "title": "泛科學YouTube會員六月專屬直播",
-          "url": "https://www.youtube.com/watch?v=3Nde7jNPfAY",
-          "published": "2026-06-18",
-          "age": "1 day ago",
-          "is_new_today": false
-        },
-        {
-          "title": "電哪來？公開電鰻的發電細胞",
-          "url": "https://www.youtube.com/watch?v=0XFJ5ZWr1bk",
-          "published": "2026-06-18",
-          "age": "1 day ago",
-          "is_new_today": false
-        },
-        {
-          "title": "靠TurboQuant擺脫記憶體焦慮？",
-          "url": "https://www.youtube.com/watch?v=d7YGt1kWiv4",
+          "title": "Google 即時翻譯！破英文也不怕？  NotebookLM大更新？Codex額度大放送！｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=l01kpXF2-Tg",
           "published": "2026-06-17",
           "age": "2 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "不管你用Codex 還是 Claude  都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ ｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=3rCPZizvb18",
+          "published": "2026-06-12",
+          "age": "1 week ago",
+          "is_new_today": false
+        },
+        {
+          "title": "【頻道會員招募中】募集一萬個AI實戰生！泛科學院 AI 成長計畫：打造你的 AI 競爭力！",
+          "url": "https://www.youtube.com/watch?v=-UaqOza8NrE",
+          "published": "2026-06-11",
+          "age": "1 week ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Claude 簡報原來可以改中文字型？｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=rYXHQBsA7Ng",
+          "published": "2026-06-05",
+          "age": "2 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Claude 內建10套免費配色！到底怎樣用？｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=9U9Zd2f8ZOw",
+          "published": "2026-06-04",
+          "age": "2 weeks ago",
           "is_new_today": false
         }
       ]

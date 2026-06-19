@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-06-19 23:46 HKT*
+*Last updated: 2026-06-19 23:50 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -69,11 +69,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [科學家終於做出真正的隨機](https://www.youtube.com/watch?v=eVBdIDj6dXk) | Today |
-| 2 | [一條鮭魚如何養大一棵樹？揭開三億年的地底網路【慢科學EP9】](https://www.youtube.com/watch?v=lH_zozgKHE4) | 1 day ago |
-| 3 | [泛科學YouTube會員六月專屬直播](https://www.youtube.com/watch?v=3Nde7jNPfAY) | 1 day ago |
-| 4 | [電哪來？公開電鰻的發電細胞](https://www.youtube.com/watch?v=0XFJ5ZWr1bk) | 1 day ago |
-| 5 | [靠TurboQuant擺脫記憶體焦慮？](https://www.youtube.com/watch?v=d7YGt1kWiv4) | 2 days ago |
+| 1 | [Google 即時翻譯！破英文也不怕？  NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 2 days ago |
+| 2 | [不管你用Codex 還是 Claude  都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ \|泛科學院](https://www.youtube.com/watch?v=3rCPZizvb18) | 1 week ago |
+| 3 | [【頻道會員招募中】募集一萬個AI實戰生！泛科學院 AI 成長計畫：打造你的 AI 競爭力！](https://www.youtube.com/watch?v=-UaqOza8NrE) | 1 week ago |
+| 4 | [Claude 簡報原來可以改中文字型？\|泛科學院](https://www.youtube.com/watch?v=rYXHQBsA7Ng) | 2 weeks ago |
+| 5 | [Claude 內建10套免費配色！到底怎樣用？\|泛科學院](https://www.youtube.com/watch?v=9U9Zd2f8ZOw) | 2 weeks ago |
 
 ---
 

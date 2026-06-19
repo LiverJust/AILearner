@@ -53,7 +53,7 @@ channels = [
         "name": "\u6cdb\u79d1\u5b78\u9662",
         "handle": "@panscischool",
         "url": "https://www.youtube.com/@panscischool/featured",
-        "channel_id": "UCuHHKbwC0TWjeqxbqdO-N_g",
+        "channel_id": "UCATnB3v_NkTTd9iD_4W2A-g",
     },
 ]
 
