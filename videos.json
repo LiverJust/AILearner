@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-19 23:30 HKT",
+  "last_updated": "2026-06-19 23:37 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -254,9 +254,9 @@
       ]
     },
     {
-      "name": "PanSci 氾科學",
+      "name": "PanSci 泛科學",
       "handle": "@panscischool",
-      "url": "https://www.youtube.com/@panscischool/videos",
+      "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
           "title": "科學家終於做出真正的隨機",

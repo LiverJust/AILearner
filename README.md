@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-06-19 23:30 HKT*
+*Last updated: 2026-06-19 23:37 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -65,7 +65,7 @@
 | 4 | [Claude Code 轉 Codex：五分鐘無痛轉移整個專案](https://www.youtube.com/watch?v=DmkKxzdRUAc) | 3 weeks ago |
 | 5 | [PrintingPress：把任何網站變成 Claude Code 能用的 CLI](https://www.youtube.com/watch?v=48yu2garzl0) | 1 month ago |
 
-### PanSci 氾科學 · [@panscischool](https://www.youtube.com/@panscischool/videos)
+### PanSci 泛科學 · [@panscischool](https://www.youtube.com/@panscischool/featured)
 
 | # | Title | Age |
 |---|-------|-----|
