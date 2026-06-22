@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-06-22 23:10 HKT*
+*Last updated: 2026-06-23 03:16 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -12,8 +12,8 @@
 | 1 | [別再亂裝Skills了！我試用了100多個，真正離不開的只有這10個！免費、0門檻、不用寫程式，充分發揮Codex和Claude全部潛能的終極指南，看完直接領先99%的人！](https://www.youtube.com/watch?v=e-9zHHzGM3k) | 4 days ago |
 | 2 | [【全網最細】OpenAI Codex 徹底免費！新手必學的「進化版 ChatGPT」，從 0 到 1 完整入門教學！10 個高頻功能快速學會指揮你的超級 AI Agent，工作全自動！！](https://www.youtube.com/watch?v=39_iw_KLEFk) | 2 weeks ago |
 | 3 | [6個Claude核心功能讓你超越99%的AI使用者！Cowork/Code保姆級完整教學，自動生成內容\|簡報\|網頁\|工作流，從入門到進階一次精通，打造你的專屬AI員工！](https://www.youtube.com/watch?v=8244knXN9e0) | 1 month ago |
-| 4 | [重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案\|整理聊天記錄\|超強記憶體，何時使用哪個工具...](https://www.youtube.com/watch?v=uE1XDwDOtbU) | 1 month ago |
-| 5 | [OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的...](https://www.youtube.com/watch?v=vpHX-WzpHTw) | 1 month ago |
+| 4 | [重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案\|整理聊天記錄\|超強記憶體，何時使用哪個工具一次告訴你！手把手帶你做！](https://www.youtube.com/watch?v=uE1XDwDOtbU) | 1 month ago |
+| 5 | [OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的工作方式全都白費了…](https://www.youtube.com/watch?v=vpHX-WzpHTw) | 1 month ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
 
@@ -61,7 +61,7 @@
 |---|-------|-----|
 | 1 | [500+ 小時 Claude Code 心得：5 件我希望早點知道的事](https://www.youtube.com/watch?v=JbNTSwevk3w) | 1 week ago |
 | 2 | [什麼是 AI Operating System？一套能讓AI 替你工作的系統 (附免費設定)](https://www.youtube.com/watch?v=EyZEJPP2JNQ) | 2 weeks ago |
-| 3 | [Higgsfield + Claude Code = 全自動化的個人內容創作工作室](https://www.youtube.com/watch?v=NTh_f5gb-nU) | 3 weeks ago |
+| 3 | [Higgsfield + Claude Code = 全自動化的個人內容創作工作室 ](https://www.youtube.com/watch?v=NTh_f5gb-nU) | 3 weeks ago |
 | 4 | [Claude Code 轉 Codex：五分鐘無痛轉移整個專案](https://www.youtube.com/watch?v=DmkKxzdRUAc) | 4 weeks ago |
 | 5 | [PrintingPress：把任何網站變成 Claude Code 能用的 CLI](https://www.youtube.com/watch?v=48yu2garzl0) | 1 month ago |
 
