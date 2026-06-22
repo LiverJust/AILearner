@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22 17:35 HKT",
+  "last_updated": "2026-06-22 23:10 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -119,10 +119,10 @@
           "is_new_today": false
         },
         {
-          "title": "Hermes Desktop App 教學：放棄再修龍蝦，零基礎開通 WhatsApp / Telegram AI 助理！#HermesAgent #HermesDesktop #AI工具 #廣東話",
-          "url": "https://www.youtube.com/watch?v=ggCGubddqm0",
-          "published": "2026-06-05",
-          "age": "2 weeks ago",
+          "title": "不用 Terminal 都可以開 AI Agent？Hermes Desktop App 零基礎教學 #香港ai #shorts #shortvideo #hermesagent #廣東話 #ai工具",
+          "url": "https://www.youtube.com/watch?v=kShQyIiO4RI",
+          "published": "2026-06-09",
+          "age": "1 week ago",
           "is_new_today": false
         }
       ]
@@ -132,6 +132,13 @@
       "handle": "@ompshek",
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
+        {
+          "title": "不用再打 Prompt！用 Codex 最新「Record & Replay」功能，自動建立 SKILL  | 下載數據＋自動發送 WhatsApp 訊息！",
+          "url": "https://www.youtube.com/watch?v=EJG1Iu7u8eA",
+          "published": "2026-06-22",
+          "age": "Today",
+          "is_new_today": true
+        },
         {
           "title": "我較少用 Codex 、 Hermes 的原因 | 本地 vs 雲端 AI Agent 三大分別！",
           "url": "https://www.youtube.com/watch?v=qpwJ1XRV2Ns",
@@ -147,24 +154,17 @@
           "is_new_today": false
         },
         {
-          "title": "AI 公司值幾萬億，普通人有冇份？Bernie Sanders 提案要分 50%",
-          "url": "https://www.youtube.com/watch?v=dqABrmGUT5k",
-          "published": "2026-06-06",
-          "age": "2 weeks ago",
+          "title": "Google 用 2,000 部退役 Pixel 砌數據中心？低碳運算嘅新諗法 #Shorts",
+          "url": "https://www.youtube.com/watch?v=LMf-dA-Xfx4",
+          "published": "2026-06-14",
+          "age": "1 week ago",
           "is_new_today": false
         },
         {
-          "title": "【Manus 新功能】自動化管理 Shopify ! 過百件產品都能自動換季宣傳",
-          "url": "https://www.youtube.com/watch?v=LetkSvgLsxQ",
-          "published": "2026-06-05",
-          "age": "2 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "【職場必學 AI】別再人手追客！實測 Manus & Zo Computer 打造每日自動化 AI 電郵助手！",
-          "url": "https://www.youtube.com/watch?v=PEVR_KZXff0",
-          "published": "2026-06-04",
-          "age": "2 weeks ago",
+          "title": "Claude Fable 5 與 Mythos 5 登場｜SWE-Bench 80.3% 屠榜，頂尖模型首次對外開放",
+          "url": "https://www.youtube.com/watch?v=tfk0YIyI8dA",
+          "published": "2026-06-10",
+          "age": "1 week ago",
           "is_new_today": false
         }
       ]
@@ -259,14 +259,14 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
-          "title": "Google 即時翻譯！破英文也不怕？ NotebookLM大更新？Codex額度大放送！｜泛科學院",
+          "title": "Google 即時翻譯！破英文也不怕？  NotebookLM大更新？Codex額度大放送！｜泛科學院",
           "url": "https://www.youtube.com/watch?v=l01kpXF2-Tg",
           "published": "2026-06-17",
           "age": "5 days ago",
           "is_new_today": false
         },
         {
-          "title": "不管你用Codex 還是 Claude 都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ ｜泛科學院",
+          "title": "不管你用Codex 還是 Claude  都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ ｜泛科學院",
           "url": "https://www.youtube.com/watch?v=3rCPZizvb18",
           "published": "2026-06-12",
           "age": "1 week ago",
@@ -280,17 +280,17 @@
           "is_new_today": false
         },
         {
-          "title": "NotebookLM + Gemini 超狂組合技！10分鐘搞定搞定完美行程！",
-          "url": "https://www.youtube.com/watch?v=TN3ZrSQ4DTc",
-          "published": "2026-06-04",
+          "title": "Claude 簡報原來可以改中文字型？｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=rYXHQBsA7Ng",
+          "published": "2026-06-05",
           "age": "2 weeks ago",
           "is_new_today": false
         },
         {
-          "title": "Claude 居然可以生成公司既定簡報模板！藏了 10 套官方簡報配色！輸入這個關鍵字直接套用｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=7xlQkLXeR6Q",
-          "published": "2026-05-28",
-          "age": "3 weeks ago",
+          "title": "Claude 內建10套免費配色！到底怎樣用？｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=9U9Zd2f8ZOw",
+          "published": "2026-06-04",
+          "age": "2 weeks ago",
           "is_new_today": false
         }
       ]

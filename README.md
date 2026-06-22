@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-06-22 17:35 HKT*
+*Last updated: 2026-06-22 23:10 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -33,17 +33,17 @@
 | 2 | [【香港創業者必備】5 分鐘無痛上線專業網站：Readdy AI 全能網站製作教學及實測 \| 超簡易AI網站製作工具 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI](https://www.youtube.com/watch?v=9M8TtoJKUC0) | 5 days ago |
 | 3 | [WWDC26 重點：香港懶人包！Apple AI 真正出手了！終於認真玩 AI？#WWDC26 #AppleAI #SiriAI #AppleIntelligence #香港AI #廣東話](https://www.youtube.com/watch?v=-6UakfO_C94) | 1 week ago |
 | 4 | [24小時實測將所有工作交俾 AI 同事 Kuse AI Coworker真係幫到手？ #Kuse #AICoworker #KuseAI #香港ai #ai工具 #廣東話 #ai實戰 #ai賺錢](https://www.youtube.com/watch?v=IuHAYtgtAsE) | 1 week ago |
-| 5 | [Hermes Desktop App 教學：放棄再修龍蝦，零基礎開通 WhatsApp / Telegram AI 助理！#HermesAgent #HermesDesktop #AI工具 #廣東話](https://www.youtube.com/watch?v=ggCGubddqm0) | 2 weeks ago |
+| 5 | [不用 Terminal 都可以開 AI Agent？Hermes Desktop App 零基礎教學 #香港ai #shorts #shortvideo #hermesagent #廣東話 #ai工具](https://www.youtube.com/watch?v=kShQyIiO4RI) | 1 week ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [我較少用 Codex 、 Hermes 的原因 \| 本地 vs 雲端 AI Agent 三大分別！](https://www.youtube.com/watch?v=qpwJ1XRV2Ns) | 1 day ago |
-| 2 | [微軟 Copilot Cowork 正式推出：四大 AI Agent 辦公自動化終極對決](https://www.youtube.com/watch?v=h6ujUOYEUII) | 3 days ago |
-| 3 | [AI 公司值幾萬億，普通人有冇份？Bernie Sanders 提案要分 50%](https://www.youtube.com/watch?v=dqABrmGUT5k) | 2 weeks ago |
-| 4 | [【Manus 新功能】自動化管理 Shopify ! 過百件產品都能自動換季宣傳](https://www.youtube.com/watch?v=LetkSvgLsxQ) | 2 weeks ago |
-| 5 | [【職場必學 AI】別再人手追客！實測 Manus & Zo Computer 打造每日自動化 AI 電郵助手！](https://www.youtube.com/watch?v=PEVR_KZXff0) | 2 weeks ago |
+| 1 | [不用再打 Prompt！用 Codex 最新「Record & Replay」功能，自動建立 SKILL  \| 下載數據＋自動發送 WhatsApp 訊息！](https://www.youtube.com/watch?v=EJG1Iu7u8eA) | Today |
+| 2 | [我較少用 Codex 、 Hermes 的原因 \| 本地 vs 雲端 AI Agent 三大分別！](https://www.youtube.com/watch?v=qpwJ1XRV2Ns) | 1 day ago |
+| 3 | [微軟 Copilot Cowork 正式推出：四大 AI Agent 辦公自動化終極對決](https://www.youtube.com/watch?v=h6ujUOYEUII) | 3 days ago |
+| 4 | [Google 用 2,000 部退役 Pixel 砌數據中心？低碳運算嘅新諗法 #Shorts](https://www.youtube.com/watch?v=LMf-dA-Xfx4) | 1 week ago |
+| 5 | [Claude Fable 5 與 Mythos 5 登場\|SWE-Bench 80.3% 屠榜，頂尖模型首次對外開放](https://www.youtube.com/watch?v=tfk0YIyI8dA) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -69,11 +69,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Google 即時翻譯！破英文也不怕？ NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 5 days ago |
-| 2 | [不管你用Codex 還是 Claude 都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ \|泛科學院](https://www.youtube.com/watch?v=3rCPZizvb18) | 1 week ago |
+| 1 | [Google 即時翻譯！破英文也不怕？  NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 5 days ago |
+| 2 | [不管你用Codex 還是 Claude  都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ \|泛科學院](https://www.youtube.com/watch?v=3rCPZizvb18) | 1 week ago |
 | 3 | [【頻道會員招募中】募集一萬個AI實戰生！泛科學院 AI 成長計畫：打造你的 AI 競爭力！](https://www.youtube.com/watch?v=-UaqOza8NrE) | 1 week ago |
-| 4 | [NotebookLM + Gemini 超狂組合技！10分鐘搞定搞定完美行程！](https://www.youtube.com/watch?v=TN3ZrSQ4DTc) | 2 weeks ago |
-| 5 | [Claude 居然可以生成公司既定簡報模板！藏了 10 套官方簡報配色！輸入這個關鍵字直接套用\|泛科學院](https://www.youtube.com/watch?v=7xlQkLXeR6Q) | 3 weeks ago |
+| 4 | [Claude 簡報原來可以改中文字型？\|泛科學院](https://www.youtube.com/watch?v=rYXHQBsA7Ng) | 2 weeks ago |
+| 5 | [Claude 內建10套免費配色！到底怎樣用？\|泛科學院](https://www.youtube.com/watch?v=9U9Zd2f8ZOw) | 2 weeks ago |
 
 ---
 
