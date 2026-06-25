@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25 20:09 HKT",
+  "last_updated": "2026-06-26 01:59 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -28,14 +28,14 @@
           "is_new_today": false
         },
         {
-          "title": "重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案｜整理聊天記錄｜超強記憶體，何時使用哪個工具...",
+          "title": "重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案｜整理聊天記錄｜超強記憶體，何時使用哪個工具一次告訴你！手把手帶你做！",
           "url": "https://www.youtube.com/watch?v=uE1XDwDOtbU",
           "published": "2026-05-10",
           "age": "1 month ago",
           "is_new_today": false
         },
         {
-          "title": "OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的...",
+          "title": "OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的工作方式全都白費了…",
           "url": "https://www.youtube.com/watch?v=vpHX-WzpHTw",
           "published": "2026-05-07",
           "age": "1 month ago",
@@ -91,6 +91,13 @@
       "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
       "videos": [
         {
+          "title": "#WWDC26 洩密：#Apple 不做 #ChatGPT，而係做 #AI入口。#siri 更新不是重點，重點是 Apple 將 AI 變成整個作業系統 #ai工具 #香港ai #廣東話",
+          "url": "https://www.youtube.com/watch?v=hts17sEfkFM",
+          "published": "2026-06-23",
+          "age": "2 days ago",
+          "is_new_today": false
+        },
+        {
           "title": "【 AI網站避雷 】網站上線後唔知做咩？如何避免淪為電子卡片？用#Readdy AI打造24小時AI客服系統 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI #ai實戰",
           "url": "https://www.youtube.com/watch?v=wTMknf2MsZg",
           "published": "2026-06-19",
@@ -117,13 +124,6 @@
           "published": "2026-06-10",
           "age": "2 weeks ago",
           "is_new_today": false
-        },
-        {
-          "title": "Hermes Desktop App 教學：放棄再修龍蝦，零基礎開通 WhatsApp / Telegram AI 助理！#HermesAgent #HermesDesktop #AI工具 #廣東話",
-          "url": "https://www.youtube.com/watch?v=ggCGubddqm0",
-          "published": "2026-06-05",
-          "age": "2 weeks ago",
-          "is_new_today": false
         }
       ]
     },
@@ -133,14 +133,14 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
-          "title": "為什麼「SKILL」功能才是 AI 的未來？比較 SKILL 與 Gemini Gem 的分別",
+          "title": "為什麼「SKILL」功能才是 AI 的未來？比較  SKILL 與 Gemini Gem 的分別",
           "url": "https://www.youtube.com/watch?v=6cI15TNRSH8",
           "published": "2026-06-24",
           "age": "1 day ago",
           "is_new_today": false
         },
         {
-          "title": "不用再打 Prompt！用 Codex 最新「Record & Replay」功能，自動建立 SKILL | 下載數據＋自動發送 WhatsApp 訊息！",
+          "title": "不用再打 Prompt！用 Codex 最新「Record & Replay」功能，自動建立 SKILL  | 下載數據＋自動發送 WhatsApp 訊息！",
           "url": "https://www.youtube.com/watch?v=EJG1Iu7u8eA",
           "published": "2026-06-22",
           "age": "3 days ago",
@@ -161,10 +161,10 @@
           "is_new_today": false
         },
         {
-          "title": "AI 公司值幾萬億，普通人有冇份？Bernie Sanders 提案要分 50%",
-          "url": "https://www.youtube.com/watch?v=dqABrmGUT5k",
-          "published": "2026-06-06",
-          "age": "2 weeks ago",
+          "title": "Google 用 2,000 部退役 Pixel 砌數據中心？低碳運算嘅新諗法 #Shorts",
+          "url": "https://www.youtube.com/watch?v=LMf-dA-Xfx4",
+          "published": "2026-06-14",
+          "age": "1 week ago",
           "is_new_today": false
         }
       ]
@@ -231,7 +231,7 @@
           "is_new_today": false
         },
         {
-          "title": "Higgsfield + Claude Code = 全自動化的個人內容創作工作室",
+          "title": "Higgsfield + Claude Code = 全自動化的個人內容創作工作室 ",
           "url": "https://www.youtube.com/watch?v=NTh_f5gb-nU",
           "published": "2026-05-31",
           "age": "3 weeks ago",
@@ -259,14 +259,14 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
-          "title": "Google 即時翻譯！破英文也不怕？ NotebookLM大更新？Codex額度大放送！｜泛科學院",
+          "title": "Google 即時翻譯！破英文也不怕？  NotebookLM大更新？Codex額度大放送！｜泛科學院",
           "url": "https://www.youtube.com/watch?v=l01kpXF2-Tg",
           "published": "2026-06-17",
           "age": "1 week ago",
           "is_new_today": false
         },
         {
-          "title": "不管你用Codex 還是 Claude 都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ ｜泛科學院",
+          "title": "不管你用Codex 還是 Claude  都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ ｜泛科學院",
           "url": "https://www.youtube.com/watch?v=3rCPZizvb18",
           "published": "2026-06-12",
           "age": "1 week ago",
@@ -280,17 +280,17 @@
           "is_new_today": false
         },
         {
-          "title": "NotebookLM + Gemini 超狂組合技！10分鐘搞定搞定完美行程！",
-          "url": "https://www.youtube.com/watch?v=TN3ZrSQ4DTc",
-          "published": "2026-06-04",
-          "age": "3 weeks ago",
+          "title": "Claude 簡報原來可以改中文字型？｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=rYXHQBsA7Ng",
+          "published": "2026-06-05",
+          "age": "2 weeks ago",
           "is_new_today": false
         },
         {
-          "title": "Claude 居然可以生成公司既定簡報模板！藏了 10 套官方簡報配色！輸入這個關鍵字直接套用｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=7xlQkLXeR6Q",
-          "published": "2026-05-28",
-          "age": "4 weeks ago",
+          "title": "Claude 內建10套免費配色！到底怎樣用？｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=9U9Zd2f8ZOw",
+          "published": "2026-06-04",
+          "age": "3 weeks ago",
           "is_new_today": false
         }
       ]
