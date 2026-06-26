@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-06-26 15:39 HKT*
+*Last updated: 2026-06-26 20:04 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -29,11 +29,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [【 AI網站避雷 】網站上線後唔知做咩？如何避免淪為電子卡片？用#Readdy AI打造24小時AI客服系統 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI #ai實戰](https://www.youtube.com/watch?v=wTMknf2MsZg) | 1 week ago |
-| 2 | [【香港創業者必備】5 分鐘無痛上線專業網站：Readdy AI 全能網站製作教學及實測 \| 超簡易AI網站製作工具 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI](https://www.youtube.com/watch?v=9M8TtoJKUC0) | 1 week ago |
-| 3 | [WWDC26 重點：香港懶人包！Apple AI 真正出手了！終於認真玩 AI？#WWDC26 #AppleAI #SiriAI #AppleIntelligence #香港AI #廣東話](https://www.youtube.com/watch?v=-6UakfO_C94) | 2 weeks ago |
-| 4 | [24小時實測將所有工作交俾 AI 同事 Kuse AI Coworker真係幫到手？ #Kuse #AICoworker #KuseAI #香港ai #ai工具 #廣東話 #ai實戰 #ai賺錢](https://www.youtube.com/watch?v=IuHAYtgtAsE) | 2 weeks ago |
-| 5 | [Hermes Desktop App 教學：放棄再修龍蝦，零基礎開通 WhatsApp / Telegram AI 助理！#HermesAgent #HermesDesktop #AI工具 #廣東話](https://www.youtube.com/watch?v=ggCGubddqm0) | 3 weeks ago |
+| 1 | [一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話](https://www.youtube.com/watch?v=E7DFb6isRZg) | Today |
+| 2 | [【 AI網站避雷 】網站上線後唔知做咩？如何避免淪為電子卡片？用#Readdy AI打造24小時AI客服系統 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI #ai實戰](https://www.youtube.com/watch?v=wTMknf2MsZg) | 1 week ago |
+| 3 | [【香港創業者必備】5 分鐘無痛上線專業網站：Readdy AI 全能網站製作教學及實測 \| 超簡易AI網站製作工具 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI](https://www.youtube.com/watch?v=9M8TtoJKUC0) | 1 week ago |
+| 4 | [WWDC26 重點：香港懶人包！Apple AI 真正出手了！終於認真玩 AI？#WWDC26 #AppleAI #SiriAI #AppleIntelligence #香港AI #廣東話](https://www.youtube.com/watch?v=-6UakfO_C94) | 2 weeks ago |
+| 5 | [24小時實測將所有工作交俾 AI 同事 Kuse AI Coworker真係幫到手？ #Kuse #AICoworker #KuseAI #香港ai #ai工具 #廣東話 #ai實戰 #ai賺錢](https://www.youtube.com/watch?v=IuHAYtgtAsE) | 2 weeks ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
@@ -69,11 +69,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Google 即時翻譯！破英文也不怕？ NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 1 week ago |
-| 2 | [不管你用Codex 還是 Claude 都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ \|泛科學院](https://www.youtube.com/watch?v=3rCPZizvb18) | 2 weeks ago |
-| 3 | [【頻道會員招募中】募集一萬個AI實戰生！泛科學院 AI 成長計畫：打造你的 AI 競爭力！](https://www.youtube.com/watch?v=-UaqOza8NrE) | 2 weeks ago |
-| 4 | [NotebookLM + Gemini 超狂組合技！10分鐘搞定搞定完美行程！](https://www.youtube.com/watch?v=TN3ZrSQ4DTc) | 3 weeks ago |
-| 5 | [Claude 居然可以生成公司既定簡報模板！藏了 10 套官方簡報配色！輸入這個關鍵字直接套用\|泛科學院](https://www.youtube.com/watch?v=7xlQkLXeR6Q) | 4 weeks ago |
+| 1 | [讓 AI 當你的省錢顧問 Codex自動分析你的消費習慣！](https://www.youtube.com/watch?v=q8ebypgApG8) | Today |
+| 2 | [Google 即時翻譯！破英文也不怕？ NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 1 week ago |
+| 3 | [不管你用Codex 還是 Claude 都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ \|泛科學院](https://www.youtube.com/watch?v=3rCPZizvb18) | 2 weeks ago |
+| 4 | [【頻道會員招募中】募集一萬個AI實戰生！泛科學院 AI 成長計畫：打造你的 AI 競爭力！](https://www.youtube.com/watch?v=-UaqOza8NrE) | 2 weeks ago |
+| 5 | [NotebookLM + Gemini 超狂組合技！10分鐘搞定搞定完美行程！](https://www.youtube.com/watch?v=TN3ZrSQ4DTc) | 3 weeks ago |
 
 ---
 
