@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-06-27 01:27 HKT*
+*Last updated: 2026-06-27 14:44 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -19,18 +19,18 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Claude Cowork vs Codex: 誰才是更好的AI工作助手？](https://www.youtube.com/watch?v=HSDyr8bmuOI) | 6 days ago |
-| 2 | [零基礎30分鐘學會Codex 95%功能！【福利贈送】](https://www.youtube.com/watch?v=dMiV7Yx9yk4) | 1 week ago |
-| 3 | [15分鐘學會AI Agent\|完整講解](https://www.youtube.com/watch?v=fwdzsY9KWKk) | 2 weeks ago |
-| 4 | [現在學AI，真的還不晚：30天從小白到上手！](https://www.youtube.com/watch?v=vWzKHp9yl3M) | 3 weeks ago |
+| 1 | [Claude Cowork vs Codex: 誰才是更好的AI工作助手？](https://www.youtube.com/watch?v=HSDyr8bmuOI) | 1 week ago |
+| 2 | [零基礎30分鐘學會Codex 95%功能！【福利贈送】](https://www.youtube.com/watch?v=dMiV7Yx9yk4) | 2 weeks ago |
+| 3 | [15分鐘學會AI Agent\|完整講解](https://www.youtube.com/watch?v=fwdzsY9KWKk) | 3 weeks ago |
+| 4 | [現在學AI，真的還不晚：30天從小白到上手！](https://www.youtube.com/watch?v=vWzKHp9yl3M) | 4 weeks ago |
 | 5 | [AI時代，真正拉開差距的3种能力！](https://www.youtube.com/watch?v=pyqUiHyz_-c) | 1 month ago |
 
 ### 我想用Ai賺錢 · [@我想用Ai賺錢](https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話 ](https://www.youtube.com/watch?v=E7DFb6isRZg) | Today |
-| 2 | [#WWDC26 洩密：#Apple 不做 #ChatGPT，而係做 #AI入口。#siri 更新不是重點，重點是 Apple 將 AI 變成整個作業系統 #ai工具 #香港ai #廣東話](https://www.youtube.com/watch?v=hts17sEfkFM) | 3 days ago |
+| 1 | [一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話 ](https://www.youtube.com/watch?v=E7DFb6isRZg) | 1 day ago |
+| 2 | [#WWDC26 洩密：#Apple 不做 #ChatGPT，而係做 #AI入口。#siri 更新不是重點，重點是 Apple 將 AI 變成整個作業系統 #ai工具 #香港ai #廣東話](https://www.youtube.com/watch?v=hts17sEfkFM) | 4 days ago |
 | 3 | [【 AI網站避雷 】網站上線後唔知做咩？如何避免淪為電子卡片？用#Readdy AI打造24小時AI客服系統 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI #ai實戰](https://www.youtube.com/watch?v=wTMknf2MsZg) | 1 week ago |
 | 4 | [【香港創業者必備】5 分鐘無痛上線專業網站：Readdy AI 全能網站製作教學及實測 \| 超簡易AI網站製作工具 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI](https://www.youtube.com/watch?v=9M8TtoJKUC0) | 1 week ago |
 | 5 | [WWDC26 重點：香港懶人包！Apple AI 真正出手了！終於認真玩 AI？#WWDC26 #AppleAI #SiriAI #AppleIntelligence #香港AI #廣東話](https://www.youtube.com/watch?v=-6UakfO_C94) | 2 weeks ago |
@@ -39,9 +39,9 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [為什麼「SKILL」功能才是 AI 的未來？比較  SKILL 與 Gemini Gem 的分別](https://www.youtube.com/watch?v=6cI15TNRSH8) | 2 days ago |
-| 2 | [不用再打 Prompt！用 Codex 最新「Record & Replay」功能，自動建立 SKILL  \| 下載數據＋自動發送 WhatsApp 訊息！](https://www.youtube.com/watch?v=EJG1Iu7u8eA) | 4 days ago |
-| 3 | [我較少用 Codex 、 Hermes 的原因 \| 本地 vs 雲端 AI Agent 三大分別！](https://www.youtube.com/watch?v=qpwJ1XRV2Ns) | 5 days ago |
+| 1 | [為什麼「SKILL」功能才是 AI 的未來？比較  SKILL 與 Gemini Gem 的分別](https://www.youtube.com/watch?v=6cI15TNRSH8) | 3 days ago |
+| 2 | [不用再打 Prompt！用 Codex 最新「Record & Replay」功能，自動建立 SKILL  \| 下載數據＋自動發送 WhatsApp 訊息！](https://www.youtube.com/watch?v=EJG1Iu7u8eA) | 5 days ago |
+| 3 | [我較少用 Codex 、 Hermes 的原因 \| 本地 vs 雲端 AI Agent 三大分別！](https://www.youtube.com/watch?v=qpwJ1XRV2Ns) | 6 days ago |
 | 4 | [微軟 Copilot Cowork 正式推出：四大 AI Agent 辦公自動化終極對決](https://www.youtube.com/watch?v=h6ujUOYEUII) | 1 week ago |
 | 5 | [Google 用 2,000 部退役 Pixel 砌數據中心？低碳運算嘅新諗法 #Shorts](https://www.youtube.com/watch?v=LMf-dA-Xfx4) | 1 week ago |
 
@@ -49,7 +49,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [寫提示詞太累，而且工作流程很難交待清楚？Codex 讓你直接「做給 AI 看」，徹底終結這個困境！](https://www.youtube.com/watch?v=SFWYaF0HJiw) | 3 days ago |
+| 1 | [寫提示詞太累，而且工作流程很難交待清楚？Codex 讓你直接「做給 AI 看」，徹底終結這個困境！](https://www.youtube.com/watch?v=SFWYaF0HJiw) | 4 days ago |
 | 2 | [Hermes Agent 保姆級教學來了！最安全的 AI 私人助理造成 OpanClaw 大規模棄養潮，用過就回不去了！](https://www.youtube.com/watch?v=-EivK7vpOXY) | 1 week ago |
 | 3 | [一個 AI 助手打趴整套 Office 軟體！超強 Codex 從表格簡報、合併列印、架設網站全部一手包辦！](https://www.youtube.com/watch?v=W5ymBPi53Tw) | 1 month ago |
 | 4 | [別再小看本地 AI！Gemma 4 + LM Studio 讓你的電腦變成超級離線 AI 工作站，而且完全免費 (手機也能使用喔！)](https://www.youtube.com/watch?v=r5M0W66xcGc) | 1 month ago |
@@ -69,7 +69,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [讓 AI 當你的省錢顧問 Codex自動分析你的消費習慣！](https://www.youtube.com/watch?v=q8ebypgApG8) | Today |
+| 1 | [讓 AI 當你的省錢顧問 Codex自動分析你的消費習慣！](https://www.youtube.com/watch?v=q8ebypgApG8) | 1 day ago |
 | 2 | [Google 即時翻譯！破英文也不怕？  NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 1 week ago |
 | 3 | [不管你用Codex 還是 Claude  都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ \|泛科學院](https://www.youtube.com/watch?v=3rCPZizvb18) | 2 weeks ago |
 | 4 | [【頻道會員招募中】募集一萬個AI實戰生！泛科學院 AI 成長計畫：打造你的 AI 競爭力！](https://www.youtube.com/watch?v=-UaqOza8NrE) | 2 weeks ago |
