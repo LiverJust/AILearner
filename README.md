@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-06-29 16:46 HKT*
+*Last updated: 2026-06-29 21:56 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -69,7 +69,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [讓 AI 當你的省錢顧問 Codex自動分析你的消費習慣！](https://www.youtube.com/watch?v=q8ebypgApG8) | 3 days ago |
+| 1 | [Codex 完整教學：15分鐘打造一個懂你帳單的 AI 助手！原來可以這樣理解Codex](https://www.youtube.com/watch?v=q8ebypgApG8) | 3 days ago |
 | 2 | [Google 即時翻譯！破英文也不怕？ NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 1 week ago |
 | 3 | [不管你用Codex 還是 Claude 都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ \|泛科學院](https://www.youtube.com/watch?v=3rCPZizvb18) | 2 weeks ago |
 | 4 | [【頻道會員招募中】募集一萬個AI實戰生！泛科學院 AI 成長計畫：打造你的 AI 競爭力！](https://www.youtube.com/watch?v=-UaqOza8NrE) | 2 weeks ago |
