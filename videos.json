@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01 15:59 HKT",
+  "last_updated": "2026-07-01 20:25 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "【保險文件案例】如何幫AI Agent 接入知識庫？用 Gemini File Search API 實現醫療文件自動核保",
+          "url": "https://www.youtube.com/watch?v=as1vT8-lLsI",
+          "published": "2026-07-01",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "比 Claude 更方便！實測最新Copilot Cowork 功能全自動幫你讀 Excel 兼填好 PDF",
           "url": "https://www.youtube.com/watch?v=8VBpGv5X7W0",
           "published": "2026-06-30",
@@ -157,13 +164,6 @@
           "title": "我較少用 Codex 、 Hermes 的原因 | 本地 vs 雲端 AI Agent 三大分別！",
           "url": "https://www.youtube.com/watch?v=qpwJ1XRV2Ns",
           "published": "2026-06-21",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "微軟 Copilot Cowork 正式推出：四大 AI Agent 辦公自動化終極對決",
-          "url": "https://www.youtube.com/watch?v=h6ujUOYEUII",
-          "published": "2026-06-19",
           "age": "1 week ago",
           "is_new_today": false
         }

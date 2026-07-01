@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-07-01 15:59 HKT*
+*Last updated: 2026-07-01 20:25 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [比 Claude 更方便！實測最新Copilot Cowork 功能全自動幫你讀 Excel 兼填好 PDF](https://www.youtube.com/watch?v=8VBpGv5X7W0) | 1 day ago |
-| 2 | [為什麼「SKILL」功能才是 AI 的未來？比較 SKILL 與 Gemini Gem 的分別](https://www.youtube.com/watch?v=6cI15TNRSH8) | 1 week ago |
-| 3 | [不用再打 Prompt！用 Codex 最新「Record & Replay」功能，自動建立 SKILL \| 下載數據＋自動發送 WhatsApp 訊息！](https://www.youtube.com/watch?v=EJG1Iu7u8eA) | 1 week ago |
-| 4 | [我較少用 Codex 、 Hermes 的原因 \| 本地 vs 雲端 AI Agent 三大分別！](https://www.youtube.com/watch?v=qpwJ1XRV2Ns) | 1 week ago |
-| 5 | [微軟 Copilot Cowork 正式推出：四大 AI Agent 辦公自動化終極對決](https://www.youtube.com/watch?v=h6ujUOYEUII) | 1 week ago |
+| 1 | [【保險文件案例】如何幫AI Agent 接入知識庫？用 Gemini File Search API 實現醫療文件自動核保](https://www.youtube.com/watch?v=as1vT8-lLsI) | Today |
+| 2 | [比 Claude 更方便！實測最新Copilot Cowork 功能全自動幫你讀 Excel 兼填好 PDF](https://www.youtube.com/watch?v=8VBpGv5X7W0) | 1 day ago |
+| 3 | [為什麼「SKILL」功能才是 AI 的未來？比較 SKILL 與 Gemini Gem 的分別](https://www.youtube.com/watch?v=6cI15TNRSH8) | 1 week ago |
+| 4 | [不用再打 Prompt！用 Codex 最新「Record & Replay」功能，自動建立 SKILL \| 下載數據＋自動發送 WhatsApp 訊息！](https://www.youtube.com/watch?v=EJG1Iu7u8eA) | 1 week ago |
+| 5 | [我較少用 Codex 、 Hermes 的原因 \| 本地 vs 雲端 AI Agent 三大分別！](https://www.youtube.com/watch?v=qpwJ1XRV2Ns) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
