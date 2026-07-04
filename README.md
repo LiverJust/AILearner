@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-07-04 01:08 HKT*
+*Last updated: 2026-07-04 14:37 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -19,17 +19,17 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Claude Cowork + NotebookLM 自動化工作流: 效率提升10倍](https://www.youtube.com/watch?v=w0i9wklw_ng) | 6 days ago |
-| 2 | [Claude Cowork vs Codex: 誰才是更好的AI工作助手？](https://www.youtube.com/watch?v=HSDyr8bmuOI) | 1 week ago |
-| 3 | [零基礎30分鐘學會Codex 95%功能！【福利贈送】](https://www.youtube.com/watch?v=dMiV7Yx9yk4) | 2 weeks ago |
-| 4 | [15分鐘學會AI Agent\|完整講解](https://www.youtube.com/watch?v=fwdzsY9KWKk) | 3 weeks ago |
-| 5 | [現在學AI，真的還不晚：30天從小白到上手！](https://www.youtube.com/watch?v=vWzKHp9yl3M) | 1 month ago |
+| 1 | [我搭了一套 Claude Cowork 自動化系統，模板免費送！](https://www.youtube.com/watch?v=VIjCRqSX4ag) | Today |
+| 2 | [Claude Cowork + NotebookLM 自動化工作流: 效率提升10倍](https://www.youtube.com/watch?v=w0i9wklw_ng) | 1 week ago |
+| 3 | [Claude Cowork vs Codex: 誰才是更好的AI工作助手？](https://www.youtube.com/watch?v=HSDyr8bmuOI) | 2 weeks ago |
+| 4 | [零基礎30分鐘學會Codex 95%功能！【福利贈送】](https://www.youtube.com/watch?v=dMiV7Yx9yk4) | 3 weeks ago |
+| 5 | [15分鐘學會AI Agent\|完整講解](https://www.youtube.com/watch?v=fwdzsY9KWKk) | 4 weeks ago |
 
 ### 我想用Ai賺錢 · [@我想用Ai賺錢](https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港ai #ai工具](https://www.youtube.com/watch?v=38t244Nuceg) | Today |
+| 1 | [香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港ai #ai工具](https://www.youtube.com/watch?v=38t244Nuceg) | 1 day ago |
 | 2 | [一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話 ](https://www.youtube.com/watch?v=E7DFb6isRZg) | 1 week ago |
 | 3 | [#WWDC26 洩密：#Apple 不做 #ChatGPT，而係做 #AI入口。#siri 更新不是重點，重點是 Apple 將 AI 變成整個作業系統 #ai工具 #香港ai #廣東話](https://www.youtube.com/watch?v=hts17sEfkFM) | 1 week ago |
 | 4 | [【 AI網站避雷 】網站上線後唔知做咩？如何避免淪為電子卡片？用#Readdy AI打造24小時AI客服系統 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI #ai實戰](https://www.youtube.com/watch?v=wTMknf2MsZg) | 2 weeks ago |
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Google 同日推出 Nano Banana 2 Lite 同 Gemini Omni Flash #Shorts](https://www.youtube.com/watch?v=TrGaoUkQUCc) | 2 days ago |
-| 2 | [【保險文件案例】如何幫AI Agent 接入知識庫？用 Gemini File Search API 實現醫療文件自動核保](https://www.youtube.com/watch?v=as1vT8-lLsI) | 2 days ago |
-| 3 | [Claude Sonnet 5 新聞歌：AI 自己寫、設計、唱出發布新聞 #Shorts](https://www.youtube.com/watch?v=zElYV7dTX_0) | 2 days ago |
-| 4 | [比 Claude 更方便！實測最新Copilot Cowork 功能全自動幫你讀 Excel 兼填好 PDF](https://www.youtube.com/watch?v=8VBpGv5X7W0) | 3 days ago |
-| 5 | [為什麼「SKILL」功能才是 AI 的未來？比較  SKILL 與 Gemini Gem 的分別](https://www.youtube.com/watch?v=6cI15TNRSH8) | 1 week ago |
+| 1 | [OpenAI 擬送美國政府 5% 股份？50 秒 AI 新聞歌唱晒成單新聞 🎵](https://www.youtube.com/watch?v=37nF3VrNS1s) | Today |
+| 2 | [Google 同日推出 Nano Banana 2 Lite 同 Gemini Omni Flash #Shorts](https://www.youtube.com/watch?v=TrGaoUkQUCc) | 3 days ago |
+| 3 | [【保險文件案例】如何幫AI Agent 接入知識庫？用 Gemini File Search API 實現醫療文件自動核保](https://www.youtube.com/watch?v=as1vT8-lLsI) | 3 days ago |
+| 4 | [Claude Sonnet 5 新聞歌：AI 自己寫、設計、唱出發布新聞 #Shorts](https://www.youtube.com/watch?v=zElYV7dTX_0) | 3 days ago |
+| 5 | [比 Claude 更方便！實測最新Copilot Cowork 功能全自動幫你讀 Excel 兼填好 PDF](https://www.youtube.com/watch?v=8VBpGv5X7W0) | 4 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -59,7 +59,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [你還在手動刷104人力銀行找工作？Claude 10 分鐘幫你全自動化](https://www.youtube.com/watch?v=EfiMXx6qiw4) | 5 days ago |
+| 1 | [你還在手動刷104人力銀行找工作？Claude 10 分鐘幫你全自動化](https://www.youtube.com/watch?v=EfiMXx6qiw4) | 6 days ago |
 | 2 | [500+ 小時 Claude Code 心得：5 件我希望早點知道的事](https://www.youtube.com/watch?v=JbNTSwevk3w) | 2 weeks ago |
 | 3 | [什麼是 AI Operating System？一套能讓AI 替你工作的系統 (附免費設定)](https://www.youtube.com/watch?v=EyZEJPP2JNQ) | 3 weeks ago |
 | 4 | [Higgsfield + Claude Code = 全自動化的個人內容創作工作室 ](https://www.youtube.com/watch?v=NTh_f5gb-nU) | 1 month ago |
@@ -69,7 +69,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu\|泛科學院](https://www.youtube.com/watch?v=935kIzrUklI) | Today |
+| 1 | [Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu\|泛科學院](https://www.youtube.com/watch?v=935kIzrUklI) | 1 day ago |
 | 2 | [Codex操作基礎概念！介面、概念、實際案例！手把手帶你了解！原來可以這樣用？](https://www.youtube.com/watch?v=q8ebypgApG8) | 1 week ago |
 | 3 | [Google 即時翻譯！破英文也不怕？  NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 2 weeks ago |
 | 4 | [不管你用Codex 還是 Claude  都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ \|泛科學院](https://www.youtube.com/watch?v=3rCPZizvb18) | 3 weeks ago |

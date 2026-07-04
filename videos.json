@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04 01:08 HKT",
+  "last_updated": "2026-07-04 14:37 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -49,38 +49,38 @@
       "url": "https://www.youtube.com/@lichangzhanglaile/videos",
       "videos": [
         {
+          "title": "我搭了一套 Claude Cowork 自動化系統，模板免費送！",
+          "url": "https://www.youtube.com/watch?v=VIjCRqSX4ag",
+          "published": "2026-07-04",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "Claude Cowork + NotebookLM 自動化工作流: 效率提升10倍",
           "url": "https://www.youtube.com/watch?v=w0i9wklw_ng",
           "published": "2026-06-27",
-          "age": "6 days ago",
+          "age": "1 week ago",
           "is_new_today": false
         },
         {
           "title": "Claude Cowork vs Codex: 誰才是更好的AI工作助手？",
           "url": "https://www.youtube.com/watch?v=HSDyr8bmuOI",
           "published": "2026-06-20",
-          "age": "1 week ago",
+          "age": "2 weeks ago",
           "is_new_today": false
         },
         {
           "title": "零基礎30分鐘學會Codex 95%功能！【福利贈送】",
           "url": "https://www.youtube.com/watch?v=dMiV7Yx9yk4",
           "published": "2026-06-13",
-          "age": "2 weeks ago",
+          "age": "3 weeks ago",
           "is_new_today": false
         },
         {
           "title": "15分鐘學會AI Agent｜完整講解",
           "url": "https://www.youtube.com/watch?v=fwdzsY9KWKk",
           "published": "2026-06-06",
-          "age": "3 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "現在學AI，真的還不晚：30天從小白到上手！",
-          "url": "https://www.youtube.com/watch?v=vWzKHp9yl3M",
-          "published": "2026-05-30",
-          "age": "1 month ago",
+          "age": "4 weeks ago",
           "is_new_today": false
         }
       ]
@@ -94,7 +94,7 @@
           "title": "香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港ai #ai工具",
           "url": "https://www.youtube.com/watch?v=38t244Nuceg",
           "published": "2026-07-03",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
@@ -133,38 +133,38 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "OpenAI 擬送美國政府 5% 股份？50 秒 AI 新聞歌唱晒成單新聞 🎵",
+          "url": "https://www.youtube.com/watch?v=37nF3VrNS1s",
+          "published": "2026-07-04",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "Google 同日推出 Nano Banana 2 Lite 同 Gemini Omni Flash #Shorts",
           "url": "https://www.youtube.com/watch?v=TrGaoUkQUCc",
           "published": "2026-07-01",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
           "title": "【保險文件案例】如何幫AI Agent 接入知識庫？用 Gemini File Search API 實現醫療文件自動核保",
           "url": "https://www.youtube.com/watch?v=as1vT8-lLsI",
           "published": "2026-07-01",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
           "title": "Claude Sonnet 5 新聞歌：AI 自己寫、設計、唱出發布新聞 #Shorts",
           "url": "https://www.youtube.com/watch?v=zElYV7dTX_0",
           "published": "2026-07-01",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
           "title": "比 Claude 更方便！實測最新Copilot Cowork 功能全自動幫你讀 Excel 兼填好 PDF",
           "url": "https://www.youtube.com/watch?v=8VBpGv5X7W0",
           "published": "2026-06-30",
-          "age": "3 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "為什麼「SKILL」功能才是 AI 的未來？比較  SKILL 與 Gemini Gem 的分別",
-          "url": "https://www.youtube.com/watch?v=6cI15TNRSH8",
-          "published": "2026-06-24",
-          "age": "1 week ago",
+          "age": "4 days ago",
           "is_new_today": false
         }
       ]
@@ -220,7 +220,7 @@
           "title": "你還在手動刷104人力銀行找工作？Claude 10 分鐘幫你全自動化",
           "url": "https://www.youtube.com/watch?v=EfiMXx6qiw4",
           "published": "2026-06-28",
-          "age": "5 days ago",
+          "age": "6 days ago",
           "is_new_today": false
         },
         {
@@ -262,7 +262,7 @@
           "title": "Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu｜泛科學院",
           "url": "https://www.youtube.com/watch?v=935kIzrUklI",
           "published": "2026-07-03",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
