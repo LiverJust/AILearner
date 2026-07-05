@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05 00:48 HKT",
+  "last_updated": "2026-07-05 14:57 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -17,7 +17,7 @@
           "title": "【全網最細】OpenAI Codex 徹底免費！新手必學的「進化版 ChatGPT」，從 0 到 1 完整入門教學！10 個高頻功能快速學會指揮你的超級 AI Agent，工作全自動！！",
           "url": "https://www.youtube.com/watch?v=39_iw_KLEFk",
           "published": "2026-06-05",
-          "age": "4 weeks ago",
+          "age": "1 month ago",
           "is_new_today": false
         },
         {
@@ -52,7 +52,7 @@
           "title": "我搭了一套 Claude Cowork 自動化系統，模板免費送！",
           "url": "https://www.youtube.com/watch?v=VIjCRqSX4ag",
           "published": "2026-07-04",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
@@ -94,7 +94,7 @@
           "title": "香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港ai #ai工具",
           "url": "https://www.youtube.com/watch?v=38t244Nuceg",
           "published": "2026-07-03",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
@@ -136,35 +136,35 @@
           "title": "OpenAI 擬送美國政府 5% 股份？50 秒 AI 新聞歌唱晒成單新聞 🎵",
           "url": "https://www.youtube.com/watch?v=37nF3VrNS1s",
           "published": "2026-07-04",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
           "title": "Google 同日推出 Nano Banana 2 Lite 同 Gemini Omni Flash #Shorts",
           "url": "https://www.youtube.com/watch?v=TrGaoUkQUCc",
           "published": "2026-07-01",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
           "title": "【保險文件案例】如何幫AI Agent 接入知識庫？用 Gemini File Search API 實現醫療文件自動核保",
           "url": "https://www.youtube.com/watch?v=as1vT8-lLsI",
           "published": "2026-07-01",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
           "title": "Claude Sonnet 5 新聞歌：AI 自己寫、設計、唱出發布新聞 #Shorts",
           "url": "https://www.youtube.com/watch?v=zElYV7dTX_0",
           "published": "2026-07-01",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
           "title": "比 Claude 更方便！實測最新Copilot Cowork 功能全自動幫你讀 Excel 兼填好 PDF",
           "url": "https://www.youtube.com/watch?v=8VBpGv5X7W0",
           "published": "2026-06-30",
-          "age": "4 days ago",
+          "age": "5 days ago",
           "is_new_today": false
         }
       ]
@@ -185,7 +185,7 @@
           "title": "Hermes Agent 保姆級教學來了！最安全的 AI 私人助理造成 OpanClaw 大規模棄養潮，用過就回不去了！",
           "url": "https://www.youtube.com/watch?v=-EivK7vpOXY",
           "published": "2026-06-14",
-          "age": "2 weeks ago",
+          "age": "3 weeks ago",
           "is_new_today": false
         },
         {
@@ -217,37 +217,37 @@
       "url": "https://www.youtube.com/@JayLuxAI/videos",
       "videos": [
         {
+          "title": "Claude + LINE: 團購整單系統替你每週解放10+ 小時",
+          "url": "https://www.youtube.com/watch?v=kxt_7hjAU1o",
+          "published": "2026-07-05",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "你還在手動刷104人力銀行找工作？Claude 10 分鐘幫你全自動化",
           "url": "https://www.youtube.com/watch?v=EfiMXx6qiw4",
           "published": "2026-06-28",
-          "age": "6 days ago",
+          "age": "1 week ago",
           "is_new_today": false
         },
         {
           "title": "500+ 小時 Claude Code 心得：5 件我希望早點知道的事",
           "url": "https://www.youtube.com/watch?v=JbNTSwevk3w",
           "published": "2026-06-14",
-          "age": "2 weeks ago",
+          "age": "3 weeks ago",
           "is_new_today": false
         },
         {
           "title": "什麼是 AI Operating System？一套能讓AI 替你工作的系統 (附免費設定)",
           "url": "https://www.youtube.com/watch?v=EyZEJPP2JNQ",
           "published": "2026-06-07",
-          "age": "3 weeks ago",
+          "age": "4 weeks ago",
           "is_new_today": false
         },
         {
           "title": "Higgsfield + Claude Code = 全自動化的個人內容創作工作室 ",
           "url": "https://www.youtube.com/watch?v=NTh_f5gb-nU",
           "published": "2026-05-31",
-          "age": "1 month ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Claude Code 轉 Codex：五分鐘無痛轉移整個專案",
-          "url": "https://www.youtube.com/watch?v=DmkKxzdRUAc",
-          "published": "2026-05-24",
           "age": "1 month ago",
           "is_new_today": false
         }
@@ -262,7 +262,7 @@
           "title": "Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu｜泛科學院",
           "url": "https://www.youtube.com/watch?v=935kIzrUklI",
           "published": "2026-07-03",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
