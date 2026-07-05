@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-07-05 19:20 HKT*
+*Last updated: 2026-07-06 00:51 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -12,8 +12,8 @@
 | 1 | [別再亂裝Skills了！我試用了100多個，真正離不開的只有這10個！免費、0門檻、不用寫程式，充分發揮Codex和Claude全部潛能的終極指南，看完直接領先99%的人！](https://www.youtube.com/watch?v=e-9zHHzGM3k) | 2 weeks ago |
 | 2 | [【全網最細】OpenAI Codex 徹底免費！新手必學的「進化版 ChatGPT」，從 0 到 1 完整入門教學！10 個高頻功能快速學會指揮你的超級 AI Agent，工作全自動！！](https://www.youtube.com/watch?v=39_iw_KLEFk) | 1 month ago |
 | 3 | [6個Claude核心功能讓你超越99%的AI使用者！Cowork/Code保姆級完整教學，自動生成內容\|簡報\|網頁\|工作流，從入門到進階一次精通，打造你的專屬AI員工！](https://www.youtube.com/watch?v=8244knXN9e0) | 1 month ago |
-| 4 | [重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案\|整理聊天記錄\|超強記憶體，何時使用哪個工具...](https://www.youtube.com/watch?v=uE1XDwDOtbU) | 1 month ago |
-| 5 | [OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的...](https://www.youtube.com/watch?v=vpHX-WzpHTw) | 1 month ago |
+| 4 | [重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案\|整理聊天記錄\|超強記憶體，何時使用哪個工具一次告訴你！手把手帶你做！](https://www.youtube.com/watch?v=uE1XDwDOtbU) | 1 month ago |
+| 5 | [OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的工作方式全都白費了…](https://www.youtube.com/watch?v=vpHX-WzpHTw) | 1 month ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [【保險文件案例】如何幫AI Agent 接入知識庫？用 Gemini File Search API 實現醫療文件自動核保](https://www.youtube.com/watch?v=as1vT8-lLsI) | 4 days ago |
-| 2 | [比 Claude 更方便！實測最新Copilot Cowork 功能全自動幫你讀 Excel 兼填好 PDF](https://www.youtube.com/watch?v=8VBpGv5X7W0) | 5 days ago |
-| 3 | [為什麼「SKILL」功能才是 AI 的未來？比較 SKILL 與 Gemini Gem 的分別](https://www.youtube.com/watch?v=6cI15TNRSH8) | 1 week ago |
-| 4 | [不用再打 Prompt！用 Codex 最新「Record & Replay」功能，自動建立 SKILL \| 下載數據＋自動發送 WhatsApp 訊息！](https://www.youtube.com/watch?v=EJG1Iu7u8eA) | 1 week ago |
-| 5 | [我較少用 Codex 、 Hermes 的原因 \| 本地 vs 雲端 AI Agent 三大分別！](https://www.youtube.com/watch?v=qpwJ1XRV2Ns) | 2 weeks ago |
+| 1 | [OpenAI 擬送美國政府 5% 股份？50 秒 AI 新聞歌唱晒成單新聞 🎵](https://www.youtube.com/watch?v=37nF3VrNS1s) | 1 day ago |
+| 2 | [Google 同日推出 Nano Banana 2 Lite 同 Gemini Omni Flash #Shorts](https://www.youtube.com/watch?v=TrGaoUkQUCc) | 4 days ago |
+| 3 | [【保險文件案例】如何幫AI Agent 接入知識庫？用 Gemini File Search API 實現醫療文件自動核保](https://www.youtube.com/watch?v=as1vT8-lLsI) | 4 days ago |
+| 4 | [Claude Sonnet 5 新聞歌：AI 自己寫、設計、唱出發布新聞 #Shorts](https://www.youtube.com/watch?v=zElYV7dTX_0) | 4 days ago |
+| 5 | [比 Claude 更方便！實測最新Copilot Cowork 功能全自動幫你讀 Excel 兼填好 PDF](https://www.youtube.com/watch?v=8VBpGv5X7W0) | 5 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -63,7 +63,7 @@
 | 2 | [你還在手動刷104人力銀行找工作？Claude 10 分鐘幫你全自動化](https://www.youtube.com/watch?v=EfiMXx6qiw4) | 1 week ago |
 | 3 | [500+ 小時 Claude Code 心得：5 件我希望早點知道的事](https://www.youtube.com/watch?v=JbNTSwevk3w) | 3 weeks ago |
 | 4 | [什麼是 AI Operating System？一套能讓AI 替你工作的系統 (附免費設定)](https://www.youtube.com/watch?v=EyZEJPP2JNQ) | 4 weeks ago |
-| 5 | [Higgsfield + Claude Code = 全自動化的個人內容創作工作室](https://www.youtube.com/watch?v=NTh_f5gb-nU) | 1 month ago |
+| 5 | [Higgsfield + Claude Code = 全自動化的個人內容創作工作室 ](https://www.youtube.com/watch?v=NTh_f5gb-nU) | 1 month ago |
 
 ### 泛科學院 · [@panscischool](https://www.youtube.com/@panscischool/featured)
 
