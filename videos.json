@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06 00:51 HKT",
+  "last_updated": "2026-07-06 16:07 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -28,17 +28,17 @@
           "is_new_today": false
         },
         {
-          "title": "重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案｜整理聊天記錄｜超強記憶體，何時使用哪個工具一次告訴你！手把手帶你做！",
+          "title": "重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案｜整理聊天記錄｜超強記憶體，何時使用哪個工具...",
           "url": "https://www.youtube.com/watch?v=uE1XDwDOtbU",
           "published": "2026-05-10",
           "age": "1 month ago",
           "is_new_today": false
         },
         {
-          "title": "OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的工作方式全都白費了…",
+          "title": "OpenClaw 終極入門指南！從零開始手把手教你用 Skills 打造專屬AI自動化工作流程！必備神級Skills推薦＋調用外部工具，一次講清！看完這支影片你會發現，之前的...",
           "url": "https://www.youtube.com/watch?v=vpHX-WzpHTw",
           "published": "2026-05-07",
-          "age": "1 month ago",
+          "age": "2 months ago",
           "is_new_today": false
         }
       ]
@@ -52,7 +52,7 @@
           "title": "我搭了一套 Claude Cowork 自動化系統，模板免費送！",
           "url": "https://www.youtube.com/watch?v=VIjCRqSX4ag",
           "published": "2026-07-04",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
@@ -80,7 +80,7 @@
           "title": "15分鐘學會AI Agent｜完整講解",
           "url": "https://www.youtube.com/watch?v=fwdzsY9KWKk",
           "published": "2026-06-06",
-          "age": "4 weeks ago",
+          "age": "1 month ago",
           "is_new_today": false
         }
       ]
@@ -94,7 +94,7 @@
           "title": "香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港ai ...",
           "url": "https://www.youtube.com/watch?v=38t244Nuceg",
           "published": "2026-07-03",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
@@ -133,38 +133,38 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
-          "title": "OpenAI 擬送美國政府 5% 股份？50 秒 AI 新聞歌唱晒成單新聞 🎵",
-          "url": "https://www.youtube.com/watch?v=37nF3VrNS1s",
-          "published": "2026-07-04",
-          "age": "1 day ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Google 同日推出 Nano Banana 2 Lite 同 Gemini Omni Flash #Shorts",
-          "url": "https://www.youtube.com/watch?v=TrGaoUkQUCc",
-          "published": "2026-07-01",
-          "age": "4 days ago",
-          "is_new_today": false
-        },
-        {
           "title": "【保險文件案例】如何幫AI Agent 接入知識庫？用 Gemini File Search API 實現醫療文件自動核保",
           "url": "https://www.youtube.com/watch?v=as1vT8-lLsI",
           "published": "2026-07-01",
-          "age": "4 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Claude Sonnet 5 新聞歌：AI 自己寫、設計、唱出發布新聞 #Shorts",
-          "url": "https://www.youtube.com/watch?v=zElYV7dTX_0",
-          "published": "2026-07-01",
-          "age": "4 days ago",
+          "age": "5 days ago",
           "is_new_today": false
         },
         {
           "title": "比 Claude 更方便！實測最新Copilot Cowork 功能全自動幫你讀 Excel 兼填好 PDF",
           "url": "https://www.youtube.com/watch?v=8VBpGv5X7W0",
           "published": "2026-06-30",
-          "age": "5 days ago",
+          "age": "6 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "為什麼「SKILL」功能才是 AI 的未來？比較 SKILL 與 Gemini Gem 的分別",
+          "url": "https://www.youtube.com/watch?v=6cI15TNRSH8",
+          "published": "2026-06-24",
+          "age": "1 week ago",
+          "is_new_today": false
+        },
+        {
+          "title": "不用再打 Prompt！用 Codex 最新「Record & Replay」功能，自動建立 SKILL | 下載數據＋自動發送 WhatsApp 訊息！",
+          "url": "https://www.youtube.com/watch?v=EJG1Iu7u8eA",
+          "published": "2026-06-22",
+          "age": "2 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "我較少用 Codex 、 Hermes 的原因 | 本地 vs 雲端 AI Agent 三大分別！",
+          "url": "https://www.youtube.com/watch?v=qpwJ1XRV2Ns",
+          "published": "2026-06-21",
+          "age": "2 weeks ago",
           "is_new_today": false
         }
       ]
@@ -199,7 +199,7 @@
           "title": "別再小看本地 AI！Gemma 4 + LM Studio 讓你的電腦變成超級離線 AI 工作站，而且完全免費 (手機也能使用喔！)",
           "url": "https://www.youtube.com/watch?v=r5M0W66xcGc",
           "published": "2026-05-07",
-          "age": "1 month ago",
+          "age": "2 months ago",
           "is_new_today": false
         },
         {
@@ -220,7 +220,7 @@
           "title": "Claude + LINE: 團購整單系統替你每週解放10+ 小時",
           "url": "https://www.youtube.com/watch?v=kxt_7hjAU1o",
           "published": "2026-07-05",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
@@ -245,7 +245,7 @@
           "is_new_today": false
         },
         {
-          "title": "Higgsfield + Claude Code = 全自動化的個人內容創作工作室 ",
+          "title": "Higgsfield + Claude Code = 全自動化的個人內容創作工作室",
           "url": "https://www.youtube.com/watch?v=NTh_f5gb-nU",
           "published": "2026-05-31",
           "age": "1 month ago",
@@ -262,7 +262,7 @@
           "title": "Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu｜泛科學院",
           "url": "https://www.youtube.com/watch?v=935kIzrUklI",
           "published": "2026-07-03",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
