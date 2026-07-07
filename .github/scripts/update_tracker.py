@@ -12,6 +12,37 @@ from email.utils import parsedate_to_datetime
 RSSHUB_BASE = "https://rsshub.rssforever.com/youtube/channel/"
 YT_RSS_BASE = "https://www.youtube.com/feeds/videos.xml?channel_id="
 
+# Only YouTube video URLs are trusted. Anything else from the feed
+# (RSSHub proxy is third-party infrastructure) is dropped — defense in
+# depth against a compromised or malicious feed source injecting
+# arbitrary/javascript: URLs into videos.json and the rendered page.
+VIDEO_ID_RE = re.compile(r"^[\w-]{6,20}$")
+
+def safe_video_url(url):
+    """Canonicalize to https://www.youtube.com/watch?v=<id> or drop.
+
+    Rebuilds the URL from validated components so nothing from the raw
+    feed value (query junk, attribute-breakout characters) survives.
+    """
+    from urllib.parse import urlparse, parse_qs
+    if not url:
+        return ""
+    try:
+        p = urlparse(url)
+    except Exception:
+        return ""
+    if p.scheme != "https":
+        return ""
+    host = p.netloc.lower()
+    vid = ""
+    if host in ("www.youtube.com", "youtube.com") and p.path == "/watch":
+        vid = (parse_qs(p.query).get("v") or [""])[0]
+    elif host == "youtu.be":
+        vid = p.path.lstrip("/").split("/")[0]
+    if VIDEO_ID_RE.match(vid or ""):
+        return "https://www.youtube.com/watch?v=" + vid
+    return ""
+
 channels = [
     {
         "name": "\u5b54\u8001\u5e2bAI\u7814\u7fd2\u793e",
@@ -103,6 +134,7 @@ def fetch_from_url(url, limit=5):
             title = title_el.text if title_el is not None else ""
             link = link_el.text if link_el is not None else ""
             pub = parse_pub_date(pub_el.text if pub_el is not None else "")
+            link = safe_video_url(link)
             if title and link:
                 videos.append({"title": title, "url": link, "published": pub})
         return videos
@@ -117,9 +149,12 @@ def fetch_from_url(url, limit=5):
         vid_el = entry.find("yt:videoId", ns)
         pub_el = entry.find("atom:published", ns)
         if title_el is not None and vid_el is not None:
+            vurl = safe_video_url("https://www.youtube.com/watch?v=" + (vid_el.text or ""))
+            if not vurl:
+                continue
             videos.append({
                 "title": title_el.text or "",
-                "url": "https://www.youtube.com/watch?v=" + (vid_el.text or ""),
+                "url": vurl,
                 "published": parse_pub_date(pub_el.text if pub_el is not None else ""),
             })
     return videos
@@ -169,7 +204,11 @@ def relative_date(date_str, now_hkt):
 
 
 def safe_title(title):
-    return title.replace("|", r"\|").replace("\uff5c", r"\|")
+    """Escape characters that could break the markdown table or inject links."""
+    return (title.replace("\\", "\\\\")
+                 .replace("|", r"\|").replace("\uff5c", r"\|")
+                 .replace("[", r"\[").replace("]", r"\]")
+                 .replace("<", "&lt;").replace(">", "&gt;"))
 
 
 hkt = datetime.now(timezone(timedelta(hours=8)))
@@ -210,7 +249,10 @@ for ch in channels:
         videos = fetched
     else:
         fallback = existing_videos.get(ch["handle"], [])
-        videos = [{"title": v["title"], "url": v["url"], "published": v["published"]} for v in fallback]
+        videos = [
+            {"title": v["title"], "url": safe_video_url(v.get("url", "")), "published": v["published"]}
+            for v in fallback if safe_video_url(v.get("url", ""))
+        ]
         if videos:
             print(f"  Using cached fallback: {len(videos)} videos")
         else:

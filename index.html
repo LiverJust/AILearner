@@ -274,7 +274,7 @@
         <h3><span class="pulse"></span>Auto-updating via GitHub Actions</h3>
         <p>
           Latest videos are fetched from YouTube RSS feeds and committed to
-          <a href="https://github.com/LiverJust/AILearner" target="_blank">LiverJust/AILearner</a>
+          <a href="https://github.com/LiverJust/AILearner" target="_blank" rel="noopener noreferrer">LiverJust/AILearner</a>
           automatically twice a day. No manual refresh needed.
         </p>
       </div>
@@ -298,7 +298,7 @@
     </div>
 
     <!-- GITHUB CTA -->
-    <a class="github-link" href="https://github.com/LiverJust/AILearner" target="_blank">
+    <a class="github-link" href="https://github.com/LiverJust/AILearner" target="_blank" rel="noopener noreferrer">
       <div>
         <h3>📋 View Full Video Table on GitHub</h3>
         <p>README with all channels, clickable links, and relative dates</p>
@@ -310,7 +310,7 @@
 
   <footer>
     AI Learner · Auto-updated at 00:00, 12:00 &amp; 18:00 HKT daily ·
-    <a href="https://github.com/LiverJust/AILearner" target="_blank">GitHub Repo</a>
+    <a href="https://github.com/LiverJust/AILearner" target="_blank" rel="noopener noreferrer">GitHub Repo</a>
   </footer>
 
   <script>
@@ -351,7 +351,7 @@
             </div>`;
         }
 
-        html += `<div class="section-title">📺 Latest Videos <span style="font-size:13px;color:var(--grey-text);font-weight:500;margin-left:4px;">— updated ${data.last_updated}</span></div>`;
+        html += `<div class="section-title">📺 Latest Videos <span style="font-size:13px;color:var(--grey-text);font-weight:500;margin-left:4px;">— updated ${escHtml(data.last_updated)}</span></div>`;
 
         data.channels.forEach(ch => {
           const icon = CHANNEL_ICONS[ch.handle] || "📺";
@@ -364,8 +364,8 @@
             <div class="channel-section">
               <div class="channel-header">
                 <span style="font-size:22px">${icon}</span>
-                <span class="channel-title">${ch.name}</span>
-                <a class="channel-handle-link" href="${ch.url}" target="_blank">${ch.handle}</a>
+                <span class="channel-title">${escHtml(ch.name)}</span>
+                <a class="channel-handle-link" href="${safeUrl(ch.url)}" target="_blank" rel="noopener noreferrer">${escHtml(ch.handle)}</a>
                 ${newBadge}
               </div>
               <div class="video-list">`;
@@ -376,11 +376,11 @@
                 <div class="video-item${isNew ? " is-new" : ""}">
                   <div class="video-rank">${i + 1}</div>
                   <div class="video-body">
-                    <a class="video-title-link" href="${v.url}" target="_blank">${escHtml(v.title)}</a>
+                    <a class="video-title-link" href="${safeUrl(v.url)}" target="_blank" rel="noopener noreferrer">${escHtml(v.title)}</a>
                     <div class="video-meta">
                       ${isNew ? '<span class="badge-new">New Today</span>' : ""}
-                      <span class="badge-age">${v.age}</span>
-                      <span class="video-date">${v.published}</span>
+                      <span class="badge-age">${escHtml(v.age)}</span>
+                      <span class="video-date">${escHtml(v.published)}</span>
                     </div>
                   </div>
                 </div>`;
@@ -400,14 +400,20 @@
             <strong>Video data not loaded yet</strong><br/>
             <span style="font-size:13px">Run the GitHub Actions workflow to generate videos.json,<br/>
             or check back after the next scheduled update at 12:00 or 18:00 HKT.</span><br/><br/>
-            <a href="https://github.com/LiverJust/AILearner" target="_blank"
+            <a href="https://github.com/LiverJust/AILearner" target="_blank" rel="noopener noreferrer"
                style="color:var(--blue);font-weight:600">View on GitHub →</a>
           </div>`;
       }
     }
 
     function escHtml(str) {
-      return str.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+      return String(str ?? "").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+    }
+
+    function safeUrl(u) {
+      // Only allow YouTube video/channel URLs; anything else becomes an inert "#"
+      const ok = /^https:\/\/(www\.)?(youtube\.com\/(watch\?v=[\w-]+|@[\w.\-%]+(\/(videos|featured))?)|youtu\.be\/[\w-]+)/.test(String(u ?? ""));
+      return ok ? escHtml(u) : "#";
     }
 
     loadVideos();
