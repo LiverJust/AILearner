@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-07-08 01:48 HKT*
+*Last updated: 2026-07-08 14:19 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -19,7 +19,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [我搭了一套 Claude Cowork 自動化系統，模板免費送！](https://www.youtube.com/watch?v=VIjCRqSX4ag) | 3 days ago |
+| 1 | [我搭了一套 Claude Cowork 自動化系統，模板免費送！](https://www.youtube.com/watch?v=VIjCRqSX4ag) | 4 days ago |
 | 2 | [Claude Cowork + NotebookLM 自動化工作流: 效率提升10倍](https://www.youtube.com/watch?v=w0i9wklw_ng) | 1 week ago |
 | 3 | [Claude Cowork vs Codex: 誰才是更好的AI工作助手？](https://www.youtube.com/watch?v=HSDyr8bmuOI) | 2 weeks ago |
 | 4 | [零基礎30分鐘學會Codex 95%功能！【福利贈送】](https://www.youtube.com/watch?v=dMiV7Yx9yk4) | 3 weeks ago |
@@ -29,21 +29,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經濟討論](https://www.youtube.com/watch?v=38t244Nuceg) | 4 days ago |
+| 1 | [香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經濟討論](https://www.youtube.com/watch?v=38t244Nuceg) | 5 days ago |
 | 2 | [一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話 ](https://www.youtube.com/watch?v=E7DFb6isRZg) | 1 week ago |
 | 3 | [#WWDC26 洩密：#Apple 不做 #ChatGPT，而係做 #AI入口。#siri 更新不是重點，重點是 Apple 將 AI 變成整個作業系統 #ai工具 #香港ai #廣東話](https://www.youtube.com/watch?v=hts17sEfkFM) | 2 weeks ago |
 | 4 | [【 AI網站避雷 】網站上線後唔知做咩？如何避免淪為電子卡片？用#Readdy AI打造24小時AI客服系統 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI #ai實戰](https://www.youtube.com/watch?v=wTMknf2MsZg) | 2 weeks ago |
-| 5 | [【香港創業者必備】5 分鐘無痛上線專業網站：Readdy AI 全能網站製作教學及實測 \| 超簡易AI網站製作工具 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI](https://www.youtube.com/watch?v=9M8TtoJKUC0) | 2 weeks ago |
+| 5 | [【香港創業者必備】5 分鐘無痛上線專業網站：Readdy AI 全能網站製作教學及實測 \| 超簡易AI網站製作工具 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI](https://www.youtube.com/watch?v=9M8TtoJKUC0) | 3 weeks ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [AI 搵資料真的可靠？實測四大 AI ，邊個最嚴謹！你可以外判思考，但不能外判理解。](https://www.youtube.com/watch?v=l5baKFZIepg) | Today |
-| 2 | [OpenAI 擬送美國政府 5% 股份？50 秒 AI 新聞歌唱晒成單新聞 🎵](https://www.youtube.com/watch?v=37nF3VrNS1s) | 3 days ago |
-| 3 | [Google 同日推出 Nano Banana 2 Lite 同 Gemini Omni Flash #Shorts](https://www.youtube.com/watch?v=TrGaoUkQUCc) | 6 days ago |
-| 4 | [【保險文件案例】如何幫AI Agent 接入知識庫？用 Gemini File Search API 實現醫療文件自動核保](https://www.youtube.com/watch?v=as1vT8-lLsI) | 6 days ago |
-| 5 | [Claude Sonnet 5 新聞歌：AI 自己寫、設計、唱出發布新聞 #Shorts](https://www.youtube.com/watch?v=zElYV7dTX_0) | 6 days ago |
+| 1 | [AI 搵資料真的可靠？實測四大 AI ，邊個最嚴謹！你可以外判思考，但不能外判理解。](https://www.youtube.com/watch?v=l5baKFZIepg) | 1 day ago |
+| 2 | [OpenAI 擬送美國政府 5% 股份？50 秒 AI 新聞歌唱晒成單新聞 🎵](https://www.youtube.com/watch?v=37nF3VrNS1s) | 4 days ago |
+| 3 | [Google 同日推出 Nano Banana 2 Lite 同 Gemini Omni Flash #Shorts](https://www.youtube.com/watch?v=TrGaoUkQUCc) | 1 week ago |
+| 4 | [【保險文件案例】如何幫AI Agent 接入知識庫？用 Gemini File Search API 實現醫療文件自動核保](https://www.youtube.com/watch?v=as1vT8-lLsI) | 1 week ago |
+| 5 | [Claude Sonnet 5 新聞歌：AI 自己寫、設計、唱出發布新聞 #Shorts](https://www.youtube.com/watch?v=zElYV7dTX_0) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -59,7 +59,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Claude + LINE: 團購整單系統替你每週解放10+ 小時](https://www.youtube.com/watch?v=kxt_7hjAU1o) | 2 days ago |
+| 1 | [Claude + LINE: 團購整單系統替你每週解放10+ 小時](https://www.youtube.com/watch?v=kxt_7hjAU1o) | 3 days ago |
 | 2 | [你還在手動刷104人力銀行找工作？Claude 10 分鐘幫你全自動化](https://www.youtube.com/watch?v=EfiMXx6qiw4) | 1 week ago |
 | 3 | [500+ 小時 Claude Code 心得：5 件我希望早點知道的事](https://www.youtube.com/watch?v=JbNTSwevk3w) | 3 weeks ago |
 | 4 | [什麼是 AI Operating System？一套能讓AI 替你工作的系統 (附免費設定)](https://www.youtube.com/watch?v=EyZEJPP2JNQ) | 1 month ago |
@@ -69,9 +69,9 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu\|泛科學院](https://www.youtube.com/watch?v=935kIzrUklI) | 4 days ago |
+| 1 | [Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu\|泛科學院](https://www.youtube.com/watch?v=935kIzrUklI) | 5 days ago |
 | 2 | [Codex操作基礎概念！介面、概念、實際案例！手把手帶你了解！原來可以這樣用？](https://www.youtube.com/watch?v=q8ebypgApG8) | 1 week ago |
-| 3 | [Google 即時翻譯！破英文也不怕？  NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 2 weeks ago |
+| 3 | [Google 即時翻譯！破英文也不怕？  NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 3 weeks ago |
 | 4 | [不管你用Codex 還是 Claude  都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ \|泛科學院](https://www.youtube.com/watch?v=3rCPZizvb18) | 3 weeks ago |
 | 5 | [【頻道會員招募中】募集一萬個AI實戰生！泛科學院 AI 成長計畫：打造你的 AI 競爭力！](https://www.youtube.com/watch?v=-UaqOza8NrE) | 3 weeks ago |
 
