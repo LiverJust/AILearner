@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-07-09 22:09 HKT*
+*Last updated: 2026-07-09 22:16 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -63,7 +63,7 @@
 | 2 | [你還在手動刷104人力銀行找工作？Claude 10 分鐘幫你全自動化](https://www.youtube.com/watch?v=EfiMXx6qiw4) | 1 week ago |
 | 3 | [500+ 小時 Claude Code 心得：5 件我希望早點知道的事](https://www.youtube.com/watch?v=JbNTSwevk3w) | 3 weeks ago |
 | 4 | [什麼是 AI Operating System？一套能讓AI 替你工作的系統 (附免費設定)](https://www.youtube.com/watch?v=EyZEJPP2JNQ) | 1 month ago |
-| 5 | [Higgsfield + Claude Code = 全自動化的個人內容創作工作室](https://www.youtube.com/watch?v=NTh_f5gb-nU) | 1 month ago |
+| 5 | [Higgsfield + Claude Code = 全自動化的個人內容創作工作室 ](https://www.youtube.com/watch?v=NTh_f5gb-nU) | 1 month ago |
 
 ### 泛科學院 · [@panscischool](https://www.youtube.com/@panscischool/featured)
 
@@ -71,8 +71,8 @@
 |---|-------|-----|
 | 1 | [Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu\|泛科學院](https://www.youtube.com/watch?v=935kIzrUklI) | 6 days ago |
 | 2 | [Codex操作基礎概念！介面、概念、實際案例！手把手帶你了解！原來可以這樣用？](https://www.youtube.com/watch?v=q8ebypgApG8) | 1 week ago |
-| 3 | [Google 即時翻譯！破英文也不怕？ NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 3 weeks ago |
-| 4 | [不管你用Codex 還是 Claude 都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ \|泛科學院](https://www.youtube.com/watch?v=3rCPZizvb18) | 3 weeks ago |
+| 3 | [Google 即時翻譯！破英文也不怕？  NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 3 weeks ago |
+| 4 | [不管你用Codex 還是 Claude  都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ \|泛科學院](https://www.youtube.com/watch?v=3rCPZizvb18) | 3 weeks ago |
 | 5 | [【頻道會員招募中】募集一萬個AI實戰生！泛科學院 AI 成長計畫：打造你的 AI 競爭力！](https://www.youtube.com/watch?v=-UaqOza8NrE) | 4 weeks ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
