@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09 21:59 HKT",
+  "last_updated": "2026-07-09 22:09 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -291,6 +291,48 @@
           "url": "https://www.youtube.com/watch?v=-UaqOza8NrE",
           "published": "2026-06-11",
           "age": "4 weeks ago",
+          "is_new_today": false
+        }
+      ]
+    },
+    {
+      "name": "YAHA学堂",
+      "handle": "@YAHAClass",
+      "url": "https://www.youtube.com/@YAHAClass/featured",
+      "videos": [
+        {
+          "title": "一句話自動發文！Claude Code 接管 WordPress，3步驟完全搞定",
+          "url": "https://www.youtube.com/watch?v=Qt23Oml89Io",
+          "published": "2026-07-08",
+          "age": "1 day ago",
+          "is_new_today": false
+        },
+        {
+          "title": "AIsa深度评测：我把1000个API缩成1个Key，AI Agent终于进化成完全体",
+          "url": "https://www.youtube.com/watch?v=C8_4e_cU8PU",
+          "published": "2026-07-06",
+          "age": "3 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "上一支的 RAG 只会回答，这次我让它自己查完直接写好一封信｜Python AI Agent",
+          "url": "https://www.youtube.com/watch?v=o2ttsH6D77U",
+          "published": "2026-07-03",
+          "age": "6 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "我復刻了 Claude Tag！讓機器人自動讀寫檔案、寫 spec，免費使用最強 Agent，每月狂省 100 美金 💰",
+          "url": "https://www.youtube.com/watch?v=fQ2lwxVk04k",
+          "published": "2026-06-29",
+          "age": "1 week ago",
+          "is_new_today": false
+        },
+        {
+          "title": "別再花錢買 AI 工具！幾行 Python 用 Google RAG 打造專屬「讀心」助理",
+          "url": "https://www.youtube.com/watch?v=BpDIpf-ebJc",
+          "published": "2026-06-26",
+          "age": "1 week ago",
           "is_new_today": false
         }
       ]

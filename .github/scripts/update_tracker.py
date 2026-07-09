@@ -86,6 +86,12 @@ channels = [
         "url": "https://www.youtube.com/@panscischool/featured",
         "channel_id": "UCATnB3v_NkTTd9iD_4W2A-g",
     },
+    {
+        "name": "YAHA\u5b66\u5802",
+        "handle": "@YAHAClass",
+        "url": "https://www.youtube.com/@YAHAClass/featured",
+        "channel_id": "UC7ynDhvkWzAxctvxKrkwtsg",
+    },
 ]
 
 

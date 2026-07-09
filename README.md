@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-07-09 21:59 HKT*
+*Last updated: 2026-07-09 22:09 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -74,6 +74,16 @@
 | 3 | [Google 即時翻譯！破英文也不怕？ NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 3 weeks ago |
 | 4 | [不管你用Codex 還是 Claude 都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ \|泛科學院](https://www.youtube.com/watch?v=3rCPZizvb18) | 3 weeks ago |
 | 5 | [【頻道會員招募中】募集一萬個AI實戰生！泛科學院 AI 成長計畫：打造你的 AI 競爭力！](https://www.youtube.com/watch?v=-UaqOza8NrE) | 4 weeks ago |
+
+### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
+
+| # | Title | Age |
+|---|-------|-----|
+| 1 | [一句話自動發文！Claude Code 接管 WordPress，3步驟完全搞定](https://www.youtube.com/watch?v=Qt23Oml89Io) | 1 day ago |
+| 2 | [AIsa深度评测：我把1000个API缩成1个Key，AI Agent终于进化成完全体](https://www.youtube.com/watch?v=C8_4e_cU8PU) | 3 days ago |
+| 3 | [上一支的 RAG 只会回答，这次我让它自己查完直接写好一封信\|Python AI Agent](https://www.youtube.com/watch?v=o2ttsH6D77U) | 6 days ago |
+| 4 | [我復刻了 Claude Tag！讓機器人自動讀寫檔案、寫 spec，免費使用最強 Agent，每月狂省 100 美金 💰](https://www.youtube.com/watch?v=fQ2lwxVk04k) | 1 week ago |
+| 5 | [別再花錢買 AI 工具！幾行 Python 用 Google RAG 打造專屬「讀心」助理](https://www.youtube.com/watch?v=BpDIpf-ebJc) | 1 week ago |
 
 ---
 
