@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10 20:16 HKT",
+  "last_updated": "2026-07-11 01:38 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -95,7 +95,7 @@
           "url": "https://www.youtube.com/watch?v=OkFmCO6rJZs",
           "published": "2026-07-10",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經...",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "SpaceXAI 發布 Grok 4.5！超低成本入手 Opus 級效能？跟 Claude Fable 比較，速度冠絕全場",
+          "url": "https://www.youtube.com/watch?v=ooX1FkfJcB4",
+          "published": "2026-07-10",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "NotebookLM 背後的 RAG 技術是什麼？如何用 Chunking 解決 Context Window 上限？",
           "url": "https://www.youtube.com/watch?v=UvTC4DW8gnE",
           "published": "2026-07-09",
@@ -147,24 +154,17 @@
           "is_new_today": false
         },
         {
-          "title": "【保險文件案例】如何幫AI Agent 接入知識庫？用 Gemini File Search API 實現醫療文件自動核保",
-          "url": "https://www.youtube.com/watch?v=as1vT8-lLsI",
+          "title": "OpenAI 擬送美國政府 5% 股份？50 秒 AI 新聞歌唱晒成單新聞 🎵",
+          "url": "https://www.youtube.com/watch?v=37nF3VrNS1s",
+          "published": "2026-07-04",
+          "age": "6 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Google 同日推出 Nano Banana 2 Lite 同 Gemini Omni Flash #Shorts",
+          "url": "https://www.youtube.com/watch?v=TrGaoUkQUCc",
           "published": "2026-07-01",
           "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "比 Claude 更方便！實測最新Copilot Cowork 功能全自動幫你讀 Excel 兼填好 PDF",
-          "url": "https://www.youtube.com/watch?v=8VBpGv5X7W0",
-          "published": "2026-06-30",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "為什麼「SKILL」功能才是 AI 的未來？比較 SKILL 與 Gemini Gem 的分別",
-          "url": "https://www.youtube.com/watch?v=6cI15TNRSH8",
-          "published": "2026-06-24",
-          "age": "2 weeks ago",
           "is_new_today": false
         }
       ]
@@ -245,7 +245,7 @@
           "is_new_today": false
         },
         {
-          "title": "Higgsfield + Claude Code = 全自動化的個人內容創作工作室",
+          "title": "Higgsfield + Claude Code = 全自動化的個人內容創作工作室 ",
           "url": "https://www.youtube.com/watch?v=NTh_f5gb-nU",
           "published": "2026-05-31",
           "age": "1 month ago",
@@ -263,7 +263,7 @@
           "url": "https://www.youtube.com/watch?v=g3ysnqYnBEw",
           "published": "2026-07-10",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu｜泛科學院",
@@ -280,14 +280,14 @@
           "is_new_today": false
         },
         {
-          "title": "Google 即時翻譯！破英文也不怕？ NotebookLM大更新？Codex額度大放送！｜泛科學院",
+          "title": "Google 即時翻譯！破英文也不怕？  NotebookLM大更新？Codex額度大放送！｜泛科學院",
           "url": "https://www.youtube.com/watch?v=l01kpXF2-Tg",
           "published": "2026-06-17",
           "age": "3 weeks ago",
           "is_new_today": false
         },
         {
-          "title": "不管你用Codex 還是 Claude 都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ ｜泛科學院",
+          "title": "不管你用Codex 還是 Claude  都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ ｜泛科學院",
           "url": "https://www.youtube.com/watch?v=3rCPZizvb18",
           "published": "2026-06-12",
           "age": "4 weeks ago",
@@ -305,7 +305,7 @@
           "url": "https://www.youtube.com/watch?v=CwnoYYHOgv8",
           "published": "2026-07-10",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "一句話自動發文！Claude Code 接管 WordPress，3步驟完全搞定",

@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-07-10 20:16 HKT*
+*Last updated: 2026-07-11 01:38 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [NotebookLM 背後的 RAG 技術是什麼？如何用 Chunking 解決 Context Window 上限？](https://www.youtube.com/watch?v=UvTC4DW8gnE) | 1 day ago |
-| 2 | [AI 搵資料真的可靠？實測四大 AI ，邊個最嚴謹！你可以外判思考，但不能外判理解。](https://www.youtube.com/watch?v=l5baKFZIepg) | 3 days ago |
-| 3 | [【保險文件案例】如何幫AI Agent 接入知識庫？用 Gemini File Search API 實現醫療文件自動核保](https://www.youtube.com/watch?v=as1vT8-lLsI) | 1 week ago |
-| 4 | [比 Claude 更方便！實測最新Copilot Cowork 功能全自動幫你讀 Excel 兼填好 PDF](https://www.youtube.com/watch?v=8VBpGv5X7W0) | 1 week ago |
-| 5 | [為什麼「SKILL」功能才是 AI 的未來？比較 SKILL 與 Gemini Gem 的分別](https://www.youtube.com/watch?v=6cI15TNRSH8) | 2 weeks ago |
+| 1 | [SpaceXAI 發布 Grok 4.5！超低成本入手 Opus 級效能？跟 Claude Fable 比較，速度冠絕全場](https://www.youtube.com/watch?v=ooX1FkfJcB4) | Today |
+| 2 | [NotebookLM 背後的 RAG 技術是什麼？如何用 Chunking 解決 Context Window 上限？](https://www.youtube.com/watch?v=UvTC4DW8gnE) | 1 day ago |
+| 3 | [AI 搵資料真的可靠？實測四大 AI ，邊個最嚴謹！你可以外判思考，但不能外判理解。](https://www.youtube.com/watch?v=l5baKFZIepg) | 3 days ago |
+| 4 | [OpenAI 擬送美國政府 5% 股份？50 秒 AI 新聞歌唱晒成單新聞 🎵](https://www.youtube.com/watch?v=37nF3VrNS1s) | 6 days ago |
+| 5 | [Google 同日推出 Nano Banana 2 Lite 同 Gemini Omni Flash #Shorts](https://www.youtube.com/watch?v=TrGaoUkQUCc) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -63,7 +63,7 @@
 | 2 | [你還在手動刷104人力銀行找工作？Claude 10 分鐘幫你全自動化](https://www.youtube.com/watch?v=EfiMXx6qiw4) | 1 week ago |
 | 3 | [500+ 小時 Claude Code 心得：5 件我希望早點知道的事](https://www.youtube.com/watch?v=JbNTSwevk3w) | 3 weeks ago |
 | 4 | [什麼是 AI Operating System？一套能讓AI 替你工作的系統 (附免費設定)](https://www.youtube.com/watch?v=EyZEJPP2JNQ) | 1 month ago |
-| 5 | [Higgsfield + Claude Code = 全自動化的個人內容創作工作室](https://www.youtube.com/watch?v=NTh_f5gb-nU) | 1 month ago |
+| 5 | [Higgsfield + Claude Code = 全自動化的個人內容創作工作室 ](https://www.youtube.com/watch?v=NTh_f5gb-nU) | 1 month ago |
 
 ### 泛科學院 · [@panscischool](https://www.youtube.com/@panscischool/featured)
 
@@ -72,8 +72,8 @@
 | 1 | [幫你分析0050成分股！存股小白 Claude Cowork /schedule 排程完整教學！\|泛科學院](https://www.youtube.com/watch?v=g3ysnqYnBEw) | Today |
 | 2 | [Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu\|泛科學院](https://www.youtube.com/watch?v=935kIzrUklI) | 1 week ago |
 | 3 | [Codex操作基礎概念！介面、概念、實際案例！手把手帶你了解！原來可以這樣用？](https://www.youtube.com/watch?v=q8ebypgApG8) | 2 weeks ago |
-| 4 | [Google 即時翻譯！破英文也不怕？ NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 3 weeks ago |
-| 5 | [不管你用Codex 還是 Claude 都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ \|泛科學院](https://www.youtube.com/watch?v=3rCPZizvb18) | 4 weeks ago |
+| 4 | [Google 即時翻譯！破英文也不怕？  NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 3 weeks ago |
+| 5 | [不管你用Codex 還是 Claude  都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ \|泛科學院](https://www.youtube.com/watch?v=3rCPZizvb18) | 4 weeks ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
