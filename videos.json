@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10 15:24 HKT",
+  "last_updated": "2026-07-10 20:16 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -91,6 +91,13 @@
       "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
       "videos": [
         {
+          "title": "真 · AI影片Agent：新手唔洗識剪片做出完美爆片 ｜ Flova AI 實測：Agent＋Skills＋Timeline 全流程教學 #FlovaAI #AI影片Agent #AI工具",
+          "url": "https://www.youtube.com/watch?v=OkFmCO6rJZs",
+          "published": "2026-07-10",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經...",
           "url": "https://www.youtube.com/watch?v=38t244Nuceg",
           "published": "2026-07-03",
@@ -116,13 +123,6 @@
           "url": "https://www.youtube.com/watch?v=9M8TtoJKUC0",
           "published": "2026-06-17",
           "age": "3 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "WWDC26 重點：香港懶人包！Apple AI 真正出手了！終於認真玩 AI？#WWDC26 #AppleAI #SiriAI #AppleIntelligence #香港AI #廣東話",
-          "url": "https://www.youtube.com/watch?v=-6UakfO_C94",
-          "published": "2026-06-12",
-          "age": "4 weeks ago",
           "is_new_today": false
         }
       ]
@@ -259,6 +259,13 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
+          "title": "幫你分析0050成分股！存股小白 Claude Cowork /schedule 排程完整教學！｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=g3ysnqYnBEw",
+          "published": "2026-07-10",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu｜泛科學院",
           "url": "https://www.youtube.com/watch?v=935kIzrUklI",
           "published": "2026-07-03",
@@ -285,13 +292,6 @@
           "published": "2026-06-12",
           "age": "4 weeks ago",
           "is_new_today": false
-        },
-        {
-          "title": "【頻道會員招募中】募集一萬個AI實戰生！泛科學院 AI 成長計畫：打造你的 AI 競爭力！",
-          "url": "https://www.youtube.com/watch?v=-UaqOza8NrE",
-          "published": "2026-06-11",
-          "age": "4 weeks ago",
-          "is_new_today": false
         }
       ]
     },
@@ -300,6 +300,13 @@
       "handle": "@YAHAClass",
       "url": "https://www.youtube.com/@YAHAClass/featured",
       "videos": [
+        {
+          "title": "别再烧钱了！让Google免费干完十几万Token的重活，Claude只需拿结论",
+          "url": "https://www.youtube.com/watch?v=CwnoYYHOgv8",
+          "published": "2026-07-10",
+          "age": "Today",
+          "is_new_today": true
+        },
         {
           "title": "一句話自動發文！Claude Code 接管 WordPress，3步驟完全搞定",
           "url": "https://www.youtube.com/watch?v=Qt23Oml89Io",
@@ -326,13 +333,6 @@
           "url": "https://www.youtube.com/watch?v=fQ2lwxVk04k",
           "published": "2026-06-29",
           "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "別再花錢買 AI 工具！幾行 Python 用 Google RAG 打造專屬「讀心」助理",
-          "url": "https://www.youtube.com/watch?v=BpDIpf-ebJc",
-          "published": "2026-06-26",
-          "age": "2 weeks ago",
           "is_new_today": false
         }
       ]

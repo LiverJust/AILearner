@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-07-10 15:24 HKT*
+*Last updated: 2026-07-10 20:16 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -29,11 +29,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經...](https://www.youtube.com/watch?v=38t244Nuceg) | 1 week ago |
-| 2 | [一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話](https://www.youtube.com/watch?v=E7DFb6isRZg) | 2 weeks ago |
-| 3 | [【 AI網站避雷 】網站上線後唔知做咩？如何避免淪為電子卡片？用#Readdy AI打造24小時AI客服系統 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI #ai實戰](https://www.youtube.com/watch?v=wTMknf2MsZg) | 3 weeks ago |
-| 4 | [【香港創業者必備】5 分鐘無痛上線專業網站：Readdy AI 全能網站製作教學及實測 \| 超簡易AI網站製作工具 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI](https://www.youtube.com/watch?v=9M8TtoJKUC0) | 3 weeks ago |
-| 5 | [WWDC26 重點：香港懶人包！Apple AI 真正出手了！終於認真玩 AI？#WWDC26 #AppleAI #SiriAI #AppleIntelligence #香港AI #廣東話](https://www.youtube.com/watch?v=-6UakfO_C94) | 4 weeks ago |
+| 1 | [真 · AI影片Agent：新手唔洗識剪片做出完美爆片 \| Flova AI 實測：Agent＋Skills＋Timeline 全流程教學 #FlovaAI #AI影片Agent #AI工具](https://www.youtube.com/watch?v=OkFmCO6rJZs) | Today |
+| 2 | [香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經...](https://www.youtube.com/watch?v=38t244Nuceg) | 1 week ago |
+| 3 | [一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話](https://www.youtube.com/watch?v=E7DFb6isRZg) | 2 weeks ago |
+| 4 | [【 AI網站避雷 】網站上線後唔知做咩？如何避免淪為電子卡片？用#Readdy AI打造24小時AI客服系統 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI #ai實戰](https://www.youtube.com/watch?v=wTMknf2MsZg) | 3 weeks ago |
+| 5 | [【香港創業者必備】5 分鐘無痛上線專業網站：Readdy AI 全能網站製作教學及實測 \| 超簡易AI網站製作工具 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI](https://www.youtube.com/watch?v=9M8TtoJKUC0) | 3 weeks ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
@@ -69,21 +69,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu\|泛科學院](https://www.youtube.com/watch?v=935kIzrUklI) | 1 week ago |
-| 2 | [Codex操作基礎概念！介面、概念、實際案例！手把手帶你了解！原來可以這樣用？](https://www.youtube.com/watch?v=q8ebypgApG8) | 2 weeks ago |
-| 3 | [Google 即時翻譯！破英文也不怕？ NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 3 weeks ago |
-| 4 | [不管你用Codex 還是 Claude 都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ \|泛科學院](https://www.youtube.com/watch?v=3rCPZizvb18) | 4 weeks ago |
-| 5 | [【頻道會員招募中】募集一萬個AI實戰生！泛科學院 AI 成長計畫：打造你的 AI 競爭力！](https://www.youtube.com/watch?v=-UaqOza8NrE) | 4 weeks ago |
+| 1 | [幫你分析0050成分股！存股小白 Claude Cowork /schedule 排程完整教學！\|泛科學院](https://www.youtube.com/watch?v=g3ysnqYnBEw) | Today |
+| 2 | [Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu\|泛科學院](https://www.youtube.com/watch?v=935kIzrUklI) | 1 week ago |
+| 3 | [Codex操作基礎概念！介面、概念、實際案例！手把手帶你了解！原來可以這樣用？](https://www.youtube.com/watch?v=q8ebypgApG8) | 2 weeks ago |
+| 4 | [Google 即時翻譯！破英文也不怕？ NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 3 weeks ago |
+| 5 | [不管你用Codex 還是 Claude 都必須要知道Skills 很危險？4招肉眼排查法 + 免費神工具，秒測 Skill 安全性！ \|泛科學院](https://www.youtube.com/watch?v=3rCPZizvb18) | 4 weeks ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [一句話自動發文！Claude Code 接管 WordPress，3步驟完全搞定](https://www.youtube.com/watch?v=Qt23Oml89Io) | 2 days ago |
-| 2 | [AIsa深度评测：我把1000个API缩成1个Key，AI Agent终于进化成完全体](https://www.youtube.com/watch?v=C8_4e_cU8PU) | 4 days ago |
-| 3 | [上一支的 RAG 只会回答，这次我让它自己查完直接写好一封信\|Python AI Agent](https://www.youtube.com/watch?v=o2ttsH6D77U) | 1 week ago |
-| 4 | [我復刻了 Claude Tag！讓機器人自動讀寫檔案、寫 spec，免費使用最強 Agent，每月狂省 100 美金 💰](https://www.youtube.com/watch?v=fQ2lwxVk04k) | 1 week ago |
-| 5 | [別再花錢買 AI 工具！幾行 Python 用 Google RAG 打造專屬「讀心」助理](https://www.youtube.com/watch?v=BpDIpf-ebJc) | 2 weeks ago |
+| 1 | [别再烧钱了！让Google免费干完十几万Token的重活，Claude只需拿结论](https://www.youtube.com/watch?v=CwnoYYHOgv8) | Today |
+| 2 | [一句話自動發文！Claude Code 接管 WordPress，3步驟完全搞定](https://www.youtube.com/watch?v=Qt23Oml89Io) | 2 days ago |
+| 3 | [AIsa深度评测：我把1000个API缩成1个Key，AI Agent终于进化成完全体](https://www.youtube.com/watch?v=C8_4e_cU8PU) | 4 days ago |
+| 4 | [上一支的 RAG 只会回答，这次我让它自己查完直接写好一封信\|Python AI Agent](https://www.youtube.com/watch?v=o2ttsH6D77U) | 1 week ago |
+| 5 | [我復刻了 Claude Tag！讓機器人自動讀寫檔案、寫 spec，免費使用最強 Agent，每月狂省 100 美金 💰](https://www.youtube.com/watch?v=fQ2lwxVk04k) | 1 week ago |
 
 ---
 
