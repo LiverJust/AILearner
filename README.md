@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-07-13 00:41 HKT*
+*Last updated: 2026-07-13 14:42 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -19,17 +19,17 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [NotebookLM 2 0徹底變了：2026年最重要更新一次看懂！](https://www.youtube.com/watch?v=mBoxAlg7V3M) | 1 day ago |
+| 1 | [NotebookLM 2 0徹底變了：2026年最重要更新一次看懂！](https://www.youtube.com/watch?v=mBoxAlg7V3M) | 2 days ago |
 | 2 | [我搭了一套 Claude Cowork 自動化系統，模板免費送！](https://www.youtube.com/watch?v=VIjCRqSX4ag) | 1 week ago |
 | 3 | [Claude Cowork + NotebookLM 自動化工作流: 效率提升10倍](https://www.youtube.com/watch?v=w0i9wklw_ng) | 2 weeks ago |
 | 4 | [Claude Cowork vs Codex: 誰才是更好的AI工作助手？](https://www.youtube.com/watch?v=HSDyr8bmuOI) | 3 weeks ago |
-| 5 | [零基礎30分鐘學會Codex 95%功能！【福利贈送】](https://www.youtube.com/watch?v=dMiV7Yx9yk4) | 4 weeks ago |
+| 5 | [零基礎30分鐘學會Codex 95%功能！【福利贈送】](https://www.youtube.com/watch?v=dMiV7Yx9yk4) | 1 month ago |
 
 ### 我想用Ai賺錢 · [@我想用Ai賺錢](https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [真 · AI影片Agent：新手唔洗識剪片做出完美爆片 \| Flova AI 實測：Agent＋Skills＋Timeline 全流程教學 #FlovaAI #AI影片Agent #AI工具](https://www.youtube.com/watch?v=OkFmCO6rJZs) | 2 days ago |
+| 1 | [真 · AI影片Agent：新手唔洗識剪片做出完美爆片 \| Flova AI 實測：Agent＋Skills＋Timeline 全流程教學 #FlovaAI #AI影片Agent #AI工具](https://www.youtube.com/watch?v=OkFmCO6rJZs) | 3 days ago |
 | 2 | [香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經濟討論](https://www.youtube.com/watch?v=38t244Nuceg) | 1 week ago |
 | 3 | [一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話 ](https://www.youtube.com/watch?v=E7DFb6isRZg) | 2 weeks ago |
 | 4 | [#WWDC26 洩密：#Apple 不做 #ChatGPT，而係做 #AI入口。#siri 更新不是重點，重點是 Apple 將 AI 變成整個作業系統 #ai工具 #香港ai #廣東話](https://www.youtube.com/watch?v=hts17sEfkFM) | 2 weeks ago |
@@ -39,17 +39,17 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [告別手動入帳！用 Manus AI Agent 完美對接 Xero，全自動處理成千上萬張發票](https://www.youtube.com/watch?v=qYG7oBWLPjg) | 1 day ago |
-| 2 | [SpaceXAI 發布 Grok 4.5！超低成本入手 Opus 級效能？跟 Claude Fable 比較，速度冠絕全場](https://www.youtube.com/watch?v=ooX1FkfJcB4) | 2 days ago |
-| 3 | [NotebookLM 背後的 RAG 技術是什麼？如何用 Chunking 解決 Context Window 上限？](https://www.youtube.com/watch?v=UvTC4DW8gnE) | 3 days ago |
-| 4 | [AI 搵資料真的可靠？實測四大 AI ，邊個最嚴謹！你可以外判思考，但不能外判理解。](https://www.youtube.com/watch?v=l5baKFZIepg) | 5 days ago |
+| 1 | [告別手動入帳！用 Manus AI Agent 完美對接 Xero，全自動處理成千上萬張發票](https://www.youtube.com/watch?v=qYG7oBWLPjg) | 2 days ago |
+| 2 | [SpaceXAI 發布 Grok 4.5！超低成本入手 Opus 級效能？跟 Claude Fable 比較，速度冠絕全場](https://www.youtube.com/watch?v=ooX1FkfJcB4) | 3 days ago |
+| 3 | [NotebookLM 背後的 RAG 技術是什麼？如何用 Chunking 解決 Context Window 上限？](https://www.youtube.com/watch?v=UvTC4DW8gnE) | 4 days ago |
+| 4 | [AI 搵資料真的可靠？實測四大 AI ，邊個最嚴謹！你可以外判思考，但不能外判理解。](https://www.youtube.com/watch?v=l5baKFZIepg) | 6 days ago |
 | 5 | [OpenAI 擬送美國政府 5% 股份？50 秒 AI 新聞歌唱晒成單新聞 🎵](https://www.youtube.com/watch?v=37nF3VrNS1s) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！](https://www.youtube.com/watch?v=ZC8AI_jFWnU) | 4 days ago |
+| 1 | [國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！](https://www.youtube.com/watch?v=ZC8AI_jFWnU) | 5 days ago |
 | 2 | [寫提示詞太累，而且工作流程很難交待清楚？Codex 讓你直接「做給 AI 看」，徹底終結這個困境！](https://www.youtube.com/watch?v=SFWYaF0HJiw) | 2 weeks ago |
 | 3 | [Hermes Agent 保姆級教學來了！最安全的 AI 私人助理造成 OpanClaw 大規模棄養潮，用過就回不去了！](https://www.youtube.com/watch?v=-EivK7vpOXY) | 4 weeks ago |
 | 4 | [一個 AI 助手打趴整套 Office 軟體！超強 Codex 從表格簡報、合併列印、架設網站全部一手包辦！](https://www.youtube.com/watch?v=W5ymBPi53Tw) | 1 month ago |
@@ -69,7 +69,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [股民必看！用 Claude Cowork 追蹤0050成份股、整理信件的 3 個排程技巧](https://www.youtube.com/watch?v=g3ysnqYnBEw) | 2 days ago |
+| 1 | [股民必看！用 Claude Cowork 追蹤0050成份股、整理信件的 3 個排程技巧](https://www.youtube.com/watch?v=g3ysnqYnBEw) | 3 days ago |
 | 2 | [Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu\|泛科學院](https://www.youtube.com/watch?v=935kIzrUklI) | 1 week ago |
 | 3 | [Codex操作基礎概念！介面、概念、實際案例！手把手帶你了解！原來可以這樣用？](https://www.youtube.com/watch?v=q8ebypgApG8) | 2 weeks ago |
 | 4 | [Google 即時翻譯！破英文也不怕？  NotebookLM大更新？Codex額度大放送！\|泛科學院](https://www.youtube.com/watch?v=l01kpXF2-Tg) | 3 weeks ago |
@@ -79,10 +79,10 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [别被“无限免费”骗了！揭秘Claude Code零成本接入GLM 5 2，避开4000美金账单陷阱](https://www.youtube.com/watch?v=hLI-lCmgjiw) | Today |
-| 2 | [别再烧钱了！让Google免费干完十几万Token的重活，Claude只需拿结论](https://www.youtube.com/watch?v=CwnoYYHOgv8) | 2 days ago |
-| 3 | [一句話自動發文！Claude Code 接管 WordPress，3步驟完全搞定](https://www.youtube.com/watch?v=Qt23Oml89Io) | 4 days ago |
-| 4 | [AIsa深度评测：我把1000个API缩成1个Key，AI Agent终于进化成完全体](https://www.youtube.com/watch?v=C8_4e_cU8PU) | 6 days ago |
+| 1 | [别被“无限免费”骗了！揭秘Claude Code零成本接入GLM 5 2，避开4000美金账单陷阱](https://www.youtube.com/watch?v=hLI-lCmgjiw) | 1 day ago |
+| 2 | [别再烧钱了！让Google免费干完十几万Token的重活，Claude只需拿结论](https://www.youtube.com/watch?v=CwnoYYHOgv8) | 3 days ago |
+| 3 | [一句話自動發文！Claude Code 接管 WordPress，3步驟完全搞定](https://www.youtube.com/watch?v=Qt23Oml89Io) | 5 days ago |
+| 4 | [AIsa深度评测：我把1000个API缩成1个Key，AI Agent终于进化成完全体](https://www.youtube.com/watch?v=C8_4e_cU8PU) | 1 week ago |
 | 5 | [上一支的 RAG 只会回答，这次我让它自己查完直接写好一封信\|Python AI Agent](https://www.youtube.com/watch?v=o2ttsH6D77U) | 1 week ago |
 
 ---
