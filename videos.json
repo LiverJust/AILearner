@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14 01:46 HKT",
+  "last_updated": "2026-07-14 14:01 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -52,7 +52,7 @@
           "title": "NotebookLM 2 0徹底變了：2026年最重要更新一次看懂！",
           "url": "https://www.youtube.com/watch?v=mBoxAlg7V3M",
           "published": "2026-07-11",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
@@ -94,7 +94,7 @@
           "title": "真 · AI影片Agent：新手唔洗識剪片做出完美爆片 ｜ Flova AI 實測：Agent＋Skills＋Timeline 全流程教學 #FlovaAI #AI影片Agent #AI工具",
           "url": "https://www.youtube.com/watch?v=OkFmCO6rJZs",
           "published": "2026-07-10",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
@@ -115,7 +115,7 @@
           "title": "#WWDC26 洩密：#Apple 不做 #ChatGPT，而係做 #AI入口。#siri 更新不是重點，重點是 Apple 將 AI 變成整個作業系統 #ai工具 #香港ai #廣東話",
           "url": "https://www.youtube.com/watch?v=hts17sEfkFM",
           "published": "2026-06-23",
-          "age": "2 weeks ago",
+          "age": "3 weeks ago",
           "is_new_today": false
         },
         {
@@ -136,35 +136,35 @@
           "title": "用 AI Agent 管理 CRM ，配合 Wati API 打造最強 WhatsApp 營銷 Agent！",
           "url": "https://www.youtube.com/watch?v=PC9fPCU_-Tc",
           "published": "2026-07-13",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
           "title": "Xero 內置 OCR 不夠用？用 Manus 建立專屬會計 SOP，工作效率提升 10 倍！",
           "url": "https://www.youtube.com/watch?v=qYG7oBWLPjg",
           "published": "2026-07-11",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
           "title": "SpaceXAI 發布 Grok 4.5！超低成本入手 Opus 級效能？跟 Claude Fable 比較，速度冠絕全場",
           "url": "https://www.youtube.com/watch?v=ooX1FkfJcB4",
           "published": "2026-07-10",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
           "title": "NotebookLM 背後的 RAG 技術是什麼？如何用 Chunking 解決 Context Window 上限？",
           "url": "https://www.youtube.com/watch?v=UvTC4DW8gnE",
           "published": "2026-07-09",
-          "age": "4 days ago",
+          "age": "5 days ago",
           "is_new_today": false
         },
         {
           "title": "AI 搵資料真的可靠？實測四大 AI ，邊個最嚴謹！你可以外判思考，但不能外判理解。",
           "url": "https://www.youtube.com/watch?v=l5baKFZIepg",
           "published": "2026-07-07",
-          "age": "6 days ago",
+          "age": "1 week ago",
           "is_new_today": false
         }
       ]
@@ -178,21 +178,21 @@
           "title": "國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！",
           "url": "https://www.youtube.com/watch?v=ZC8AI_jFWnU",
           "published": "2026-07-08",
-          "age": "5 days ago",
+          "age": "6 days ago",
           "is_new_today": false
         },
         {
           "title": "寫提示詞太累，而且工作流程很難交待清楚？Codex 讓你直接「做給 AI 看」，徹底終結這個困境！",
           "url": "https://www.youtube.com/watch?v=SFWYaF0HJiw",
           "published": "2026-06-23",
-          "age": "2 weeks ago",
+          "age": "3 weeks ago",
           "is_new_today": false
         },
         {
           "title": "Hermes Agent 保姆級教學來了！最安全的 AI 私人助理造成 OpanClaw 大規模棄養潮，用過就回不去了！",
           "url": "https://www.youtube.com/watch?v=-EivK7vpOXY",
           "published": "2026-06-14",
-          "age": "4 weeks ago",
+          "age": "1 month ago",
           "is_new_today": false
         },
         {
@@ -234,7 +234,7 @@
           "title": "500+ 小時 Claude Code 心得：5 件我希望早點知道的事",
           "url": "https://www.youtube.com/watch?v=JbNTSwevk3w",
           "published": "2026-06-14",
-          "age": "4 weeks ago",
+          "age": "1 month ago",
           "is_new_today": false
         },
         {
@@ -262,7 +262,7 @@
           "title": "股民必看！用 Claude Cowork 追蹤0050成份股、整理信件的 3 個排程技巧",
           "url": "https://www.youtube.com/watch?v=g3ysnqYnBEw",
           "published": "2026-07-10",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
@@ -304,21 +304,21 @@
           "title": "别被“无限免费”骗了！揭秘Claude Code零成本接入GLM 5 2，避开4000美金账单陷阱",
           "url": "https://www.youtube.com/watch?v=hLI-lCmgjiw",
           "published": "2026-07-12",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
           "title": "别再烧钱了！让Google免费干完十几万Token的重活，Claude只需拿结论",
           "url": "https://www.youtube.com/watch?v=CwnoYYHOgv8",
           "published": "2026-07-10",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
           "title": "一句話自動發文！Claude Code 接管 WordPress，3步驟完全搞定",
           "url": "https://www.youtube.com/watch?v=Qt23Oml89Io",
           "published": "2026-07-08",
-          "age": "5 days ago",
+          "age": "6 days ago",
           "is_new_today": false
         },
         {
