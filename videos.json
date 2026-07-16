@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-16 19:23 HKT",
+  "last_updated": "2026-07-17 00:59 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -7,7 +7,7 @@
       "url": "https://www.youtube.com/@Teacher_Kong/videos",
       "videos": [
         {
-          "title": "Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結...",
+          "title": "Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結…",
           "url": "https://www.youtube.com/watch?v=S3m56h6eJ14",
           "published": "2026-07-14",
           "age": "2 days ago",
@@ -35,7 +35,7 @@
           "is_new_today": false
         },
         {
-          "title": "重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案｜整理聊天記錄｜超強記憶體，何時使用哪個工具...",
+          "title": "重大更新！新版Gemini合體NotebookLM打造地表最強 AI 知識庫，5大絕佳用法 + 多模態輸出全公開！建立任何格式檔案｜整理聊天記錄｜超強記憶體，何時使用哪個工具一次告訴你！手把手帶你做！",
           "url": "https://www.youtube.com/watch?v=uE1XDwDOtbU",
           "published": "2026-05-10",
           "age": "2 months ago",
@@ -98,17 +98,24 @@
           "is_new_today": false
         },
         {
-          "title": "香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經...",
+          "title": "香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經濟討論",
           "url": "https://www.youtube.com/watch?v=38t244Nuceg",
           "published": "2026-07-03",
           "age": "1 week ago",
           "is_new_today": false
         },
         {
-          "title": "一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話",
+          "title": "一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話 ",
           "url": "https://www.youtube.com/watch?v=E7DFb6isRZg",
           "published": "2026-06-26",
           "age": "2 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "#WWDC26 洩密：#Apple 不做 #ChatGPT，而係做 #AI入口。#siri 更新不是重點，重點是 Apple 將 AI 變成整個作業系統 #ai工具 #香港ai #廣東話",
+          "url": "https://www.youtube.com/watch?v=hts17sEfkFM",
+          "published": "2026-06-23",
+          "age": "3 weeks ago",
           "is_new_today": false
         },
         {
@@ -116,13 +123,6 @@
           "url": "https://www.youtube.com/watch?v=wTMknf2MsZg",
           "published": "2026-06-19",
           "age": "3 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "【香港創業者必備】5 分鐘無痛上線專業網站：Readdy AI 全能網站製作教學及實測 ｜ 超簡易AI網站製作工具 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI",
-          "url": "https://www.youtube.com/watch?v=9M8TtoJKUC0",
-          "published": "2026-06-17",
-          "age": "4 weeks ago",
           "is_new_today": false
         }
       ]
@@ -132,6 +132,13 @@
       "handle": "@ompshek",
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
+        {
+          "title": "淺白解說 Chat、Work、Code 三大模式！Credit 如何計算？ Web 跟 Desktop 版的分別",
+          "url": "https://www.youtube.com/watch?v=Cijl5cMkJMc",
+          "published": "2026-07-16",
+          "age": "Today",
+          "is_new_today": false
+        },
         {
           "title": "【ChatGPT-Live 實測】同舊版有咩分別？能邊聽邊講，對話流暢到好似真人！",
           "url": "https://www.youtube.com/watch?v=39WtDwgTWUY",
@@ -158,13 +165,6 @@
           "url": "https://www.youtube.com/watch?v=qYG7oBWLPjg",
           "published": "2026-07-11",
           "age": "5 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "SpaceXAI 發布 Grok 4.5！超低成本入手 Opus 級效能？跟 Claude Fable 比較，速度冠絕全場",
-          "url": "https://www.youtube.com/watch?v=ooX1FkfJcB4",
-          "published": "2026-07-10",
-          "age": "6 days ago",
           "is_new_today": false
         }
       ]
@@ -217,6 +217,13 @@
       "url": "https://www.youtube.com/@JayLuxAI/videos",
       "videos": [
         {
+          "title": "3個步驟，從0打造你的AI儀表板",
+          "url": "https://www.youtube.com/watch?v=grYI7jaSpxg",
+          "published": "2026-07-16",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "Claude + LINE: 團購整單系統替你每週解放10+ 小時",
           "url": "https://www.youtube.com/watch?v=kxt_7hjAU1o",
           "published": "2026-07-05",
@@ -243,13 +250,6 @@
           "published": "2026-06-07",
           "age": "1 month ago",
           "is_new_today": false
-        },
-        {
-          "title": "Higgsfield + Claude Code = 全自動化的個人內容創作工作室",
-          "url": "https://www.youtube.com/watch?v=NTh_f5gb-nU",
-          "published": "2026-05-31",
-          "age": "1 month ago",
-          "is_new_today": false
         }
       ]
     },
@@ -259,7 +259,21 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
-          "title": "7月初AI更新 ChatGPT 超越Claude？ChatGPT 直接住進PowerPoint！NotebookLM ｜泛科學院",
+          "title": "ChatGPT 2026年最大更新！連PPT也可以用SkIl了？ ｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=pM4LJtcrrGo",
+          "published": "2026-07-16",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
+          "title": "擔心AI把資料外洩？四步驟用AI更安全｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=7vwd2is0RPs",
+          "published": "2026-07-15",
+          "age": "1 day ago",
+          "is_new_today": false
+        },
+        {
+          "title": "7月初AI更新  ChatGPT 超越Claude？ChatGPT 直接住進PowerPoint！NotebookLM ｜泛科學院",
           "url": "https://www.youtube.com/watch?v=cXw-P07TRBw",
           "published": "2026-07-14",
           "age": "2 days ago",
@@ -277,20 +291,6 @@
           "url": "https://www.youtube.com/watch?v=935kIzrUklI",
           "published": "2026-07-03",
           "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Codex操作基礎概念！介面、概念、實際案例！手把手帶你了解！原來可以這樣用？",
-          "url": "https://www.youtube.com/watch?v=q8ebypgApG8",
-          "published": "2026-06-26",
-          "age": "2 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Google 即時翻譯！破英文也不怕？ NotebookLM大更新？Codex額度大放送！｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=l01kpXF2-Tg",
-          "published": "2026-06-17",
-          "age": "4 weeks ago",
           "is_new_today": false
         }
       ]
