@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18 18:53 HKT",
+  "last_updated": "2026-07-19 00:40 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -7,14 +7,14 @@
       "url": "https://www.youtube.com/@Teacher_Kong/videos",
       "videos": [
         {
-          "title": "只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十...",
+          "title": "只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十個？",
           "url": "https://www.youtube.com/watch?v=BFqFs9mh_S4",
           "published": "2026-07-17",
           "age": "1 day ago",
           "is_new_today": false
         },
         {
-          "title": "Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結...",
+          "title": "Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結…",
           "url": "https://www.youtube.com/watch?v=S3m56h6eJ14",
           "published": "2026-07-14",
           "age": "4 days ago",
@@ -53,7 +53,7 @@
           "url": "https://www.youtube.com/watch?v=aZgvDDJmUCs",
           "published": "2026-07-18",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "NotebookLM 2 0徹底變了：2026年最重要更新一次看懂！",
@@ -91,7 +91,7 @@
       "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
       "videos": [
         {
-          "title": "#ChatGPT 新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學",
+          "title": "#ChatGPT  新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學",
           "url": "https://www.youtube.com/watch?v=MfZXYnfDA8w",
           "published": "2026-07-17",
           "age": "1 day ago",
@@ -105,24 +105,24 @@
           "is_new_today": false
         },
         {
-          "title": "香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經...",
+          "title": "香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經濟討論",
           "url": "https://www.youtube.com/watch?v=38t244Nuceg",
           "published": "2026-07-03",
           "age": "2 weeks ago",
           "is_new_today": false
         },
         {
-          "title": "一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話",
+          "title": "一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話 ",
           "url": "https://www.youtube.com/watch?v=E7DFb6isRZg",
           "published": "2026-06-26",
           "age": "3 weeks ago",
           "is_new_today": false
         },
         {
-          "title": "【 AI網站避雷 】網站上線後唔知做咩？如何避免淪為電子卡片？用#Readdy AI打造24小時AI客服系統 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI #ai實戰",
-          "url": "https://www.youtube.com/watch?v=wTMknf2MsZg",
-          "published": "2026-06-19",
-          "age": "4 weeks ago",
+          "title": "#WWDC26 洩密：#Apple 不做 #ChatGPT，而係做 #AI入口。#siri 更新不是重點，重點是 Apple 將 AI 變成整個作業系統 #ai工具 #香港ai #廣東話",
+          "url": "https://www.youtube.com/watch?v=hts17sEfkFM",
+          "published": "2026-06-23",
+          "age": "3 weeks ago",
           "is_new_today": false
         }
       ]
@@ -132,6 +132,27 @@
       "handle": "@ompshek",
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
+        {
+          "title": "實測內地最強開源 AI 模型「Kimi K3」！只花 US$19 寫 Code，到底好唔好用？",
+          "url": "https://www.youtube.com/watch?v=1Marrg8_0Y0",
+          "published": "2026-07-18",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
+          "title": "最新的即時影片編輯模型 } Decart 剛發布 Lucy 2.5",
+          "url": "https://www.youtube.com/watch?v=DcrqDB486N0",
+          "published": "2026-07-17",
+          "age": "1 day ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Kimi K3 正式發布：2.8 萬億參數、百萬 Token、前端榜首｜AI 新聞 #Shorts",
+          "url": "https://www.youtube.com/watch?v=PBK0ID4e7Pw",
+          "published": "2026-07-17",
+          "age": "1 day ago",
+          "is_new_today": false
+        },
         {
           "title": "淺白解說 Chat、Work、Code 三大模式！Credit 如何計算？ Web 跟 Desktop 版的分別",
           "url": "https://www.youtube.com/watch?v=Cijl5cMkJMc",
@@ -144,27 +165,6 @@
           "url": "https://www.youtube.com/watch?v=39WtDwgTWUY",
           "published": "2026-07-15",
           "age": "3 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Vibe Code 了一個 Zoom AI 實時字幕工具、支援廣東話等多種語言",
-          "url": "https://www.youtube.com/watch?v=awSLmaEpnTw",
-          "published": "2026-07-14",
-          "age": "4 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "用 AI Agent 管理 CRM ，配合 Wati API 打造最強 WhatsApp 營銷 Agent！",
-          "url": "https://www.youtube.com/watch?v=PC9fPCU_-Tc",
-          "published": "2026-07-13",
-          "age": "5 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Xero 內置 OCR 不夠用？用 Manus 建立專屬會計 SOP，工作效率提升 10 倍！",
-          "url": "https://www.youtube.com/watch?v=qYG7oBWLPjg",
-          "published": "2026-07-11",
-          "age": "1 week ago",
           "is_new_today": false
         }
       ]
@@ -259,38 +259,38 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
-          "title": "7月初AI更新 ChatGPT 超越Claude？ChatGPT 直接住進PowerPoint！NotebookLM ｜泛科學院",
+          "title": "Codex不見了？ChatGPT加Codex 等於ChatGPT Work｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=bFGWyZNY98U",
+          "published": "2026-07-18",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
+          "title": "ChatGPT終於跟PowerPoint 合體了！一分鐘教你安裝｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=MGJMQJevMgg",
+          "published": "2026-07-17",
+          "age": "1 day ago",
+          "is_new_today": false
+        },
+        {
+          "title": "ChatGPT 2026年最大更新！連PPT也可以用SkIl了？ ｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=pM4LJtcrrGo",
+          "published": "2026-07-16",
+          "age": "2 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "擔心AI把資料外洩？四步驟用AI更安全｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=7vwd2is0RPs",
+          "published": "2026-07-15",
+          "age": "3 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "7月初AI更新  ChatGPT 超越Claude？ChatGPT 直接住進PowerPoint！NotebookLM ｜泛科學院",
           "url": "https://www.youtube.com/watch?v=cXw-P07TRBw",
           "published": "2026-07-14",
           "age": "4 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "股民必看！用 Claude Cowork 追蹤0050成份股、整理信件的 3 個排程技巧",
-          "url": "https://www.youtube.com/watch?v=g3ysnqYnBEw",
-          "published": "2026-07-10",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=935kIzrUklI",
-          "published": "2026-07-03",
-          "age": "2 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Codex操作基礎概念！介面、概念、實際案例！手把手帶你了解！原來可以這樣用？",
-          "url": "https://www.youtube.com/watch?v=q8ebypgApG8",
-          "published": "2026-06-26",
-          "age": "3 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Google 即時翻譯！破英文也不怕？ NotebookLM大更新？Codex額度大放送！｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=l01kpXF2-Tg",
-          "published": "2026-06-17",
-          "age": "1 month ago",
           "is_new_today": false
         }
       ]
@@ -305,7 +305,7 @@
           "url": "https://www.youtube.com/watch?v=1Jl1scURsIA",
           "published": "2026-07-18",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "别再盲目用 Advisor 模式！Claude Code 官方没说的致命坑，我替你踩了",
