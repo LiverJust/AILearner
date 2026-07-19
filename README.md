@@ -3,14 +3,14 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-07-19 19:01 HKT*
+*Last updated: 2026-07-20 00:40 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十...](https://www.youtube.com/watch?v=BFqFs9mh_S4) | 2 days ago |
-| 2 | [Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結...](https://www.youtube.com/watch?v=S3m56h6eJ14) | 5 days ago |
+| 1 | [只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十個？](https://www.youtube.com/watch?v=BFqFs9mh_S4) | 2 days ago |
+| 2 | [Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結…](https://www.youtube.com/watch?v=S3m56h6eJ14) | 5 days ago |
 | 3 | [別再亂裝Skills了！我試用了100多個，真正離不開的只有這10個！免費、0門檻、不用寫程式，充分發揮Codex和Claude全部潛能的終極指南，看完直接領先99%的人！](https://www.youtube.com/watch?v=e-9zHHzGM3k) | 1 month ago |
 | 4 | [【全網最細】OpenAI Codex 徹底免費！新手必學的「進化版 ChatGPT」，從 0 到 1 完整入門教學！10 個高頻功能快速學會指揮你的超級 AI Agent，工作全自動！！](https://www.youtube.com/watch?v=39_iw_KLEFk) | 1 month ago |
 | 5 | [6個Claude核心功能讓你超越99%的AI使用者！Cowork/Code保姆級完整教學，自動生成內容\|簡報\|網頁\|工作流，從入門到進階一次精通，打造你的專屬AI員工！](https://www.youtube.com/watch?v=8244knXN9e0) | 1 month ago |
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [實測內地最強開源 AI 模型「Kimi K3」！只花 US$19 寫 Code，到底好唔好用？](https://www.youtube.com/watch?v=1Marrg8_0Y0) | 1 day ago |
-| 2 | [淺白解說 Chat、Work、Code 三大模式！Credit 如何計算？ Web 跟 Desktop 版的分別](https://www.youtube.com/watch?v=Cijl5cMkJMc) | 3 days ago |
-| 3 | [【廣東話實測】ChatGPT 最新「GPT-Live」語音功能！同舊版有咩分別？能邊聽邊講，對話流暢到好似真人！](https://www.youtube.com/watch?v=39WtDwgTWUY) | 4 days ago |
-| 4 | [Vibe Code 了一個 Zoom AI 實時字幕工具、支援廣東話等多種語言](https://www.youtube.com/watch?v=awSLmaEpnTw) | 5 days ago |
-| 5 | [用 AI Agent 管理 CRM ，配合 Wati API 打造最強 WhatsApp 營銷 Agent！](https://www.youtube.com/watch?v=PC9fPCU_-Tc) | 6 days ago |
+| 1 | [【AI 剪片工具】ChatGPT Work 插件 ChatCut！自動剪走停頓位、執錯處！真係可以解放雙手？](https://www.youtube.com/watch?v=ttjZDQMNyjk) | Today |
+| 2 | [實測內地最強開源 AI 模型「Kimi K3」！只花 US$19 寫 Code，到底好唔好用？](https://www.youtube.com/watch?v=1Marrg8_0Y0) | 1 day ago |
+| 3 | [最新的即時影片編輯模型 } Decart 剛發布 Lucy 2.5](https://www.youtube.com/watch?v=DcrqDB486N0) | 2 days ago |
+| 4 | [Kimi K3 正式發布：2.8 萬億參數、百萬 Token、前端榜首\|AI 新聞 #Shorts](https://www.youtube.com/watch?v=PBK0ID4e7Pw) | 2 days ago |
+| 5 | [淺白解說 Chat、Work、Code 三大模式！Credit 如何計算？ Web 跟 Desktop 版的分別](https://www.youtube.com/watch?v=Cijl5cMkJMc) | 3 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
