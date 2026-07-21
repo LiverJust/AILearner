@@ -3,14 +3,14 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-07-21 01:15 HKT*
+*Last updated: 2026-07-21 14:19 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十個？](https://www.youtube.com/watch?v=BFqFs9mh_S4) | 3 days ago |
-| 2 | [Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結…](https://www.youtube.com/watch?v=S3m56h6eJ14) | 6 days ago |
+| 1 | [只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十個？](https://www.youtube.com/watch?v=BFqFs9mh_S4) | 4 days ago |
+| 2 | [Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結…](https://www.youtube.com/watch?v=S3m56h6eJ14) | 1 week ago |
 | 3 | [別再亂裝Skills了！我試用了100多個，真正離不開的只有這10個！免費、0門檻、不用寫程式，充分發揮Codex和Claude全部潛能的終極指南，看完直接領先99%的人！](https://www.youtube.com/watch?v=e-9zHHzGM3k) | 1 month ago |
 | 4 | [【全網最細】OpenAI Codex 徹底免費！新手必學的「進化版 ChatGPT」，從 0 到 1 完整入門教學！10 個高頻功能快速學會指揮你的超級 AI Agent，工作全自動！！](https://www.youtube.com/watch?v=39_iw_KLEFk) | 1 month ago |
 | 5 | [6個Claude核心功能讓你超越99%的AI使用者！Cowork/Code保姆級完整教學，自動生成內容\|簡報\|網頁\|工作流，從入門到進階一次精通，打造你的專屬AI員工！](https://www.youtube.com/watch?v=8244knXN9e0) | 2 months ago |
@@ -19,7 +19,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [OpenAI 大更新: 一隻視頻看懂 ChatGPT Work + GPT-5.6 所有核心功能，Claude 最大對手來了！](https://www.youtube.com/watch?v=aZgvDDJmUCs) | 2 days ago |
+| 1 | [OpenAI 大更新: 一隻視頻看懂 ChatGPT Work + GPT-5.6 所有核心功能，Claude 最大對手來了！](https://www.youtube.com/watch?v=aZgvDDJmUCs) | 3 days ago |
 | 2 | [NotebookLM 2 0徹底變了：2026年最重要更新一次看懂！](https://www.youtube.com/watch?v=mBoxAlg7V3M) | 1 week ago |
 | 3 | [我搭了一套 Claude Cowork 自動化系統，模板免費送！](https://www.youtube.com/watch?v=VIjCRqSX4ag) | 2 weeks ago |
 | 4 | [Claude Cowork + NotebookLM 自動化工作流: 效率提升10倍](https://www.youtube.com/watch?v=w0i9wklw_ng) | 3 weeks ago |
@@ -29,28 +29,28 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [#ChatGPT  新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學](https://www.youtube.com/watch?v=MfZXYnfDA8w) | 3 days ago |
+| 1 | [#ChatGPT  新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學](https://www.youtube.com/watch?v=MfZXYnfDA8w) | 4 days ago |
 | 2 | [真 · AI影片Agent：新手唔洗識剪片做出完美爆片 \| Flova AI 實測：Agent＋Skills＋Timeline 全流程教學 #FlovaAI #AI影片Agent #AI工具](https://www.youtube.com/watch?v=OkFmCO6rJZs) | 1 week ago |
 | 3 | [香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經濟討論](https://www.youtube.com/watch?v=38t244Nuceg) | 2 weeks ago |
 | 4 | [一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話 ](https://www.youtube.com/watch?v=E7DFb6isRZg) | 3 weeks ago |
-| 5 | [#WWDC26 洩密：#Apple 不做 #ChatGPT，而係做 #AI入口。#siri 更新不是重點，重點是 Apple 將 AI 變成整個作業系統 #ai工具 #香港ai #廣東話](https://www.youtube.com/watch?v=hts17sEfkFM) | 3 weeks ago |
+| 5 | [#WWDC26 洩密：#Apple 不做 #ChatGPT，而係做 #AI入口。#siri 更新不是重點，重點是 Apple 將 AI 變成整個作業系統 #ai工具 #香港ai #廣東話](https://www.youtube.com/watch?v=hts17sEfkFM) | 4 weeks ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [【AI 剪片工具】ChatGPT Work 插件 ChatCut！自動剪走停頓位、執錯處！真係可以解放雙手？](https://www.youtube.com/watch?v=ttjZDQMNyjk) | 1 day ago |
-| 2 | [實測內地最強開源 AI 模型「Kimi K3」！只花 US$19 寫 Code，到底好唔好用？](https://www.youtube.com/watch?v=1Marrg8_0Y0) | 2 days ago |
-| 3 | [最新的即時影片編輯模型 } Decart 剛發布 Lucy 2.5](https://www.youtube.com/watch?v=DcrqDB486N0) | 3 days ago |
-| 4 | [Kimi K3 正式發布：2.8 萬億參數、百萬 Token、前端榜首\|AI 新聞 #Shorts](https://www.youtube.com/watch?v=PBK0ID4e7Pw) | 3 days ago |
-| 5 | [淺白解說 Chat、Work、Code 三大模式！Credit 如何計算？ Web 跟 Desktop 版的分別](https://www.youtube.com/watch?v=Cijl5cMkJMc) | 4 days ago |
+| 1 | [【AI 剪片工具】ChatGPT Work 插件 ChatCut！自動剪走停頓位、執錯處！真係可以解放雙手？](https://www.youtube.com/watch?v=ttjZDQMNyjk) | 2 days ago |
+| 2 | [實測內地最強開源 AI 模型「Kimi K3」！只花 US$19 寫 Code，到底好唔好用？](https://www.youtube.com/watch?v=1Marrg8_0Y0) | 3 days ago |
+| 3 | [最新的即時影片編輯模型 } Decart 剛發布 Lucy 2.5](https://www.youtube.com/watch?v=DcrqDB486N0) | 4 days ago |
+| 4 | [Kimi K3 正式發布：2.8 萬億參數、百萬 Token、前端榜首\|AI 新聞 #Shorts](https://www.youtube.com/watch?v=PBK0ID4e7Pw) | 4 days ago |
+| 5 | [淺白解說 Chat、Work、Code 三大模式！Credit 如何計算？ Web 跟 Desktop 版的分別](https://www.youtube.com/watch?v=Cijl5cMkJMc) | 5 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！](https://www.youtube.com/watch?v=ZC8AI_jFWnU) | 1 week ago |
-| 2 | [寫提示詞太累，而且工作流程很難交待清楚？Codex 讓你直接「做給 AI 看」，徹底終結這個困境！](https://www.youtube.com/watch?v=SFWYaF0HJiw) | 3 weeks ago |
+| 2 | [寫提示詞太累，而且工作流程很難交待清楚？Codex 讓你直接「做給 AI 看」，徹底終結這個困境！](https://www.youtube.com/watch?v=SFWYaF0HJiw) | 4 weeks ago |
 | 3 | [Hermes Agent 保姆級教學來了！最安全的 AI 私人助理造成 OpanClaw 大規模棄養潮，用過就回不去了！](https://www.youtube.com/watch?v=-EivK7vpOXY) | 1 month ago |
 | 4 | [一個 AI 助手打趴整套 Office 軟體！超強 Codex 從表格簡報、合併列印、架設網站全部一手包辦！](https://www.youtube.com/watch?v=W5ymBPi53Tw) | 2 months ago |
 | 5 | [別再小看本地 AI！Gemma 4 + LM Studio 讓你的電腦變成超級離線 AI 工作站，而且完全免費 (手機也能使用喔！)](https://www.youtube.com/watch?v=r5M0W66xcGc) | 2 months ago |
@@ -59,7 +59,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [3個步驟，從0打造你的AI儀表板](https://www.youtube.com/watch?v=grYI7jaSpxg) | 4 days ago |
+| 1 | [3個步驟，從0打造你的AI儀表板](https://www.youtube.com/watch?v=grYI7jaSpxg) | 5 days ago |
 | 2 | [Claude + LINE: 團購整單系統替你每週解放10+ 小時](https://www.youtube.com/watch?v=kxt_7hjAU1o) | 2 weeks ago |
 | 3 | [你還在手動刷104人力銀行找工作？Claude 10 分鐘幫你全自動化](https://www.youtube.com/watch?v=EfiMXx6qiw4) | 3 weeks ago |
 | 4 | [500+ 小時 Claude Code 心得：5 件我希望早點知道的事](https://www.youtube.com/watch?v=JbNTSwevk3w) | 1 month ago |
@@ -69,18 +69,18 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [NotebookLM可以生成短影音了！成果到底如何？\|泛科學院](https://www.youtube.com/watch?v=pKoBYnDqoVM) | Today |
-| 2 | [這個白癡設定Claude 終於修正了！\|泛科學院](https://www.youtube.com/watch?v=pPbbYMnkKTE) | 1 day ago |
-| 3 | [Codex不見了？ChatGPT加Codex 等於ChatGPT Work\|泛科學院](https://www.youtube.com/watch?v=bFGWyZNY98U) | 2 days ago |
-| 4 | [ChatGPT終於跟PowerPoint 合體了！一分鐘教你安裝\|泛科學院](https://www.youtube.com/watch?v=MGJMQJevMgg) | 3 days ago |
-| 5 | [ChatGPT 2026年最大更新！連PPT也可以用SkIl了？ \|泛科學院](https://www.youtube.com/watch?v=pM4LJtcrrGo) | 4 days ago |
+| 1 | [NotebookLM可以生成短影音了！成果到底如何？\|泛科學院](https://www.youtube.com/watch?v=pKoBYnDqoVM) | 1 day ago |
+| 2 | [這個白癡設定Claude 終於修正了！\|泛科學院](https://www.youtube.com/watch?v=pPbbYMnkKTE) | 2 days ago |
+| 3 | [Codex不見了？ChatGPT加Codex 等於ChatGPT Work\|泛科學院](https://www.youtube.com/watch?v=bFGWyZNY98U) | 3 days ago |
+| 4 | [ChatGPT終於跟PowerPoint 合體了！一分鐘教你安裝\|泛科學院](https://www.youtube.com/watch?v=MGJMQJevMgg) | 4 days ago |
+| 5 | [ChatGPT 2026年最大更新！連PPT也可以用SkIl了？ \|泛科學院](https://www.youtube.com/watch?v=pM4LJtcrrGo) | 5 days ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [别再乱用 Claude Design！先做“设计系统”地基，网站、PPT、广告全自动对齐](https://www.youtube.com/watch?v=1Jl1scURsIA) | 2 days ago |
-| 2 | [别再盲目用 Advisor 模式！Claude Code 官方没说的致命坑，我替你踩了](https://www.youtube.com/watch?v=MCR1CVqQe3s) | 5 days ago |
+| 1 | [别再乱用 Claude Design！先做“设计系统”地基，网站、PPT、广告全自动对齐](https://www.youtube.com/watch?v=1Jl1scURsIA) | 3 days ago |
+| 2 | [别再盲目用 Advisor 模式！Claude Code 官方没说的致命坑，我替你踩了](https://www.youtube.com/watch?v=MCR1CVqQe3s) | 6 days ago |
 | 3 | [别被“无限免费”骗了！揭秘Claude Code零成本接入GLM 5 2，避开4000美金账单陷阱](https://www.youtube.com/watch?v=hLI-lCmgjiw) | 1 week ago |
 | 4 | [别再烧钱了！让Google免费干完十几万Token的重活，Claude只需拿结论](https://www.youtube.com/watch?v=CwnoYYHOgv8) | 1 week ago |
 | 5 | [一句話自動發文！Claude Code 接管 WordPress，3步驟完全搞定](https://www.youtube.com/watch?v=Qt23Oml89Io) | 1 week ago |
