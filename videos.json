@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28 19:48 HKT",
+  "last_updated": "2026-07-29 01:15 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -7,14 +7,14 @@
       "url": "https://www.youtube.com/@Teacher_Kong/videos",
       "videos": [
         {
-          "title": "只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十...",
+          "title": "只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十個？",
           "url": "https://www.youtube.com/watch?v=BFqFs9mh_S4",
           "published": "2026-07-17",
           "age": "1 week ago",
           "is_new_today": false
         },
         {
-          "title": "Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結...",
+          "title": "Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結…",
           "url": "https://www.youtube.com/watch?v=S3m56h6eJ14",
           "published": "2026-07-14",
           "age": "2 weeks ago",
@@ -91,7 +91,7 @@
       "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
       "videos": [
         {
-          "title": "#ChatGPT 新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學",
+          "title": "#ChatGPT  新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學",
           "url": "https://www.youtube.com/watch?v=MfZXYnfDA8w",
           "published": "2026-07-17",
           "age": "1 week ago",
@@ -105,23 +105,23 @@
           "is_new_today": false
         },
         {
-          "title": "香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經...",
+          "title": "香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經濟討論",
           "url": "https://www.youtube.com/watch?v=38t244Nuceg",
           "published": "2026-07-03",
           "age": "3 weeks ago",
           "is_new_today": false
         },
         {
-          "title": "一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話",
+          "title": "一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話 ",
           "url": "https://www.youtube.com/watch?v=E7DFb6isRZg",
           "published": "2026-06-26",
           "age": "1 month ago",
           "is_new_today": false
         },
         {
-          "title": "【 AI網站避雷 】網站上線後唔知做咩？如何避免淪為電子卡片？用#Readdy AI打造24小時AI客服系統 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI #ai實戰",
-          "url": "https://www.youtube.com/watch?v=wTMknf2MsZg",
-          "published": "2026-06-19",
+          "title": "#WWDC26 洩密：#Apple 不做 #ChatGPT，而係做 #AI入口。#siri 更新不是重點，重點是 Apple 將 AI 變成整個作業系統 #ai工具 #香港ai #廣東話",
+          "url": "https://www.youtube.com/watch?v=hts17sEfkFM",
+          "published": "2026-06-23",
           "age": "1 month ago",
           "is_new_today": false
         }
@@ -132,6 +132,20 @@
       "handle": "@ompshek",
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
+        {
+          "title": "用 AI Agent 打造自動化 Dashboard！不用 Power BI 也能整合 Facebook & Google 廣告數據",
+          "url": "https://www.youtube.com/watch?v=WOTB-O0vzx0",
+          "published": "2026-07-28",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
+          "title": "我用 Opus 5 Vibe Code 了一個聲控介面｜JARVIS 實測 #Shorts",
+          "url": "https://www.youtube.com/watch?v=D8V2tnMlSk4",
+          "published": "2026-07-27",
+          "age": "1 day ago",
+          "is_new_today": false
+        },
         {
           "title": "【Vibe Coding】用 Claude Opus 5 寫咗個鋼鐵俠 JARVIS AI 助理：手勢識別＋語音對話＋MCP 整合",
           "url": "https://www.youtube.com/watch?v=bG1qnHIB-ys",
@@ -151,20 +165,6 @@
           "url": "https://www.youtube.com/watch?v=iIqP_zQP_gA",
           "published": "2026-07-24",
           "age": "4 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "MuleRun 能否超越 Manus 與 ChatGPT Work？ 內嵌雲端電腦！阿里巴巴最新 AI Agent",
-          "url": "https://www.youtube.com/watch?v=H54e_XxbmVw",
-          "published": "2026-07-23",
-          "age": "5 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "AI Agent 模型選哪款？GPT 5.6 Terra / Kimi K3 / Claude Sonnet 5 / DeepSeek V4 Pro",
-          "url": "https://www.youtube.com/watch?v=YPj75AbPG_4",
-          "published": "2026-07-21",
-          "age": "1 week ago",
           "is_new_today": false
         }
       ]
@@ -259,6 +259,13 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
+          "title": "【實戰生限定 】 AI正在掏空你公司？AI員工進場資安該如何布局？｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=PNbHa8k2xbc",
+          "published": "2026-07-23",
+          "age": "5 days ago",
+          "is_new_today": false
+        },
+        {
           "title": "泛科逆向工程！英文即時翻譯擴充工具三天打造完成！直播字幕",
           "url": "https://www.youtube.com/watch?v=kpUZ8pl9jyY",
           "published": "2026-07-22",
@@ -266,31 +273,24 @@
           "is_new_today": false
         },
         {
-          "title": "7月初AI更新 ChatGPT 超越Claude？ChatGPT 直接住進PowerPoint！NotebookLM ｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=cXw-P07TRBw",
-          "published": "2026-07-14",
-          "age": "2 weeks ago",
+          "title": "NotebookLM可以生成短影音了！成果到底如何？｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=pKoBYnDqoVM",
+          "published": "2026-07-20",
+          "age": "1 week ago",
           "is_new_today": false
         },
         {
-          "title": "股民必看！用 Claude Cowork 追蹤0050成份股、整理信件的 3 個排程技巧",
-          "url": "https://www.youtube.com/watch?v=g3ysnqYnBEw",
-          "published": "2026-07-10",
-          "age": "2 weeks ago",
+          "title": "這個白癡設定Claude 終於修正了！｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=pPbbYMnkKTE",
+          "published": "2026-07-19",
+          "age": "1 week ago",
           "is_new_today": false
         },
         {
-          "title": "Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=935kIzrUklI",
-          "published": "2026-07-03",
-          "age": "3 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Codex操作基礎概念！介面、概念、實際案例！手把手帶你了解！原來可以這樣用？",
-          "url": "https://www.youtube.com/watch?v=q8ebypgApG8",
-          "published": "2026-06-26",
-          "age": "1 month ago",
+          "title": "Codex不見了？ChatGPT加Codex 等於ChatGPT Work｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=bFGWyZNY98U",
+          "published": "2026-07-18",
+          "age": "1 week ago",
           "is_new_today": false
         }
       ]
