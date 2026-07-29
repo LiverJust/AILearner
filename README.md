@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-07-29 01:15 HKT*
+*Last updated: 2026-07-29 14:21 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -19,7 +19,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Claude Cowork並不複雜: 14個核心概念一次講清！](https://www.youtube.com/watch?v=2emjLP-i51Y) | 3 days ago |
+| 1 | [Claude Cowork並不複雜: 14個核心概念一次講清！](https://www.youtube.com/watch?v=2emjLP-i51Y) | 4 days ago |
 | 2 | [OpenAI 大更新: 一隻視頻看懂 ChatGPT Work + GPT-5.6 所有核心功能，Claude 最大對手來了！](https://www.youtube.com/watch?v=aZgvDDJmUCs) | 1 week ago |
 | 3 | [NotebookLM 2 0徹底變了：2026年最重要更新一次看懂！](https://www.youtube.com/watch?v=mBoxAlg7V3M) | 2 weeks ago |
 | 4 | [我搭了一套 Claude Cowork 自動化系統，模板免費送！](https://www.youtube.com/watch?v=VIjCRqSX4ag) | 3 weeks ago |
@@ -39,18 +39,18 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [用 AI Agent 打造自動化 Dashboard！不用 Power BI 也能整合 Facebook & Google 廣告數據](https://www.youtube.com/watch?v=WOTB-O0vzx0) | Today |
-| 2 | [我用 Opus 5 Vibe Code 了一個聲控介面\|JARVIS 實測 #Shorts](https://www.youtube.com/watch?v=D8V2tnMlSk4) | 1 day ago |
-| 3 | [【Vibe Coding】用 Claude Opus 5 寫咗個鋼鐵俠 JARVIS AI 助理：手勢識別＋語音對話＋MCP 整合](https://www.youtube.com/watch?v=bG1qnHIB-ys) | 2 days ago |
-| 4 | [體驗《Iron Man》電影，Tony Stark 與 AI Jarvis 對話！ChatGPT 最新語音協作功能實測！邊聊天邊幫你寫網站](https://www.youtube.com/watch?v=4b94BvartqM) | 3 days ago |
-| 5 | [Vibe Coding 經驗談：分享最新 AI 工具與模型選擇！](https://www.youtube.com/watch?v=iIqP_zQP_gA) | 4 days ago |
+| 1 | [用 AI Agent 打造自動化 Dashboard！不用 Power BI 也能整合 Facebook & Google 廣告數據](https://www.youtube.com/watch?v=WOTB-O0vzx0) | 1 day ago |
+| 2 | [我用 Opus 5 Vibe Code 了一個聲控介面\|JARVIS 實測 #Shorts](https://www.youtube.com/watch?v=D8V2tnMlSk4) | 2 days ago |
+| 3 | [【Vibe Coding】用 Claude Opus 5 寫咗個鋼鐵俠 JARVIS AI 助理：手勢識別＋語音對話＋MCP 整合](https://www.youtube.com/watch?v=bG1qnHIB-ys) | 3 days ago |
+| 4 | [體驗《Iron Man》電影，Tony Stark 與 AI Jarvis 對話！ChatGPT 最新語音協作功能實測！邊聊天邊幫你寫網站](https://www.youtube.com/watch?v=4b94BvartqM) | 4 days ago |
+| 5 | [Vibe Coding 經驗談：分享最新 AI 工具與模型選擇！](https://www.youtube.com/watch?v=iIqP_zQP_gA) | 5 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [為什麼全球開發者都離不開 VS Code 這個軟體？新手必學的完整入門指南，一次搞懂 7 大核心功能！](https://www.youtube.com/watch?v=2RbXlT5wl9c) | 6 days ago |
-| 2 | [國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！](https://www.youtube.com/watch?v=ZC8AI_jFWnU) | 2 weeks ago |
+| 1 | [為什麼全球開發者都離不開 VS Code 這個軟體？新手必學的完整入門指南，一次搞懂 7 大核心功能！](https://www.youtube.com/watch?v=2RbXlT5wl9c) | 1 week ago |
+| 2 | [國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！](https://www.youtube.com/watch?v=ZC8AI_jFWnU) | 3 weeks ago |
 | 3 | [寫提示詞太累，而且工作流程很難交待清楚？Codex 讓你直接「做給 AI 看」，徹底終結這個困境！](https://www.youtube.com/watch?v=SFWYaF0HJiw) | 1 month ago |
 | 4 | [Hermes Agent 保姆級教學來了！最安全的 AI 私人助理造成 OpanClaw 大規模棄養潮，用過就回不去了！](https://www.youtube.com/watch?v=-EivK7vpOXY) | 1 month ago |
 | 5 | [一個 AI 助手打趴整套 Office 軟體！超強 Codex 從表格簡報、合併列印、架設網站全部一手包辦！](https://www.youtube.com/watch?v=W5ymBPi53Tw) | 2 months ago |
@@ -69,8 +69,8 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [【實戰生限定 】 AI正在掏空你公司？AI員工進場資安該如何布局？\|泛科學院](https://www.youtube.com/watch?v=PNbHa8k2xbc) | 5 days ago |
-| 2 | [泛科逆向工程！英文即時翻譯擴充工具三天打造完成！直播字幕](https://www.youtube.com/watch?v=kpUZ8pl9jyY) | 6 days ago |
+| 1 | [【實戰生限定 】 AI正在掏空你公司？AI員工進場資安該如何布局？\|泛科學院](https://www.youtube.com/watch?v=PNbHa8k2xbc) | 6 days ago |
+| 2 | [泛科逆向工程！英文即時翻譯擴充工具三天打造完成！直播字幕](https://www.youtube.com/watch?v=kpUZ8pl9jyY) | 1 week ago |
 | 3 | [NotebookLM可以生成短影音了！成果到底如何？\|泛科學院](https://www.youtube.com/watch?v=pKoBYnDqoVM) | 1 week ago |
 | 4 | [這個白癡設定Claude 終於修正了！\|泛科學院](https://www.youtube.com/watch?v=pPbbYMnkKTE) | 1 week ago |
 | 5 | [Codex不見了？ChatGPT加Codex 等於ChatGPT Work\|泛科學院](https://www.youtube.com/watch?v=bFGWyZNY98U) | 1 week ago |
@@ -79,10 +79,10 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [GitHub 上月第一名，居然是个做 office的命令行工具](https://www.youtube.com/watch?v=ED03TsztdEc) | 4 days ago |
-| 2 | [Claude 进化完全体！Google 官方 MCP 到底多强？实测：它能直接读懂你的后台](https://www.youtube.com/watch?v=XWiD1BrfZ1M) | 6 days ago |
+| 1 | [GitHub 上月第一名，居然是个做 office的命令行工具](https://www.youtube.com/watch?v=ED03TsztdEc) | 5 days ago |
+| 2 | [Claude 进化完全体！Google 官方 MCP 到底多强？实测：它能直接读懂你的后台](https://www.youtube.com/watch?v=XWiD1BrfZ1M) | 1 week ago |
 | 3 | [别再乱用 Claude Design！先做“设计系统”地基，网站、PPT、广告全自动对齐](https://www.youtube.com/watch?v=1Jl1scURsIA) | 1 week ago |
-| 4 | [别再盲目用 Advisor 模式！Claude Code 官方没说的致命坑，我替你踩了](https://www.youtube.com/watch?v=MCR1CVqQe3s) | 1 week ago |
+| 4 | [别再盲目用 Advisor 模式！Claude Code 官方没说的致命坑，我替你踩了](https://www.youtube.com/watch?v=MCR1CVqQe3s) | 2 weeks ago |
 | 5 | [别被“无限免费”骗了！揭秘Claude Code零成本接入GLM 5 2，避开4000美金账单陷阱](https://www.youtube.com/watch?v=hLI-lCmgjiw) | 2 weeks ago |
 
 ---
