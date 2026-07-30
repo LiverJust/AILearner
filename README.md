@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-07-30 14:14 HKT*
+*Last updated: 2026-07-30 19:43 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -29,11 +29,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [#ChatGPT  新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學](https://www.youtube.com/watch?v=MfZXYnfDA8w) | 1 week ago |
+| 1 | [#ChatGPT 新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學](https://www.youtube.com/watch?v=MfZXYnfDA8w) | 1 week ago |
 | 2 | [真 · AI影片Agent：新手唔洗識剪片做出完美爆片 \| Flova AI 實測：Agent＋Skills＋Timeline 全流程教學 #FlovaAI #AI影片Agent #AI工具](https://www.youtube.com/watch?v=OkFmCO6rJZs) | 2 weeks ago |
-| 3 | [香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經濟討論](https://www.youtube.com/watch?v=38t244Nuceg) | 3 weeks ago |
-| 4 | [一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話 ](https://www.youtube.com/watch?v=E7DFb6isRZg) | 1 month ago |
-| 5 | [#WWDC26 洩密：#Apple 不做 #ChatGPT，而係做 #AI入口。#siri 更新不是重點，重點是 Apple 將 AI 變成整個作業系統 #ai工具 #香港ai #廣東話](https://www.youtube.com/watch?v=hts17sEfkFM) | 1 month ago |
+| 3 | [香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經...](https://www.youtube.com/watch?v=38t244Nuceg) | 3 weeks ago |
+| 4 | [一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話](https://www.youtube.com/watch?v=E7DFb6isRZg) | 1 month ago |
+| 5 | [【 AI網站避雷 】網站上線後唔知做咩？如何避免淪為電子卡片？用#Readdy AI打造24小時AI客服系統 #香港ai #網站AI #ai工具 #AI創業 #廣東話 #ReaddyAI #ai實戰](https://www.youtube.com/watch?v=wTMknf2MsZg) | 1 month ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
@@ -41,9 +41,9 @@
 |---|-------|-----|
 | 1 | [我的新網站不再使用 WordPress 。用 AI Agent 建網站必看！Cloudflare + Astro 零成本部署 SEO 全攻略](https://www.youtube.com/watch?v=iFejMNoJ0XM) | 1 day ago |
 | 2 | [用 AI Agent 打造自動化 Dashboard！不用 Power BI 也能整合 Facebook & Google 廣告數據](https://www.youtube.com/watch?v=WOTB-O0vzx0) | 2 days ago |
-| 3 | [我用 Opus 5 Vibe Code 了一個聲控介面\|JARVIS 實測 #Shorts](https://www.youtube.com/watch?v=D8V2tnMlSk4) | 3 days ago |
-| 4 | [【Vibe Coding】用 Claude Opus 5 寫咗個鋼鐵俠 JARVIS AI 助理：手勢識別＋語音對話＋MCP 整合](https://www.youtube.com/watch?v=bG1qnHIB-ys) | 4 days ago |
-| 5 | [體驗《Iron Man》電影，Tony Stark 與 AI Jarvis 對話！ChatGPT 最新語音協作功能實測！邊聊天邊幫你寫網站](https://www.youtube.com/watch?v=4b94BvartqM) | 5 days ago |
+| 3 | [【Vibe Coding】用 Claude Opus 5 寫咗個鋼鐵俠 JARVIS AI 助理：手勢識別＋語音對話＋MCP 整合](https://www.youtube.com/watch?v=bG1qnHIB-ys) | 4 days ago |
+| 4 | [體驗《Iron Man》電影，Tony Stark 與 AI Jarvis 對話！ChatGPT 最新語音協作功能實測！邊聊天邊幫你寫網站](https://www.youtube.com/watch?v=4b94BvartqM) | 5 days ago |
+| 5 | [Vibe Coding 經驗談：分享最新 AI 工具與模型選擇！](https://www.youtube.com/watch?v=iIqP_zQP_gA) | 6 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -69,11 +69,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [【實戰生限定 】 AI正在掏空你公司？AI員工進場資安該如何布局？\|泛科學院](https://www.youtube.com/watch?v=PNbHa8k2xbc) | 2 days ago |
+| 1 | [Gemini in Workspace 完整教學：文件、簡報、試算表 4 大新功能一次看 \|泛科學院](https://www.youtube.com/watch?v=lR-sVrqMBxs) | Today |
 | 2 | [泛科逆向工程！英文即時翻譯擴充工具三天打造完成！直播字幕](https://www.youtube.com/watch?v=kpUZ8pl9jyY) | 1 week ago |
-| 3 | [NotebookLM可以生成短影音了！成果到底如何？\|泛科學院](https://www.youtube.com/watch?v=pKoBYnDqoVM) | 1 week ago |
-| 4 | [這個白癡設定Claude 終於修正了！\|泛科學院](https://www.youtube.com/watch?v=pPbbYMnkKTE) | 1 week ago |
-| 5 | [Codex不見了？ChatGPT加Codex 等於ChatGPT Work\|泛科學院](https://www.youtube.com/watch?v=bFGWyZNY98U) | 1 week ago |
+| 3 | [7月初AI更新 ChatGPT 超越Claude？ChatGPT 直接住進PowerPoint！NotebookLM \|泛科學院](https://www.youtube.com/watch?v=cXw-P07TRBw) | 2 weeks ago |
+| 4 | [股民必看！用 Claude Cowork 追蹤0050成份股、整理信件的 3 個排程技巧](https://www.youtube.com/watch?v=g3ysnqYnBEw) | 2 weeks ago |
+| 5 | [Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu\|泛科學院](https://www.youtube.com/watch?v=935kIzrUklI) | 3 weeks ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
