@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-07-30 01:00 HKT*
+*Last updated: 2026-07-30 14:14 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -19,7 +19,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Claude Cowork並不複雜: 14個核心概念一次講清！](https://www.youtube.com/watch?v=2emjLP-i51Y) | 4 days ago |
+| 1 | [Claude Cowork並不複雜: 14個核心概念一次講清！](https://www.youtube.com/watch?v=2emjLP-i51Y) | 5 days ago |
 | 2 | [OpenAI 大更新: 一隻視頻看懂 ChatGPT Work + GPT-5.6 所有核心功能，Claude 最大對手來了！](https://www.youtube.com/watch?v=aZgvDDJmUCs) | 1 week ago |
 | 3 | [NotebookLM 2 0徹底變了：2026年最重要更新一次看懂！](https://www.youtube.com/watch?v=mBoxAlg7V3M) | 2 weeks ago |
 | 4 | [我搭了一套 Claude Cowork 自動化系統，模板免費送！](https://www.youtube.com/watch?v=VIjCRqSX4ag) | 3 weeks ago |
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [我的新網站不再使用 WordPress 。用 AI Agent 建網站必看！Cloudflare + Astro 零成本部署 SEO 全攻略](https://www.youtube.com/watch?v=iFejMNoJ0XM) | Today |
-| 2 | [用 AI Agent 打造自動化 Dashboard！不用 Power BI 也能整合 Facebook & Google 廣告數據](https://www.youtube.com/watch?v=WOTB-O0vzx0) | 1 day ago |
-| 3 | [我用 Opus 5 Vibe Code 了一個聲控介面\|JARVIS 實測 #Shorts](https://www.youtube.com/watch?v=D8V2tnMlSk4) | 2 days ago |
-| 4 | [【Vibe Coding】用 Claude Opus 5 寫咗個鋼鐵俠 JARVIS AI 助理：手勢識別＋語音對話＋MCP 整合](https://www.youtube.com/watch?v=bG1qnHIB-ys) | 3 days ago |
-| 5 | [體驗《Iron Man》電影，Tony Stark 與 AI Jarvis 對話！ChatGPT 最新語音協作功能實測！邊聊天邊幫你寫網站](https://www.youtube.com/watch?v=4b94BvartqM) | 4 days ago |
+| 1 | [我的新網站不再使用 WordPress 。用 AI Agent 建網站必看！Cloudflare + Astro 零成本部署 SEO 全攻略](https://www.youtube.com/watch?v=iFejMNoJ0XM) | 1 day ago |
+| 2 | [用 AI Agent 打造自動化 Dashboard！不用 Power BI 也能整合 Facebook & Google 廣告數據](https://www.youtube.com/watch?v=WOTB-O0vzx0) | 2 days ago |
+| 3 | [我用 Opus 5 Vibe Code 了一個聲控介面\|JARVIS 實測 #Shorts](https://www.youtube.com/watch?v=D8V2tnMlSk4) | 3 days ago |
+| 4 | [【Vibe Coding】用 Claude Opus 5 寫咗個鋼鐵俠 JARVIS AI 助理：手勢識別＋語音對話＋MCP 整合](https://www.youtube.com/watch?v=bG1qnHIB-ys) | 4 days ago |
+| 5 | [體驗《Iron Man》電影，Tony Stark 與 AI Jarvis 對話！ChatGPT 最新語音協作功能實測！邊聊天邊幫你寫網站](https://www.youtube.com/watch?v=4b94BvartqM) | 5 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -59,7 +59,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [3個步驟，從0打造你的AI儀表板](https://www.youtube.com/watch?v=grYI7jaSpxg) | 1 week ago |
+| 1 | [3個步驟，從0打造你的AI儀表板](https://www.youtube.com/watch?v=grYI7jaSpxg) | 2 weeks ago |
 | 2 | [Claude + LINE: 團購整單系統替你每週解放10+ 小時](https://www.youtube.com/watch?v=kxt_7hjAU1o) | 3 weeks ago |
 | 3 | [你還在手動刷104人力銀行找工作？Claude 10 分鐘幫你全自動化](https://www.youtube.com/watch?v=EfiMXx6qiw4) | 1 month ago |
 | 4 | [500+ 小時 Claude Code 心得：5 件我希望早點知道的事](https://www.youtube.com/watch?v=JbNTSwevk3w) | 1 month ago |
@@ -69,7 +69,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [【實戰生限定 】 AI正在掏空你公司？AI員工進場資安該如何布局？\|泛科學院](https://www.youtube.com/watch?v=PNbHa8k2xbc) | 1 day ago |
+| 1 | [【實戰生限定 】 AI正在掏空你公司？AI員工進場資安該如何布局？\|泛科學院](https://www.youtube.com/watch?v=PNbHa8k2xbc) | 2 days ago |
 | 2 | [泛科逆向工程！英文即時翻譯擴充工具三天打造完成！直播字幕](https://www.youtube.com/watch?v=kpUZ8pl9jyY) | 1 week ago |
 | 3 | [NotebookLM可以生成短影音了！成果到底如何？\|泛科學院](https://www.youtube.com/watch?v=pKoBYnDqoVM) | 1 week ago |
 | 4 | [這個白癡設定Claude 終於修正了！\|泛科學院](https://www.youtube.com/watch?v=pPbbYMnkKTE) | 1 week ago |
@@ -79,7 +79,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [GitHub 上月第一名，居然是个做 office的命令行工具](https://www.youtube.com/watch?v=ED03TsztdEc) | 5 days ago |
+| 1 | [GitHub 上月第一名，居然是个做 office的命令行工具](https://www.youtube.com/watch?v=ED03TsztdEc) | 6 days ago |
 | 2 | [Claude 进化完全体！Google 官方 MCP 到底多强？实测：它能直接读懂你的后台](https://www.youtube.com/watch?v=XWiD1BrfZ1M) | 1 week ago |
 | 3 | [别再乱用 Claude Design！先做“设计系统”地基，网站、PPT、广告全自动对齐](https://www.youtube.com/watch?v=1Jl1scURsIA) | 1 week ago |
 | 4 | [别再盲目用 Advisor 模式！Claude Code 官方没说的致命坑，我替你踩了](https://www.youtube.com/watch?v=MCR1CVqQe3s) | 2 weeks ago |
