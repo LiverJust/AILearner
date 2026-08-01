@@ -3,14 +3,14 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-08-01 19:08 HKT*
+*Last updated: 2026-08-02 00:43 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十...](https://www.youtube.com/watch?v=BFqFs9mh_S4) | 2 weeks ago |
-| 2 | [Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結...](https://www.youtube.com/watch?v=S3m56h6eJ14) | 2 weeks ago |
+| 1 | [只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十個？](https://www.youtube.com/watch?v=BFqFs9mh_S4) | 2 weeks ago |
+| 2 | [Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結…](https://www.youtube.com/watch?v=S3m56h6eJ14) | 2 weeks ago |
 | 3 | [別再亂裝Skills了！我試用了100多個，真正離不開的只有這10個！免費、0門檻、不用寫程式，充分發揮Codex和Claude全部潛能的終極指南，看完直接領先99%的人！](https://www.youtube.com/watch?v=e-9zHHzGM3k) | 1 month ago |
 | 4 | [【全網最細】OpenAI Codex 徹底免費！新手必學的「進化版 ChatGPT」，從 0 到 1 完整入門教學！10 個高頻功能快速學會指揮你的超級 AI Agent，工作全自動！！](https://www.youtube.com/watch?v=39_iw_KLEFk) | 1 month ago |
 | 5 | [6個Claude核心功能讓你超越99%的AI使用者！Cowork/Code保姆級完整教學，自動生成內容\|簡報\|網頁\|工作流，從入門到進階一次精通，打造你的專屬AI員工！](https://www.youtube.com/watch?v=8244knXN9e0) | 2 months ago |
@@ -30,20 +30,20 @@
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [大癲！我做一次，#Codex 就學識？Record & Replay 實測：自動入數＋上載 IG Reels #AI自動化 #ChatGPT #Record&Replay #廣東話 #香港AI教學](https://www.youtube.com/watch?v=IReQuIvKqnY) | 1 day ago |
-| 2 | [#ChatGPT 新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學](https://www.youtube.com/watch?v=MfZXYnfDA8w) | 2 weeks ago |
+| 2 | [#ChatGPT  新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學](https://www.youtube.com/watch?v=MfZXYnfDA8w) | 2 weeks ago |
 | 3 | [真 · AI影片Agent：新手唔洗識剪片做出完美爆片 \| Flova AI 實測：Agent＋Skills＋Timeline 全流程教學 #FlovaAI #AI影片Agent #AI工具](https://www.youtube.com/watch?v=OkFmCO6rJZs) | 3 weeks ago |
-| 4 | [香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經...](https://www.youtube.com/watch?v=38t244Nuceg) | 4 weeks ago |
-| 5 | [一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話](https://www.youtube.com/watch?v=E7DFb6isRZg) | 1 month ago |
+| 4 | [香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經濟討論](https://www.youtube.com/watch?v=38t244Nuceg) | 4 weeks ago |
+| 5 | [一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話 ](https://www.youtube.com/watch?v=E7DFb6isRZg) | 1 month ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Gemini Spark 登陸香港！實測 Custom Skill 與 MCP 自動化工作流！](https://www.youtube.com/watch?v=fvaq7aXecfI) | 2 days ago |
-| 2 | [我的新網站不再使用 WordPress 。用 AI Agent 建網站必看！Cloudflare + Astro 零成本部署 SEO 全攻略](https://www.youtube.com/watch?v=iFejMNoJ0XM) | 3 days ago |
-| 3 | [用 AI Agent 打造自動化 Dashboard！不用 Power BI 也能整合 Facebook & Google 廣告數據](https://www.youtube.com/watch?v=WOTB-O0vzx0) | 4 days ago |
-| 4 | [【Vibe Coding】用 Claude Opus 5 寫咗個鋼鐵俠 JARVIS AI 助理：手勢識別＋語音對話＋MCP 整合](https://www.youtube.com/watch?v=bG1qnHIB-ys) | 6 days ago |
-| 5 | [體驗《Iron Man》電影，Tony Stark 與 AI Jarvis 對話！ChatGPT 最新語音協作功能實測！邊聊天邊幫你寫網站](https://www.youtube.com/watch?v=4b94BvartqM) | 1 week ago |
+| 1 | [【AI模型降價潮】GPT-5.6 Luna 平八成！實測 DeepSeek V4 Flash 誰才是性價比之王？](https://www.youtube.com/watch?v=1cH6DCzg0rQ) | Today |
+| 2 | [Gemini Spark 登陸香港！實測 Custom Skill 與 MCP 自動化工作流！](https://www.youtube.com/watch?v=fvaq7aXecfI) | 2 days ago |
+| 3 | [我的新網站不再使用 WordPress 。用 AI Agent 建網站必看！Cloudflare + Astro 零成本部署 SEO 全攻略](https://www.youtube.com/watch?v=iFejMNoJ0XM) | 3 days ago |
+| 4 | [用 AI Agent 打造自動化 Dashboard！不用 Power BI 也能整合 Facebook & Google 廣告數據](https://www.youtube.com/watch?v=WOTB-O0vzx0) | 4 days ago |
+| 5 | [【Vibe Coding】用 Claude Opus 5 寫咗個鋼鐵俠 JARVIS AI 助理：手勢識別＋語音對話＋MCP 整合](https://www.youtube.com/watch?v=bG1qnHIB-ys) | 6 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -79,7 +79,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [老板以为我熬夜肝了一天，其实我只花了20分钟（全自动办公黑科技） 免费开源AionUi](https://www.youtube.com/watch?v=NNgloJeqDW0) | 1 day ago |
+| 1 | [为什么它能在GitHub一周暴涨3000星？实测这款不用写代码的免费AI工具，真的离谱](https://www.youtube.com/watch?v=NNgloJeqDW0) | 1 day ago |
 | 2 | [GitHub 上月第一名，居然是个做 office的命令行工具](https://www.youtube.com/watch?v=ED03TsztdEc) | 1 week ago |
 | 3 | [Claude 进化完全体！Google 官方 MCP 到底多强？实测：它能直接读懂你的后台](https://www.youtube.com/watch?v=XWiD1BrfZ1M) | 1 week ago |
 | 4 | [别再乱用 Claude Design！先做“设计系统”地基，网站、PPT、广告全自动对齐](https://www.youtube.com/watch?v=1Jl1scURsIA) | 2 weeks ago |
