@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02 00:43 HKT",
+  "last_updated": "2026-08-02 14:24 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -52,7 +52,7 @@
           "title": "未來一年，這6個 AI Agent 趨勢會徹底改變你的工作方式！",
           "url": "https://www.youtube.com/watch?v=0-Rr2iho6CI",
           "published": "2026-08-01",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
@@ -94,7 +94,7 @@
           "title": "大癲！我做一次，#Codex 就學識？Record & Replay 實測：自動入數＋上載 IG Reels #AI自動化 #ChatGPT #Record&Replay #廣東話 #香港AI教學",
           "url": "https://www.youtube.com/watch?v=IReQuIvKqnY",
           "published": "2026-07-31",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
@@ -115,7 +115,7 @@
           "title": "香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經濟討論",
           "url": "https://www.youtube.com/watch?v=38t244Nuceg",
           "published": "2026-07-03",
-          "age": "4 weeks ago",
+          "age": "1 month ago",
           "is_new_today": false
         },
         {
@@ -136,34 +136,34 @@
           "title": "【AI模型降價潮】GPT-5.6 Luna 平八成！實測 DeepSeek V4 Flash 誰才是性價比之王？",
           "url": "https://www.youtube.com/watch?v=1cH6DCzg0rQ",
           "published": "2026-08-01",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
           "title": "Gemini Spark 登陸香港！實測 Custom Skill 與 MCP 自動化工作流！",
           "url": "https://www.youtube.com/watch?v=fvaq7aXecfI",
           "published": "2026-07-30",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
           "title": "我的新網站不再使用 WordPress 。用 AI Agent 建網站必看！Cloudflare + Astro 零成本部署 SEO 全攻略",
           "url": "https://www.youtube.com/watch?v=iFejMNoJ0XM",
           "published": "2026-07-29",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
           "title": "用 AI Agent 打造自動化 Dashboard！不用 Power BI 也能整合 Facebook & Google 廣告數據",
           "url": "https://www.youtube.com/watch?v=WOTB-O0vzx0",
           "published": "2026-07-28",
-          "age": "4 days ago",
+          "age": "5 days ago",
           "is_new_today": false
         },
         {
-          "title": "【Vibe Coding】用 Claude Opus 5 寫咗個鋼鐵俠 JARVIS AI 助理：手勢識別＋語音對話＋MCP 整合",
-          "url": "https://www.youtube.com/watch?v=bG1qnHIB-ys",
-          "published": "2026-07-26",
+          "title": "我用 Opus 5 Vibe Code 了一個聲控介面｜JARVIS 實測 #Shorts",
+          "url": "https://www.youtube.com/watch?v=D8V2tnMlSk4",
+          "published": "2026-07-27",
           "age": "6 days ago",
           "is_new_today": false
         }
@@ -227,7 +227,7 @@
           "title": "Claude + LINE: 團購整單系統替你每週解放10+ 小時",
           "url": "https://www.youtube.com/watch?v=kxt_7hjAU1o",
           "published": "2026-07-05",
-          "age": "3 weeks ago",
+          "age": "4 weeks ago",
           "is_new_today": false
         },
         {
@@ -262,7 +262,14 @@
           "title": "Gemini 又更強了？Gemini in Workspace 4大功能新功能介紹！上班族一定用的到！｜泛科學院",
           "url": "https://www.youtube.com/watch?v=lR-sVrqMBxs",
           "published": "2026-07-30",
-          "age": "2 days ago",
+          "age": "3 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "【實戰生限定 】 AI正在掏空你公司？AI員工進場資安該如何布局？｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=PNbHa8k2xbc",
+          "published": "2026-07-28",
+          "age": "5 days ago",
           "is_new_today": false
         },
         {
@@ -273,24 +280,17 @@
           "is_new_today": false
         },
         {
-          "title": "7月初AI更新 ChatGPT 超越Claude？ChatGPT 直接住進PowerPoint！NotebookLM ｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=cXw-P07TRBw",
-          "published": "2026-07-14",
+          "title": "NotebookLM可以生成短影音了！成果到底如何？｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=pKoBYnDqoVM",
+          "published": "2026-07-20",
+          "age": "1 week ago",
+          "is_new_today": false
+        },
+        {
+          "title": "這個白癡設定Claude 終於修正了！｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=pPbbYMnkKTE",
+          "published": "2026-07-19",
           "age": "2 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "股民必看！用 Claude Cowork 追蹤0050成份股、整理信件的 3 個排程技巧",
-          "url": "https://www.youtube.com/watch?v=g3ysnqYnBEw",
-          "published": "2026-07-10",
-          "age": "3 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Claude Fable 5被釋放算什麼？這款日本模型才是未來？Sakana AI Fugu｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=935kIzrUklI",
-          "published": "2026-07-03",
-          "age": "4 weeks ago",
           "is_new_today": false
         }
       ]
@@ -304,7 +304,7 @@
           "title": "为什么它能在GitHub一周暴涨3000星？实测这款不用写代码的免费AI工具，真的离谱",
           "url": "https://www.youtube.com/watch?v=NNgloJeqDW0",
           "published": "2026-07-31",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
