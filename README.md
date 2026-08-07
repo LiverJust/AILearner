@@ -3,15 +3,15 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-08-07 18:39 HKT*
+*Last updated: 2026-08-08 00:38 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [2026年最重大的AI更新來了！NotebookLM正式改名Gemini Notebook，Google最強AI筆記本到底怎麼用？全新升級用法+隱藏用法一次公開，建立任何格式檔案+多模態輸出...](https://www.youtube.com/watch?v=s01HbQwG32U) | 2 days ago |
-| 2 | [只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十...](https://www.youtube.com/watch?v=BFqFs9mh_S4) | 3 weeks ago |
-| 3 | [Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結...](https://www.youtube.com/watch?v=S3m56h6eJ14) | 3 weeks ago |
+| 1 | [2026年最重大的AI更新來了！NotebookLM正式改名Gemini Notebook，Google最強AI筆記本到底怎麼用？全新升級用法+隱藏用法一次公開，建立任何格式檔案+多模態輸出！](https://www.youtube.com/watch?v=s01HbQwG32U) | 2 days ago |
+| 2 | [只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十個？](https://www.youtube.com/watch?v=BFqFs9mh_S4) | 3 weeks ago |
+| 3 | [Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結…](https://www.youtube.com/watch?v=S3m56h6eJ14) | 3 weeks ago |
 | 4 | [別再亂裝Skills了！我試用了100多個，真正離不開的只有這10個！免費、0門檻、不用寫程式，充分發揮Codex和Claude全部潛能的終極指南，看完直接領先99%的人！](https://www.youtube.com/watch?v=e-9zHHzGM3k) | 1 month ago |
 | 5 | [【全網最細】OpenAI Codex 徹底免費！新手必學的「進化版 ChatGPT」，從 0 到 1 完整入門教學！10 個高頻功能快速學會指揮你的超級 AI Agent，工作全自動！！](https://www.youtube.com/watch?v=39_iw_KLEFk) | 2 months ago |
 
@@ -69,21 +69,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [AI工具怎麼選？AI 免費版大評比！ChatGPT、Gemini、Claude 該選誰？5 大情境實測全公開\|泛科學院](https://www.youtube.com/watch?v=y7mFMDxc1VM) | 1 day ago |
-| 2 | [Gemini 又更強了？Gemini in Workspace 4大功能新功能介紹！上班族一定用的到！\|泛科學院](https://www.youtube.com/watch?v=lR-sVrqMBxs) | 1 week ago |
-| 3 | [泛科逆向工程！英文即時翻譯擴充工具三天打造完成！直播字幕](https://www.youtube.com/watch?v=kpUZ8pl9jyY) | 2 weeks ago |
-| 4 | [7月初AI更新 ChatGPT 超越Claude？ChatGPT 直接住進PowerPoint！NotebookLM \|泛科學院](https://www.youtube.com/watch?v=cXw-P07TRBw) | 3 weeks ago |
-| 5 | [股民必看！用 Claude Cowork 追蹤0050成份股、整理信件的 3 個排程技巧](https://www.youtube.com/watch?v=g3ysnqYnBEw) | 4 weeks ago |
+| 1 | [原來 Gemini in Workspace 個人化設定要這樣設？\|泛科學院](https://www.youtube.com/watch?v=LcpjNmr9srs) | Today |
+| 2 | [AI工具怎麼選？AI 免費版大評比！ChatGPT、Gemini、Claude 該選誰？5 大情境實測全公開\|泛科學院](https://www.youtube.com/watch?v=y7mFMDxc1VM) | 1 day ago |
+| 3 | [Gemini 簡報一鍵套用固定格式？終於可以編輯了！\|泛科學院](https://www.youtube.com/watch?v=vsAk0vAir7o) | 1 day ago |
+| 4 | [Gemini 文件終於能套用文字風格了？一鍵統一排版\|泛科學院](https://www.youtube.com/watch?v=9I-qFS0_eq4) | 2 days ago |
+| 5 | [【實戰生限定 】Prompt退燒？ AI 自動產線設計！\|泛科學院](https://www.youtube.com/watch?v=AwubGTVmGq4) | 2 days ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [人还没到公司，周报自己写完了！Google Gemini Spark 自动化全攻略](https://www.youtube.com/watch?v=QTkc0MAMY1M) | 2 days ago |
-| 2 | [为什么它能在GitHub一周暴涨3000星？实测这款不用写代码的免费AI工具，真的离谱](https://www.youtube.com/watch?v=NNgloJeqDW0) | 1 week ago |
-| 3 | [GitHub 上月第一名，居然是个做 office的命令行工具](https://www.youtube.com/watch?v=ED03TsztdEc) | 2 weeks ago |
-| 4 | [Claude 进化完全体！Google 官方 MCP 到底多强？实测：它能直接读懂你的后台](https://www.youtube.com/watch?v=XWiD1BrfZ1M) | 2 weeks ago |
-| 5 | [别再乱用 Claude Design！先做“设计系统”地基，网站、PPT、广告全自动对齐](https://www.youtube.com/watch?v=1Jl1scURsIA) | 2 weeks ago |
+| 1 | [Gemini in Workspace 让你准时下班的5个效率神技](https://www.youtube.com/watch?v=gwZjsUQns6c) | Today |
+| 2 | [人还没到公司，周报自己写完了！Google Gemini Spark 自动化全攻略](https://www.youtube.com/watch?v=QTkc0MAMY1M) | 2 days ago |
+| 3 | [为什么它能在GitHub一周暴涨3000星？实测这款不用写代码的免费AI工具，真的离谱](https://www.youtube.com/watch?v=NNgloJeqDW0) | 1 week ago |
+| 4 | [GitHub 上月第一名，居然是个做 office的命令行工具](https://www.youtube.com/watch?v=ED03TsztdEc) | 2 weeks ago |
+| 5 | [Claude 进化完全体！Google 官方 MCP 到底多强？实测：它能直接读懂你的后台](https://www.youtube.com/watch?v=XWiD1BrfZ1M) | 2 weeks ago |
 
 ---
 
