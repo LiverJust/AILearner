@@ -3,13 +3,13 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-08-08 00:38 HKT*
+*Last updated: 2026-08-08 12:43 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [2026年最重大的AI更新來了！NotebookLM正式改名Gemini Notebook，Google最強AI筆記本到底怎麼用？全新升級用法+隱藏用法一次公開，建立任何格式檔案+多模態輸出！](https://www.youtube.com/watch?v=s01HbQwG32U) | 2 days ago |
+| 1 | [2026年最重大的AI更新來了！NotebookLM正式改名Gemini Notebook，Google最強AI筆記本到底怎麼用？全新升級用法+隱藏用法一次公開，建立任何格式檔案+多模態輸出！](https://www.youtube.com/watch?v=s01HbQwG32U) | 3 days ago |
 | 2 | [只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十個？](https://www.youtube.com/watch?v=BFqFs9mh_S4) | 3 weeks ago |
 | 3 | [Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結…](https://www.youtube.com/watch?v=S3m56h6eJ14) | 3 weeks ago |
 | 4 | [別再亂裝Skills了！我試用了100多個，真正離不開的只有這10個！免費、0門檻、不用寫程式，充分發揮Codex和Claude全部潛能的終極指南，看完直接領先99%的人！](https://www.youtube.com/watch?v=e-9zHHzGM3k) | 1 month ago |
@@ -19,31 +19,31 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [未來一年，這6個 AI Agent 趨勢會徹底改變你的工作方式！](https://www.youtube.com/watch?v=0-Rr2iho6CI) | 6 days ago |
-| 2 | [Claude Cowork並不複雜: 14個核心概念一次講清！](https://www.youtube.com/watch?v=2emjLP-i51Y) | 1 week ago |
-| 3 | [OpenAI 大更新: 一隻視頻看懂 ChatGPT Work + GPT-5.6 所有核心功能，Claude 最大對手來了！](https://www.youtube.com/watch?v=aZgvDDJmUCs) | 2 weeks ago |
-| 4 | [NotebookLM 2 0徹底變了：2026年最重要更新一次看懂！](https://www.youtube.com/watch?v=mBoxAlg7V3M) | 3 weeks ago |
-| 5 | [我搭了一套 Claude Cowork 自動化系統，模板免費送！](https://www.youtube.com/watch?v=VIjCRqSX4ag) | 1 month ago |
+| 1 | [零基礎20分鐘學會Obsidian 95%功能！](https://www.youtube.com/watch?v=NIhT5pd4Znc) | Today |
+| 2 | [未來一年，這6個 AI Agent 趨勢會徹底改變你的工作方式！](https://www.youtube.com/watch?v=0-Rr2iho6CI) | 1 week ago |
+| 3 | [Claude Cowork並不複雜: 14個核心概念一次講清！](https://www.youtube.com/watch?v=2emjLP-i51Y) | 2 weeks ago |
+| 4 | [OpenAI 大更新: 一隻視頻看懂 ChatGPT Work + GPT-5.6 所有核心功能，Claude 最大對手來了！](https://www.youtube.com/watch?v=aZgvDDJmUCs) | 3 weeks ago |
+| 5 | [NotebookLM 2 0徹底變了：2026年最重要更新一次看懂！](https://www.youtube.com/watch?v=mBoxAlg7V3M) | 4 weeks ago |
 
 ### 我想用Ai賺錢 · [@我想用Ai賺錢](https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos)
 
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [大癲！我做一次，#Codex 就學識？Record & Replay 實測：自動入數＋上載 IG Reels #AI自動化 #ChatGPT #Record&Replay #廣東話 #香港AI教學](https://www.youtube.com/watch?v=IReQuIvKqnY) | 1 week ago |
-| 2 | [#ChatGPT 新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學](https://www.youtube.com/watch?v=MfZXYnfDA8w) | 3 weeks ago |
+| 2 | [#ChatGPT  新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學](https://www.youtube.com/watch?v=MfZXYnfDA8w) | 3 weeks ago |
 | 3 | [真 · AI影片Agent：新手唔洗識剪片做出完美爆片 \| Flova AI 實測：Agent＋Skills＋Timeline 全流程教學 #FlovaAI #AI影片Agent #AI工具](https://www.youtube.com/watch?v=OkFmCO6rJZs) | 4 weeks ago |
-| 4 | [香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經...](https://www.youtube.com/watch?v=38t244Nuceg) | 1 month ago |
-| 5 | [一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話](https://www.youtube.com/watch?v=E7DFb6isRZg) | 1 month ago |
+| 4 | [香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經濟討論](https://www.youtube.com/watch?v=38t244Nuceg) | 1 month ago |
+| 5 | [一個 AI 平台取代多個工具？不再為多個AI工具埋單！#Skywork AI 實測一個 Prompt 生成 Deck、網站、影片 #SkyworkAI #AIAgent #AI工具 #廣東話 ](https://www.youtube.com/watch?v=E7DFb6isRZg) | 1 month ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [【AI模型降價潮】GPT-5.6 Luna 平八成！實測 DeepSeek V4 Flash 誰才是性價比之王？](https://www.youtube.com/watch?v=1cH6DCzg0rQ) | 6 days ago |
+| 1 | [【AI模型降價潮】GPT-5.6 Luna 平八成！實測 DeepSeek V4 Flash 誰才是性價比之王？](https://www.youtube.com/watch?v=1cH6DCzg0rQ) | 1 week ago |
 | 2 | [Gemini Spark 登陸香港！實測 Custom Skill 與 MCP 自動化工作流！](https://www.youtube.com/watch?v=fvaq7aXecfI) | 1 week ago |
 | 3 | [我的新網站不再使用 WordPress 。用 AI Agent 建網站必看！Cloudflare + Astro 零成本部署 SEO 全攻略](https://www.youtube.com/watch?v=iFejMNoJ0XM) | 1 week ago |
 | 4 | [用 AI Agent 打造自動化 Dashboard！不用 Power BI 也能整合 Facebook & Google 廣告數據](https://www.youtube.com/watch?v=WOTB-O0vzx0) | 1 week ago |
-| 5 | [【Vibe Coding】用 Claude Opus 5 寫咗個鋼鐵俠 JARVIS AI 助理：手勢識別＋語音對話＋MCP 整合](https://www.youtube.com/watch?v=bG1qnHIB-ys) | 1 week ago |
+| 5 | [我用 Opus 5 Vibe Code 了一個聲控介面\|JARVIS 實測 #Shorts](https://www.youtube.com/watch?v=D8V2tnMlSk4) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -69,21 +69,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [原來 Gemini in Workspace 個人化設定要這樣設？\|泛科學院](https://www.youtube.com/watch?v=LcpjNmr9srs) | Today |
-| 2 | [AI工具怎麼選？AI 免費版大評比！ChatGPT、Gemini、Claude 該選誰？5 大情境實測全公開\|泛科學院](https://www.youtube.com/watch?v=y7mFMDxc1VM) | 1 day ago |
-| 3 | [Gemini 簡報一鍵套用固定格式？終於可以編輯了！\|泛科學院](https://www.youtube.com/watch?v=vsAk0vAir7o) | 1 day ago |
-| 4 | [Gemini 文件終於能套用文字風格了？一鍵統一排版\|泛科學院](https://www.youtube.com/watch?v=9I-qFS0_eq4) | 2 days ago |
-| 5 | [【實戰生限定 】Prompt退燒？ AI 自動產線設計！\|泛科學院](https://www.youtube.com/watch?v=AwubGTVmGq4) | 2 days ago |
+| 1 | [原來 Gemini in Workspace 個人化設定要這樣設？\|泛科學院](https://www.youtube.com/watch?v=LcpjNmr9srs) | 1 day ago |
+| 2 | [AI工具怎麼選？AI 免費版大評比！ChatGPT、Gemini、Claude 該選誰？5 大情境實測全公開\|泛科學院](https://www.youtube.com/watch?v=y7mFMDxc1VM) | 2 days ago |
+| 3 | [Gemini 簡報一鍵套用固定格式？終於可以編輯了！\|泛科學院](https://www.youtube.com/watch?v=vsAk0vAir7o) | 2 days ago |
+| 4 | [Gemini 文件終於能套用文字風格了？一鍵統一排版\|泛科學院](https://www.youtube.com/watch?v=9I-qFS0_eq4) | 3 days ago |
+| 5 | [【實戰生限定 】Prompt退燒？ AI 自動產線設計！\|泛科學院](https://www.youtube.com/watch?v=AwubGTVmGq4) | 3 days ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Gemini in Workspace 让你准时下班的5个效率神技](https://www.youtube.com/watch?v=gwZjsUQns6c) | Today |
-| 2 | [人还没到公司，周报自己写完了！Google Gemini Spark 自动化全攻略](https://www.youtube.com/watch?v=QTkc0MAMY1M) | 2 days ago |
-| 3 | [为什么它能在GitHub一周暴涨3000星？实测这款不用写代码的免费AI工具，真的离谱](https://www.youtube.com/watch?v=NNgloJeqDW0) | 1 week ago |
-| 4 | [GitHub 上月第一名，居然是个做 office的命令行工具](https://www.youtube.com/watch?v=ED03TsztdEc) | 2 weeks ago |
-| 5 | [Claude 进化完全体！Google 官方 MCP 到底多强？实测：它能直接读懂你的后台](https://www.youtube.com/watch?v=XWiD1BrfZ1M) | 2 weeks ago |
+| 1 | [不用看复杂代码！我用4分钟把大语言模型LLM原理彻底讲透了](https://www.youtube.com/watch?v=b7L0BUUvnjc) | Today |
+| 2 | [Gemini in Workspace 让你准时下班的5个效率神技](https://www.youtube.com/watch?v=gwZjsUQns6c) | 1 day ago |
+| 3 | [人还没到公司，周报自己写完了！Google Gemini Spark 自动化全攻略](https://www.youtube.com/watch?v=QTkc0MAMY1M) | 3 days ago |
+| 4 | [为什么它能在GitHub一周暴涨3000星？实测这款不用写代码的免费AI工具，真的离谱](https://www.youtube.com/watch?v=NNgloJeqDW0) | 1 week ago |
+| 5 | [GitHub 上月第一名，居然是个做 office的命令行工具](https://www.youtube.com/watch?v=ED03TsztdEc) | 2 weeks ago |
 
 ---
 
