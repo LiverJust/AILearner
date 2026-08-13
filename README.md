@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-08-13 00:42 HKT*
+*Last updated: 2026-08-13 13:24 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -11,7 +11,7 @@
 |---|-------|-----|
 | 1 | [2026年最重大的AI更新來了！NotebookLM正式改名Gemini Notebook，Google最強AI筆記本到底怎麼用？全新升級用法+隱藏用法一次公開，建立任何格式檔案+多模態輸出！](https://www.youtube.com/watch?v=s01HbQwG32U) | 1 week ago |
 | 2 | [只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十個？](https://www.youtube.com/watch?v=BFqFs9mh_S4) | 3 weeks ago |
-| 3 | [Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結…](https://www.youtube.com/watch?v=S3m56h6eJ14) | 4 weeks ago |
+| 3 | [Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結…](https://www.youtube.com/watch?v=S3m56h6eJ14) | 1 month ago |
 | 4 | [別再亂裝Skills了！我試用了100多個，真正離不開的只有這10個！免費、0門檻、不用寫程式，充分發揮Codex和Claude全部潛能的終極指南，看完直接領先99%的人！](https://www.youtube.com/watch?v=e-9zHHzGM3k) | 1 month ago |
 | 5 | [【全網最細】OpenAI Codex 徹底免費！新手必學的「進化版 ChatGPT」，從 0 到 1 完整入門教學！10 個高頻功能快速學會指揮你的超級 AI Agent，工作全自動！！](https://www.youtube.com/watch?v=39_iw_KLEFk) | 2 months ago |
 
@@ -19,7 +19,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [零基礎20分鐘學會Obsidian 95%功能！](https://www.youtube.com/watch?v=NIhT5pd4Znc) | 4 days ago |
+| 1 | [零基礎20分鐘學會Obsidian 95%功能！](https://www.youtube.com/watch?v=NIhT5pd4Znc) | 5 days ago |
 | 2 | [未來一年，這6個 AI Agent 趨勢會徹底改變你的工作方式！](https://www.youtube.com/watch?v=0-Rr2iho6CI) | 1 week ago |
 | 3 | [Claude Cowork並不複雜: 14個核心概念一次講清！](https://www.youtube.com/watch?v=2emjLP-i51Y) | 2 weeks ago |
 | 4 | [OpenAI 大更新: 一隻視頻看懂 ChatGPT Work + GPT-5.6 所有核心功能，Claude 最大對手來了！](https://www.youtube.com/watch?v=aZgvDDJmUCs) | 3 weeks ago |
@@ -39,9 +39,9 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [【實測 Grok Bot！】 SpaceXAI 最新 AI Agent 工具 ！多 Bot 獨立架構是革新定過時？](https://www.youtube.com/watch?v=D6x1PYbxMLg) | Today |
+| 1 | [【實測 Grok Bot！】 SpaceXAI 最新 AI Agent 工具 ！多 Bot 獨立架構是革新定過時？](https://www.youtube.com/watch?v=D6x1PYbxMLg) | 1 day ago |
 | 2 | [【AI模型降價潮】GPT-5.6 Luna 平八成！實測 DeepSeek V4 Flash 誰才是性價比之王？](https://www.youtube.com/watch?v=1cH6DCzg0rQ) | 1 week ago |
-| 3 | [Gemini Spark 登陸香港！實測 Custom Skill 與 MCP 自動化工作流！](https://www.youtube.com/watch?v=fvaq7aXecfI) | 1 week ago |
+| 3 | [Gemini Spark 登陸香港！實測 Custom Skill 與 MCP 自動化工作流！](https://www.youtube.com/watch?v=fvaq7aXecfI) | 2 weeks ago |
 | 4 | [我的新網站不再使用 WordPress 。用 AI Agent 建網站必看！Cloudflare + Astro 零成本部署 SEO 全攻略](https://www.youtube.com/watch?v=iFejMNoJ0XM) | 2 weeks ago |
 | 5 | [用 AI Agent 打造自動化 Dashboard！不用 Power BI 也能整合 Facebook & Google 廣告數據](https://www.youtube.com/watch?v=WOTB-O0vzx0) | 2 weeks ago |
 
@@ -49,38 +49,38 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [我用一個 Claude Skill (技能) 省下了所有生成圖片和影片的訂閱費用！每個月現省上千元！](https://www.youtube.com/watch?v=WyJJFzbdjuY) | 2 days ago |
+| 1 | [我用一個 Claude Skill (技能) 省下了所有生成圖片和影片的訂閱費用！每個月現省上千元！](https://www.youtube.com/watch?v=WyJJFzbdjuY) | 3 days ago |
 | 2 | [為什麼全球開發者都離不開 VS Code 這個軟體？新手必學的完整入門指南，一次搞懂 7 大核心功能！](https://www.youtube.com/watch?v=2RbXlT5wl9c) | 3 weeks ago |
 | 3 | [國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！](https://www.youtube.com/watch?v=ZC8AI_jFWnU) | 1 month ago |
 | 4 | [寫提示詞太累，而且工作流程很難交待清楚？Codex 讓你直接「做給 AI 看」，徹底終結這個困境！](https://www.youtube.com/watch?v=SFWYaF0HJiw) | 1 month ago |
-| 5 | [Hermes Agent 保姆級教學來了！最安全的 AI 私人助理造成 OpanClaw 大規模棄養潮，用過就回不去了！](https://www.youtube.com/watch?v=-EivK7vpOXY) | 1 month ago |
+| 5 | [Hermes Agent 保姆級教學來了！最安全的 AI 私人助理造成 OpanClaw 大規模棄養潮，用過就回不去了！](https://www.youtube.com/watch?v=-EivK7vpOXY) | 2 months ago |
 
 ### JayLuxAI | AI 自動化 · [@JayLuxAI](https://www.youtube.com/@JayLuxAI/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [3個步驟，從0打造你的AI儀表板](https://www.youtube.com/watch?v=grYI7jaSpxg) | 3 weeks ago |
+| 1 | [3個步驟，從0打造你的AI儀表板](https://www.youtube.com/watch?v=grYI7jaSpxg) | 4 weeks ago |
 | 2 | [Claude + LINE: 團購整單系統替你每週解放10+ 小時](https://www.youtube.com/watch?v=kxt_7hjAU1o) | 1 month ago |
 | 3 | [你還在手動刷104人力銀行找工作？Claude 10 分鐘幫你全自動化](https://www.youtube.com/watch?v=EfiMXx6qiw4) | 1 month ago |
-| 4 | [500+ 小時 Claude Code 心得：5 件我希望早點知道的事](https://www.youtube.com/watch?v=JbNTSwevk3w) | 1 month ago |
+| 4 | [500+ 小時 Claude Code 心得：5 件我希望早點知道的事](https://www.youtube.com/watch?v=JbNTSwevk3w) | 2 months ago |
 | 5 | [什麼是 AI Operating System？一套能讓AI 替你工作的系統 (附免費設定)](https://www.youtube.com/watch?v=EyZEJPP2JNQ) | 2 months ago |
 
 ### 泛科學院 · [@panscischool](https://www.youtube.com/@panscischool/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [免費版 ChatGPT、Gemini、Claude 誰做簡報最強？\|泛科學院](https://www.youtube.com/watch?v=ATf2i6OzIOg) | Today |
-| 2 | [免費版 ChatGPT、Gemini、Claude 誰查資料最強？\|泛科學院](https://www.youtube.com/watch?v=zjQIXo3P_Ac) | 1 day ago |
-| 3 | [免費版 ChatGPT、Gemini、Claude 誰生圖最強？\|泛科學院](https://www.youtube.com/watch?v=ADN-aXui_3I) | 2 days ago |
-| 4 | [原來 Gemini in Workspace 個人化設定要這樣設？\|泛科學院](https://www.youtube.com/watch?v=LcpjNmr9srs) | 5 days ago |
-| 5 | [AI工具怎麼選？AI 免費版大評比！ChatGPT、Gemini、Claude 該選誰？5 大情境實測全公開\|泛科學院](https://www.youtube.com/watch?v=y7mFMDxc1VM) | 6 days ago |
+| 1 | [免費版 ChatGPT、Gemini、Claude 誰做簡報最強？\|泛科學院](https://www.youtube.com/watch?v=ATf2i6OzIOg) | 1 day ago |
+| 2 | [免費版 ChatGPT、Gemini、Claude 誰查資料最強？\|泛科學院](https://www.youtube.com/watch?v=zjQIXo3P_Ac) | 2 days ago |
+| 3 | [免費版 ChatGPT、Gemini、Claude 誰生圖最強？\|泛科學院](https://www.youtube.com/watch?v=ADN-aXui_3I) | 3 days ago |
+| 4 | [原來 Gemini in Workspace 個人化設定要這樣設？\|泛科學院](https://www.youtube.com/watch?v=LcpjNmr9srs) | 6 days ago |
+| 5 | [AI工具怎麼選？AI 免費版大評比！ChatGPT、Gemini、Claude 該選誰？5 大情境實測全公開\|泛科學院](https://www.youtube.com/watch?v=y7mFMDxc1VM) | 1 week ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [我砍掉 CLAUDE md 82% 内容：ClaudeCode 响应速度与指令遵循率反而提升](https://www.youtube.com/watch?v=pmWgyZM7mB8) | Today |
-| 2 | [99%的人没见过的完全体Gemini！切成英文版，瞬间解锁顶级工作效率](https://www.youtube.com/watch?v=gwZjsUQns6c) | 5 days ago |
+| 1 | [我砍掉 CLAUDE md 82% 内容：ClaudeCode 响应速度与指令遵循率反而提升](https://www.youtube.com/watch?v=pmWgyZM7mB8) | 1 day ago |
+| 2 | [99%的人没见过的完全体Gemini！切成英文版，瞬间解锁顶级工作效率](https://www.youtube.com/watch?v=gwZjsUQns6c) | 6 days ago |
 | 3 | [人还没到公司，周报自己写完了！Google Gemini Spark 自动化全攻略](https://www.youtube.com/watch?v=QTkc0MAMY1M) | 1 week ago |
 | 4 | [为什么它能在GitHub一周暴涨3000星？实测这款不用写代码的免费AI工具，真的离谱](https://www.youtube.com/watch?v=NNgloJeqDW0) | 1 week ago |
 | 5 | [GitHub 上月第一名，居然是个做 office的命令行工具](https://www.youtube.com/watch?v=ED03TsztdEc) | 2 weeks ago |
