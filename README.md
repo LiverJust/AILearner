@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-08-20 18:16 HKT*
+*Last updated: 2026-08-21 00:18 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -69,11 +69,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！\|泛科學院](https://www.youtube.com/watch?v=VE4-2AkCzJ8) | 1 week ago |
-| 2 | [AI工具怎麼選？AI 免費版大評比！ChatGPT、Gemini、Claude 該選誰？5 大情境實測全公開\|泛科學院](https://www.youtube.com/watch?v=y7mFMDxc1VM) | 2 weeks ago |
-| 3 | [Gemini 又更強了？Gemini in Workspace 4大功能新功能介紹！上班族一定用的到！\|泛科學院](https://www.youtube.com/watch?v=lR-sVrqMBxs) | 3 weeks ago |
-| 4 | [泛科逆向工程！英文即時翻譯擴充工具三天打造完成！直播字幕](https://www.youtube.com/watch?v=kpUZ8pl9jyY) | 4 weeks ago |
-| 5 | [7月初AI更新 ChatGPT 超越Claude？ChatGPT 直接住進PowerPoint！NotebookLM \|泛科學院](https://www.youtube.com/watch?v=cXw-P07TRBw) | 1 month ago |
+| 1 | [Grok Bot 到底強在哪裡？ChatGPT想要統領全AI Agent？八月AI更新總整理\|泛科學院](https://www.youtube.com/watch?v=jnoMPfg1N5Y) | Today |
+| 2 | [NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！\|泛科學院](https://www.youtube.com/watch?v=VE4-2AkCzJ8) | 1 week ago |
+| 3 | [AI工具怎麼選？AI 免費版大評比！ChatGPT、Gemini、Claude 該選誰？5 大情境實測全公開\|泛科學院](https://www.youtube.com/watch?v=y7mFMDxc1VM) | 2 weeks ago |
+| 4 | [Gemini 又更強了？Gemini in Workspace 4大功能新功能介紹！上班族一定用的到！\|泛科學院](https://www.youtube.com/watch?v=lR-sVrqMBxs) | 3 weeks ago |
+| 5 | [泛科逆向工程！英文即時翻譯擴充工具三天打造完成！直播字幕](https://www.youtube.com/watch?v=kpUZ8pl9jyY) | 4 weeks ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 

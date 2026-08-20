@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20 18:16 HKT",
+  "last_updated": "2026-08-21 00:18 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -259,6 +259,13 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
+          "title": "Grok Bot 到底強在哪裡？ChatGPT想要統領全AI Agent？八月AI更新總整理｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=jnoMPfg1N5Y",
+          "published": "2026-08-20",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！｜泛科學院",
           "url": "https://www.youtube.com/watch?v=VE4-2AkCzJ8",
           "published": "2026-08-13",
@@ -284,13 +291,6 @@
           "url": "https://www.youtube.com/watch?v=kpUZ8pl9jyY",
           "published": "2026-07-22",
           "age": "4 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "7月初AI更新 ChatGPT 超越Claude？ChatGPT 直接住進PowerPoint！NotebookLM ｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=cXw-P07TRBw",
-          "published": "2026-07-14",
-          "age": "1 month ago",
           "is_new_today": false
         }
       ]
