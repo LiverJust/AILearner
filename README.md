@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-08-22 00:17 HKT*
+*Last updated: 2026-08-22 12:19 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -19,17 +19,17 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Claude Design 2.0 迎來重大升級\|10分鐘掌握](https://www.youtube.com/watch?v=XjovI-SAI1E) | 6 days ago |
-| 2 | [零基礎20分鐘學會Obsidian 95%功能！](https://www.youtube.com/watch?v=NIhT5pd4Znc) | 1 week ago |
-| 3 | [未來一年，這6個 AI Agent 趨勢會徹底改變你的工作方式！](https://www.youtube.com/watch?v=0-Rr2iho6CI) | 2 weeks ago |
-| 4 | [Claude Cowork並不複雜: 14個核心概念一次講清！](https://www.youtube.com/watch?v=2emjLP-i51Y) | 3 weeks ago |
+| 1 | [Claude Design 2.0 迎來重大升級\|10分鐘掌握](https://www.youtube.com/watch?v=XjovI-SAI1E) | 1 week ago |
+| 2 | [零基礎20分鐘學會Obsidian 95%功能！](https://www.youtube.com/watch?v=NIhT5pd4Znc) | 2 weeks ago |
+| 3 | [未來一年，這6個 AI Agent 趨勢會徹底改變你的工作方式！](https://www.youtube.com/watch?v=0-Rr2iho6CI) | 3 weeks ago |
+| 4 | [Claude Cowork並不複雜: 14個核心概念一次講清！](https://www.youtube.com/watch?v=2emjLP-i51Y) | 4 weeks ago |
 | 5 | [OpenAI 大更新: 一隻視頻看懂 ChatGPT Work + GPT-5.6 所有核心功能，Claude 最大對手來了！](https://www.youtube.com/watch?v=aZgvDDJmUCs) | 1 month ago |
 
 ### 我想用Ai賺錢 · [@我想用Ai賺錢](https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Google AI 人材真係走晒？兩個月走咗幾多AI大神？ #Shorts #短影片 #GoogleAI #Gemini #GeminiSpark #ai工具 #廣東話 #我想用AI賺錢](https://www.youtube.com/watch?v=BNsJQj0ScRA) | 2 days ago |
+| 1 | [Google AI 人材真係走晒？兩個月走咗幾多AI大神？ #Shorts #短影片 #GoogleAI #Gemini #GeminiSpark #ai工具 #廣東話 #我想用AI賺錢](https://www.youtube.com/watch?v=BNsJQj0ScRA) | 3 days ago |
 | 2 | [Google AI 發生緊咩事？一邊核心人材大洗牌，一邊多個AI新功能推出！Gemini Spark 登陸香港 #googleai #geminispark #AI新聞 #廣東話 #香港AI](https://www.youtube.com/watch?v=1Rfxm9Gr20g) | 1 week ago |
 | 3 | [大癲！我做一次，#Codex 就學識？Record & Replay 實測：自動入數＋上載 IG Reels #AI自動化 #ChatGPT #Record&Replay #廣東話 #香港AI教學](https://www.youtube.com/watch?v=IReQuIvKqnY) | 3 weeks ago |
 | 4 | [#ChatGPT  新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學](https://www.youtube.com/watch?v=MfZXYnfDA8w) | 1 month ago |
@@ -39,21 +39,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [DeepSeek Harness 核心概念詳解！四大模式 & 實測自建 Plugin](https://www.youtube.com/watch?v=I_qbPz4Psfg) | Today |
-| 2 | [GPT vs Claude 長達 50 回合的社會演化紀錄：外交談判與資源戰爭！](https://www.youtube.com/watch?v=ks0c0XazeWU) | 3 days ago |
-| 3 | [【實測多模態模型】 Qwen 3.8、Gemini 3.7、Muse Spark 1.2 模型能力與成本！](https://www.youtube.com/watch?v=gZZtLKGXXE4) | 4 days ago |
-| 4 | [高性價比的 Vibe Code 工具 MiniMax \| 討論 Grok Bot 的新設計](https://www.youtube.com/watch?v=4sNfBlwuQDY) | 6 days ago |
+| 1 | [DeepSeek Harness 核心概念詳解！四大模式 & 實測自建 Plugin](https://www.youtube.com/watch?v=I_qbPz4Psfg) | 1 day ago |
+| 2 | [GPT vs Claude 長達 50 回合的社會演化紀錄：外交談判與資源戰爭！](https://www.youtube.com/watch?v=ks0c0XazeWU) | 4 days ago |
+| 3 | [【實測多模態模型】 Qwen 3.8、Gemini 3.7、Muse Spark 1.2 模型能力與成本！](https://www.youtube.com/watch?v=gZZtLKGXXE4) | 5 days ago |
+| 4 | [高性價比的 Vibe Code 工具 MiniMax \| 討論 Grok Bot 的新設計](https://www.youtube.com/watch?v=4sNfBlwuQDY) | 1 week ago |
 | 5 | [【實測 Grok Bot！】 SpaceXAI 最新 AI Agent 工具 ！多 Bot 獨立架構是革新定過時？](https://www.youtube.com/watch?v=D6x1PYbxMLg) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [還在用 PPT 製作廉價簡報動畫？Claude Design 2.0 迎來重大升級，今天就用這 6 個小技巧解鎖它的專業動畫功能！](https://www.youtube.com/watch?v=jn7UXxa1Llg) | Today |
+| 1 | [還在用 PPT 製作廉價簡報動畫？Claude Design 2.0 迎來重大升級，今天就用這 6 個小技巧解鎖它的專業動畫功能！](https://www.youtube.com/watch?v=jn7UXxa1Llg) | 1 day ago |
 | 2 | [我用一個 Claude Skill (技能) 省下了所有生成圖片和影片的訂閱費用！每個月現省上千元！](https://www.youtube.com/watch?v=WyJJFzbdjuY) | 1 week ago |
 | 3 | [為什麼全球開發者都離不開 VS Code 這個軟體？新手必學的完整入門指南，一次搞懂 7 大核心功能！](https://www.youtube.com/watch?v=2RbXlT5wl9c) | 1 month ago |
 | 4 | [國外瘋傳的 AI 筆記工作流！LLM Wiki 讓你的 Obsidian 筆記升級成能自我進化的第二大腦！](https://www.youtube.com/watch?v=ZC8AI_jFWnU) | 1 month ago |
-| 5 | [寫提示詞太累，而且工作流程很難交待清楚？Codex 讓你直接「做給 AI 看」，徹底終結這個困境！](https://www.youtube.com/watch?v=SFWYaF0HJiw) | 1 month ago |
+| 5 | [寫提示詞太累，而且工作流程很難交待清楚？Codex 讓你直接「做給 AI 看」，徹底終結這個困境！](https://www.youtube.com/watch?v=SFWYaF0HJiw) | 2 months ago |
 
 ### JayLuxAI | AI 自動化 · [@JayLuxAI](https://www.youtube.com/@JayLuxAI/videos)
 
@@ -69,7 +69,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？](https://www.youtube.com/watch?v=jnoMPfg1N5Y) | 1 day ago |
+| 1 | [八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？](https://www.youtube.com/watch?v=jnoMPfg1N5Y) | 2 days ago |
 | 2 | [免費版ChatGPT、Gemini、Claude 誰作筆記最強？\|泛科學院 #claude #chatgpt #智慧工廠](https://www.youtube.com/watch?v=Y7baIBKWFMg) | 1 week ago |
 | 3 | [NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！\|泛科學院](https://www.youtube.com/watch?v=VE4-2AkCzJ8) | 1 week ago |
 | 4 | [免費版 ChatGPT、Gemini、Claude 誰做簡報最強？\|泛科學院](https://www.youtube.com/watch?v=ATf2i6OzIOg) | 1 week ago |
@@ -79,11 +79,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Claude高级玩家实测：从ChatGPT搬家记忆到手机远程控电脑，这9个技巧才算花明白 20 块](https://www.youtube.com/watch?v=Wq1icAZYr4E) | 2 days ago |
+| 1 | [Claude高级玩家实测：从ChatGPT搬家记忆到手机远程控电脑，这9个技巧才算花明白 20 块](https://www.youtube.com/watch?v=Wq1icAZYr4E) | 3 days ago |
 | 2 | [Claude Code 加1行代码防护全废？我实测65条默认规则消失，千万别乱抄配置](https://www.youtube.com/watch?v=XW2pikSTxPg) | 1 week ago |
 | 3 | [别再写废话了！官方命令一键优化CLAUDE.md，AI听话程度暴涨10倍](https://www.youtube.com/watch?v=pmWgyZM7mB8) | 1 week ago |
 | 4 | [什么事找搜索？什么事问 AI？我实测了 4 大日常场景，效率直接翻倍](https://www.youtube.com/watch?v=Z8_H6GmsIQQ) | 1 week ago |
-| 5 | [不用看复杂代码！我用4分钟把大语言模型LLM原理彻底讲透了](https://www.youtube.com/watch?v=b7L0BUUvnjc) | 1 week ago |
+| 5 | [不用看复杂代码！我用4分钟把大语言模型LLM原理彻底讲透了](https://www.youtube.com/watch?v=b7L0BUUvnjc) | 2 weeks ago |
 
 ---
 
