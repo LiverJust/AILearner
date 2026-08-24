@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24 00:10 HKT",
+  "last_updated": "2026-08-24 12:32 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -52,7 +52,7 @@
           "title": "AI模型會過時，但這套AI個人檔案可以一直用！",
           "url": "https://www.youtube.com/watch?v=2-8xsEk8iP4",
           "published": "2026-08-22",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
@@ -80,7 +80,7 @@
           "title": "Claude Cowork並不複雜: 14個核心概念一次講清！",
           "url": "https://www.youtube.com/watch?v=2emjLP-i51Y",
           "published": "2026-07-25",
-          "age": "4 weeks ago",
+          "age": "1 month ago",
           "is_new_today": false
         }
       ]
@@ -94,7 +94,7 @@
           "title": "Google AI 人材真係走晒？兩個月走咗幾多AI大神？ #Shorts #短影片 #GoogleAI #Gemini #GeminiSpark #ai工具 #廣東話 #我想用AI賺錢",
           "url": "https://www.youtube.com/watch?v=BNsJQj0ScRA",
           "published": "2026-08-19",
-          "age": "4 days ago",
+          "age": "5 days ago",
           "is_new_today": false
         },
         {
@@ -136,21 +136,21 @@
           "title": "DeepSeek Harness 核心概念詳解！四大模式 & 實測自建 Plugin",
           "url": "https://www.youtube.com/watch?v=I_qbPz4Psfg",
           "published": "2026-08-21",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
           "title": "GPT vs Claude 長達 50 回合的社會演化紀錄：外交談判與資源戰爭！",
           "url": "https://www.youtube.com/watch?v=ks0c0XazeWU",
           "published": "2026-08-18",
-          "age": "5 days ago",
+          "age": "6 days ago",
           "is_new_today": false
         },
         {
           "title": "【實測多模態模型】 Qwen 3.8、Gemini 3.7、Muse Spark 1.2 模型能力與成本！",
           "url": "https://www.youtube.com/watch?v=gZZtLKGXXE4",
           "published": "2026-08-17",
-          "age": "6 days ago",
+          "age": "1 week ago",
           "is_new_today": false
         },
         {
@@ -178,14 +178,14 @@
           "title": "還在用 PPT 製作廉價簡報動畫？Claude Design 2.0 迎來重大升級，今天就用這 6 個小技巧解鎖它的專業動畫功能！",
           "url": "https://www.youtube.com/watch?v=jn7UXxa1Llg",
           "published": "2026-08-21",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
           "title": "我用一個 Claude Skill (技能) 省下了所有生成圖片和影片的訂閱費用！每個月現省上千元！",
           "url": "https://www.youtube.com/watch?v=WyJJFzbdjuY",
           "published": "2026-08-10",
-          "age": "1 week ago",
+          "age": "2 weeks ago",
           "is_new_today": false
         },
         {
@@ -220,7 +220,7 @@
           "title": "一句話，把 Claude Code 會話記憶搬到 Codex，品質不打折",
           "url": "https://www.youtube.com/watch?v=4iIS0POVYU0",
           "published": "2026-08-23",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
@@ -262,7 +262,7 @@
           "title": "八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？",
           "url": "https://www.youtube.com/watch?v=jnoMPfg1N5Y",
           "published": "2026-08-20",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
@@ -301,17 +301,24 @@
       "url": "https://www.youtube.com/@YAHAClass/featured",
       "videos": [
         {
+          "title": "ClaudeCode 额度两天见底？每按一次回车，你都在为旧账全额付费 附解决方案",
+          "url": "https://www.youtube.com/watch?v=yrnGrdPZx_U",
+          "published": "2026-08-24",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "你以为Fable 5降智了？我实测在ClaudeCode加一行设置，AI瞬间说人话",
           "url": "https://www.youtube.com/watch?v=nlNDzop6tBw",
           "published": "2026-08-22",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
           "title": "你每月交 20 美元，Claude 藏得最深的 9 个隐藏设置你居然从来没打开过？",
           "url": "https://www.youtube.com/watch?v=Wq1icAZYr4E",
           "published": "2026-08-19",
-          "age": "4 days ago",
+          "age": "5 days ago",
           "is_new_today": false
         },
         {
@@ -325,13 +332,6 @@
           "title": "别再写废话了！官方命令一键优化CLAUDE.md，AI听话程度暴涨10倍",
           "url": "https://www.youtube.com/watch?v=pmWgyZM7mB8",
           "published": "2026-08-12",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "什么事找搜索？什么事问 AI？我实测了 4 大日常场景，效率直接翻倍",
-          "url": "https://www.youtube.com/watch?v=Z8_H6GmsIQQ",
-          "published": "2026-08-10",
           "age": "1 week ago",
           "is_new_today": false
         }
