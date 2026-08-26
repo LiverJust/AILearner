@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26 12:27 HKT",
+  "last_updated": "2026-08-26 18:21 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -266,13 +266,6 @@
           "is_new_today": false
         },
         {
-          "title": "免費版ChatGPT、Gemini、Claude 誰作筆記最強？｜泛科學院 #claude #chatgpt #智慧工廠",
-          "url": "https://www.youtube.com/watch?v=Y7baIBKWFMg",
-          "published": "2026-08-13",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
           "title": "NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！｜泛科學院",
           "url": "https://www.youtube.com/watch?v=VE4-2AkCzJ8",
           "published": "2026-08-13",
@@ -280,17 +273,24 @@
           "is_new_today": false
         },
         {
-          "title": "免費版 ChatGPT、Gemini、Claude 誰做簡報最強？｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=ATf2i6OzIOg",
-          "published": "2026-08-12",
+          "title": "AI工具怎麼選？AI 免費版大評比！ChatGPT、Gemini、Claude 該選誰？5 大情境實測全公開｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=y7mFMDxc1VM",
+          "published": "2026-08-06",
           "age": "2 weeks ago",
           "is_new_today": false
         },
         {
-          "title": "免費版 ChatGPT、Gemini、Claude 誰查資料最強？｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=zjQIXo3P_Ac",
-          "published": "2026-08-11",
-          "age": "2 weeks ago",
+          "title": "Gemini 又更強了？Gemini in Workspace 4大功能新功能介紹！上班族一定用的到！｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=lR-sVrqMBxs",
+          "published": "2026-07-30",
+          "age": "3 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "泛科逆向工程！英文即時翻譯擴充工具三天打造完成！直播字幕",
+          "url": "https://www.youtube.com/watch?v=kpUZ8pl9jyY",
+          "published": "2026-07-22",
+          "age": "1 month ago",
           "is_new_today": false
         }
       ]
@@ -300,6 +300,13 @@
       "handle": "@YAHAClass",
       "url": "https://www.youtube.com/@YAHAClass/featured",
       "videos": [
+        {
+          "title": "AI视频角色一致性总是崩？Flova+Seedance 2.5一镜到底，30秒零崩坏实测",
+          "url": "https://www.youtube.com/watch?v=ahb8kfsZmIk",
+          "published": "2026-08-26",
+          "age": "Today",
+          "is_new_today": true
+        },
         {
           "title": "ClaudeCode 额度两天见底？每按一次回车，你都在为旧账全额付费 附解决方案",
           "url": "https://www.youtube.com/watch?v=yrnGrdPZx_U",
@@ -326,13 +333,6 @@
           "url": "https://www.youtube.com/watch?v=XW2pikSTxPg",
           "published": "2026-08-14",
           "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "别再写废话了！官方命令一键优化CLAUDE.md，AI听话程度暴涨10倍",
-          "url": "https://www.youtube.com/watch?v=pmWgyZM7mB8",
-          "published": "2026-08-12",
-          "age": "2 weeks ago",
           "is_new_today": false
         }
       ]

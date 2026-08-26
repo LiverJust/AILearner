@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-08-26 12:27 HKT*
+*Last updated: 2026-08-26 18:21 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -70,20 +70,20 @@
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？](https://www.youtube.com/watch?v=jnoMPfg1N5Y) | 6 days ago |
-| 2 | [免費版ChatGPT、Gemini、Claude 誰作筆記最強？\|泛科學院 #claude #chatgpt #智慧工廠](https://www.youtube.com/watch?v=Y7baIBKWFMg) | 1 week ago |
-| 3 | [NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！\|泛科學院](https://www.youtube.com/watch?v=VE4-2AkCzJ8) | 1 week ago |
-| 4 | [免費版 ChatGPT、Gemini、Claude 誰做簡報最強？\|泛科學院](https://www.youtube.com/watch?v=ATf2i6OzIOg) | 2 weeks ago |
-| 5 | [免費版 ChatGPT、Gemini、Claude 誰查資料最強？\|泛科學院](https://www.youtube.com/watch?v=zjQIXo3P_Ac) | 2 weeks ago |
+| 2 | [NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！\|泛科學院](https://www.youtube.com/watch?v=VE4-2AkCzJ8) | 1 week ago |
+| 3 | [AI工具怎麼選？AI 免費版大評比！ChatGPT、Gemini、Claude 該選誰？5 大情境實測全公開\|泛科學院](https://www.youtube.com/watch?v=y7mFMDxc1VM) | 2 weeks ago |
+| 4 | [Gemini 又更強了？Gemini in Workspace 4大功能新功能介紹！上班族一定用的到！\|泛科學院](https://www.youtube.com/watch?v=lR-sVrqMBxs) | 3 weeks ago |
+| 5 | [泛科逆向工程！英文即時翻譯擴充工具三天打造完成！直播字幕](https://www.youtube.com/watch?v=kpUZ8pl9jyY) | 1 month ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [ClaudeCode 额度两天见底？每按一次回车，你都在为旧账全额付费 附解决方案](https://www.youtube.com/watch?v=yrnGrdPZx_U) | 2 days ago |
-| 2 | [你以为Fable 5降智了？我实测在ClaudeCode加一行设置，AI瞬间说人话](https://www.youtube.com/watch?v=nlNDzop6tBw) | 4 days ago |
-| 3 | [你每月交 20 美元，Claude 藏得最深的 9 个隐藏设置你居然从来没打开过？](https://www.youtube.com/watch?v=Wq1icAZYr4E) | 1 week ago |
-| 4 | [Claude Code 加1行代码防护全废？我实测65条默认规则消失，千万别乱抄配置](https://www.youtube.com/watch?v=XW2pikSTxPg) | 1 week ago |
-| 5 | [别再写废话了！官方命令一键优化CLAUDE.md，AI听话程度暴涨10倍](https://www.youtube.com/watch?v=pmWgyZM7mB8) | 2 weeks ago |
+| 1 | [AI视频角色一致性总是崩？Flova+Seedance 2.5一镜到底，30秒零崩坏实测](https://www.youtube.com/watch?v=ahb8kfsZmIk) | Today |
+| 2 | [ClaudeCode 额度两天见底？每按一次回车，你都在为旧账全额付费 附解决方案](https://www.youtube.com/watch?v=yrnGrdPZx_U) | 2 days ago |
+| 3 | [你以为Fable 5降智了？我实测在ClaudeCode加一行设置，AI瞬间说人话](https://www.youtube.com/watch?v=nlNDzop6tBw) | 4 days ago |
+| 4 | [你每月交 20 美元，Claude 藏得最深的 9 个隐藏设置你居然从来没打开过？](https://www.youtube.com/watch?v=Wq1icAZYr4E) | 1 week ago |
+| 5 | [Claude Code 加1行代码防护全废？我实测65条默认规则消失，千万别乱抄配置](https://www.youtube.com/watch?v=XW2pikSTxPg) | 1 week ago |
 
 ---
 
