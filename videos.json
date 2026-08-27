@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27 00:39 HKT",
+  "last_updated": "2026-08-27 22:49 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -52,7 +52,7 @@
           "title": "AI模型會過時，但這套AI個人檔案可以一直用！",
           "url": "https://www.youtube.com/watch?v=2-8xsEk8iP4",
           "published": "2026-08-22",
-          "age": "4 days ago",
+          "age": "5 days ago",
           "is_new_today": false
         },
         {
@@ -136,14 +136,14 @@
           "title": "DeepSeek Harness 串接 WhatsApp 、自訂 Claude MCP 打造 AI 知識庫、告別傳統 RAG！",
           "url": "https://www.youtube.com/watch?v=5-NlUPi28_M",
           "published": "2026-08-26",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
-          "title": "DeepSeek Harness 核心概念詳解！四大模式 & 實測自建 Plugin",
+          "title": "我做了這個 Plugin 開源給大家試用 | DeepSeek Harness 實測",
           "url": "https://www.youtube.com/watch?v=I_qbPz4Psfg",
           "published": "2026-08-21",
-          "age": "5 days ago",
+          "age": "6 days ago",
           "is_new_today": false
         },
         {
@@ -178,7 +178,7 @@
           "title": "還在用 PPT 製作廉價簡報動畫？Claude Design 2.0 迎來重大升級，今天就用這 6 個小技巧解鎖它的專業動畫功能！",
           "url": "https://www.youtube.com/watch?v=jn7UXxa1Llg",
           "published": "2026-08-21",
-          "age": "5 days ago",
+          "age": "6 days ago",
           "is_new_today": false
         },
         {
@@ -220,7 +220,7 @@
           "title": "一句話，把 Claude Code 會話記憶搬到 Codex，品質不打折",
           "url": "https://www.youtube.com/watch?v=4iIS0POVYU0",
           "published": "2026-08-23",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
@@ -241,7 +241,7 @@
           "title": "你還在手動刷104人力銀行找工作？Claude 10 分鐘幫你全自動化",
           "url": "https://www.youtube.com/watch?v=EfiMXx6qiw4",
           "published": "2026-06-28",
-          "age": "1 month ago",
+          "age": "2 months ago",
           "is_new_today": false
         },
         {
@@ -259,37 +259,37 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
+          "title": "Loop Engineering 是什麼？開發人員居然不愛最強模型？｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=Lglem0O9mjQ",
+          "published": "2026-08-27",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？",
           "url": "https://www.youtube.com/watch?v=jnoMPfg1N5Y",
           "published": "2026-08-20",
-          "age": "6 days ago",
+          "age": "1 week ago",
           "is_new_today": false
         },
         {
           "title": "免費版ChatGPT、Gemini、Claude 誰作筆記最強？｜泛科學院 #claude #chatgpt #智慧工廠",
           "url": "https://www.youtube.com/watch?v=Y7baIBKWFMg",
           "published": "2026-08-13",
-          "age": "1 week ago",
+          "age": "2 weeks ago",
           "is_new_today": false
         },
         {
           "title": "NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！｜泛科學院",
           "url": "https://www.youtube.com/watch?v=VE4-2AkCzJ8",
           "published": "2026-08-13",
-          "age": "1 week ago",
+          "age": "2 weeks ago",
           "is_new_today": false
         },
         {
           "title": "免費版 ChatGPT、Gemini、Claude 誰做簡報最強？｜泛科學院",
           "url": "https://www.youtube.com/watch?v=ATf2i6OzIOg",
           "published": "2026-08-12",
-          "age": "2 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "免費版 ChatGPT、Gemini、Claude 誰查資料最強？｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=zjQIXo3P_Ac",
-          "published": "2026-08-11",
           "age": "2 weeks ago",
           "is_new_today": false
         }
@@ -304,21 +304,21 @@
           "title": "AI视频角色一致性总是崩？Flova+Seedance 2.5一镜到底，30秒零崩坏实测",
           "url": "https://www.youtube.com/watch?v=ahb8kfsZmIk",
           "published": "2026-08-26",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
           "title": "ClaudeCode 额度两天见底？每按一次回车，你都在为旧账全额付费 附解决方案",
           "url": "https://www.youtube.com/watch?v=yrnGrdPZx_U",
           "published": "2026-08-24",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
           "title": "你以为Fable 5降智了？我实测在ClaudeCode加一行设置，AI瞬间说人话",
           "url": "https://www.youtube.com/watch?v=nlNDzop6tBw",
           "published": "2026-08-22",
-          "age": "4 days ago",
+          "age": "5 days ago",
           "is_new_today": false
         },
         {
