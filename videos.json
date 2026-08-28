@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28 08:39 HKT",
+  "last_updated": "2026-08-28 23:43 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,7 +133,14 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
-          "title": "我即時訂閱月費 Plan |  多模態、1M 上下文、320B 參數 | GLM-5.3-Flash 登場！",
+          "title": "我開發了這個 3D 體感賽車遊戲",
+          "url": "https://www.youtube.com/watch?v=42RCV9eetZc",
+          "published": "2026-08-28",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
+          "title": "我即時訂閱月費 Plan | 多模態、1M 上下文、320B 參數 | GLM-5.3-Flash 登場！",
           "url": "https://www.youtube.com/watch?v=aGf8AXS4OYE",
           "published": "2026-08-27",
           "age": "1 day ago",
@@ -157,13 +164,6 @@
           "title": "GPT vs Claude 長達 50 回合的社會演化紀錄：外交談判與資源戰爭！",
           "url": "https://www.youtube.com/watch?v=ks0c0XazeWU",
           "published": "2026-08-18",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "【實測多模態模型】 Qwen 3.8、Gemini 3.7、Muse Spark 1.2 模型能力與成本！",
-          "url": "https://www.youtube.com/watch?v=gZZtLKGXXE4",
-          "published": "2026-08-17",
           "age": "1 week ago",
           "is_new_today": false
         }

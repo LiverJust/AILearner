@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-08-28 08:39 HKT*
+*Last updated: 2026-08-28 23:43 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [我即時訂閱月費 Plan \|  多模態、1M 上下文、320B 參數 \| GLM-5.3-Flash 登場！](https://www.youtube.com/watch?v=aGf8AXS4OYE) | 1 day ago |
-| 2 | [DeepSeek Harness 串接 WhatsApp 、自訂 Claude MCP 打造 AI 知識庫、告別傳統 RAG！](https://www.youtube.com/watch?v=5-NlUPi28_M) | 2 days ago |
-| 3 | [我做了這個 Plugin 開源給大家試用 \| DeepSeek Harness 實測](https://www.youtube.com/watch?v=I_qbPz4Psfg) | 1 week ago |
-| 4 | [GPT vs Claude 長達 50 回合的社會演化紀錄：外交談判與資源戰爭！](https://www.youtube.com/watch?v=ks0c0XazeWU) | 1 week ago |
-| 5 | [【實測多模態模型】 Qwen 3.8、Gemini 3.7、Muse Spark 1.2 模型能力與成本！](https://www.youtube.com/watch?v=gZZtLKGXXE4) | 1 week ago |
+| 1 | [我開發了這個 3D 體感賽車遊戲](https://www.youtube.com/watch?v=42RCV9eetZc) | Today |
+| 2 | [我即時訂閱月費 Plan \| 多模態、1M 上下文、320B 參數 \| GLM-5.3-Flash 登場！](https://www.youtube.com/watch?v=aGf8AXS4OYE) | 1 day ago |
+| 3 | [DeepSeek Harness 串接 WhatsApp 、自訂 Claude MCP 打造 AI 知識庫、告別傳統 RAG！](https://www.youtube.com/watch?v=5-NlUPi28_M) | 2 days ago |
+| 4 | [我做了這個 Plugin 開源給大家試用 \| DeepSeek Harness 實測](https://www.youtube.com/watch?v=I_qbPz4Psfg) | 1 week ago |
+| 5 | [GPT vs Claude 長達 50 回合的社會演化紀錄：外交談判與資源戰爭！](https://www.youtube.com/watch?v=ks0c0XazeWU) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
