@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-27 22:49 HKT",
+  "last_updated": "2026-08-28 08:39 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -10,7 +10,7 @@
           "title": "你其實可以不用上班！走了10年彎道才明白的事情，希望你現在就知道！當全世界都叫我努力時，我卻選擇辭職，一部片傾囊相授，無論你是上班族還是想做自媒體都必知，這部片能把我的遺憾，變成你的捷徑！",
           "url": "https://www.youtube.com/watch?v=AnDkGkI2l4w",
           "published": "2026-08-14",
-          "age": "1 week ago",
+          "age": "2 weeks ago",
           "is_new_today": false
         },
         {
@@ -52,7 +52,7 @@
           "title": "AI模型會過時，但這套AI個人檔案可以一直用！",
           "url": "https://www.youtube.com/watch?v=2-8xsEk8iP4",
           "published": "2026-08-22",
-          "age": "5 days ago",
+          "age": "6 days ago",
           "is_new_today": false
         },
         {
@@ -101,14 +101,14 @@
           "title": "Google AI 發生緊咩事？一邊核心人材大洗牌，一邊多個AI新功能推出！Gemini Spark 登陸香港 #googleai #geminispark #AI新聞 #廣東話 #香港AI",
           "url": "https://www.youtube.com/watch?v=1Rfxm9Gr20g",
           "published": "2026-08-14",
-          "age": "1 week ago",
+          "age": "2 weeks ago",
           "is_new_today": false
         },
         {
           "title": "大癲！我做一次，#Codex 就學識？Record & Replay 實測：自動入數＋上載 IG Reels #AI自動化 #ChatGPT #Record&Replay #廣東話 #香港AI教學",
           "url": "https://www.youtube.com/watch?v=IReQuIvKqnY",
           "published": "2026-07-31",
-          "age": "3 weeks ago",
+          "age": "4 weeks ago",
           "is_new_today": false
         },
         {
@@ -133,17 +133,24 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "我即時訂閱月費 Plan |  多模態、1M 上下文、320B 參數 | GLM-5.3-Flash 登場！",
+          "url": "https://www.youtube.com/watch?v=aGf8AXS4OYE",
+          "published": "2026-08-27",
+          "age": "1 day ago",
+          "is_new_today": false
+        },
+        {
           "title": "DeepSeek Harness 串接 WhatsApp 、自訂 Claude MCP 打造 AI 知識庫、告別傳統 RAG！",
           "url": "https://www.youtube.com/watch?v=5-NlUPi28_M",
           "published": "2026-08-26",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
           "title": "我做了這個 Plugin 開源給大家試用 | DeepSeek Harness 實測",
           "url": "https://www.youtube.com/watch?v=I_qbPz4Psfg",
           "published": "2026-08-21",
-          "age": "6 days ago",
+          "age": "1 week ago",
           "is_new_today": false
         },
         {
@@ -159,13 +166,6 @@
           "published": "2026-08-17",
           "age": "1 week ago",
           "is_new_today": false
-        },
-        {
-          "title": "高性價比的 Vibe Code 工具 MiniMax | 討論 Grok Bot 的新設計",
-          "url": "https://www.youtube.com/watch?v=4sNfBlwuQDY",
-          "published": "2026-08-15",
-          "age": "1 week ago",
-          "is_new_today": false
         }
       ]
     },
@@ -178,7 +178,7 @@
           "title": "還在用 PPT 製作廉價簡報動畫？Claude Design 2.0 迎來重大升級，今天就用這 6 個小技巧解鎖它的專業動畫功能！",
           "url": "https://www.youtube.com/watch?v=jn7UXxa1Llg",
           "published": "2026-08-21",
-          "age": "6 days ago",
+          "age": "1 week ago",
           "is_new_today": false
         },
         {
@@ -220,7 +220,7 @@
           "title": "一句話，把 Claude Code 會話記憶搬到 Codex，品質不打折",
           "url": "https://www.youtube.com/watch?v=4iIS0POVYU0",
           "published": "2026-08-23",
-          "age": "4 days ago",
+          "age": "5 days ago",
           "is_new_today": false
         },
         {
@@ -262,8 +262,8 @@
           "title": "Loop Engineering 是什麼？開發人員居然不愛最強模型？｜泛科學院",
           "url": "https://www.youtube.com/watch?v=Lglem0O9mjQ",
           "published": "2026-08-27",
-          "age": "Today",
-          "is_new_today": true
+          "age": "1 day ago",
+          "is_new_today": false
         },
         {
           "title": "八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？",
@@ -301,37 +301,37 @@
       "url": "https://www.youtube.com/@YAHAClass/featured",
       "videos": [
         {
+          "title": "官方新版MCP Server开发指南：我实测5分钟从零接入Claude，新手必看",
+          "url": "https://www.youtube.com/watch?v=-C6K3wtjjoI",
+          "published": "2026-08-27",
+          "age": "1 day ago",
+          "is_new_today": false
+        },
+        {
           "title": "AI视频角色一致性总是崩？Flova+Seedance 2.5一镜到底，30秒零崩坏实测",
           "url": "https://www.youtube.com/watch?v=ahb8kfsZmIk",
           "published": "2026-08-26",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
           "title": "ClaudeCode 额度两天见底？每按一次回车，你都在为旧账全额付费 附解决方案",
           "url": "https://www.youtube.com/watch?v=yrnGrdPZx_U",
           "published": "2026-08-24",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
           "title": "你以为Fable 5降智了？我实测在ClaudeCode加一行设置，AI瞬间说人话",
           "url": "https://www.youtube.com/watch?v=nlNDzop6tBw",
           "published": "2026-08-22",
-          "age": "5 days ago",
+          "age": "6 days ago",
           "is_new_today": false
         },
         {
           "title": "你每月交 20 美元，Claude 藏得最深的 9 个隐藏设置你居然从来没打开过？",
           "url": "https://www.youtube.com/watch?v=Wq1icAZYr4E",
           "published": "2026-08-19",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Claude Code 加1行代码防护全废？我实测65条默认规则消失，千万别乱抄配置",
-          "url": "https://www.youtube.com/watch?v=XW2pikSTxPg",
-          "published": "2026-08-14",
           "age": "1 week ago",
           "is_new_today": false
         }
