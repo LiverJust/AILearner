@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-08-28 23:43 HKT*
+*Last updated: 2026-08-29 08:11 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -19,10 +19,10 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [AI模型會過時，但這套AI個人檔案可以一直用！](https://www.youtube.com/watch?v=2-8xsEk8iP4) | 6 days ago |
-| 2 | [Claude Design 2.0 迎來重大升級\|10分鐘掌握](https://www.youtube.com/watch?v=XjovI-SAI1E) | 1 week ago |
-| 3 | [零基礎20分鐘學會Obsidian 95%功能！](https://www.youtube.com/watch?v=NIhT5pd4Znc) | 2 weeks ago |
-| 4 | [未來一年，這6個 AI Agent 趨勢會徹底改變你的工作方式！](https://www.youtube.com/watch?v=0-Rr2iho6CI) | 3 weeks ago |
+| 1 | [AI模型會過時，但這套AI個人檔案可以一直用！](https://www.youtube.com/watch?v=2-8xsEk8iP4) | 1 week ago |
+| 2 | [Claude Design 2.0 迎來重大升級\|10分鐘掌握](https://www.youtube.com/watch?v=XjovI-SAI1E) | 2 weeks ago |
+| 3 | [零基礎20分鐘學會Obsidian 95%功能！](https://www.youtube.com/watch?v=NIhT5pd4Znc) | 3 weeks ago |
+| 4 | [未來一年，這6個 AI Agent 趨勢會徹底改變你的工作方式！](https://www.youtube.com/watch?v=0-Rr2iho6CI) | 4 weeks ago |
 | 5 | [Claude Cowork並不複雜: 14個核心概念一次講清！](https://www.youtube.com/watch?v=2emjLP-i51Y) | 1 month ago |
 
 ### 我想用Ai賺錢 · [@我想用Ai賺錢](https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos)
@@ -39,9 +39,9 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [我開發了這個 3D 體感賽車遊戲](https://www.youtube.com/watch?v=42RCV9eetZc) | Today |
-| 2 | [我即時訂閱月費 Plan \| 多模態、1M 上下文、320B 參數 \| GLM-5.3-Flash 登場！](https://www.youtube.com/watch?v=aGf8AXS4OYE) | 1 day ago |
-| 3 | [DeepSeek Harness 串接 WhatsApp 、自訂 Claude MCP 打造 AI 知識庫、告別傳統 RAG！](https://www.youtube.com/watch?v=5-NlUPi28_M) | 2 days ago |
+| 1 | [我開發了這個 3D 體感賽車遊戲](https://www.youtube.com/watch?v=42RCV9eetZc) | 1 day ago |
+| 2 | [我即時訂閱月費 Plan \|  多模態、1M 上下文、320B 參數 \| GLM-5.3-Flash 登場！](https://www.youtube.com/watch?v=aGf8AXS4OYE) | 2 days ago |
+| 3 | [DeepSeek Harness 串接 WhatsApp 、自訂 Claude MCP 打造 AI 知識庫、告別傳統 RAG！](https://www.youtube.com/watch?v=5-NlUPi28_M) | 3 days ago |
 | 4 | [我做了這個 Plugin 開源給大家試用 \| DeepSeek Harness 實測](https://www.youtube.com/watch?v=I_qbPz4Psfg) | 1 week ago |
 | 5 | [GPT vs Claude 長達 50 回合的社會演化紀錄：外交談判與資源戰爭！](https://www.youtube.com/watch?v=ks0c0XazeWU) | 1 week ago |
 
@@ -59,7 +59,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [一句話，把 Claude Code 會話記憶搬到 Codex，品質不打折](https://www.youtube.com/watch?v=4iIS0POVYU0) | 5 days ago |
+| 1 | [一句話，把 Claude Code 會話記憶搬到 Codex，品質不打折](https://www.youtube.com/watch?v=4iIS0POVYU0) | 6 days ago |
 | 2 | [3個步驟，從0打造你的AI儀表板](https://www.youtube.com/watch?v=grYI7jaSpxg) | 1 month ago |
 | 3 | [Claude + LINE: 團購整單系統替你每週解放10+ 小時](https://www.youtube.com/watch?v=kxt_7hjAU1o) | 1 month ago |
 | 4 | [你還在手動刷104人力銀行找工作？Claude 10 分鐘幫你全自動化](https://www.youtube.com/watch?v=EfiMXx6qiw4) | 2 months ago |
@@ -69,7 +69,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Loop Engineering 是什麼？開發人員居然不愛最強模型？\|泛科學院](https://www.youtube.com/watch?v=Lglem0O9mjQ) | 1 day ago |
+| 1 | [Loop Engineering 是什麼？開發人員居然不愛最強模型？\|泛科學院](https://www.youtube.com/watch?v=Lglem0O9mjQ) | 2 days ago |
 | 2 | [八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？](https://www.youtube.com/watch?v=jnoMPfg1N5Y) | 1 week ago |
 | 3 | [免費版ChatGPT、Gemini、Claude 誰作筆記最強？\|泛科學院 #claude #chatgpt #智慧工廠](https://www.youtube.com/watch?v=Y7baIBKWFMg) | 2 weeks ago |
 | 4 | [NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！\|泛科學院](https://www.youtube.com/watch?v=VE4-2AkCzJ8) | 2 weeks ago |
@@ -79,10 +79,10 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [官方新版MCP Server开发指南：我实测5分钟从零接入Claude，新手必看](https://www.youtube.com/watch?v=-C6K3wtjjoI) | 1 day ago |
-| 2 | [AI视频角色一致性总是崩？Flova+Seedance 2.5一镜到底，30秒零崩坏实测](https://www.youtube.com/watch?v=ahb8kfsZmIk) | 2 days ago |
-| 3 | [ClaudeCode 额度两天见底？每按一次回车，你都在为旧账全额付费 附解决方案](https://www.youtube.com/watch?v=yrnGrdPZx_U) | 4 days ago |
-| 4 | [你以为Fable 5降智了？我实测在ClaudeCode加一行设置，AI瞬间说人话](https://www.youtube.com/watch?v=nlNDzop6tBw) | 6 days ago |
+| 1 | [官方新版MCP Server开发指南：我实测5分钟从零接入Claude，新手必看](https://www.youtube.com/watch?v=-C6K3wtjjoI) | 2 days ago |
+| 2 | [AI视频角色一致性总是崩？Flova+Seedance 2.5一镜到底，30秒零崩坏实测](https://www.youtube.com/watch?v=ahb8kfsZmIk) | 3 days ago |
+| 3 | [ClaudeCode 额度两天见底？每按一次回车，你都在为旧账全额付费 附解决方案](https://www.youtube.com/watch?v=yrnGrdPZx_U) | 5 days ago |
+| 4 | [你以为Fable 5降智了？我实测在ClaudeCode加一行设置，AI瞬间说人话](https://www.youtube.com/watch?v=nlNDzop6tBw) | 1 week ago |
 | 5 | [你每月交 20 美元，Claude 藏得最深的 9 个隐藏设置你居然从来没打开过？](https://www.youtube.com/watch?v=Wq1icAZYr4E) | 1 week ago |
 
 ---
