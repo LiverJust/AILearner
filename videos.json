@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-01 22:21 HKT",
+  "last_updated": "2026-09-02 02:55 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -263,14 +263,14 @@
           "url": "https://www.youtube.com/watch?v=5KvoT8EQfkc",
           "published": "2026-09-01",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "Grok 快打敗Gemini？",
           "url": "https://www.youtube.com/watch?v=wwSKBDuwuJo",
           "published": "2026-09-01",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "Claude 直接住進你的瀏覽器？",
