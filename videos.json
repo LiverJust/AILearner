@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02 21:54 HKT",
+  "last_updated": "2026-09-03 03:00 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "我參加了 WebMCP 比賽，開源一個智能眼鏡系統",
+          "url": "https://www.youtube.com/watch?v=HdhuzYXTZqo",
+          "published": "2026-09-02",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "廣東話 AI 即時翻譯＋懸浮字幕，ZOOM 開會 / 現場演講必用",
           "url": "https://www.youtube.com/watch?v=X9Jo2rtjDyc",
           "published": "2026-08-29",
@@ -157,13 +164,6 @@
           "title": "DeepSeek Harness 串接 WhatsApp 、自訂 Claude MCP 打造 AI 知識庫、告別傳統 RAG！",
           "url": "https://www.youtube.com/watch?v=5-NlUPi28_M",
           "published": "2026-08-26",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "我做了這個 Plugin 開源給大家試用 | DeepSeek Harness 實測",
-          "url": "https://www.youtube.com/watch?v=I_qbPz4Psfg",
-          "published": "2026-08-21",
           "age": "1 week ago",
           "is_new_today": false
         }

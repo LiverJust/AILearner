@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-09-02 21:54 HKT*
+*Last updated: 2026-09-03 03:00 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [廣東話 AI 即時翻譯＋懸浮字幕，ZOOM 開會 / 現場演講必用](https://www.youtube.com/watch?v=X9Jo2rtjDyc) | 4 days ago |
-| 2 | [我開發了這個 3D 體感賽車遊戲](https://www.youtube.com/watch?v=42RCV9eetZc) | 5 days ago |
-| 3 | [我即時訂閱月費 Plan \|  多模態、1M 上下文、320B 參數 \| GLM-5.3-Flash 登場！](https://www.youtube.com/watch?v=aGf8AXS4OYE) | 6 days ago |
-| 4 | [DeepSeek Harness 串接 WhatsApp 、自訂 Claude MCP 打造 AI 知識庫、告別傳統 RAG！](https://www.youtube.com/watch?v=5-NlUPi28_M) | 1 week ago |
-| 5 | [我做了這個 Plugin 開源給大家試用 \| DeepSeek Harness 實測](https://www.youtube.com/watch?v=I_qbPz4Psfg) | 1 week ago |
+| 1 | [我參加了 WebMCP 比賽，開源一個智能眼鏡系統](https://www.youtube.com/watch?v=HdhuzYXTZqo) | Today |
+| 2 | [廣東話 AI 即時翻譯＋懸浮字幕，ZOOM 開會 / 現場演講必用](https://www.youtube.com/watch?v=X9Jo2rtjDyc) | 4 days ago |
+| 3 | [我開發了這個 3D 體感賽車遊戲](https://www.youtube.com/watch?v=42RCV9eetZc) | 5 days ago |
+| 4 | [我即時訂閱月費 Plan \|  多模態、1M 上下文、320B 參數 \| GLM-5.3-Flash 登場！](https://www.youtube.com/watch?v=aGf8AXS4OYE) | 6 days ago |
+| 5 | [DeepSeek Harness 串接 WhatsApp 、自訂 Claude MCP 打造 AI 知識庫、告別傳統 RAG！](https://www.youtube.com/watch?v=5-NlUPi28_M) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
