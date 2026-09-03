@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-03 16:20 HKT",
+  "last_updated": "2026-09-03 21:57 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "Meta 最新 AI 竟然超越 GPT-5.6？Gemini 3.8 Flash 對決 Meta Muse Spark 1.3！",
+          "url": "https://www.youtube.com/watch?v=3pFzcIOpZAM",
+          "published": "2026-09-03",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "我參加了 WebMCP 比賽，開源一個智能眼鏡系統",
           "url": "https://www.youtube.com/watch?v=HdhuzYXTZqo",
           "published": "2026-09-02",
@@ -157,13 +164,6 @@
           "title": "我即時訂閱月費 Plan | 多模態、1M 上下文、320B 參數 | GLM-5.3-Flash 登場！",
           "url": "https://www.youtube.com/watch?v=aGf8AXS4OYE",
           "published": "2026-08-27",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "DeepSeek Harness 串接 WhatsApp 、自訂 Claude MCP 打造 AI 知識庫、告別傳統 RAG！",
-          "url": "https://www.youtube.com/watch?v=5-NlUPi28_M",
-          "published": "2026-08-26",
           "age": "1 week ago",
           "is_new_today": false
         }
@@ -259,6 +259,13 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
+          "title": "付費版Claude、ChatGPT、Gemini 到底怎麼選？誰才是最適合我的AI工具？｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=jpsI5hNXdKg",
+          "published": "2026-09-03",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "Loop Engineering 是什麼？開發人員居然不愛最強模型？｜泛科學院",
           "url": "https://www.youtube.com/watch?v=Lglem0O9mjQ",
           "published": "2026-08-27",
@@ -284,13 +291,6 @@
           "url": "https://www.youtube.com/watch?v=y7mFMDxc1VM",
           "published": "2026-08-06",
           "age": "4 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Gemini 又更強了？Gemini in Workspace 4大功能新功能介紹！上班族一定用的到！｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=lR-sVrqMBxs",
-          "published": "2026-07-30",
-          "age": "1 month ago",
           "is_new_today": false
         }
       ]

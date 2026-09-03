@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-09-03 16:20 HKT*
+*Last updated: 2026-09-03 21:57 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [我參加了 WebMCP 比賽，開源一個智能眼鏡系統](https://www.youtube.com/watch?v=HdhuzYXTZqo) | 1 day ago |
-| 2 | [廣東話 AI 即時翻譯＋懸浮字幕，ZOOM 開會 / 現場演講必用](https://www.youtube.com/watch?v=X9Jo2rtjDyc) | 5 days ago |
-| 3 | [我開發了這個 3D 體感賽車遊戲](https://www.youtube.com/watch?v=42RCV9eetZc) | 6 days ago |
-| 4 | [我即時訂閱月費 Plan \| 多模態、1M 上下文、320B 參數 \| GLM-5.3-Flash 登場！](https://www.youtube.com/watch?v=aGf8AXS4OYE) | 1 week ago |
-| 5 | [DeepSeek Harness 串接 WhatsApp 、自訂 Claude MCP 打造 AI 知識庫、告別傳統 RAG！](https://www.youtube.com/watch?v=5-NlUPi28_M) | 1 week ago |
+| 1 | [Meta 最新 AI 竟然超越 GPT-5.6？Gemini 3.8 Flash 對決 Meta Muse Spark 1.3！](https://www.youtube.com/watch?v=3pFzcIOpZAM) | Today |
+| 2 | [我參加了 WebMCP 比賽，開源一個智能眼鏡系統](https://www.youtube.com/watch?v=HdhuzYXTZqo) | 1 day ago |
+| 3 | [廣東話 AI 即時翻譯＋懸浮字幕，ZOOM 開會 / 現場演講必用](https://www.youtube.com/watch?v=X9Jo2rtjDyc) | 5 days ago |
+| 4 | [我開發了這個 3D 體感賽車遊戲](https://www.youtube.com/watch?v=42RCV9eetZc) | 6 days ago |
+| 5 | [我即時訂閱月費 Plan \| 多模態、1M 上下文、320B 參數 \| GLM-5.3-Flash 登場！](https://www.youtube.com/watch?v=aGf8AXS4OYE) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -69,11 +69,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Loop Engineering 是什麼？開發人員居然不愛最強模型？\|泛科學院](https://www.youtube.com/watch?v=Lglem0O9mjQ) | 1 week ago |
-| 2 | [八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？](https://www.youtube.com/watch?v=jnoMPfg1N5Y) | 2 weeks ago |
-| 3 | [NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！\|泛科學院](https://www.youtube.com/watch?v=VE4-2AkCzJ8) | 3 weeks ago |
-| 4 | [AI工具怎麼選？AI 免費版大評比！ChatGPT、Gemini、Claude 該選誰？5 大情境實測全公開\|泛科學院](https://www.youtube.com/watch?v=y7mFMDxc1VM) | 4 weeks ago |
-| 5 | [Gemini 又更強了？Gemini in Workspace 4大功能新功能介紹！上班族一定用的到！\|泛科學院](https://www.youtube.com/watch?v=lR-sVrqMBxs) | 1 month ago |
+| 1 | [付費版Claude、ChatGPT、Gemini 到底怎麼選？誰才是最適合我的AI工具？\|泛科學院](https://www.youtube.com/watch?v=jpsI5hNXdKg) | Today |
+| 2 | [Loop Engineering 是什麼？開發人員居然不愛最強模型？\|泛科學院](https://www.youtube.com/watch?v=Lglem0O9mjQ) | 1 week ago |
+| 3 | [八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？](https://www.youtube.com/watch?v=jnoMPfg1N5Y) | 2 weeks ago |
+| 4 | [NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！\|泛科學院](https://www.youtube.com/watch?v=VE4-2AkCzJ8) | 3 weeks ago |
+| 5 | [AI工具怎麼選？AI 免費版大評比！ChatGPT、Gemini、Claude 該選誰？5 大情境實測全公開\|泛科學院](https://www.youtube.com/watch?v=y7mFMDxc1VM) | 4 weeks ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
