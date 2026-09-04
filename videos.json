@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04 21:49 HKT",
+  "last_updated": "2026-09-05 02:37 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -11,7 +11,7 @@
           "url": "https://www.youtube.com/watch?v=U7M09LY7J8s",
           "published": "2026-09-04",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "你其實可以不用上班！走了10年彎道才明白的事情，希望你現在就知道！當全世界都叫我努力時，我卻選擇辭職，一部片傾囊相授，無論你是上班族還是想做自媒體都必知...",
@@ -95,7 +95,7 @@
           "url": "https://www.youtube.com/watch?v=6NHo--3kHLw",
           "published": "2026-09-04",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "Google AI 發生緊咩事？一邊核心人材大洗牌，一邊多個AI新功能推出！Gemini Spark 登陸香港 #googleai #geminispark #AI新聞 #廣東話 #香港AI",
