@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-09-04 16:15 HKT",
+  "last_updated": "2026-09-04 21:49 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
       "handle": "@Teacher_Kong",
       "url": "https://www.youtube.com/@Teacher_Kong/videos",
       "videos": [
+        {
+          "title": "一人動畫公司不是夢！AI動畫完整製作流程大公開～從發想到影片生成一條龍教學，免費啟動你的賺錢副業｜OiiOii超詳細講解",
+          "url": "https://www.youtube.com/watch?v=U7M09LY7J8s",
+          "published": "2026-09-04",
+          "age": "Today",
+          "is_new_today": true
+        },
         {
           "title": "你其實可以不用上班！走了10年彎道才明白的事情，希望你現在就知道！當全世界都叫我努力時，我卻選擇辭職，一部片傾囊相授，無論你是上班族還是想做自媒體都必知...",
           "url": "https://www.youtube.com/watch?v=AnDkGkI2l4w",
@@ -32,13 +39,6 @@
           "url": "https://www.youtube.com/watch?v=S3m56h6eJ14",
           "published": "2026-07-14",
           "age": "1 month ago",
-          "is_new_today": false
-        },
-        {
-          "title": "別再亂裝Skills了！我試用了100多個，真正離不開的只有這10個！免費、0門檻、不用寫程式，充分發揮Codex和Claude全部潛能的終極指南，看完直接領先99%的人！",
-          "url": "https://www.youtube.com/watch?v=e-9zHHzGM3k",
-          "published": "2026-06-18",
-          "age": "2 months ago",
           "is_new_today": false
         }
       ]
@@ -91,6 +91,13 @@
       "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
       "videos": [
         {
+          "title": "Hermes Agent 實戰：18分鐘教你用免費AI模型製作CRM系統 #廣東話 #AI實戰 #AI應用教學 #香港AI #HermesAgent #免費AI工具 #CRM系統",
+          "url": "https://www.youtube.com/watch?v=6NHo--3kHLw",
+          "published": "2026-09-04",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "Google AI 發生緊咩事？一邊核心人材大洗牌，一邊多個AI新功能推出！Gemini Spark 登陸香港 #googleai #geminispark #AI新聞 #廣東話 #香港AI",
           "url": "https://www.youtube.com/watch?v=1Rfxm9Gr20g",
           "published": "2026-08-14",
@@ -116,13 +123,6 @@
           "url": "https://www.youtube.com/watch?v=OkFmCO6rJZs",
           "published": "2026-07-10",
           "age": "1 month ago",
-          "is_new_today": false
-        },
-        {
-          "title": "香港街道變成賭場？夾公仔機爆增10倍！香港背後的經濟危機大揭秘 #賺錢係咁傾 #香港經濟 #香港營商 #廣東話 #podcast #夾公仔機 #彈珠機 #我想用ai賺錢 #香港經...",
-          "url": "https://www.youtube.com/watch?v=38t244Nuceg",
-          "published": "2026-07-03",
-          "age": "2 months ago",
           "is_new_today": false
         }
       ]
