@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05 15:53 HKT",
+  "last_updated": "2026-09-05 21:04 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -98,6 +98,13 @@
           "is_new_today": false
         },
         {
+          "title": "Google AI 人材真係走晒？兩個月走咗幾多AI大神？ #Shorts #短影片 #GoogleAI #Gemini #GeminiSpark #ai工具 #廣東話 #我想用AI賺錢",
+          "url": "https://www.youtube.com/watch?v=BNsJQj0ScRA",
+          "published": "2026-08-19",
+          "age": "2 weeks ago",
+          "is_new_today": false
+        },
+        {
           "title": "Google AI 發生緊咩事？一邊核心人材大洗牌，一邊多個AI新功能推出！Gemini Spark 登陸香港 #googleai #geminispark #AI新聞 #廣東話 #香港AI",
           "url": "https://www.youtube.com/watch?v=1Rfxm9Gr20g",
           "published": "2026-08-14",
@@ -112,16 +119,9 @@
           "is_new_today": false
         },
         {
-          "title": "#ChatGPT 新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學",
+          "title": "#ChatGPT  新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學",
           "url": "https://www.youtube.com/watch?v=MfZXYnfDA8w",
           "published": "2026-07-17",
-          "age": "1 month ago",
-          "is_new_today": false
-        },
-        {
-          "title": "真 · AI影片Agent：新手唔洗識剪片做出完美爆片 ｜ Flova AI 實測：Agent＋Skills＋Timeline 全流程教學 #FlovaAI #AI影片Agent #AI工具",
-          "url": "https://www.youtube.com/watch?v=OkFmCO6rJZs",
-          "published": "2026-07-10",
           "age": "1 month ago",
           "is_new_today": false
         }
@@ -161,7 +161,7 @@
           "is_new_today": false
         },
         {
-          "title": "我即時訂閱月費 Plan | 多模態、1M 上下文、320B 參數 | GLM-5.3-Flash 登場！",
+          "title": "我即時訂閱月費 Plan |  多模態、1M 上下文、320B 參數 | GLM-5.3-Flash 登場！",
           "url": "https://www.youtube.com/watch?v=aGf8AXS4OYE",
           "published": "2026-08-27",
           "age": "1 week ago",
@@ -266,31 +266,31 @@
           "is_new_today": false
         },
         {
-          "title": "Loop Engineering 是什麼？開發人員居然不愛最強模型？｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=Lglem0O9mjQ",
-          "published": "2026-08-27",
-          "age": "1 week ago",
+          "title": "AI履歷滿天飛！HR 科技應用專家親自告訴你  如何用AI尋找正確的人才？ft. 鄭智維 Wesley｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=5KvoT8EQfkc",
+          "published": "2026-09-01",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
-          "title": "八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？",
-          "url": "https://www.youtube.com/watch?v=jnoMPfg1N5Y",
-          "published": "2026-08-20",
-          "age": "2 weeks ago",
+          "title": "Grok 快打敗Gemini？",
+          "url": "https://www.youtube.com/watch?v=wwSKBDuwuJo",
+          "published": "2026-09-01",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
-          "title": "NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=VE4-2AkCzJ8",
-          "published": "2026-08-13",
-          "age": "3 weeks ago",
+          "title": "Claude 直接住進你的瀏覽器？",
+          "url": "https://www.youtube.com/watch?v=WvtK8sZlaYQ",
+          "published": "2026-08-31",
+          "age": "5 days ago",
           "is_new_today": false
         },
         {
-          "title": "AI工具怎麼選？AI 免費版大評比！ChatGPT、Gemini、Claude 該選誰？5 大情境實測全公開｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=y7mFMDxc1VM",
-          "published": "2026-08-06",
-          "age": "1 month ago",
+          "title": "ChatGPT 又變得更強大了？",
+          "url": "https://www.youtube.com/watch?v=obgQHPYadAc",
+          "published": "2026-08-30",
+          "age": "6 days ago",
           "is_new_today": false
         }
       ]

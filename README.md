@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-09-05 15:53 HKT*
+*Last updated: 2026-09-05 21:04 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -30,10 +30,10 @@
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [Hermes Agent 實戰：18分鐘教你用免費AI模型製作CRM系統 #廣東話 #AI實戰 #AI應用教學 #香港AI #HermesAgent #免費AI工具 #CRM系統](https://www.youtube.com/watch?v=6NHo--3kHLw) | 1 day ago |
-| 2 | [Google AI 發生緊咩事？一邊核心人材大洗牌，一邊多個AI新功能推出！Gemini Spark 登陸香港 #googleai #geminispark #AI新聞 #廣東話 #香港AI](https://www.youtube.com/watch?v=1Rfxm9Gr20g) | 3 weeks ago |
-| 3 | [大癲！我做一次，#Codex 就學識？Record & Replay 實測：自動入數＋上載 IG Reels #AI自動化 #ChatGPT #Record&Replay #廣東話 #香港AI教學](https://www.youtube.com/watch?v=IReQuIvKqnY) | 1 month ago |
-| 4 | [#ChatGPT 新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學](https://www.youtube.com/watch?v=MfZXYnfDA8w) | 1 month ago |
-| 5 | [真 · AI影片Agent：新手唔洗識剪片做出完美爆片 \| Flova AI 實測：Agent＋Skills＋Timeline 全流程教學 #FlovaAI #AI影片Agent #AI工具](https://www.youtube.com/watch?v=OkFmCO6rJZs) | 1 month ago |
+| 2 | [Google AI 人材真係走晒？兩個月走咗幾多AI大神？ #Shorts #短影片 #GoogleAI #Gemini #GeminiSpark #ai工具 #廣東話 #我想用AI賺錢](https://www.youtube.com/watch?v=BNsJQj0ScRA) | 2 weeks ago |
+| 3 | [Google AI 發生緊咩事？一邊核心人材大洗牌，一邊多個AI新功能推出！Gemini Spark 登陸香港 #googleai #geminispark #AI新聞 #廣東話 #香港AI](https://www.youtube.com/watch?v=1Rfxm9Gr20g) | 3 weeks ago |
+| 4 | [大癲！我做一次，#Codex 就學識？Record & Replay 實測：自動入數＋上載 IG Reels #AI自動化 #ChatGPT #Record&Replay #廣東話 #香港AI教學](https://www.youtube.com/watch?v=IReQuIvKqnY) | 1 month ago |
+| 5 | [#ChatGPT  新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學](https://www.youtube.com/watch?v=MfZXYnfDA8w) | 1 month ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
@@ -43,7 +43,7 @@
 | 2 | [我參加了 WebMCP 比賽，開源一個智能眼鏡系統](https://www.youtube.com/watch?v=HdhuzYXTZqo) | 3 days ago |
 | 3 | [廣東話 AI 即時翻譯＋懸浮字幕，ZOOM 開會 / 現場演講必用](https://www.youtube.com/watch?v=X9Jo2rtjDyc) | 1 week ago |
 | 4 | [我開發了這個 3D 體感賽車遊戲](https://www.youtube.com/watch?v=42RCV9eetZc) | 1 week ago |
-| 5 | [我即時訂閱月費 Plan \| 多模態、1M 上下文、320B 參數 \| GLM-5.3-Flash 登場！](https://www.youtube.com/watch?v=aGf8AXS4OYE) | 1 week ago |
+| 5 | [我即時訂閱月費 Plan \|  多模態、1M 上下文、320B 參數 \| GLM-5.3-Flash 登場！](https://www.youtube.com/watch?v=aGf8AXS4OYE) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -70,10 +70,10 @@
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [付費版Claude、ChatGPT、Gemini 到底怎麼選？誰才是最適合我的AI工具？\|泛科學院](https://www.youtube.com/watch?v=jpsI5hNXdKg) | 2 days ago |
-| 2 | [Loop Engineering 是什麼？開發人員居然不愛最強模型？\|泛科學院](https://www.youtube.com/watch?v=Lglem0O9mjQ) | 1 week ago |
-| 3 | [八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？](https://www.youtube.com/watch?v=jnoMPfg1N5Y) | 2 weeks ago |
-| 4 | [NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！\|泛科學院](https://www.youtube.com/watch?v=VE4-2AkCzJ8) | 3 weeks ago |
-| 5 | [AI工具怎麼選？AI 免費版大評比！ChatGPT、Gemini、Claude 該選誰？5 大情境實測全公開\|泛科學院](https://www.youtube.com/watch?v=y7mFMDxc1VM) | 1 month ago |
+| 2 | [AI履歷滿天飛！HR 科技應用專家親自告訴你  如何用AI尋找正確的人才？ft. 鄭智維 Wesley\|泛科學院](https://www.youtube.com/watch?v=5KvoT8EQfkc) | 4 days ago |
+| 3 | [Grok 快打敗Gemini？](https://www.youtube.com/watch?v=wwSKBDuwuJo) | 4 days ago |
+| 4 | [Claude 直接住進你的瀏覽器？](https://www.youtube.com/watch?v=WvtK8sZlaYQ) | 5 days ago |
+| 5 | [ChatGPT 又變得更強大了？](https://www.youtube.com/watch?v=obgQHPYadAc) | 6 days ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
