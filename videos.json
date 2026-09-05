@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05 21:04 HKT",
+  "last_updated": "2026-09-06 01:45 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -14,28 +14,28 @@
           "is_new_today": false
         },
         {
-          "title": "你其實可以不用上班！走了10年彎道才明白的事情，希望你現在就知道！當全世界都叫我努力時，我卻選擇辭職，一部片傾囊相授，無論你是上班族還是想做自媒體都必知...",
+          "title": "你其實可以不用上班！走了10年彎道才明白的事情，希望你現在就知道！當全世界都叫我努力時，我卻選擇辭職，一部片傾囊相授，無論你是上班族還是想做自媒體都必知，這部片能把我的遺憾，變成你的捷徑！",
           "url": "https://www.youtube.com/watch?v=AnDkGkI2l4w",
           "published": "2026-08-14",
           "age": "3 weeks ago",
           "is_new_today": false
         },
         {
-          "title": "2026年最重大的AI更新來了！NotebookLM正式改名Gemini Notebook，Google最強AI筆記本到底怎麼用？全新升級用法+隱藏用法一次公開，建立任何格式檔案+多模態輸出...",
+          "title": "2026年最重大的AI更新來了！NotebookLM正式改名Gemini Notebook，Google最強AI筆記本到底怎麼用？全新升級用法+隱藏用法一次公開，建立任何格式檔案+多模態輸出！",
           "url": "https://www.youtube.com/watch?v=s01HbQwG32U",
           "published": "2026-08-05",
           "age": "1 month ago",
           "is_new_today": false
         },
         {
-          "title": "只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十...",
+          "title": "只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十個？",
           "url": "https://www.youtube.com/watch?v=BFqFs9mh_S4",
           "published": "2026-07-17",
           "age": "1 month ago",
           "is_new_today": false
         },
         {
-          "title": "Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結...",
+          "title": "Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結…",
           "url": "https://www.youtube.com/watch?v=S3m56h6eJ14",
           "published": "2026-07-14",
           "age": "1 month ago",
@@ -53,7 +53,7 @@
           "url": "https://www.youtube.com/watch?v=IVxZ0-3C5Wg",
           "published": "2026-09-05",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "20分鐘構建AI第二大腦知識庫【Codex + Obsidian詳細步驟】",
