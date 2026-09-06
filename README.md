@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-09-06 16:09 HKT*
+*Last updated: 2026-09-06 21:13 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -69,7 +69,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [付費版Claude、ChatGPT、Gemini 到底怎麼選？誰才是最適合我的AI工具？\|泛科學院](https://www.youtube.com/watch?v=jpsI5hNXdKg) | 3 days ago |
+| 1 | [AI訂閱費好貴！每個月只選一家可以選誰？真 付費版AI評比！](https://www.youtube.com/watch?v=jpsI5hNXdKg) | 3 days ago |
 | 2 | [Loop Engineering 是什麼？開發人員居然不愛最強模型？\|泛科學院](https://www.youtube.com/watch?v=Lglem0O9mjQ) | 1 week ago |
 | 3 | [八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？](https://www.youtube.com/watch?v=jnoMPfg1N5Y) | 2 weeks ago |
 | 4 | [NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！\|泛科學院](https://www.youtube.com/watch?v=VE4-2AkCzJ8) | 3 weeks ago |
