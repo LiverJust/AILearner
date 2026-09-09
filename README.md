@@ -3,17 +3,17 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-09-09 16:25 HKT*
+*Last updated: 2026-09-09 21:59 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [一人動畫公司不是夢！AI動畫完整製作流程大公開～從發想到影片生成一條龍教學，免費啟動你的賺錢副業\|OiiOii超詳細講解](https://www.youtube.com/watch?v=U7M09LY7J8s) | 5 days ago |
-| 2 | [你其實可以不用上班！走了10年彎道才明白的事情，希望你現在就知道！當全世界都叫我努力時，我卻選擇辭職，一部片傾囊相授，無論你是上班族還是想做自媒體都必知...](https://www.youtube.com/watch?v=AnDkGkI2l4w) | 3 weeks ago |
-| 3 | [2026年最重大的AI更新來了！NotebookLM正式改名Gemini Notebook，Google最強AI筆記本到底怎麼用？全新升級用法+隱藏用法一次公開，建立任何格式檔案+多模態輸出...](https://www.youtube.com/watch?v=s01HbQwG32U) | 1 month ago |
-| 4 | [只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十...](https://www.youtube.com/watch?v=BFqFs9mh_S4) | 1 month ago |
-| 5 | [Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結...](https://www.youtube.com/watch?v=S3m56h6eJ14) | 1 month ago |
+| 1 | [1個人+AI＝AI賺錢新思路！我用AI做了一個自動化系統！我只說了一句話，AI自動找選題、生成內容、建立Agent，把整個專案做完了！把整個過程錄成這個影片，非工程師也能上手的AI助理教學！](https://www.youtube.com/watch?v=qEC58aaz7Es) | Today |
+| 2 | [一人動畫公司不是夢！AI動畫完整製作流程大公開～從發想到影片生成一條龍教學，免費啟動你的賺錢副業\|OiiOii超詳細講解](https://www.youtube.com/watch?v=U7M09LY7J8s) | 5 days ago |
+| 3 | [你其實可以不用上班！走了10年彎道才明白的事情，希望你現在就知道！當全世界都叫我努力時，我卻選擇辭職，一部片傾囊相授，無論你是上班族還是想做自媒體都必知，這部片能把我的遺憾，變成你的捷徑！](https://www.youtube.com/watch?v=AnDkGkI2l4w) | 3 weeks ago |
+| 4 | [2026年最重大的AI更新來了！NotebookLM正式改名Gemini Notebook，Google最強AI筆記本到底怎麼用？全新升級用法+隱藏用法一次公開，建立任何格式檔案+多模態輸出！](https://www.youtube.com/watch?v=s01HbQwG32U) | 1 month ago |
+| 5 | [只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十個？](https://www.youtube.com/watch?v=BFqFs9mh_S4) | 1 month ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
 
@@ -29,21 +29,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Hermes Agent 實戰：18分鐘教你用免費AI模型製作CRM系統 #廣東話 #AI實戰 #AI應用教學 #香港AI #HermesAgent #免費AI工具 #CRM系統](https://www.youtube.com/watch?v=6NHo--3kHLw) | 5 days ago |
-| 2 | [Google AI 發生緊咩事？一邊核心人材大洗牌，一邊多個AI新功能推出！Gemini Spark 登陸香港 #googleai #geminispark #AI新聞 #廣東話 #香港AI](https://www.youtube.com/watch?v=1Rfxm9Gr20g) | 3 weeks ago |
-| 3 | [大癲！我做一次，#Codex 就學識？Record & Replay 實測：自動入數＋上載 IG Reels #AI自動化 #ChatGPT #Record&Replay #廣東話 #香港AI教學](https://www.youtube.com/watch?v=IReQuIvKqnY) | 1 month ago |
-| 4 | [#ChatGPT 新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學](https://www.youtube.com/watch?v=MfZXYnfDA8w) | 1 month ago |
-| 5 | [真 · AI影片Agent：新手唔洗識剪片做出完美爆片 \| Flova AI 實測：Agent＋Skills＋Timeline 全流程教學 #FlovaAI #AI影片Agent #AI工具](https://www.youtube.com/watch?v=OkFmCO6rJZs) | 2 months ago |
+| 1 | [AI實戰技巧：我竟然用 Hermes Agent 加免費AI模型製作了一個CRM系統！#hermesagent #香港AI應用 #AI寫程式 #我想用AI賺錢  #ai工具 #免費AI工具 #AI助理](https://www.youtube.com/watch?v=UxsdZjxhQZ0) | Today |
+| 2 | [Hermes Agent 實戰：18分鐘教你用免費AI模型製作CRM系統 #廣東話 #AI實戰 #AI應用教學 #香港AI #HermesAgent #免費AI工具 #CRM系統](https://www.youtube.com/watch?v=6NHo--3kHLw) | 5 days ago |
+| 3 | [Google AI 人材真係走晒？兩個月走咗幾多AI大神？ #Shorts #短影片 #GoogleAI #Gemini #GeminiSpark #ai工具 #廣東話 #我想用AI賺錢](https://www.youtube.com/watch?v=BNsJQj0ScRA) | 3 weeks ago |
+| 4 | [Google AI 發生緊咩事？一邊核心人材大洗牌，一邊多個AI新功能推出！Gemini Spark 登陸香港 #googleai #geminispark #AI新聞 #廣東話 #香港AI](https://www.youtube.com/watch?v=1Rfxm9Gr20g) | 3 weeks ago |
+| 5 | [大癲！我做一次，#Codex 就學識？Record & Replay 實測：自動入數＋上載 IG Reels #AI自動化 #ChatGPT #Record&Replay #廣東話 #香港AI教學](https://www.youtube.com/watch?v=IReQuIvKqnY) | 1 month ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [GPT-6 實測操控 Mouse 自動填表＋網購，辦公室無 API 系統全自動化【AGI 降臨？】](https://www.youtube.com/watch?v=jILcU-lizPo) | 2 days ago |
-| 2 | [Meta 最新 AI 竟然超越 GPT-5.6？Gemini 3.8 Flash 對決 Meta Muse Spark 1.3！](https://www.youtube.com/watch?v=3pFzcIOpZAM) | 6 days ago |
-| 3 | [我參加了 WebMCP 比賽，開源一個智能眼鏡系統](https://www.youtube.com/watch?v=HdhuzYXTZqo) | 1 week ago |
-| 4 | [廣東話 AI 即時翻譯＋懸浮字幕，ZOOM 開會 / 現場演講必用](https://www.youtube.com/watch?v=X9Jo2rtjDyc) | 1 week ago |
-| 5 | [我開發了這個 3D 體感賽車遊戲](https://www.youtube.com/watch?v=42RCV9eetZc) | 1 week ago |
+| 1 | [用 AI 做 ERP 數據分析！NetSuite x Manus AI Agent 實測：自動查存貨、計資金、出圖表](https://www.youtube.com/watch?v=3mEOC-y69HU) | Today |
+| 2 | [GPT-6 實測操控 Mouse 自動填表＋網購，辦公室無 API 系統全自動化【AGI 降臨？】](https://www.youtube.com/watch?v=jILcU-lizPo) | 2 days ago |
+| 3 | [Meta 最新 AI 竟然超越 GPT-5.6？Gemini 3.8 Flash 對決 Meta Muse Spark 1.3！](https://www.youtube.com/watch?v=3pFzcIOpZAM) | 6 days ago |
+| 4 | [我參加了 WebMCP 比賽，開源一個智能眼鏡系統](https://www.youtube.com/watch?v=HdhuzYXTZqo) | 1 week ago |
+| 5 | [廣東話 AI 即時翻譯＋懸浮字幕，ZOOM 開會 / 現場演講必用](https://www.youtube.com/watch?v=X9Jo2rtjDyc) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -69,11 +69,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [AI訂閱費好貴！每個月只選一家可以選誰？真 付費版AI評比！](https://www.youtube.com/watch?v=jpsI5hNXdKg) | 6 days ago |
-| 2 | [Loop Engineering 是什麼？開發人員居然不愛最強模型？\|泛科學院](https://www.youtube.com/watch?v=Lglem0O9mjQ) | 1 week ago |
-| 3 | [八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？](https://www.youtube.com/watch?v=jnoMPfg1N5Y) | 2 weeks ago |
-| 4 | [NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！\|泛科學院](https://www.youtube.com/watch?v=VE4-2AkCzJ8) | 3 weeks ago |
-| 5 | [AI工具怎麼選？AI 免費版大評比！ChatGPT、Gemini、Claude 該選誰？5 大情境實測全公開\|泛科學院](https://www.youtube.com/watch?v=y7mFMDxc1VM) | 1 month ago |
+| 1 | [叫 ChatGPT 把蛋餅變精品廣告，結果它連蛋餅都改了😂\|泛科學院](https://www.youtube.com/watch?v=yYgacnZRKUQ) | Today |
+| 2 | [ChatGPT、Claude、Gemini 的 Deep Research，哪家報告最可信？](https://www.youtube.com/watch?v=FH-9jOSLdzg) | Today |
+| 3 | [AI訂閱費好貴！每個月只選一家可以選誰？真 付費版AI評比！](https://www.youtube.com/watch?v=jpsI5hNXdKg) | 6 days ago |
+| 4 | [AI履歷滿天飛！HR 科技應用專家親自告訴你  如何用AI尋找正確的人才？ft. 鄭智維 Wesley\|泛科學院](https://www.youtube.com/watch?v=5KvoT8EQfkc) | 1 week ago |
+| 5 | [Grok 快打敗Gemini？](https://www.youtube.com/watch?v=wwSKBDuwuJo) | 1 week ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 

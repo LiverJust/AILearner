@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-09-09 16:25 HKT",
+  "last_updated": "2026-09-09 21:59 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
       "handle": "@Teacher_Kong",
       "url": "https://www.youtube.com/@Teacher_Kong/videos",
       "videos": [
+        {
+          "title": "1個人+AI＝AI賺錢新思路！我用AI做了一個自動化系統！我只說了一句話，AI自動找選題、生成內容、建立Agent，把整個專案做完了！把整個過程錄成這個影片，非工程師也能上手的AI助理教學！",
+          "url": "https://www.youtube.com/watch?v=qEC58aaz7Es",
+          "published": "2026-09-09",
+          "age": "Today",
+          "is_new_today": true
+        },
         {
           "title": "一人動畫公司不是夢！AI動畫完整製作流程大公開～從發想到影片生成一條龍教學，免費啟動你的賺錢副業｜OiiOii超詳細講解",
           "url": "https://www.youtube.com/watch?v=U7M09LY7J8s",
@@ -14,30 +21,23 @@
           "is_new_today": false
         },
         {
-          "title": "你其實可以不用上班！走了10年彎道才明白的事情，希望你現在就知道！當全世界都叫我努力時，我卻選擇辭職，一部片傾囊相授，無論你是上班族還是想做自媒體都必知...",
+          "title": "你其實可以不用上班！走了10年彎道才明白的事情，希望你現在就知道！當全世界都叫我努力時，我卻選擇辭職，一部片傾囊相授，無論你是上班族還是想做自媒體都必知，這部片能把我的遺憾，變成你的捷徑！",
           "url": "https://www.youtube.com/watch?v=AnDkGkI2l4w",
           "published": "2026-08-14",
           "age": "3 weeks ago",
           "is_new_today": false
         },
         {
-          "title": "2026年最重大的AI更新來了！NotebookLM正式改名Gemini Notebook，Google最強AI筆記本到底怎麼用？全新升級用法+隱藏用法一次公開，建立任何格式檔案+多模態輸出...",
+          "title": "2026年最重大的AI更新來了！NotebookLM正式改名Gemini Notebook，Google最強AI筆記本到底怎麼用？全新升級用法+隱藏用法一次公開，建立任何格式檔案+多模態輸出！",
           "url": "https://www.youtube.com/watch?v=s01HbQwG32U",
           "published": "2026-08-05",
           "age": "1 month ago",
           "is_new_today": false
         },
         {
-          "title": "只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十...",
+          "title": "只要這一個AI代理就夠了！Genspark的強大功能和實際應用！每個月省下幾千塊AI訂閱費？實測整合所有頂尖模型的AI（GPT-5.6/Gemini3.5/Claude 5），真的能一個抵十個？",
           "url": "https://www.youtube.com/watch?v=BFqFs9mh_S4",
           "published": "2026-07-17",
-          "age": "1 month ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Codex 與 Claude Cowork/Code 的功能全面比較（面向一般人）：誰才是更好的 AI 智能體？從功能、質量、速度、額度到Skill插件，看完真實場景實測，你會不再糾結...",
-          "url": "https://www.youtube.com/watch?v=S3m56h6eJ14",
-          "published": "2026-07-14",
           "age": "1 month ago",
           "is_new_today": false
         }
@@ -91,10 +91,24 @@
       "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
       "videos": [
         {
+          "title": "AI實戰技巧：我竟然用 Hermes Agent 加免費AI模型製作了一個CRM系統！#hermesagent #香港AI應用 #AI寫程式 #我想用AI賺錢  #ai工具 #免費AI工具 #AI助理",
+          "url": "https://www.youtube.com/watch?v=UxsdZjxhQZ0",
+          "published": "2026-09-09",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "Hermes Agent 實戰：18分鐘教你用免費AI模型製作CRM系統 #廣東話 #AI實戰 #AI應用教學 #香港AI #HermesAgent #免費AI工具 #CRM系統",
           "url": "https://www.youtube.com/watch?v=6NHo--3kHLw",
           "published": "2026-09-04",
           "age": "5 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Google AI 人材真係走晒？兩個月走咗幾多AI大神？ #Shorts #短影片 #GoogleAI #Gemini #GeminiSpark #ai工具 #廣東話 #我想用AI賺錢",
+          "url": "https://www.youtube.com/watch?v=BNsJQj0ScRA",
+          "published": "2026-08-19",
+          "age": "3 weeks ago",
           "is_new_today": false
         },
         {
@@ -110,20 +124,6 @@
           "published": "2026-07-31",
           "age": "1 month ago",
           "is_new_today": false
-        },
-        {
-          "title": "#ChatGPT 新功能四連發懶人包： ChatGPT 5.6、GPT-Live、ChatGPT Work、Sites 全面實測 #廣東話 #香港AI #ChatGPT新功能 #AI工具 #AI教學",
-          "url": "https://www.youtube.com/watch?v=MfZXYnfDA8w",
-          "published": "2026-07-17",
-          "age": "1 month ago",
-          "is_new_today": false
-        },
-        {
-          "title": "真 · AI影片Agent：新手唔洗識剪片做出完美爆片 ｜ Flova AI 實測：Agent＋Skills＋Timeline 全流程教學 #FlovaAI #AI影片Agent #AI工具",
-          "url": "https://www.youtube.com/watch?v=OkFmCO6rJZs",
-          "published": "2026-07-10",
-          "age": "2 months ago",
-          "is_new_today": false
         }
       ]
     },
@@ -132,6 +132,13 @@
       "handle": "@ompshek",
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
+        {
+          "title": "用 AI 做 ERP 數據分析！NetSuite x Manus AI Agent 實測：自動查存貨、計資金、出圖表",
+          "url": "https://www.youtube.com/watch?v=3mEOC-y69HU",
+          "published": "2026-09-09",
+          "age": "Today",
+          "is_new_today": true
+        },
         {
           "title": "GPT-6 實測操控 Mouse 自動填表＋網購，辦公室無 API 系統全自動化【AGI 降臨？】",
           "url": "https://www.youtube.com/watch?v=jILcU-lizPo",
@@ -157,13 +164,6 @@
           "title": "廣東話 AI 即時翻譯＋懸浮字幕，ZOOM 開會 / 現場演講必用",
           "url": "https://www.youtube.com/watch?v=X9Jo2rtjDyc",
           "published": "2026-08-29",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "我開發了這個 3D 體感賽車遊戲",
-          "url": "https://www.youtube.com/watch?v=42RCV9eetZc",
-          "published": "2026-08-28",
           "age": "1 week ago",
           "is_new_today": false
         }
@@ -259,6 +259,20 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
+          "title": "叫 ChatGPT 把蛋餅變精品廣告，結果它連蛋餅都改了😂｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=yYgacnZRKUQ",
+          "published": "2026-09-09",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
+          "title": "ChatGPT、Claude、Gemini 的 Deep Research，哪家報告最可信？",
+          "url": "https://www.youtube.com/watch?v=FH-9jOSLdzg",
+          "published": "2026-09-09",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "AI訂閱費好貴！每個月只選一家可以選誰？真 付費版AI評比！",
           "url": "https://www.youtube.com/watch?v=jpsI5hNXdKg",
           "published": "2026-09-03",
@@ -266,31 +280,17 @@
           "is_new_today": false
         },
         {
-          "title": "Loop Engineering 是什麼？開發人員居然不愛最強模型？｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=Lglem0O9mjQ",
-          "published": "2026-08-27",
+          "title": "AI履歷滿天飛！HR 科技應用專家親自告訴你  如何用AI尋找正確的人才？ft. 鄭智維 Wesley｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=5KvoT8EQfkc",
+          "published": "2026-09-01",
           "age": "1 week ago",
           "is_new_today": false
         },
         {
-          "title": "八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？",
-          "url": "https://www.youtube.com/watch?v=jnoMPfg1N5Y",
-          "published": "2026-08-20",
-          "age": "2 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=VE4-2AkCzJ8",
-          "published": "2026-08-13",
-          "age": "3 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "AI工具怎麼選？AI 免費版大評比！ChatGPT、Gemini、Claude 該選誰？5 大情境實測全公開｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=y7mFMDxc1VM",
-          "published": "2026-08-06",
-          "age": "1 month ago",
+          "title": "Grok 快打敗Gemini？",
+          "url": "https://www.youtube.com/watch?v=wwSKBDuwuJo",
+          "published": "2026-09-01",
+          "age": "1 week ago",
           "is_new_today": false
         }
       ]
