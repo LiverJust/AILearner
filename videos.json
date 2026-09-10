@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-10 21:54 HKT",
+  "last_updated": "2026-09-11 02:44 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -263,14 +263,14 @@
           "url": "https://www.youtube.com/watch?v=esDXm3BXBZI",
           "published": "2026-09-10",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "AI 語音誰最會接話？ChatGPT、Claude、Gemini 實測",
           "url": "https://www.youtube.com/watch?v=5drgoZ5N5sY",
           "published": "2026-09-10",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "叫 ChatGPT 把蛋餅變精品廣告，結果它連蛋餅都改了😂｜泛科學院",
