@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-09-11 21:54 HKT*
+*Last updated: 2026-09-12 02:48 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -83,7 +83,7 @@
 | 2 | [同样是 AI agent，为什么别人要装半小时，这个 60 秒就能用？](https://www.youtube.com/watch?v=9O4IueW_n1k) | 3 days ago |
 | 3 | [开三个AI同时跑，结果自己累成狗？真正的瓶颈不是AI不够快](https://www.youtube.com/watch?v=X2A6fANij9Q) | 5 days ago |
 | 4 | [GitHub 冲榜第一的 Claude Code 画图 Skill，翻开源码才知道它凭什么没有AI味\|架构图、流程图一句话出图](https://www.youtube.com/watch?v=rq4EHbqaaAk) | 1 week ago |
-| 5 | [实测1.8万星 Claude 去水印工具：蹭流量的，完全没用](https://www.youtube.com/watch?v=9leHSMk-9nY) | 1 week ago |
+| 5 | [Anthropic 自己测的：Sonnet 配一个 Opus 顾问，分数更高、成本反而低 11.9%\|贵模型根本不用全程在线](https://www.youtube.com/watch?v=H4zIuJ4G1QY) | 1 week ago |
 
 ---
 

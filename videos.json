@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11 21:54 HKT",
+  "last_updated": "2026-09-12 02:48 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -11,7 +11,7 @@
           "url": "https://www.youtube.com/watch?v=CmjNjWeRE0Y",
           "published": "2026-09-11",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "1個人+AI＝AI賺錢新思路！我用AI做了一個自動化系統！我只說了一句話，AI自動找選題、生成內容、建立Agent，把整個專案做完了！把整個過程錄成這個影片，非工程師也能上手的AI助理教學！",
@@ -95,7 +95,7 @@
           "url": "https://www.youtube.com/watch?v=fb0qd_SKEFU",
           "published": "2026-09-11",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "AI實戰技巧：我竟然用 Hermes Agent 加免費AI模型製作了一個CRM系統！#hermesagent #香港AI應用 #AI寫程式 #我想用AI賺錢  #ai工具 #免費AI工具 #AI助理",
@@ -263,7 +263,7 @@
           "url": "https://www.youtube.com/watch?v=lHRR_NFlvAQ",
           "published": "2026-09-11",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "實測 GPT-6 Astra！三個下指令的正確方式？ChatGPT再度成為話題！｜泛科學院",
@@ -329,9 +329,9 @@
           "is_new_today": false
         },
         {
-          "title": "实测1.8万星 Claude 去水印工具：蹭流量的，完全没用",
-          "url": "https://www.youtube.com/watch?v=9leHSMk-9nY",
-          "published": "2026-09-01",
+          "title": "Anthropic 自己测的：Sonnet 配一个 Opus 顾问，分数更高、成本反而低 11.9%｜贵模型根本不用全程在线",
+          "url": "https://www.youtube.com/watch?v=H4zIuJ4G1QY",
+          "published": "2026-08-31",
           "age": "1 week ago",
           "is_new_today": false
         }
