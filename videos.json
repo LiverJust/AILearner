@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-12 21:11 HKT",
+  "last_updated": "2026-09-13 01:55 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -53,7 +53,7 @@
           "url": "https://www.youtube.com/watch?v=O664KLj_L9M",
           "published": "2026-09-12",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "GPT-6 Astra 終於來了, 真的很好用！(8個應用案例)",
@@ -305,7 +305,7 @@
           "url": "https://www.youtube.com/watch?v=A2i8D66J83U",
           "published": "2026-09-12",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "公司少算我2143块加班费！我用Claude Cowork自动化对账：3分钟抓出3个克扣漏洞",
