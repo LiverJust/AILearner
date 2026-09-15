@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-15 22:30 HKT",
+  "last_updated": "2026-09-16 03:19 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -137,7 +137,7 @@
           "url": "https://www.youtube.com/watch?v=tYuqVfejnLU",
           "published": "2026-09-15",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "用 AI 做 ERP 數據分析！NetSuite x Manus AI Agent 實測：自動查存貨、計資金、出圖表",
