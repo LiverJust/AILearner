@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-16 22:24 HKT",
+  "last_updated": "2026-09-17 03:09 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -179,7 +179,7 @@
           "url": "https://www.youtube.com/watch?v=tlEnf7P7wDA",
           "published": "2026-09-16",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "如何才能免費製作 AI 影片？將 ComfyUI 接上 Claude (ChatGPT) 讓影片生成不再卡關！本機電腦變成超級創作工坊！",
