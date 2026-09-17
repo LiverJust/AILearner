@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-09-17 16:57 HKT",
+  "last_updated": "2026-09-17 22:29 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
       "handle": "@Teacher_Kong",
       "url": "https://www.youtube.com/@Teacher_Kong/videos",
       "videos": [
+        {
+          "title": "GPT Image 2.5 上線 OiiOii！這次生圖真的更強了？實測生圖、改圖到商業素材一次看，循序漸進小白也能快速上手賺錢！",
+          "url": "https://www.youtube.com/watch?v=17jkSr_THtk",
+          "published": "2026-09-17",
+          "age": "Today",
+          "is_new_today": true
+        },
         {
           "title": "GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5....",
           "url": "https://www.youtube.com/watch?v=CmjNjWeRE0Y",
@@ -31,13 +38,6 @@
           "title": "你其實可以不用上班！走了10年彎道才明白的事情，希望你現在就知道！當全世界都叫我努力時，我卻選擇辭職，一部片傾囊相授，無論你是上班族還是想做自媒體都必知...",
           "url": "https://www.youtube.com/watch?v=AnDkGkI2l4w",
           "published": "2026-08-14",
-          "age": "1 month ago",
-          "is_new_today": false
-        },
-        {
-          "title": "2026年最重大的AI更新來了！NotebookLM正式改名Gemini Notebook，Google最強AI筆記本到底怎麼用？全新升級用法+隱藏用法一次公開，建立任何格式檔案+多模態輸出...",
-          "url": "https://www.youtube.com/watch?v=s01HbQwG32U",
-          "published": "2026-08-05",
           "age": "1 month ago",
           "is_new_today": false
         }
@@ -259,6 +259,13 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
+          "title": "連 Klook、KKday 都有？ChatGPT 程式外掛這樣用！旅遊安排行程、機票比價、跨平台訂房比價！｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=1M9BX6LEcy0",
+          "published": "2026-09-17",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "實測 GPT-6 Astra！三個下指令的正確方式？ChatGPT再度成為話題！｜泛科學院",
           "url": "https://www.youtube.com/watch?v=esDXm3BXBZI",
           "published": "2026-09-10",
@@ -284,13 +291,6 @@
           "url": "https://www.youtube.com/watch?v=jnoMPfg1N5Y",
           "published": "2026-08-20",
           "age": "4 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "NotebookLM 大升級！超強「Gemini Notebook」實戰教學：合約、保險、信用卡優惠 一次掌握！｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=VE4-2AkCzJ8",
-          "published": "2026-08-13",
-          "age": "1 month ago",
           "is_new_today": false
         }
       ]
