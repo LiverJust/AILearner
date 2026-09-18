@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-18 21:56 HKT",
+  "last_updated": "2026-09-19 02:41 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -95,7 +95,7 @@
           "url": "https://www.youtube.com/watch?v=ds0kLueaJXY",
           "published": "2026-09-18",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "GPT-6 Astra 令我即刻轉會！點解我會即刻升級 ChatGPT Pro？GPT- Live 語音功能＋Images 2.5 更新 #GPT6 #Astra #ChatGPT #廣東話 ",
@@ -137,7 +137,7 @@
           "url": "https://www.youtube.com/watch?v=uu9ogYwi7mg",
           "published": "2026-09-18",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "AI 真的會毀滅人類？業界高層集體發聲：10 年內存亡風險超過 10%！",
@@ -263,7 +263,7 @@
           "url": "https://www.youtube.com/watch?v=9gt598IEUN4",
           "published": "2026-09-18",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "9月三大AI大更新 ChatGPT大勝！",
