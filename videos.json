@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19 21:30 HKT",
+  "last_updated": "2026-09-20 02:14 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -53,7 +53,7 @@
           "url": "https://www.youtube.com/watch?v=H7p0stzmojU",
           "published": "2026-09-19",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "我對比了GPT-6 Astra 和 Fable 5.1，結果出乎意料！",
@@ -263,7 +263,7 @@
           "url": "https://www.youtube.com/watch?v=oaT6SDduWSE",
           "published": "2026-09-19",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "GPT-6 Astra 地表最聰明模型",
@@ -305,7 +305,7 @@
           "url": "https://www.youtube.com/watch?v=mAoXktiOhWY",
           "published": "2026-09-19",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "如何在Claude Cowork和Chat之间进行选择？4个问题当场判断",
