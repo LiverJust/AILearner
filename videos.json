@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20 21:45 HKT",
+  "last_updated": "2026-09-21 02:20 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -11,7 +11,7 @@
           "url": "https://www.youtube.com/watch?v=gIac2n4nIPg",
           "published": "2026-09-20",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "GPT Image 2.5 上線 OiiOii！這次生圖真的更強了？實測生圖、改圖到商業素材一次看，循序漸進小白也能快速上手賺錢！",
@@ -263,7 +263,7 @@
           "url": "https://www.youtube.com/watch?v=gZTlxixXyd4",
           "published": "2026-09-20",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "快速總結 GPT-6 Astra 更新亮點",
