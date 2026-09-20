@@ -3,17 +3,17 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-09-20 16:51 HKT*
+*Last updated: 2026-09-20 21:45 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [GPT Image 2.5 上線 OiiOii！這次生圖真的更強了？實測生圖、改圖到商業素材一次看，循序漸進小白也能快速上手賺錢！](https://www.youtube.com/watch?v=17jkSr_THtk) | 3 days ago |
-| 2 | [GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5....](https://www.youtube.com/watch?v=CmjNjWeRE0Y) | 1 week ago |
-| 3 | [1個人+AI＝AI賺錢新思路！我用AI做了一個自動化系統！我只說了一句話，AI自動找選題、生成內容、建立Agent，把整個專案做完了！把整個過程錄成這個影片，非工程...](https://www.youtube.com/watch?v=qEC58aaz7Es) | 1 week ago |
-| 4 | [一人動畫公司不是夢！AI動畫完整製作流程大公開～從發想到影片生成一條龍教學，免費啟動你的賺錢副業\|OiiOii超詳細講解](https://www.youtube.com/watch?v=U7M09LY7J8s) | 2 weeks ago |
-| 5 | [你其實可以不用上班！走了10年彎道才明白的事情，希望你現在就知道！當全世界都叫我努力時，我卻選擇辭職，一部片傾囊相授，無論你是上班族還是想做自媒體都必知...](https://www.youtube.com/watch?v=AnDkGkI2l4w) | 1 month ago |
+| 1 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不使用的人真的很吃虧！](https://www.youtube.com/watch?v=gIac2n4nIPg) | Today |
+| 2 | [GPT Image 2.5 上線 OiiOii！這次生圖真的更強了？實測生圖、改圖到商業素材一次看，循序漸進小白也能快速上手賺錢！](https://www.youtube.com/watch?v=17jkSr_THtk) | 3 days ago |
+| 3 | [GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5.1，AGI真的來了！](https://www.youtube.com/watch?v=CmjNjWeRE0Y) | 1 week ago |
+| 4 | [1個人+AI＝AI賺錢新思路！我用AI做了一個自動化系統！我只說了一句話，AI自動找選題、生成內容、建立Agent，把整個專案做完了！把整個過程錄成這個影片，非工程師也能上手的AI助理教學！](https://www.youtube.com/watch?v=qEC58aaz7Es) | 1 week ago |
+| 5 | [一人動畫公司不是夢！AI動畫完整製作流程大公開～從發想到影片生成一條龍教學，免費啟動你的賺錢副業\|OiiOii超詳細講解](https://www.youtube.com/watch?v=U7M09LY7J8s) | 2 weeks ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
 
@@ -30,10 +30,10 @@
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [Grok Bot 香港實測：只請一個 AI 總經理，就能自組員工團隊？#GrokBot #AI員工 #一人公司 #香港AI #AI工具 #我想用AI賺錢 #AI實測 #廣東話 #粵語 #香港AI應用](https://www.youtube.com/watch?v=ds0kLueaJXY) | 2 days ago |
-| 2 | [GPT-6 Astra 令我即刻轉會！點解我會即刻升級 ChatGPT Pro？GPT- Live 語音功能＋Images 2.5 更新 #GPT6 #Astra #ChatGPT #廣東話](https://www.youtube.com/watch?v=fb0qd_SKEFU) | 1 week ago |
-| 3 | [Hermes Agent 實戰：18分鐘教你用免費AI模型製作CRM系統 #廣東話 #AI實戰 #AI應用教學 #香港AI #HermesAgent #免費AI工具 #CRM系統](https://www.youtube.com/watch?v=6NHo--3kHLw) | 2 weeks ago |
-| 4 | [Google AI 發生緊咩事？一邊核心人材大洗牌，一邊多個AI新功能推出！Gemini Spark 登陸香港 #googleai #geminispark #AI新聞 #廣東話 #香港AI](https://www.youtube.com/watch?v=1Rfxm9Gr20g) | 1 month ago |
-| 5 | [大癲！我做一次，#Codex 就學識？Record & Replay 實測：自動入數＋上載 IG Reels #AI自動化 #ChatGPT #Record&Replay #廣東話 #香港AI教學](https://www.youtube.com/watch?v=IReQuIvKqnY) | 1 month ago |
+| 2 | [GPT-6 Astra 令我即刻轉會！點解我會即刻升級 ChatGPT Pro？GPT- Live 語音功能＋Images 2.5 更新 #GPT6 #Astra #ChatGPT #廣東話 ](https://www.youtube.com/watch?v=fb0qd_SKEFU) | 1 week ago |
+| 3 | [AI實戰技巧：我竟然用 Hermes Agent 加免費AI模型製作了一個CRM系統！#hermesagent #香港AI應用 #AI寫程式 #我想用AI賺錢  #ai工具 #免費AI工具 #AI助理](https://www.youtube.com/watch?v=UxsdZjxhQZ0) | 1 week ago |
+| 4 | [Hermes Agent 實戰：18分鐘教你用免費AI模型製作CRM系統 #廣東話 #AI實戰 #AI應用教學 #香港AI #HermesAgent #免費AI工具 #CRM系統](https://www.youtube.com/watch?v=6NHo--3kHLw) | 2 weeks ago |
+| 5 | [Google AI 人材真係走晒？兩個月走咗幾多AI大神？ #Shorts #短影片 #GoogleAI #Gemini #GeminiSpark #ai工具 #廣東話 #我想用AI賺錢](https://www.youtube.com/watch?v=BNsJQj0ScRA) | 1 month ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
@@ -69,11 +69,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [ChatGPT Claude免費都能用外掛軟體！台灣能用的 8 款熱門功能生活功能 跨平台比價蕭方便！](https://www.youtube.com/watch?v=1M9BX6LEcy0) | 3 days ago |
-| 2 | [實測 GPT-6 Astra！三個下指令的正確方式？ChatGPT再度成為話題！\|泛科學院](https://www.youtube.com/watch?v=esDXm3BXBZI) | 1 week ago |
-| 3 | [AI訂閱費好貴！每個月只選一家可以選誰？真 付費版AI評比！](https://www.youtube.com/watch?v=jpsI5hNXdKg) | 2 weeks ago |
-| 4 | [Loop Engineering 是什麼？開發人員居然不愛最強模型？\|泛科學院](https://www.youtube.com/watch?v=Lglem0O9mjQ) | 3 weeks ago |
-| 5 | [八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？](https://www.youtube.com/watch?v=jnoMPfg1N5Y) | 1 month ago |
+| 1 | [Google Lyria 3.5 超越Suno](https://www.youtube.com/watch?v=gZTlxixXyd4) | Today |
+| 2 | [快速總結 GPT-6 Astra 更新亮點](https://www.youtube.com/watch?v=oaT6SDduWSE) | 1 day ago |
+| 3 | [GPT-6 Astra 地表最聰明模型](https://www.youtube.com/watch?v=9gt598IEUN4) | 2 days ago |
+| 4 | [9月三大AI大更新 ChatGPT大勝！](https://www.youtube.com/watch?v=W4lpjNLQ0KQ) | 3 days ago |
+| 5 | [ChatGPT  Claude免費都能用外掛軟體！台灣能用的 8 款熱門功能生活功能 跨平台比價蕭方便！](https://www.youtube.com/watch?v=1M9BX6LEcy0) | 3 days ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
