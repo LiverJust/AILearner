@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22 16:50 HKT",
+  "last_updated": "2026-09-22 22:12 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "【實測】小米 MiMo-v2.6 ！每百萬 Token 僅需 $0.04？史上性價比最高開源模型",
+          "url": "https://www.youtube.com/watch?v=S6B5jARB3e4",
+          "published": "2026-09-22",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "實測 System 1 決策模型 Jev：AI Agent 自動化與瀏覽器操控新趨勢",
           "url": "https://www.youtube.com/watch?v=HJXxi8nCvnk",
           "published": "2026-09-21",
@@ -158,13 +165,6 @@
           "url": "https://www.youtube.com/watch?v=3mEOC-y69HU",
           "published": "2026-09-09",
           "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "GPT-6 實測操控 Mouse 自動填表＋網購，辦公室無 API 系統全自動化【AGI 降臨？】",
-          "url": "https://www.youtube.com/watch?v=jILcU-lizPo",
-          "published": "2026-09-07",
-          "age": "2 weeks ago",
           "is_new_today": false
         }
       ]

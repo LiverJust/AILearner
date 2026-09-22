@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-09-22 16:50 HKT*
+*Last updated: 2026-09-22 22:12 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [實測 System 1 決策模型 Jev：AI Agent 自動化與瀏覽器操控新趨勢](https://www.youtube.com/watch?v=HJXxi8nCvnk) | 1 day ago |
-| 2 | [騰訊 WorkBuddy 攻略！連結富途牛牛自動選股 + Deep Research 美股深研 + 定時抓取報告](https://www.youtube.com/watch?v=uu9ogYwi7mg) | 4 days ago |
-| 3 | [AI 真的會毀滅人類？業界高層集體發聲：10 年內存亡風險超過 10%！](https://www.youtube.com/watch?v=tYuqVfejnLU) | 1 week ago |
-| 4 | [用 AI 做 ERP 數據分析！NetSuite x Manus AI Agent 實測：自動查存貨、計資金、出圖表](https://www.youtube.com/watch?v=3mEOC-y69HU) | 1 week ago |
-| 5 | [GPT-6 實測操控 Mouse 自動填表＋網購，辦公室無 API 系統全自動化【AGI 降臨？】](https://www.youtube.com/watch?v=jILcU-lizPo) | 2 weeks ago |
+| 1 | [【實測】小米 MiMo-v2.6 ！每百萬 Token 僅需 $0.04？史上性價比最高開源模型](https://www.youtube.com/watch?v=S6B5jARB3e4) | Today |
+| 2 | [實測 System 1 決策模型 Jev：AI Agent 自動化與瀏覽器操控新趨勢](https://www.youtube.com/watch?v=HJXxi8nCvnk) | 1 day ago |
+| 3 | [騰訊 WorkBuddy 攻略！連結富途牛牛自動選股 + Deep Research 美股深研 + 定時抓取報告](https://www.youtube.com/watch?v=uu9ogYwi7mg) | 4 days ago |
+| 4 | [AI 真的會毀滅人類？業界高層集體發聲：10 年內存亡風險超過 10%！](https://www.youtube.com/watch?v=tYuqVfejnLU) | 1 week ago |
+| 5 | [用 AI 做 ERP 數據分析！NetSuite x Manus AI Agent 實測：自動查存貨、計資金、出圖表](https://www.youtube.com/watch?v=3mEOC-y69HU) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
