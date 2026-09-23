@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23 22:28 HKT",
+  "last_updated": "2026-09-24 03:16 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -137,7 +137,7 @@
           "url": "https://www.youtube.com/watch?v=686fUNp07Mk",
           "published": "2026-09-23",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "【實測】小米 MiMo-v2.6 ！每百萬 Token 僅需 $0.04？史上性價比最高開源模型",
@@ -259,38 +259,38 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
-          "title": "ChatGPT Claude免費都能用外掛軟體！台灣能用的 8 款熱門功能生活功能 跨平台比價蕭方便！",
-          "url": "https://www.youtube.com/watch?v=1M9BX6LEcy0",
-          "published": "2026-09-17",
-          "age": "6 days ago",
+          "title": "ChatGPT Claude 9月初小更新",
+          "url": "https://www.youtube.com/watch?v=4LwdxLu-Nc8",
+          "published": "2026-09-22",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
-          "title": "實測 GPT-6 Astra！三個下指令的正確方式？ChatGPT再度成為話題！｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=esDXm3BXBZI",
-          "published": "2026-09-10",
-          "age": "1 week ago",
+          "title": "AI大當機？企業導入AI必須注意的事情！？",
+          "url": "https://www.youtube.com/watch?v=JctAJ0Scqxs",
+          "published": "2026-09-21",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
-          "title": "AI訂閱費好貴！每個月只選一家可以選誰？真 付費版AI評比！",
-          "url": "https://www.youtube.com/watch?v=jpsI5hNXdKg",
-          "published": "2026-09-03",
-          "age": "2 weeks ago",
+          "title": "Google Lyria 3.5 超越Suno",
+          "url": "https://www.youtube.com/watch?v=gZTlxixXyd4",
+          "published": "2026-09-20",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
-          "title": "Loop Engineering 是什麼？開發人員居然不愛最強模型？｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=Lglem0O9mjQ",
-          "published": "2026-08-27",
-          "age": "3 weeks ago",
+          "title": "快速總結 GPT-6 Astra 更新亮點",
+          "url": "https://www.youtube.com/watch?v=oaT6SDduWSE",
+          "published": "2026-09-19",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
-          "title": "八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？",
-          "url": "https://www.youtube.com/watch?v=jnoMPfg1N5Y",
-          "published": "2026-08-20",
-          "age": "1 month ago",
+          "title": "GPT-6 Astra 地表最聰明模型",
+          "url": "https://www.youtube.com/watch?v=9gt598IEUN4",
+          "published": "2026-09-18",
+          "age": "5 days ago",
           "is_new_today": false
         }
       ]

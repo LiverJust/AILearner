@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-09-23 22:28 HKT*
+*Last updated: 2026-09-24 03:16 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -69,11 +69,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [ChatGPT Claude免費都能用外掛軟體！台灣能用的 8 款熱門功能生活功能 跨平台比價蕭方便！](https://www.youtube.com/watch?v=1M9BX6LEcy0) | 6 days ago |
-| 2 | [實測 GPT-6 Astra！三個下指令的正確方式？ChatGPT再度成為話題！\|泛科學院](https://www.youtube.com/watch?v=esDXm3BXBZI) | 1 week ago |
-| 3 | [AI訂閱費好貴！每個月只選一家可以選誰？真 付費版AI評比！](https://www.youtube.com/watch?v=jpsI5hNXdKg) | 2 weeks ago |
-| 4 | [Loop Engineering 是什麼？開發人員居然不愛最強模型？\|泛科學院](https://www.youtube.com/watch?v=Lglem0O9mjQ) | 3 weeks ago |
-| 5 | [八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？](https://www.youtube.com/watch?v=jnoMPfg1N5Y) | 1 month ago |
+| 1 | [ChatGPT Claude 9月初小更新](https://www.youtube.com/watch?v=4LwdxLu-Nc8) | 1 day ago |
+| 2 | [AI大當機？企業導入AI必須注意的事情！？](https://www.youtube.com/watch?v=JctAJ0Scqxs) | 2 days ago |
+| 3 | [Google Lyria 3.5 超越Suno](https://www.youtube.com/watch?v=gZTlxixXyd4) | 3 days ago |
+| 4 | [快速總結 GPT-6 Astra 更新亮點](https://www.youtube.com/watch?v=oaT6SDduWSE) | 4 days ago |
+| 5 | [GPT-6 Astra 地表最聰明模型](https://www.youtube.com/watch?v=9gt598IEUN4) | 5 days ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
