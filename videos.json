@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-23 16:52 HKT",
+  "last_updated": "2026-09-23 22:28 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "Cathie Wood 預測 AI 工業革命、科技通縮 | 由 Opus 5.5 全自動剪接影片",
+          "url": "https://www.youtube.com/watch?v=686fUNp07Mk",
+          "published": "2026-09-23",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "【實測】小米 MiMo-v2.6 ！每百萬 Token 僅需 $0.04？史上性價比最高開源模型",
           "url": "https://www.youtube.com/watch?v=S6B5jARB3e4",
           "published": "2026-09-22",
@@ -158,13 +165,6 @@
           "url": "https://www.youtube.com/watch?v=tYuqVfejnLU",
           "published": "2026-09-15",
           "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "用 AI 做 ERP 數據分析！NetSuite x Manus AI Agent 實測：自動查存貨、計資金、出圖表",
-          "url": "https://www.youtube.com/watch?v=3mEOC-y69HU",
-          "published": "2026-09-09",
-          "age": "2 weeks ago",
           "is_new_today": false
         }
       ]
