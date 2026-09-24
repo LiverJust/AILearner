@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24 22:28 HKT",
+  "last_updated": "2026-09-25 03:33 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -221,7 +221,7 @@
           "url": "https://www.youtube.com/watch?v=iLMdftNVXcM",
           "published": "2026-09-24",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "一句話，把 Claude Code 會話記憶搬到 Codex，品質不打折",
@@ -259,11 +259,11 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
-          "title": "這集AI絕對做不出來啦！盜國威聲音的人是小狗！不要逼我狗急跳牆｜泛科學院",
+          "title": "最後通牒！狗急也會跳牆！不要逼我放大招 用AI盜我聲音的人看好了！",
           "url": "https://www.youtube.com/watch?v=6hl9kTfKjNM",
           "published": "2026-09-24",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "ChatGPT Claude免費都能用外掛軟體！台灣能用的 8 款熱門功能生活功能 跨平台比價蕭方便！",
