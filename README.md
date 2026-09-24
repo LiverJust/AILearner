@@ -3,14 +3,14 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-09-24 03:16 HKT*
+*Last updated: 2026-09-24 16:48 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...](https://www.youtube.com/watch?v=gIac2n4nIPg) | 3 days ago |
-| 2 | [GPT Image 2.5 上線 OiiOii！這次生圖真的更強了？實測生圖、改圖到商業素材一次看，循序漸進小白也能快速上手賺錢！](https://www.youtube.com/watch?v=17jkSr_THtk) | 6 days ago |
+| 1 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...](https://www.youtube.com/watch?v=gIac2n4nIPg) | 4 days ago |
+| 2 | [GPT Image 2.5 上線 OiiOii！這次生圖真的更強了？實測生圖、改圖到商業素材一次看，循序漸進小白也能快速上手賺錢！](https://www.youtube.com/watch?v=17jkSr_THtk) | 1 week ago |
 | 3 | [GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5....](https://www.youtube.com/watch?v=CmjNjWeRE0Y) | 1 week ago |
 | 4 | [1個人+AI＝AI賺錢新思路！我用AI做了一個自動化系統！我只說了一句話，AI自動找選題、生成內容、建立Agent，把整個專案做完了！把整個過程錄成這個影片，非工程...](https://www.youtube.com/watch?v=qEC58aaz7Es) | 2 weeks ago |
 | 5 | [一人動畫公司不是夢！AI動畫完整製作流程大公開～從發想到影片生成一條龍教學，免費啟動你的賺錢副業\|OiiOii超詳細講解](https://www.youtube.com/watch?v=U7M09LY7J8s) | 2 weeks ago |
@@ -19,7 +19,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [GPT-6 Astra + Images 2.5: 一句話讓 AI 完成整個工作流！](https://www.youtube.com/watch?v=H7p0stzmojU) | 4 days ago |
+| 1 | [GPT-6 Astra + Images 2.5: 一句話讓 AI 完成整個工作流！](https://www.youtube.com/watch?v=H7p0stzmojU) | 5 days ago |
 | 2 | [我對比了GPT-6 Astra 和 Fable 5.1，結果出乎意料！](https://www.youtube.com/watch?v=O664KLj_L9M) | 1 week ago |
 | 3 | [GPT-6 Astra 終於來了, 真的很好用！(8個應用案例)](https://www.youtube.com/watch?v=L6q_-OkOrKE) | 2 weeks ago |
 | 4 | [ChatGPT瀏覽器5個實用場景，比我想像中好用太多！](https://www.youtube.com/watch?v=IVxZ0-3C5Wg) | 2 weeks ago |
@@ -29,7 +29,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Grok Bot 香港實測：只請一個 AI 總經理，就能自組員工團隊？#GrokBot #AI員工 #一人公司 #香港AI #AI工具 #我想用AI賺錢 #AI實測 #廣東話 #粵語 #香港AI應用](https://www.youtube.com/watch?v=ds0kLueaJXY) | 5 days ago |
+| 1 | [Grok Bot 香港實測：只請一個 AI 總經理，就能自組員工團隊？#GrokBot #AI員工 #一人公司 #香港AI #AI工具 #我想用AI賺錢 #AI實測 #廣東話 #粵語 #香港AI應用](https://www.youtube.com/watch?v=ds0kLueaJXY) | 6 days ago |
 | 2 | [GPT-6 Astra 令我即刻轉會！點解我會即刻升級 ChatGPT Pro？GPT- Live 語音功能＋Images 2.5 更新 #GPT6 #Astra #ChatGPT #廣東話](https://www.youtube.com/watch?v=fb0qd_SKEFU) | 1 week ago |
 | 3 | [Hermes Agent 實戰：18分鐘教你用免費AI模型製作CRM系統 #廣東話 #AI實戰 #AI應用教學 #香港AI #HermesAgent #免費AI工具 #CRM系統](https://www.youtube.com/watch?v=6NHo--3kHLw) | 2 weeks ago |
 | 4 | [Google AI 發生緊咩事？一邊核心人材大洗牌，一邊多個AI新功能推出！Gemini Spark 登陸香港 #googleai #geminispark #AI新聞 #廣東話 #香港AI](https://www.youtube.com/watch?v=1Rfxm9Gr20g) | 1 month ago |
@@ -39,10 +39,10 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Cathie Wood 預測 AI 工業革命、科技通縮 \| 由 Opus 5.5 全自動剪接影片](https://www.youtube.com/watch?v=686fUNp07Mk) | Today |
-| 2 | [【實測】小米 MiMo-v2.6 ！每百萬 Token 僅需 $0.04？史上性價比最高開源模型](https://www.youtube.com/watch?v=S6B5jARB3e4) | 1 day ago |
-| 3 | [實測 System 1 決策模型 Jev：AI Agent 自動化與瀏覽器操控新趨勢](https://www.youtube.com/watch?v=HJXxi8nCvnk) | 2 days ago |
-| 4 | [騰訊 WorkBuddy 攻略！連結富途牛牛自動選股 + Deep Research 美股深研 + 定時抓取報告](https://www.youtube.com/watch?v=uu9ogYwi7mg) | 5 days ago |
+| 1 | [Cathie Wood 大膽預測，AI 生產力革命真的來了！由 Claude Opus 5.5 全自動剪接影片](https://www.youtube.com/watch?v=686fUNp07Mk) | 1 day ago |
+| 2 | [【實測】小米 MiMo-v2.6 ！每百萬 Token 僅需 $0.04？史上性價比最高開源模型](https://www.youtube.com/watch?v=S6B5jARB3e4) | 2 days ago |
+| 3 | [實測 System 1 決策模型 Jev：AI Agent 自動化與瀏覽器操控新趨勢](https://www.youtube.com/watch?v=HJXxi8nCvnk) | 3 days ago |
+| 4 | [騰訊 WorkBuddy 攻略！連結富途牛牛自動選股 + Deep Research 美股深研 + 定時抓取報告](https://www.youtube.com/watch?v=uu9ogYwi7mg) | 6 days ago |
 | 5 | [AI 真的會毀滅人類？業界高層集體發聲：10 年內存亡風險超過 10%！](https://www.youtube.com/watch?v=tYuqVfejnLU) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
@@ -59,31 +59,31 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [一句話，把 Claude Code 會話記憶搬到 Codex，品質不打折](https://www.youtube.com/watch?v=4iIS0POVYU0) | 1 month ago |
-| 2 | [3個步驟，從0打造你的AI儀表板](https://www.youtube.com/watch?v=grYI7jaSpxg) | 2 months ago |
-| 3 | [Claude + LINE: 團購整單系統替你每週解放10+ 小時](https://www.youtube.com/watch?v=kxt_7hjAU1o) | 2 months ago |
-| 4 | [你還在手動刷104人力銀行找工作？Claude 10 分鐘幫你全自動化](https://www.youtube.com/watch?v=EfiMXx6qiw4) | 2 months ago |
-| 5 | [500+ 小時 Claude Code 心得：5 件我希望早點知道的事](https://www.youtube.com/watch?v=JbNTSwevk3w) | 3 months ago |
+| 1 | [最便宜又最簡單自架n8n的方法－讓你的自動化全年無休 (2026)](https://www.youtube.com/watch?v=iLMdftNVXcM) | Today |
+| 2 | [一句話，把 Claude Code 會話記憶搬到 Codex，品質不打折](https://www.youtube.com/watch?v=4iIS0POVYU0) | 1 month ago |
+| 3 | [3個步驟，從0打造你的AI儀表板](https://www.youtube.com/watch?v=grYI7jaSpxg) | 2 months ago |
+| 4 | [Claude + LINE: 團購整單系統替你每週解放10+ 小時](https://www.youtube.com/watch?v=kxt_7hjAU1o) | 2 months ago |
+| 5 | [你還在手動刷104人力銀行找工作？Claude 10 分鐘幫你全自動化](https://www.youtube.com/watch?v=EfiMXx6qiw4) | 2 months ago |
 
 ### 泛科學院 · [@panscischool](https://www.youtube.com/@panscischool/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [ChatGPT Claude 9月初小更新](https://www.youtube.com/watch?v=4LwdxLu-Nc8) | 1 day ago |
-| 2 | [AI大當機？企業導入AI必須注意的事情！？](https://www.youtube.com/watch?v=JctAJ0Scqxs) | 2 days ago |
-| 3 | [Google Lyria 3.5 超越Suno](https://www.youtube.com/watch?v=gZTlxixXyd4) | 3 days ago |
-| 4 | [快速總結 GPT-6 Astra 更新亮點](https://www.youtube.com/watch?v=oaT6SDduWSE) | 4 days ago |
-| 5 | [GPT-6 Astra 地表最聰明模型](https://www.youtube.com/watch?v=9gt598IEUN4) | 5 days ago |
+| 1 | [ChatGPT Claude免費都能用外掛軟體！台灣能用的 8 款熱門功能生活功能 跨平台比價蕭方便！](https://www.youtube.com/watch?v=1M9BX6LEcy0) | 1 week ago |
+| 2 | [實測 GPT-6 Astra！三個下指令的正確方式？ChatGPT再度成為話題！\|泛科學院](https://www.youtube.com/watch?v=esDXm3BXBZI) | 2 weeks ago |
+| 3 | [AI訂閱費好貴！每個月只選一家可以選誰？真 付費版AI評比！](https://www.youtube.com/watch?v=jpsI5hNXdKg) | 3 weeks ago |
+| 4 | [Loop Engineering 是什麼？開發人員居然不愛最強模型？\|泛科學院](https://www.youtube.com/watch?v=Lglem0O9mjQ) | 4 weeks ago |
+| 5 | [八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？](https://www.youtube.com/watch?v=jnoMPfg1N5Y) | 1 month ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [别碰WSL！Windows原生安装Claude Code实测，5大报错排雷指南](https://www.youtube.com/watch?v=iHVpk9IM1Uk) | 1 day ago |
-| 2 | [URL发给朋友打不开？localhost 不是网址，是只对你有效的暗号](https://www.youtube.com/watch?v=8unONuKIaPs) | 2 days ago |
-| 3 | [实测GPT-6与Claude Fable：找Bug第一名的AI，修Bug居然垫底？](https://www.youtube.com/watch?v=mAoXktiOhWY) | 4 days ago |
-| 4 | [如何在Claude Cowork和Chat之间进行选择？4个问题当场判断](https://www.youtube.com/watch?v=huGHec7mpm8) | 6 days ago |
-| 5 | [我让AI Agent做视频，它居然拒绝直接生成？实测Topview拆解3镜头电商广告](https://www.youtube.com/watch?v=CV7HX6qFglc) | 6 days ago |
+| 1 | [别碰WSL！Windows原生安装Claude Code实测，5大报错排雷指南](https://www.youtube.com/watch?v=iHVpk9IM1Uk) | 2 days ago |
+| 2 | [URL发给朋友打不开？localhost 不是网址，是只对你有效的暗号](https://www.youtube.com/watch?v=8unONuKIaPs) | 3 days ago |
+| 3 | [实测GPT-6与Claude Fable：找Bug第一名的AI，修Bug居然垫底？](https://www.youtube.com/watch?v=mAoXktiOhWY) | 5 days ago |
+| 4 | [如何在Claude Cowork和Chat之间进行选择？4个问题当场判断](https://www.youtube.com/watch?v=huGHec7mpm8) | 1 week ago |
+| 5 | [我让AI Agent做视频，它居然拒绝直接生成？实测Topview拆解3镜头电商广告](https://www.youtube.com/watch?v=CV7HX6qFglc) | 1 week ago |
 
 ---
 
