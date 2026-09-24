@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24 16:48 HKT",
+  "last_updated": "2026-09-24 22:28 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -259,6 +259,13 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
+          "title": "這集AI絕對做不出來啦！盜國威聲音的人是小狗！不要逼我狗急跳牆｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=6hl9kTfKjNM",
+          "published": "2026-09-24",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "ChatGPT Claude免費都能用外掛軟體！台灣能用的 8 款熱門功能生活功能 跨平台比價蕭方便！",
           "url": "https://www.youtube.com/watch?v=1M9BX6LEcy0",
           "published": "2026-09-17",
@@ -284,13 +291,6 @@
           "url": "https://www.youtube.com/watch?v=Lglem0O9mjQ",
           "published": "2026-08-27",
           "age": "4 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "八月 AI 更新總整理：Grok 又更強大了！Gemini 3.7 flash 急起直追？",
-          "url": "https://www.youtube.com/watch?v=jnoMPfg1N5Y",
-          "published": "2026-08-20",
-          "age": "1 month ago",
           "is_new_today": false
         }
       ]
