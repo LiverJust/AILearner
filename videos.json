@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-25 17:08 HKT",
+  "last_updated": "2026-09-25 22:48 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "歷來最強！實測 Claude Opus 5.5：設計網站、寫 Landing Page、Motion Graphic 全包辦！",
+          "url": "https://www.youtube.com/watch?v=MsTacxMJyJI",
+          "published": "2026-09-25",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "Cathie Wood 大膽預測，AI 生產力革命真的來了！由 Claude Opus 5.5 全自動剪接影片",
           "url": "https://www.youtube.com/watch?v=686fUNp07Mk",
           "published": "2026-09-23",
@@ -157,13 +164,6 @@
           "title": "騰訊 WorkBuddy 攻略！連結富途牛牛自動選股 + Deep Research 美股深研 + 定時抓取報告",
           "url": "https://www.youtube.com/watch?v=uu9ogYwi7mg",
           "published": "2026-09-18",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "AI 真的會毀滅人類？業界高層集體發聲：10 年內存亡風險超過 10%！",
-          "url": "https://www.youtube.com/watch?v=tYuqVfejnLU",
-          "published": "2026-09-15",
           "age": "1 week ago",
           "is_new_today": false
         }
