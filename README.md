@@ -3,16 +3,16 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-09-26 21:55 HKT*
+*Last updated: 2026-09-27 02:45 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...](https://www.youtube.com/watch?v=gIac2n4nIPg) | 6 days ago |
+| 1 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不使用的人真的很吃虧！](https://www.youtube.com/watch?v=gIac2n4nIPg) | 6 days ago |
 | 2 | [GPT Image 2.5 上線 OiiOii！這次生圖真的更強了？實測生圖、改圖到商業素材一次看，循序漸進小白也能快速上手賺錢！](https://www.youtube.com/watch?v=17jkSr_THtk) | 1 week ago |
-| 3 | [GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5....](https://www.youtube.com/watch?v=CmjNjWeRE0Y) | 2 weeks ago |
-| 4 | [1個人+AI＝AI賺錢新思路！我用AI做了一個自動化系統！我只說了一句話，AI自動找選題、生成內容、建立Agent，把整個專案做完了！把整個過程錄成這個影片，非工程...](https://www.youtube.com/watch?v=qEC58aaz7Es) | 2 weeks ago |
+| 3 | [GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5.1，AGI真的來了！](https://www.youtube.com/watch?v=CmjNjWeRE0Y) | 2 weeks ago |
+| 4 | [1個人+AI＝AI賺錢新思路！我用AI做了一個自動化系統！我只說了一句話，AI自動找選題、生成內容、建立Agent，把整個專案做完了！把整個過程錄成這個影片，非工程師也能上手的AI助理教學！](https://www.youtube.com/watch?v=qEC58aaz7Es) | 2 weeks ago |
 | 5 | [一人動畫公司不是夢！AI動畫完整製作流程大公開～從發想到影片生成一條龍教學，免費啟動你的賺錢副業\|OiiOii超詳細講解](https://www.youtube.com/watch?v=U7M09LY7J8s) | 3 weeks ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
@@ -40,10 +40,10 @@
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [【MV】AI 做埋我份工\|AI 唱的廣東話 RAP\|Claude Opus 5.5 重製版](https://www.youtube.com/watch?v=-HHetU794Cs) | Today |
-| 2 | [超越 GPT -6 與 Fable 5.1！Claude Opus 5.5 實測：設計與影片製作的 AGI 時代已到來！](https://www.youtube.com/watch?v=MsTacxMJyJI) | 1 day ago |
-| 3 | [Cathie Wood 大膽預測，AI 生產力革命真的來了！由 Claude Opus 5.5 全自動剪接影片](https://www.youtube.com/watch?v=686fUNp07Mk) | 3 days ago |
-| 4 | [【實測】小米 MiMo-v2.6 ！每百萬 Token 僅需 $0.04？史上性價比最高開源模型](https://www.youtube.com/watch?v=S6B5jARB3e4) | 4 days ago |
-| 5 | [實測 System 1 決策模型 Jev：AI Agent 自動化與瀏覽器操控新趨勢](https://www.youtube.com/watch?v=HJXxi8nCvnk) | 5 days ago |
+| 2 | [Microsoft 新 Copilot：Home、Code、Autopilot 三大功能登場 #Shorts](https://www.youtube.com/watch?v=qjCDjYSrZPQ) | Today |
+| 3 | [超越 GPT -6 與 Fable 5.1！Claude Opus 5.5 實測：設計與影片製作的 AGI 時代已到來！](https://www.youtube.com/watch?v=MsTacxMJyJI) | 1 day ago |
+| 4 | [Claude 自行讀 DNA，發現類似 CRISPR 的全新酵素系統 ART #Shorts](https://www.youtube.com/watch?v=4xVqabqXKho) | 2 days ago |
+| 5 | [Claude Opus 5.5 推出：追上 Fable 5.1，成本比 Opus 5 低四成 #Shorts](https://www.youtube.com/watch?v=HLDmbRB2oqE) | 2 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 

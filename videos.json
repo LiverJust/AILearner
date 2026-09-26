@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-26 21:55 HKT",
+  "last_updated": "2026-09-27 02:45 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -7,7 +7,7 @@
       "url": "https://www.youtube.com/@Teacher_Kong/videos",
       "videos": [
         {
-          "title": "強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...",
+          "title": "強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不使用的人真的很吃虧！",
           "url": "https://www.youtube.com/watch?v=gIac2n4nIPg",
           "published": "2026-09-20",
           "age": "6 days ago",
@@ -21,14 +21,14 @@
           "is_new_today": false
         },
         {
-          "title": "GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5....",
+          "title": "GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5.1，AGI真的來了！",
           "url": "https://www.youtube.com/watch?v=CmjNjWeRE0Y",
           "published": "2026-09-11",
           "age": "2 weeks ago",
           "is_new_today": false
         },
         {
-          "title": "1個人+AI＝AI賺錢新思路！我用AI做了一個自動化系統！我只說了一句話，AI自動找選題、生成內容、建立Agent，把整個專案做完了！把整個過程錄成這個影片，非工程...",
+          "title": "1個人+AI＝AI賺錢新思路！我用AI做了一個自動化系統！我只說了一句話，AI自動找選題、生成內容、建立Agent，把整個專案做完了！把整個過程錄成這個影片，非工程師也能上手的AI助理教學！",
           "url": "https://www.youtube.com/watch?v=qEC58aaz7Es",
           "published": "2026-09-09",
           "age": "2 weeks ago",
@@ -53,7 +53,7 @@
           "url": "https://www.youtube.com/watch?v=0X5CVapfqPQ",
           "published": "2026-09-26",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "GPT-6 Astra + Images 2.5: 一句話讓 AI 完成整個工作流！",
@@ -137,7 +137,14 @@
           "url": "https://www.youtube.com/watch?v=-HHetU794Cs",
           "published": "2026-09-26",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
+        },
+        {
+          "title": "Microsoft 新 Copilot：Home、Code、Autopilot 三大功能登場 #Shorts",
+          "url": "https://www.youtube.com/watch?v=qjCDjYSrZPQ",
+          "published": "2026-09-26",
+          "age": "Today",
+          "is_new_today": false
         },
         {
           "title": "超越 GPT -6 與 Fable 5.1！Claude Opus 5.5 實測：設計與影片製作的 AGI 時代已到來！",
@@ -147,24 +154,17 @@
           "is_new_today": false
         },
         {
-          "title": "Cathie Wood 大膽預測，AI 生產力革命真的來了！由 Claude Opus 5.5 全自動剪接影片",
-          "url": "https://www.youtube.com/watch?v=686fUNp07Mk",
-          "published": "2026-09-23",
-          "age": "3 days ago",
+          "title": "Claude 自行讀 DNA，發現類似 CRISPR 的全新酵素系統 ART #Shorts",
+          "url": "https://www.youtube.com/watch?v=4xVqabqXKho",
+          "published": "2026-09-24",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
-          "title": "【實測】小米 MiMo-v2.6 ！每百萬 Token 僅需 $0.04？史上性價比最高開源模型",
-          "url": "https://www.youtube.com/watch?v=S6B5jARB3e4",
-          "published": "2026-09-22",
-          "age": "4 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "實測 System 1 決策模型 Jev：AI Agent 自動化與瀏覽器操控新趨勢",
-          "url": "https://www.youtube.com/watch?v=HJXxi8nCvnk",
-          "published": "2026-09-21",
-          "age": "5 days ago",
+          "title": "Claude Opus 5.5 推出：追上 Fable 5.1，成本比 Opus 5 低四成 #Shorts",
+          "url": "https://www.youtube.com/watch?v=HLDmbRB2oqE",
+          "published": "2026-09-24",
+          "age": "2 days ago",
           "is_new_today": false
         }
       ]
