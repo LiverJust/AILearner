@@ -3,26 +3,26 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-09-27 02:45 HKT*
+*Last updated: 2026-09-27 17:35 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不使用的人真的很吃虧！](https://www.youtube.com/watch?v=gIac2n4nIPg) | 6 days ago |
+| 1 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...](https://www.youtube.com/watch?v=gIac2n4nIPg) | 1 week ago |
 | 2 | [GPT Image 2.5 上線 OiiOii！這次生圖真的更強了？實測生圖、改圖到商業素材一次看，循序漸進小白也能快速上手賺錢！](https://www.youtube.com/watch?v=17jkSr_THtk) | 1 week ago |
-| 3 | [GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5.1，AGI真的來了！](https://www.youtube.com/watch?v=CmjNjWeRE0Y) | 2 weeks ago |
-| 4 | [1個人+AI＝AI賺錢新思路！我用AI做了一個自動化系統！我只說了一句話，AI自動找選題、生成內容、建立Agent，把整個專案做完了！把整個過程錄成這個影片，非工程師也能上手的AI助理教學！](https://www.youtube.com/watch?v=qEC58aaz7Es) | 2 weeks ago |
+| 3 | [GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5....](https://www.youtube.com/watch?v=CmjNjWeRE0Y) | 2 weeks ago |
+| 4 | [1個人+AI＝AI賺錢新思路！我用AI做了一個自動化系統！我只說了一句話，AI自動找選題、生成內容、建立Agent，把整個專案做完了！把整個過程錄成這個影片，非工程...](https://www.youtube.com/watch?v=qEC58aaz7Es) | 2 weeks ago |
 | 5 | [一人動畫公司不是夢！AI動畫完整製作流程大公開～從發想到影片生成一條龍教學，免費啟動你的賺錢副業\|OiiOii超詳細講解](https://www.youtube.com/watch?v=U7M09LY7J8s) | 3 weeks ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [我給自己招了4個AI員工，每週省下8小時！](https://www.youtube.com/watch?v=0X5CVapfqPQ) | Today |
+| 1 | [我給自己招了4個AI員工，每週省下8小時！](https://www.youtube.com/watch?v=0X5CVapfqPQ) | 1 day ago |
 | 2 | [GPT-6 Astra + Images 2.5: 一句話讓 AI 完成整個工作流！](https://www.youtube.com/watch?v=H7p0stzmojU) | 1 week ago |
 | 3 | [我對比了GPT-6 Astra 和 Fable 5.1，結果出乎意料！](https://www.youtube.com/watch?v=O664KLj_L9M) | 2 weeks ago |
-| 4 | [GPT-6 Astra 終於來了, 真的很好用！(8個應用案例)](https://www.youtube.com/watch?v=L6q_-OkOrKE) | 2 weeks ago |
+| 4 | [GPT-6 Astra 終於來了, 真的很好用！(8個應用案例)](https://www.youtube.com/watch?v=L6q_-OkOrKE) | 3 weeks ago |
 | 5 | [ChatGPT瀏覽器5個實用場景，比我想像中好用太多！](https://www.youtube.com/watch?v=IVxZ0-3C5Wg) | 3 weeks ago |
 
 ### 我想用Ai賺錢 · [@我想用Ai賺錢](https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos)
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [【MV】AI 做埋我份工\|AI 唱的廣東話 RAP\|Claude Opus 5.5 重製版](https://www.youtube.com/watch?v=-HHetU794Cs) | Today |
-| 2 | [Microsoft 新 Copilot：Home、Code、Autopilot 三大功能登場 #Shorts](https://www.youtube.com/watch?v=qjCDjYSrZPQ) | Today |
-| 3 | [超越 GPT -6 與 Fable 5.1！Claude Opus 5.5 實測：設計與影片製作的 AGI 時代已到來！](https://www.youtube.com/watch?v=MsTacxMJyJI) | 1 day ago |
-| 4 | [Claude 自行讀 DNA，發現類似 CRISPR 的全新酵素系統 ART #Shorts](https://www.youtube.com/watch?v=4xVqabqXKho) | 2 days ago |
-| 5 | [Claude Opus 5.5 推出：追上 Fable 5.1，成本比 Opus 5 低四成 #Shorts](https://www.youtube.com/watch?v=HLDmbRB2oqE) | 2 days ago |
+| 1 | [馬斯克為甚麼要把 GPU 送上太空？電力、散熱、輻射、成本一次講清](https://www.youtube.com/watch?v=SaDsQlXRX1Q) | Today |
+| 2 | [【MV】AI 做埋我份工\|AI 唱的廣東話 RAP\|Claude Opus 5.5 重製版](https://www.youtube.com/watch?v=-HHetU794Cs) | 1 day ago |
+| 3 | [Microsoft 新 Copilot：Home、Code、Autopilot 三大功能登場 #Shorts](https://www.youtube.com/watch?v=qjCDjYSrZPQ) | 1 day ago |
+| 4 | [超越 GPT -6 與 Fable 5.1！Claude Opus 5.5 實測：設計與影片製作的 AGI 時代已到來！](https://www.youtube.com/watch?v=MsTacxMJyJI) | 2 days ago |
+| 5 | [Claude 自行讀 DNA，發現類似 CRISPR 的全新酵素系統 ART #Shorts](https://www.youtube.com/watch?v=4xVqabqXKho) | 3 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -59,17 +59,17 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [最便宜又最簡單自架n8n的方法－讓你的自動化全年無休 (2026)](https://www.youtube.com/watch?v=iLMdftNVXcM) | 2 days ago |
-| 2 | [一句話，把 Claude Code 會話記憶搬到 Codex，品質不打折](https://www.youtube.com/watch?v=4iIS0POVYU0) | 1 month ago |
-| 3 | [3個步驟，從0打造你的AI儀表板](https://www.youtube.com/watch?v=grYI7jaSpxg) | 2 months ago |
-| 4 | [Claude + LINE: 團購整單系統替你每週解放10+ 小時](https://www.youtube.com/watch?v=kxt_7hjAU1o) | 2 months ago |
-| 5 | [你還在手動刷104人力銀行找工作？Claude 10 分鐘幫你全自動化](https://www.youtube.com/watch?v=EfiMXx6qiw4) | 3 months ago |
+| 1 | [我把這個工具交給 Claude Code 操控我的瀏覽器，結果真的太扯了。](https://www.youtube.com/watch?v=AuI2EL9IEeI) | Today |
+| 2 | [最便宜又最簡單自架n8n的方法－讓你的自動化全年無休 (2026)](https://www.youtube.com/watch?v=iLMdftNVXcM) | 3 days ago |
+| 3 | [一句話，把 Claude Code 會話記憶搬到 Codex，品質不打折](https://www.youtube.com/watch?v=4iIS0POVYU0) | 1 month ago |
+| 4 | [3個步驟，從0打造你的AI儀表板](https://www.youtube.com/watch?v=grYI7jaSpxg) | 2 months ago |
+| 5 | [Claude + LINE: 團購整單系統替你每週解放10+ 小時](https://www.youtube.com/watch?v=kxt_7hjAU1o) | 2 months ago |
 
 ### 泛科學院 · [@panscischool](https://www.youtube.com/@panscischool/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [最後通牒！狗急也會跳牆！不要逼我放大招 用AI盜我聲音的人看好了！](https://www.youtube.com/watch?v=6hl9kTfKjNM) | 2 days ago |
+| 1 | [最後通牒！狗急也會跳牆！不要逼我放大招 用AI盜我聲音的人看好了！](https://www.youtube.com/watch?v=6hl9kTfKjNM) | 3 days ago |
 | 2 | [ChatGPT Claude免費都能用外掛軟體！台灣能用的 8 款熱門功能生活功能 跨平台比價蕭方便！](https://www.youtube.com/watch?v=1M9BX6LEcy0) | 1 week ago |
 | 3 | [實測 GPT-6 Astra！三個下指令的正確方式？ChatGPT再度成為話題！\|泛科學院](https://www.youtube.com/watch?v=esDXm3BXBZI) | 2 weeks ago |
 | 4 | [AI訂閱費好貴！每個月只選一家可以選誰？真 付費版AI評比！](https://www.youtube.com/watch?v=jpsI5hNXdKg) | 3 weeks ago |
@@ -79,9 +79,9 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [改个按钮多花40% Token？用Graft给 AI 装代码地图，别再盲目搜文件了](https://www.youtube.com/watch?v=9Be7ALZBv0Q) | 1 day ago |
-| 2 | [别碰WSL！Windows原生安装Claude Code实测，5大报错排雷指南](https://www.youtube.com/watch?v=iHVpk9IM1Uk) | 4 days ago |
-| 3 | [URL发给朋友打不开？localhost 不是网址，是只对你有效的暗号](https://www.youtube.com/watch?v=8unONuKIaPs) | 5 days ago |
+| 1 | [改个按钮多花40% Token？用Graft给 AI 装代码地图，别再盲目搜文件了](https://www.youtube.com/watch?v=9Be7ALZBv0Q) | 2 days ago |
+| 2 | [别碰WSL！Windows原生安装Claude Code实测，5大报错排雷指南](https://www.youtube.com/watch?v=iHVpk9IM1Uk) | 5 days ago |
+| 3 | [URL发给朋友打不开？localhost 不是网址，是只对你有效的暗号](https://www.youtube.com/watch?v=8unONuKIaPs) | 6 days ago |
 | 4 | [实测GPT-6与Claude Fable：找Bug第一名的AI，修Bug居然垫底？](https://www.youtube.com/watch?v=mAoXktiOhWY) | 1 week ago |
 | 5 | [如何在Claude Cowork和Chat之间进行选择？4个问题当场判断](https://www.youtube.com/watch?v=huGHec7mpm8) | 1 week ago |
 
