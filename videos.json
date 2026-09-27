@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27 22:51 HKT",
+  "last_updated": "2026-09-28 03:21 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -137,14 +137,14 @@
           "url": "https://www.youtube.com/watch?v=x6bP8qUp04s",
           "published": "2026-09-27",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "馬斯克為甚麼要把 GPU 送上太空？電力、散熱、輻射、成本一次講清",
           "url": "https://www.youtube.com/watch?v=SaDsQlXRX1Q",
           "published": "2026-09-27",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "【MV】AI 做埋我份工｜AI 唱的廣東話 RAP｜Claude Opus 5.5 重製版",
@@ -221,7 +221,7 @@
           "url": "https://www.youtube.com/watch?v=AuI2EL9IEeI",
           "published": "2026-09-27",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "最便宜又最簡單自架n8n的方法－讓你的自動化全年無休 (2026)",
