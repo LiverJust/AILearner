@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-10-01 18:30 HKT",
+  "last_updated": "2026-10-02 04:36 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
       "handle": "@Teacher_Kong",
       "url": "https://www.youtube.com/@Teacher_Kong/videos",
       "videos": [
+        {
+          "title": "ChatGPT-6.1 完整教學，全新15大功能＋所有場景實測！GPT Work、Codex、Skills 一次搞懂，從入門到進階，新手也能用 AI 賺錢、效率翻10倍！",
+          "url": "https://www.youtube.com/watch?v=6n14rKV6oJc",
+          "published": "2026-10-01",
+          "age": "Today",
+          "is_new_today": false
+        },
         {
           "title": "強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...",
           "url": "https://www.youtube.com/watch?v=gIac2n4nIPg",
@@ -31,13 +38,6 @@
           "title": "1個人+AI＝AI賺錢新思路！我用AI做了一個自動化系統！我只說了一句話，AI自動找選題、生成內容、建立Agent，把整個專案做完了！把整個過程錄成這個影片，非工程...",
           "url": "https://www.youtube.com/watch?v=qEC58aaz7Es",
           "published": "2026-09-09",
-          "age": "3 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "一人動畫公司不是夢！AI動畫完整製作流程大公開～從發想到影片生成一條龍教學，免費啟動你的賺錢副業｜OiiOii超詳細講解",
-          "url": "https://www.youtube.com/watch?v=U7M09LY7J8s",
-          "published": "2026-09-04",
           "age": "3 weeks ago",
           "is_new_today": false
         }
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "Gemini 都移除 Gem 改用 Skill | Grok Bot 多 Bot 分工、Skill、雲端電腦：AI Agent 三個階段",
+          "url": "https://www.youtube.com/watch?v=tmqVgzvFOkk",
+          "published": "2026-10-01",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "個人 AI Agent 爭奪消費者市場。幫你預約、 Call 車、購物。 OpenAI dots 、Meta Muse 、Manus Cue",
           "url": "https://www.youtube.com/watch?v=IIkMaIVcmVY",
           "published": "2026-09-30",
@@ -156,13 +163,6 @@
         {
           "title": "當交通便宜到近乎免費，商店會自己走過來找你？Tony Seba 的無人車預言",
           "url": "https://www.youtube.com/watch?v=x6bP8qUp04s",
-          "published": "2026-09-27",
-          "age": "4 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "馬斯克為甚麼要把 GPU 送上太空？電力、散熱、輻射、成本一次講清",
-          "url": "https://www.youtube.com/watch?v=SaDsQlXRX1Q",
           "published": "2026-09-27",
           "age": "4 days ago",
           "is_new_today": false
@@ -315,24 +315,24 @@
           "is_new_today": false
         },
         {
+          "title": "调用大模型干等好几秒！用Jev只要70ms",
+          "url": "https://www.youtube.com/watch?v=Nm9DUdR-tyw",
+          "published": "2026-09-28",
+          "age": "3 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "AI流程越跑越慢？可能是模型太聪明 #claudecode #claude #chatgpt",
+          "url": "https://www.youtube.com/watch?v=yZORSRw8T0Q",
+          "published": "2026-09-28",
+          "age": "3 days ago",
+          "is_new_today": false
+        },
+        {
           "title": "别再让顶级 LLM 跑判断题！换上 Jev：1000 封邮件只要 9 美分且永不幻觉",
           "url": "https://www.youtube.com/watch?v=sX6n9lL_9F8",
           "published": "2026-09-27",
           "age": "4 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "改个按钮多花40% Token？用Graft给 AI 装代码地图，别再盲目搜文件了",
-          "url": "https://www.youtube.com/watch?v=9Be7ALZBv0Q",
-          "published": "2026-09-25",
-          "age": "6 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "别碰WSL！Windows原生安装Claude Code实测，5大报错排雷指南",
-          "url": "https://www.youtube.com/watch?v=iHVpk9IM1Uk",
-          "published": "2026-09-22",
-          "age": "1 week ago",
           "is_new_today": false
         }
       ]
