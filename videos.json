@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03 22:26 HKT",
+  "last_updated": "2026-10-04 02:51 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -53,7 +53,7 @@
           "url": "https://www.youtube.com/watch?v=iWL-quhw9g4",
           "published": "2026-10-03",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "我給自己招了4個AI員工，每週省下8小時！",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "香港在人均 AI 使用率上排第 3  |  企業買了 AI 工具，但員工是否真的使用",
+          "url": "https://www.youtube.com/watch?v=BxofxfNuNy8",
+          "published": "2026-10-03",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "OpenAI Dots 實測：有自己電腦的 AI 同事，打電話叫它做 3D",
           "url": "https://www.youtube.com/watch?v=4lBlkPxQ86c",
           "published": "2026-10-02",
@@ -156,13 +163,6 @@
         {
           "title": "ChatGPT Space 是甚麼？OpenAI 讓團隊與 AI 在同一頁文件協作（Pages、供應與私隱須知）",
           "url": "https://www.youtube.com/watch?v=M05vq2aF3YI",
-          "published": "2026-09-30",
-          "age": "3 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "OpenAI DevDay 2026 八大重點：dots、Pro 500、Sol、Decisions API、Ultrafast #Shorts",
-          "url": "https://www.youtube.com/watch?v=53xfZ-5ugSs",
           "published": "2026-09-30",
           "age": "3 days ago",
           "is_new_today": false

@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-10-03 22:26 HKT*
+*Last updated: 2026-10-04 02:51 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [OpenAI Dots 實測：有自己電腦的 AI 同事，打電話叫它做 3D](https://www.youtube.com/watch?v=4lBlkPxQ86c) | 1 day ago |
-| 2 | [Grok Bots 是多餘，還是創新？一次看清楚 AI Agent 三個發展階段](https://www.youtube.com/watch?v=tmqVgzvFOkk) | 2 days ago |
-| 3 | [個人 AI Agent 爭奪消費者市場。幫你預約、 Call 車、購物。 OpenAI dots 、Meta Muse 、Manus Cue](https://www.youtube.com/watch?v=IIkMaIVcmVY) | 3 days ago |
-| 4 | [ChatGPT Space 是甚麼？OpenAI 讓團隊與 AI 在同一頁文件協作（Pages、供應與私隱須知）](https://www.youtube.com/watch?v=M05vq2aF3YI) | 3 days ago |
-| 5 | [OpenAI DevDay 2026 八大重點：dots、Pro 500、Sol、Decisions API、Ultrafast #Shorts](https://www.youtube.com/watch?v=53xfZ-5ugSs) | 3 days ago |
+| 1 | [香港在人均 AI 使用率上排第 3  \|  企業買了 AI 工具，但員工是否真的使用](https://www.youtube.com/watch?v=BxofxfNuNy8) | Today |
+| 2 | [OpenAI Dots 實測：有自己電腦的 AI 同事，打電話叫它做 3D](https://www.youtube.com/watch?v=4lBlkPxQ86c) | 1 day ago |
+| 3 | [Grok Bots 是多餘，還是創新？一次看清楚 AI Agent 三個發展階段](https://www.youtube.com/watch?v=tmqVgzvFOkk) | 2 days ago |
+| 4 | [個人 AI Agent 爭奪消費者市場。幫你預約、 Call 車、購物。 OpenAI dots 、Meta Muse 、Manus Cue](https://www.youtube.com/watch?v=IIkMaIVcmVY) | 3 days ago |
+| 5 | [ChatGPT Space 是甚麼？OpenAI 讓團隊與 AI 在同一頁文件協作（Pages、供應與私隱須知）](https://www.youtube.com/watch?v=M05vq2aF3YI) | 3 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
