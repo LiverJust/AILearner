@@ -3,47 +3,47 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-10-06 06:13 HKT*
+*Last updated: 2026-10-06 18:50 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [ChatGPT-6.1 完整教學，全新15大功能＋所有場景實測！GPT Work、Codex、Skills 一次搞懂，從入門到進階，新手也能用 AI 賺錢、效率翻10倍！](https://www.youtube.com/watch?v=6n14rKV6oJc) | 4 days ago |
-| 2 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不使用的人真的很吃虧！](https://www.youtube.com/watch?v=gIac2n4nIPg) | 2 weeks ago |
+| 1 | [ChatGPT-6.1 完整教學，全新15大功能＋所有場景實測！GPT Work、Codex、Skills 一次搞懂，從入門到進階，新手也能用 AI 賺錢、效率翻10倍！](https://www.youtube.com/watch?v=6n14rKV6oJc) | 5 days ago |
+| 2 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...](https://www.youtube.com/watch?v=gIac2n4nIPg) | 2 weeks ago |
 | 3 | [GPT Image 2.5 上線 OiiOii！這次生圖真的更強了？實測生圖、改圖到商業素材一次看，循序漸進小白也能快速上手賺錢！](https://www.youtube.com/watch?v=17jkSr_THtk) | 2 weeks ago |
-| 4 | [GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5.1，AGI真的來了！](https://www.youtube.com/watch?v=CmjNjWeRE0Y) | 3 weeks ago |
-| 5 | [1個人+AI＝AI賺錢新思路！我用AI做了一個自動化系統！我只說了一句話，AI自動找選題、生成內容、建立Agent，把整個專案做完了！把整個過程錄成這個影片，非工程師也能上手的AI助理教學！](https://www.youtube.com/watch?v=qEC58aaz7Es) | 3 weeks ago |
+| 4 | [GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5....](https://www.youtube.com/watch?v=CmjNjWeRE0Y) | 3 weeks ago |
+| 5 | [1個人+AI＝AI賺錢新思路！我用AI做了一個自動化系統！我只說了一句話，AI自動找選題、生成內容、建立Agent，把整個專案做完了！把整個過程錄成這個影片，非工程...](https://www.youtube.com/watch?v=qEC58aaz7Es) | 3 weeks ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Anthropic 公布了掌握 Opus 5.5 的13條秘訣！](https://www.youtube.com/watch?v=iWL-quhw9g4) | 2 days ago |
+| 1 | [Anthropic 公布了掌握 Opus 5.5 的13條秘訣！](https://www.youtube.com/watch?v=iWL-quhw9g4) | 3 days ago |
 | 2 | [我給自己招了4個AI員工，每週省下8小時！](https://www.youtube.com/watch?v=0X5CVapfqPQ) | 1 week ago |
 | 3 | [GPT-6 Astra + Images 2.5: 一句話讓 AI 完成整個工作流！](https://www.youtube.com/watch?v=H7p0stzmojU) | 2 weeks ago |
 | 4 | [我對比了GPT-6 Astra 和 Fable 5.1，結果出乎意料！](https://www.youtube.com/watch?v=O664KLj_L9M) | 3 weeks ago |
-| 5 | [GPT-6 Astra 終於來了, 真的很好用！(8個應用案例)](https://www.youtube.com/watch?v=L6q_-OkOrKE) | 4 weeks ago |
+| 5 | [GPT-6 Astra 終於來了, 真的很好用！(8個應用案例)](https://www.youtube.com/watch?v=L6q_-OkOrKE) | 1 month ago |
 
 ### 我想用Ai賺錢 · [@我想用Ai賺錢](https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [ChatGPT Dots、Manus Cue 香港實試：以後唔洗自己設定AI助理？由開通到交代工作 #ChatGPTdots #ManusCue #AIAgent #廣東話 #香港AI應用](https://www.youtube.com/watch?v=I7PMmmIv_Ro) | 3 days ago |
-| 2 | [Jev AI 爆紅: 不是一般的AI模型，它最值得留意的能力竟然是... #Jev #AI工具 #AI自動化 #AIAgent #我想用AI賺錢 #香港AI #AI新聞 #廣東話](https://www.youtube.com/watch?v=31MobR591qI) | 1 week ago |
-| 3 | [Grok Bot 香港實測：只請一個 AI 總經理，就能自組員工團隊？#GrokBot #AI員工 #一人公司 #香港AI #AI工具 #我想用AI賺錢 #AI實測 #廣東話 #粵語 #香港AI應用](https://www.youtube.com/watch?v=ds0kLueaJXY) | 2 weeks ago |
-| 4 | [GPT-6 Astra 令我即刻轉會！點解我會即刻升級 ChatGPT Pro？GPT- Live 語音功能＋Images 2.5 更新 #GPT6 #Astra #ChatGPT #廣東話 ](https://www.youtube.com/watch?v=fb0qd_SKEFU) | 3 weeks ago |
-| 5 | [AI實戰技巧：我竟然用 Hermes Agent 加免費AI模型製作了一個CRM系統！#hermesagent #香港AI應用 #AI寫程式 #我想用AI賺錢  #ai工具 #免費AI工具 #AI助理](https://www.youtube.com/watch?v=UxsdZjxhQZ0) | 3 weeks ago |
+| 1 | [ChatGPT Dots、Manus Cue 香港實試：以後唔洗自己設定AI助理？由開通到交代工作 #ChatGPTdots #ManusCue #AIAgent #廣東話 #香港AI應用](https://www.youtube.com/watch?v=I7PMmmIv_Ro) | 4 days ago |
+| 2 | [Grok Bot 香港實測：只請一個 AI 總經理，就能自組員工團隊？#GrokBot #AI員工 #一人公司 #香港AI #AI工具 #我想用AI賺錢 #AI實測 #廣東話 #粵語 #香港AI應用](https://www.youtube.com/watch?v=ds0kLueaJXY) | 2 weeks ago |
+| 3 | [GPT-6 Astra 令我即刻轉會！點解我會即刻升級 ChatGPT Pro？GPT- Live 語音功能＋Images 2.5 更新 #GPT6 #Astra #ChatGPT #廣東話](https://www.youtube.com/watch?v=fb0qd_SKEFU) | 3 weeks ago |
+| 4 | [Hermes Agent 實戰：18分鐘教你用免費AI模型製作CRM系統 #廣東話 #AI實戰 #AI應用教學 #香港AI #HermesAgent #免費AI工具 #CRM系統](https://www.youtube.com/watch?v=6NHo--3kHLw) | 1 month ago |
+| 5 | [Google AI 發生緊咩事？一邊核心人材大洗牌，一邊多個AI新功能推出！Gemini Spark 登陸香港 #googleai #geminispark #AI新聞 #廣東話 #香港AI](https://www.youtube.com/watch?v=1Rfxm9Gr20g) | 1 month ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [GPT-6 Astra 登上四個設計榜首：Design Arena 排名怎樣看？](https://www.youtube.com/watch?v=3XuPyDHKOuI) | Today |
-| 2 | [香港在人均 AI 使用率上排第 3  \|  企業買了 AI 工具，但員工是否真的使用](https://www.youtube.com/watch?v=BxofxfNuNy8) | 2 days ago |
-| 3 | [OpenAI Dots 實測：有自己電腦的 AI 同事，打電話叫它做 3D](https://www.youtube.com/watch?v=4lBlkPxQ86c) | 3 days ago |
-| 4 | [Grok Bots 是多餘，還是創新？一次看清楚 AI Agent 三個發展階段](https://www.youtube.com/watch?v=tmqVgzvFOkk) | 4 days ago |
-| 5 | [個人 AI Agent 爭奪消費者市場。幫你預約、 Call 車、購物。 OpenAI dots 、Meta Muse 、Manus Cue](https://www.youtube.com/watch?v=IIkMaIVcmVY) | 5 days ago |
+| 1 | [香港在人均 AI 使用率上排第 3 \| 企業買了 AI 工具，但員工是否真的使用](https://www.youtube.com/watch?v=BxofxfNuNy8) | 3 days ago |
+| 2 | [OpenAI Dots 實測：有自己電腦的 AI 同事，打電話叫它做 3D](https://www.youtube.com/watch?v=4lBlkPxQ86c) | 4 days ago |
+| 3 | [Grok Bots 是多餘，還是創新？一次看清楚 AI Agent 三個發展階段](https://www.youtube.com/watch?v=tmqVgzvFOkk) | 5 days ago |
+| 4 | [個人 AI Agent 爭奪消費者市場。幫你預約、 Call 車、購物。 OpenAI dots 、Meta Muse 、Manus Cue](https://www.youtube.com/watch?v=IIkMaIVcmVY) | 6 days ago |
+| 5 | [跑贏保特，卻未學會執屋：機械人公司，為什麼免費幫你做家務 ?](https://www.youtube.com/watch?v=MALP_SwIKhU) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -59,7 +59,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [挑戰從零開始，全程用語音使用 Claude Code 做出能收錢的電商網站(Typeless)](https://www.youtube.com/watch?v=DaEd0gUH5-g) | 1 day ago |
+| 1 | [挑戰從零開始，全程用語音使用 Claude Code 做出能收錢的電商網站(Typeless)](https://www.youtube.com/watch?v=DaEd0gUH5-g) | 2 days ago |
 | 2 | [我把這個工具交給 Claude Code 操控我的瀏覽器，結果真的太扯了。](https://www.youtube.com/watch?v=AuI2EL9IEeI) | 1 week ago |
 | 3 | [最便宜又最簡單自架n8n的方法－讓你的自動化全年無休 (2026)](https://www.youtube.com/watch?v=iLMdftNVXcM) | 1 week ago |
 | 4 | [一句話，把 Claude Code 會話記憶搬到 Codex，品質不打折](https://www.youtube.com/watch?v=4iIS0POVYU0) | 1 month ago |
@@ -69,21 +69,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [HR 怎麼用 AI 篩你的履歷？人資主管拆解完整流程\|泛科學院 ft. 鄭智維](https://www.youtube.com/watch?v=ZPcGNFgF4mE) | 3 days ago |
-| 2 | [最後通牒！狗急也會跳牆！不要逼我放大招  用AI盜我聲音的人看好了！](https://www.youtube.com/watch?v=6hl9kTfKjNM) | 1 week ago |
-| 3 | [ChatGPT Claude 9月初小更新](https://www.youtube.com/watch?v=4LwdxLu-Nc8) | 1 week ago |
-| 4 | [AI大當機？企業導入AI必須注意的事情！？](https://www.youtube.com/watch?v=JctAJ0Scqxs) | 2 weeks ago |
-| 5 | [Google Lyria 3.5 超越Suno](https://www.youtube.com/watch?v=gZTlxixXyd4) | 2 weeks ago |
+| 1 | [AI 不看你的證照 科技公司人資主管告訴你：企業真正要的 AI 能力是什麼？ft. 鄭智維](https://www.youtube.com/watch?v=ZPcGNFgF4mE) | 4 days ago |
+| 2 | [最後通牒！狗急也會跳牆！不要逼我放大招 用AI盜我聲音的人看好了！](https://www.youtube.com/watch?v=6hl9kTfKjNM) | 1 week ago |
+| 3 | [ChatGPT Claude免費都能用外掛軟體！台灣能用的 8 款熱門功能生活功能 跨平台比價蕭方便！](https://www.youtube.com/watch?v=1M9BX6LEcy0) | 2 weeks ago |
+| 4 | [實測 GPT-6 Astra！三個下指令的正確方式？ChatGPT再度成為話題！\|泛科學院](https://www.youtube.com/watch?v=esDXm3BXBZI) | 3 weeks ago |
+| 5 | [AI訂閱費好貴！每個月只選一家可以選誰？真 付費版AI評比！](https://www.youtube.com/watch?v=jpsI5hNXdKg) | 1 month ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Claude Code 的界面原来能自己改？ClaudeCode Mod 完整教程（2026）](https://www.youtube.com/watch?v=0RTUj16alAU) | Today |
-| 2 | [别再让Claude偷跑用量！实测Task budgets防止截断与早停](https://www.youtube.com/watch?v=bniFQlzWVbc) | 1 day ago |
-| 3 | [MCP让Claude Code直接管你的Wordpress网站\|Easy MCP AI实测教程](https://www.youtube.com/watch?v=OCE-qMzzb_U) | 3 days ago |
-| 4 | [我让AI删文章，还点了允许，网站照样拒绝\|Claude Code + WordPress MCP](https://www.youtube.com/watch?v=FI45SxZzH9Q) | 3 days ago |
-| 5 | [一句话补完WordPress所有文章的SEO](https://www.youtube.com/watch?v=sLGZGsyZ1Fc) | 3 days ago |
+| 1 | [Claude Code 的界面原来能自己改？ClaudeCode Mod 完整教程（2026）](https://www.youtube.com/watch?v=0RTUj16alAU) | 1 day ago |
+| 2 | [别再让Claude偷跑用量！实测Task budgets防止截断与早停](https://www.youtube.com/watch?v=bniFQlzWVbc) | 2 days ago |
+| 3 | [MCP让Claude Code直接管你的Wordpress网站\|Easy MCP AI实测教程](https://www.youtube.com/watch?v=OCE-qMzzb_U) | 4 days ago |
+| 4 | [ChatGPT Dots 教程\|关掉聊天后谁替你盯进度？OpenAI 常驻智能体怎么交接，哪些事它不能替你做](https://www.youtube.com/watch?v=imvTUmRoqK8) | 6 days ago |
+| 5 | [AI改崩代码回不去？别再做完才commit！教你用Git留住退路](https://www.youtube.com/watch?v=o1EQ5wezMyA) | 1 week ago |
 
 ---
 
