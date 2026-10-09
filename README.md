@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-10-09 18:57 HKT*
+*Last updated: 2026-10-10 04:22 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -29,21 +29,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [ChatGPT Dots、Manus Cue 香港實試：以後唔洗自己設定AI助理？由開通到交代工作 #ChatGPTdots #ManusCue #AIAgent #廣東話 #香港AI應用](https://www.youtube.com/watch?v=I7PMmmIv_Ro) | 1 week ago |
-| 2 | [Grok Bot 香港實測：只請一個 AI 總經理，就能自組員工團隊？#GrokBot #AI員工 #一人公司 #香港AI #AI工具 #我想用AI賺錢 #AI實測 #廣東話 #粵語 #香港AI應用](https://www.youtube.com/watch?v=ds0kLueaJXY) | 3 weeks ago |
-| 3 | [GPT-6 Astra 令我即刻轉會！點解我會即刻升級 ChatGPT Pro？GPT- Live 語音功能＋Images 2.5 更新 #GPT6 #Astra #ChatGPT #廣東話](https://www.youtube.com/watch?v=fb0qd_SKEFU) | 4 weeks ago |
-| 4 | [Hermes Agent 實戰：18分鐘教你用免費AI模型製作CRM系統 #廣東話 #AI實戰 #AI應用教學 #香港AI #HermesAgent #免費AI工具 #CRM系統](https://www.youtube.com/watch?v=6NHo--3kHLw) | 1 month ago |
-| 5 | [Google AI 發生緊咩事？一邊核心人材大洗牌，一邊多個AI新功能推出！Gemini Spark 登陸香港 #googleai #geminispark #AI新聞 #廣東話 #香港AI](https://www.youtube.com/watch?v=1Rfxm9Gr20g) | 1 month ago |
+| 1 | [AI 日常小技巧 #1 群組幾百個未讀？善用AI處理 #我想用AI賺錢 #AI日常小技巧 #AI教學 #ChatGPT #Gemini #WhatsApp #生活小技巧 #香港AI #AI小技巧](https://www.youtube.com/watch?v=8SVWrLypoS4) | Today |
+| 2 | [#Claude 直接坐入 #Google Docs／Sheets／Slide：直接在旁邊用 Claude #AI工具 #GoogleWorkspace #廣東話 #AI應用 #AI日常使用](https://www.youtube.com/watch?v=dsZQHh3JNb0) | 2 days ago |
+| 3 | [#ChatGPT iPhone app 最近更新咗相機入面多咗個「Scan」#AI教學 #廣東話 #ChatGPT教學 #AI教學 #AI工具 #我想用AI賺錢 #香港AI #我想用AI賺錢](https://www.youtube.com/watch?v=W6y1fYq6QKM) | 3 days ago |
+| 4 | [#ChatGPT 可以直接整WhatsApp Sticker！ #ai工具 #廣東話 #我想用ai賺錢 #chatgpt #香港ai #openai](https://www.youtube.com/watch?v=oTycZBOx_6Q) | 3 days ago |
+| 5 | [ChatGPT Dots、Manus Cue 香港實試：以後唔洗自己設定AI助理？由開通到交代工作 #ChatGPTdots #ManusCue #AIAgent #廣東話 #香港AI應用](https://www.youtube.com/watch?v=I7PMmmIv_Ro) | 1 week ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [把 AI Agent 放進 WhatsApp 群組：Skill-Wise 設定教學（Manus、ChatGPT、Zo Computer）](https://www.youtube.com/watch?v=5LP5QH8uRLM) | 1 day ago |
-| 2 | [OpenAI 的五級 AI：我們行到第幾級？ AGI 來了嗎](https://www.youtube.com/watch?v=sz55PifgtHg) | 2 days ago |
-| 3 | [香港在人均 AI 使用率上排第 3 \| 企業買了 AI 工具，但員工是否真的使用](https://www.youtube.com/watch?v=BxofxfNuNy8) | 6 days ago |
-| 4 | [OpenAI Dots 實測：有自己電腦的 AI 同事，打電話叫它做 3D](https://www.youtube.com/watch?v=4lBlkPxQ86c) | 1 week ago |
-| 5 | [Grok Bots 是多餘，還是創新？一次看清楚 AI Agent 三個發展階段](https://www.youtube.com/watch?v=tmqVgzvFOkk) | 1 week ago |
+| 1 | [ChatGPT、Claude 同時推出互動介面功能 \| 我們還需要登入 SaaS 使用軟件嗎](https://www.youtube.com/watch?v=H0pw8rhAUGI) | Today |
+| 2 | [把 AI Agent 放進 WhatsApp 群組：Skill-Wise 設定教學（Manus、ChatGPT、Zo Computer）](https://www.youtube.com/watch?v=5LP5QH8uRLM) | 1 day ago |
+| 3 | [Claude Haiku 5.5 推出：成本低約 75%，Opus 帶 10 個 Haiku 只需 58 秒](https://www.youtube.com/watch?v=v9OvUyAklck) | 2 days ago |
+| 4 | [GPT-6 登陸 ChatGPT：Intelligent UI 讓答案變成可點擊的互動介面](https://www.youtube.com/watch?v=ch5tGM25ORs) | 2 days ago |
+| 5 | [OpenAI 的五級 AI：我們行到第幾級？ AGI 來了嗎](https://www.youtube.com/watch?v=sz55PifgtHg) | 2 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -71,9 +71,9 @@
 |---|-------|-----|
 | 1 | [Claude 外掛推薦！8 款上班族實測：簡報、會議、CRM、求職\|泛科學院](https://www.youtube.com/watch?v=ygkPm3-6exc) | 2 days ago |
 | 2 | [AI 不看你的證照 科技公司人資主管告訴你：企業真正要的 AI 能力是什麼？ft. 鄭智維](https://www.youtube.com/watch?v=ZPcGNFgF4mE) | 1 week ago |
-| 3 | [最後通牒！狗急也會跳牆！不要逼我放大招 用AI盜我聲音的人看好了！](https://www.youtube.com/watch?v=6hl9kTfKjNM) | 2 weeks ago |
-| 4 | [ChatGPT Claude免費都能用外掛軟體！台灣能用的 8 款熱門功能生活功能 跨平台比價蕭方便！](https://www.youtube.com/watch?v=1M9BX6LEcy0) | 3 weeks ago |
-| 5 | [實測 GPT-6 Astra！三個下指令的正確方式？ChatGPT再度成為話題！\|泛科學院](https://www.youtube.com/watch?v=esDXm3BXBZI) | 4 weeks ago |
+| 3 | [最後通牒！狗急也會跳牆！不要逼我放大招  用AI盜我聲音的人看好了！](https://www.youtube.com/watch?v=6hl9kTfKjNM) | 2 weeks ago |
+| 4 | [ChatGPT Claude 9月初小更新](https://www.youtube.com/watch?v=4LwdxLu-Nc8) | 2 weeks ago |
+| 5 | [AI大當機？企業導入AI必須注意的事情！？](https://www.youtube.com/watch?v=JctAJ0Scqxs) | 2 weeks ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
