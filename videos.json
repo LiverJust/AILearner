@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-14 22:44 HKT",
+  "last_updated": "2026-10-15 03:46 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -137,14 +137,14 @@
           "url": "https://www.youtube.com/watch?v=Ko18mEHwKN4",
           "published": "2026-10-14",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "Manus AI Agent 走進 OPPO 手機：一句話排好行程、整理相片，私隱如何處理？",
           "url": "https://www.youtube.com/watch?v=65erIKl7i-0",
           "published": "2026-10-14",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "讓 AI 每日自動匯報廣告數據到 WhatsApp：Skill-Wise 定時任務教學（Manus Project 權限）",
@@ -221,7 +221,7 @@
           "url": "https://www.youtube.com/watch?v=Aq3DCWL_6Cs",
           "published": "2026-10-14",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "我實測 Claude + Jev，竟然能玩出這 3 種應用",
@@ -305,7 +305,7 @@
           "url": "https://www.youtube.com/watch?v=b84VdIprZXA",
           "published": "2026-10-14",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "GPT 6 三个模型怎么选？Astra、Sol、Luna 加推理档位一次讲清，钱和效果都拿回来｜2026 教程",
