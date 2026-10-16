@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-16 16:32 HKT",
+  "last_updated": "2026-10-16 22:21 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -259,6 +259,13 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
+          "title": "ChatGPT 只是高級文字接龍？諾貝爾獎 AI 教父打臉：它真的聽得懂！｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=S6JizkTVMQM",
+          "published": "2026-10-16",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "Claude 外掛推薦！8 款上班族實測：簡報、會議、CRM、求職｜泛科學院",
           "url": "https://www.youtube.com/watch?v=ygkPm3-6exc",
           "published": "2026-10-07",
@@ -284,13 +291,6 @@
           "url": "https://www.youtube.com/watch?v=1M9BX6LEcy0",
           "published": "2026-09-17",
           "age": "4 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "實測 GPT-6 Astra！三個下指令的正確方式？ChatGPT再度成為話題！｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=esDXm3BXBZI",
-          "published": "2026-09-10",
-          "age": "1 month ago",
           "is_new_today": false
         }
       ]
