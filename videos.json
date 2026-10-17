@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17 21:18 HKT",
+  "last_updated": "2026-10-18 01:59 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -11,7 +11,7 @@
           "url": "https://www.youtube.com/watch?v=v7UUfn7JQNk",
           "published": "2026-10-17",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "ChatGPT-6.1 完整教學，全新15大功能＋所有場景實測！GPT Work、Codex、Skills 一次搞懂，從入門到進階，新手也能用 AI 賺錢、效率翻10倍！",
@@ -53,7 +53,7 @@
           "url": "https://www.youtube.com/watch?v=5uftzRIrhGA",
           "published": "2026-10-17",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "谷歌 Gemini Skills 終於來了！免費贈送7個核心Skills！",
@@ -95,7 +95,7 @@
           "url": "https://www.youtube.com/watch?v=EUVxwy6FdVs",
           "published": "2026-10-17",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "ChatGPT Dots、Manus Cue 香港實試：以後唔洗自己設定AI助理？由開通到交代工作 #ChatGPTdots #ManusCue #AIAgent #廣東話 #香港AI應用",
@@ -305,7 +305,7 @@
           "url": "https://www.youtube.com/watch?v=Lx22N9R_0As",
           "published": "2026-10-17",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "用好Opus 5 5的13条新规则：官方提示词指南逐条拆解｜Claude Code 2026教程",
