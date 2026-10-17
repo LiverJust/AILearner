@@ -1,11 +1,18 @@
 {
-  "last_updated": "2026-10-17 16:04 HKT",
+  "last_updated": "2026-10-17 21:18 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
       "handle": "@Teacher_Kong",
       "url": "https://www.youtube.com/@Teacher_Kong/videos",
       "videos": [
+        {
+          "title": "如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片...",
+          "url": "https://www.youtube.com/watch?v=v7UUfn7JQNk",
+          "published": "2026-10-17",
+          "age": "Today",
+          "is_new_today": true
+        },
         {
           "title": "ChatGPT-6.1 完整教學，全新15大功能＋所有場景實測！GPT Work、Codex、Skills 一次搞懂，從入門到進階，新手也能用 AI 賺錢、效率翻10倍！",
           "url": "https://www.youtube.com/watch?v=6n14rKV6oJc",
@@ -31,13 +38,6 @@
           "title": "GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5....",
           "url": "https://www.youtube.com/watch?v=CmjNjWeRE0Y",
           "published": "2026-09-11",
-          "age": "1 month ago",
-          "is_new_today": false
-        },
-        {
-          "title": "1個人+AI＝AI賺錢新思路！我用AI做了一個自動化系統！我只說了一句話，AI自動找選題、生成內容、建立Agent，把整個專案做完了！把整個過程錄成這個影片，非工程...",
-          "url": "https://www.youtube.com/watch?v=qEC58aaz7Es",
-          "published": "2026-09-09",
           "age": "1 month ago",
           "is_new_today": false
         }
@@ -91,6 +91,13 @@
       "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
       "videos": [
         {
+          "title": "由諗橋到 IG 出 Post！Grokbot + Higgsfield MCP 幫產品做搞笑短片：真AI Agent 自動化社交平台管理 #HiggsfieldMCP #AIAgent #AI影片製作",
+          "url": "https://www.youtube.com/watch?v=EUVxwy6FdVs",
+          "published": "2026-10-17",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "ChatGPT Dots、Manus Cue 香港實試：以後唔洗自己設定AI助理？由開通到交代工作 #ChatGPTdots #ManusCue #AIAgent #廣東話 #香港AI應用",
           "url": "https://www.youtube.com/watch?v=I7PMmmIv_Ro",
           "published": "2026-10-02",
@@ -116,13 +123,6 @@
           "url": "https://www.youtube.com/watch?v=6NHo--3kHLw",
           "published": "2026-09-04",
           "age": "1 month ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Google AI 發生緊咩事？一邊核心人材大洗牌，一邊多個AI新功能推出！Gemini Spark 登陸香港 #googleai #geminispark #AI新聞 #廣東話 #香港AI",
-          "url": "https://www.youtube.com/watch?v=1Rfxm9Gr20g",
-          "published": "2026-08-14",
-          "age": "2 months ago",
           "is_new_today": false
         }
       ]
