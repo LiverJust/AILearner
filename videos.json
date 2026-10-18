@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-18 01:59 HKT",
+  "last_updated": "2026-10-18 16:22 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -10,7 +10,7 @@
           "title": "如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片...",
           "url": "https://www.youtube.com/watch?v=v7UUfn7JQNk",
           "published": "2026-10-17",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
@@ -24,7 +24,7 @@
           "title": "強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...",
           "url": "https://www.youtube.com/watch?v=gIac2n4nIPg",
           "published": "2026-09-20",
-          "age": "3 weeks ago",
+          "age": "4 weeks ago",
           "is_new_today": false
         },
         {
@@ -52,7 +52,7 @@
           "title": "GPT 6 + ChatGPT Work: 3套AI自動化工作流，直接拿去用！",
           "url": "https://www.youtube.com/watch?v=5uftzRIrhGA",
           "published": "2026-10-17",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
@@ -94,7 +94,7 @@
           "title": "由諗橋到 IG 出 Post！Grokbot + Higgsfield MCP 幫產品做搞笑短片：真AI Agent 自動化社交平台管理 #HiggsfieldMCP #AIAgent #AI影片製作",
           "url": "https://www.youtube.com/watch?v=EUVxwy6FdVs",
           "published": "2026-10-17",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
@@ -108,7 +108,7 @@
           "title": "Grok Bot 香港實測：只請一個 AI 總經理，就能自組員工團隊？#GrokBot #AI員工 #一人公司 #香港AI #AI工具 #我想用AI賺錢 #AI實測 #廣東話 #粵語 #香港AI應用",
           "url": "https://www.youtube.com/watch?v=ds0kLueaJXY",
           "published": "2026-09-18",
-          "age": "4 weeks ago",
+          "age": "1 month ago",
           "is_new_today": false
         },
         {
@@ -133,37 +133,37 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "【Skill-Wise Webhook 教學】即時通知發送到 WhatsApp 群組：（Zapier + Google Forms）",
+          "url": "https://www.youtube.com/watch?v=92VPLAFPnuc",
+          "published": "2026-10-18",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "公開我全自動 AI 剪片流程 | 明年今日，人人都可以是 YouTuber ！",
           "url": "https://www.youtube.com/watch?v=QOqEUXaXMsk",
           "published": "2026-10-16",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
           "title": "訓練自己的 WhatsApp AI 客服，唔識就問同事，教一次就記住",
           "url": "https://www.youtube.com/watch?v=Ol6fm-up6y8",
           "published": "2026-10-16",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
           "title": "讓 AI 每日自動匯報廣告數據到 WhatsApp：Skill-Wise 定時任務教學（Manus Project 權限）",
           "url": "https://www.youtube.com/watch?v=sjOGyCwOeIY",
           "published": "2026-10-13",
-          "age": "4 days ago",
+          "age": "5 days ago",
           "is_new_today": false
         },
         {
           "title": "喺香港用 Claude 唔使 VPN：雲端電腦 Zo Computer 教學",
           "url": "https://www.youtube.com/watch?v=jFWBMQfkNgE",
           "published": "2026-10-12",
-          "age": "5 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "用活細胞做電腦：生物電腦如何學習？| 人腦細胞學會打機 Cortical Labs CL1",
-          "url": "https://www.youtube.com/watch?v=oGoUK4j2VSA",
-          "published": "2026-10-11",
           "age": "6 days ago",
           "is_new_today": false
         }
@@ -220,28 +220,28 @@
           "title": "Claude + Higgsfield MCP = 無限內容產生器",
           "url": "https://www.youtube.com/watch?v=Aq3DCWL_6Cs",
           "published": "2026-10-14",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
           "title": "我實測 Claude + Jev，竟然能玩出這 3 種應用",
           "url": "https://www.youtube.com/watch?v=EbJzxrhaXmM",
           "published": "2026-10-13",
-          "age": "4 days ago",
+          "age": "5 days ago",
           "is_new_today": false
         },
         {
           "title": "挑戰從零開始，全程用語音使用 Claude Code 做出能收錢的電商網站(Typeless)",
           "url": "https://www.youtube.com/watch?v=DaEd0gUH5-g",
           "published": "2026-10-04",
-          "age": "1 week ago",
+          "age": "2 weeks ago",
           "is_new_today": false
         },
         {
           "title": "我把這個工具交給 Claude Code 操控我的瀏覽器，結果真的太扯了。",
           "url": "https://www.youtube.com/watch?v=AuI2EL9IEeI",
           "published": "2026-09-27",
-          "age": "2 weeks ago",
+          "age": "3 weeks ago",
           "is_new_today": false
         },
         {
@@ -262,7 +262,7 @@
           "title": "ChatGPT 只是高級文字接龍？諾貝爾獎 AI 教父打臉：它真的聽得懂！｜泛科學院",
           "url": "https://www.youtube.com/watch?v=S6JizkTVMQM",
           "published": "2026-10-16",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
@@ -301,37 +301,37 @@
       "url": "https://www.youtube.com/@YAHAClass/featured",
       "videos": [
         {
+          "title": "别再乱下载 AI 模型了！一个命令，找出你的电脑最适合跑哪个大模型。",
+          "url": "https://www.youtube.com/watch?v=6d9s_hmXQX0",
+          "published": "2026-10-18",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "Claude Code 教程：30个隐藏最深功能，有些你一次都沒用過",
           "url": "https://www.youtube.com/watch?v=Lx22N9R_0As",
           "published": "2026-10-17",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
           "title": "用好Opus 5 5的13条新规则：官方提示词指南逐条拆解｜Claude Code 2026教程",
           "url": "https://www.youtube.com/watch?v=b84VdIprZXA",
           "published": "2026-10-14",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
           "title": "GPT 6 三个模型怎么选？Astra、Sol、Luna 加推理档位一次讲清，钱和效果都拿回来｜2026 教程",
           "url": "https://www.youtube.com/watch?v=KyXr6wdgkyE",
           "published": "2026-10-12",
-          "age": "5 days ago",
+          "age": "6 days ago",
           "is_new_today": false
         },
         {
           "title": "GitHub Trending爆火：Claude Code接入REA，小白也能做逆向 | AI逆向入门教程",
           "url": "https://www.youtube.com/watch?v=o8Ca8Y9LG_0",
           "published": "2026-10-11",
-          "age": "6 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "老外疯传的GitHub 9.8万星神器：AI员工自动上班、超预算自动停机，Claude订阅直接用｜Claude Code 教学｜Paperclip教学",
-          "url": "https://www.youtube.com/watch?v=vZHaSwnJmSk",
-          "published": "2026-10-10",
           "age": "1 week ago",
           "is_new_today": false
         }
