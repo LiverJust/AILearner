@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-19 17:21 HKT",
+  "last_updated": "2026-10-20 00:39 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "【Brick City】叫你的 AI Agent起樓：Grok Bot 建金字塔及獅身人面像",
+          "url": "https://www.youtube.com/watch?v=Dzr9FIEHguc",
+          "published": "2026-10-19",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "如果 AI 有意識，我哋係咪正在奴役佢？| Claude 新規、作弊實驗、靈魂文件",
           "url": "https://www.youtube.com/watch?v=00xONbN7qOw",
           "published": "2026-10-18",
@@ -158,13 +165,6 @@
           "url": "https://www.youtube.com/watch?v=Ol6fm-up6y8",
           "published": "2026-10-16",
           "age": "3 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "讓 AI 每日自動匯報廣告數據到 WhatsApp：Skill-Wise 定時任務教學（Manus Project 權限）",
-          "url": "https://www.youtube.com/watch?v=sjOGyCwOeIY",
-          "published": "2026-10-13",
-          "age": "6 days ago",
           "is_new_today": false
         }
       ]

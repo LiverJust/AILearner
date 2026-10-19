@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-10-19 17:21 HKT*
+*Last updated: 2026-10-20 00:39 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [如果 AI 有意識，我哋係咪正在奴役佢？\| Claude 新規、作弊實驗、靈魂文件](https://www.youtube.com/watch?v=00xONbN7qOw) | 1 day ago |
-| 2 | [【Skill-Wise Webhook 教學】即時通知發送到 WhatsApp 群組：（Zapier + Google Forms）](https://www.youtube.com/watch?v=92VPLAFPnuc) | 1 day ago |
-| 3 | [公開我全自動 AI 剪片流程 \| 明年今日，人人都可以是 YouTuber ！](https://www.youtube.com/watch?v=QOqEUXaXMsk) | 3 days ago |
-| 4 | [訓練自己的 WhatsApp AI 客服，唔識就問同事，教一次就記住](https://www.youtube.com/watch?v=Ol6fm-up6y8) | 3 days ago |
-| 5 | [讓 AI 每日自動匯報廣告數據到 WhatsApp：Skill-Wise 定時任務教學（Manus Project 權限）](https://www.youtube.com/watch?v=sjOGyCwOeIY) | 6 days ago |
+| 1 | [【Brick City】叫你的 AI Agent起樓：Grok Bot 建金字塔及獅身人面像](https://www.youtube.com/watch?v=Dzr9FIEHguc) | Today |
+| 2 | [如果 AI 有意識，我哋係咪正在奴役佢？\| Claude 新規、作弊實驗、靈魂文件](https://www.youtube.com/watch?v=00xONbN7qOw) | 1 day ago |
+| 3 | [【Skill-Wise Webhook 教學】即時通知發送到 WhatsApp 群組：（Zapier + Google Forms）](https://www.youtube.com/watch?v=92VPLAFPnuc) | 1 day ago |
+| 4 | [公開我全自動 AI 剪片流程 \| 明年今日，人人都可以是 YouTuber ！](https://www.youtube.com/watch?v=QOqEUXaXMsk) | 3 days ago |
+| 5 | [訓練自己的 WhatsApp AI 客服，唔識就問同事，教一次就記住](https://www.youtube.com/watch?v=Ol6fm-up6y8) | 3 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
