@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20 16:56 HKT",
+  "last_updated": "2026-10-20 22:32 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "不再用 CapCut | AI 剪片要用邊個 AI Agent？電腦配置同成本一次講清",
+          "url": "https://www.youtube.com/watch?v=0X6oHw9OzrE",
+          "published": "2026-10-20",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "【Brick City】叫你的 AI Agent起樓：Grok Bot 建金字塔及獅身人面像",
           "url": "https://www.youtube.com/watch?v=Dzr9FIEHguc",
           "published": "2026-10-19",
@@ -159,13 +166,6 @@
           "published": "2026-10-16",
           "age": "4 days ago",
           "is_new_today": false
-        },
-        {
-          "title": "訓練自己的 WhatsApp AI 客服，唔識就問同事，教一次就記住",
-          "url": "https://www.youtube.com/watch?v=Ol6fm-up6y8",
-          "published": "2026-10-16",
-          "age": "4 days ago",
-          "is_new_today": false
         }
       ]
     },
@@ -174,6 +174,13 @@
       "handle": "@papayaclass",
       "url": "https://www.youtube.com/@papayaclass/videos",
       "videos": [
+        {
+          "title": "為什麼一堆人在瘋 Grok Bot？全網公認最簡單又好玩的 AI 助理，輕鬆組建你專屬的數位分身小隊！",
+          "url": "https://www.youtube.com/watch?v=hJdEb0N_0sc",
+          "published": "2026-10-20",
+          "age": "Today",
+          "is_new_today": true
+        },
         {
           "title": "免 AI 訂閱！用 Excel 輕鬆實現自動化！Power Query 手把手基礎教學，一鍵自動清理所有雜亂資料！",
           "url": "https://www.youtube.com/watch?v=3nuFa5yEvvQ",
@@ -200,13 +207,6 @@
           "url": "https://www.youtube.com/watch?v=fAWliYuOiuc",
           "published": "2026-09-09",
           "age": "1 month ago",
-          "is_new_today": false
-        },
-        {
-          "title": "還在用 PPT 製作廉價簡報動畫？Claude Design 2.0 迎來重大升級，今天就用這 6 個小技巧解鎖它的專業動畫功能！",
-          "url": "https://www.youtube.com/watch?v=jn7UXxa1Llg",
-          "published": "2026-08-21",
-          "age": "2 months ago",
           "is_new_today": false
         }
       ]

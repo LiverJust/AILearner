@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-10-20 16:56 HKT*
+*Last updated: 2026-10-20 22:32 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,21 +39,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [【Brick City】叫你的 AI Agent起樓：Grok Bot 建金字塔及獅身人面像](https://www.youtube.com/watch?v=Dzr9FIEHguc) | 1 day ago |
-| 2 | [如果 AI 有意識，我哋係咪正在奴役佢？\| Claude 新規、作弊實驗、靈魂文件](https://www.youtube.com/watch?v=00xONbN7qOw) | 2 days ago |
-| 3 | [【Skill-Wise Webhook 教學】即時通知發送到 WhatsApp 群組：（Zapier + Google Forms）](https://www.youtube.com/watch?v=92VPLAFPnuc) | 2 days ago |
-| 4 | [公開我全自動 AI 剪片流程 \| 明年今日，人人都可以是 YouTuber ！](https://www.youtube.com/watch?v=QOqEUXaXMsk) | 4 days ago |
-| 5 | [訓練自己的 WhatsApp AI 客服，唔識就問同事，教一次就記住](https://www.youtube.com/watch?v=Ol6fm-up6y8) | 4 days ago |
+| 1 | [不再用 CapCut \| AI 剪片要用邊個 AI Agent？電腦配置同成本一次講清](https://www.youtube.com/watch?v=0X6oHw9OzrE) | Today |
+| 2 | [【Brick City】叫你的 AI Agent起樓：Grok Bot 建金字塔及獅身人面像](https://www.youtube.com/watch?v=Dzr9FIEHguc) | 1 day ago |
+| 3 | [如果 AI 有意識，我哋係咪正在奴役佢？\| Claude 新規、作弊實驗、靈魂文件](https://www.youtube.com/watch?v=00xONbN7qOw) | 2 days ago |
+| 4 | [【Skill-Wise Webhook 教學】即時通知發送到 WhatsApp 群組：（Zapier + Google Forms）](https://www.youtube.com/watch?v=92VPLAFPnuc) | 2 days ago |
+| 5 | [公開我全自動 AI 剪片流程 \| 明年今日，人人都可以是 YouTuber ！](https://www.youtube.com/watch?v=QOqEUXaXMsk) | 4 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [免 AI 訂閱！用 Excel 輕鬆實現自動化！Power Query 手把手基礎教學，一鍵自動清理所有雜亂資料！](https://www.youtube.com/watch?v=3nuFa5yEvvQ) | 1 week ago |
-| 2 | [找不到適合自己的 App？不如乾脆自己做一個！沒有程式基礎也沒有關係，只要會「許願」就可以了喔！](https://www.youtube.com/watch?v=0VdLfs1t7dk) | 3 weeks ago |
-| 3 | [這款開源軟體將顛覆你對地圖的認知！用語音操控上帝視角，一秒掌握情報局等級的全球即時動態！](https://www.youtube.com/watch?v=tlEnf7P7wDA) | 1 month ago |
-| 4 | [如何才能免費製作 AI 影片？將 ComfyUI 接上 Claude (ChatGPT) 讓影片生成不再卡關！本機電腦變成超級創作工坊！](https://www.youtube.com/watch?v=fAWliYuOiuc) | 1 month ago |
-| 5 | [還在用 PPT 製作廉價簡報動畫？Claude Design 2.0 迎來重大升級，今天就用這 6 個小技巧解鎖它的專業動畫功能！](https://www.youtube.com/watch?v=jn7UXxa1Llg) | 2 months ago |
+| 1 | [為什麼一堆人在瘋 Grok Bot？全網公認最簡單又好玩的 AI 助理，輕鬆組建你專屬的數位分身小隊！](https://www.youtube.com/watch?v=hJdEb0N_0sc) | Today |
+| 2 | [免 AI 訂閱！用 Excel 輕鬆實現自動化！Power Query 手把手基礎教學，一鍵自動清理所有雜亂資料！](https://www.youtube.com/watch?v=3nuFa5yEvvQ) | 1 week ago |
+| 3 | [找不到適合自己的 App？不如乾脆自己做一個！沒有程式基礎也沒有關係，只要會「許願」就可以了喔！](https://www.youtube.com/watch?v=0VdLfs1t7dk) | 3 weeks ago |
+| 4 | [這款開源軟體將顛覆你對地圖的認知！用語音操控上帝視角，一秒掌握情報局等級的全球即時動態！](https://www.youtube.com/watch?v=tlEnf7P7wDA) | 1 month ago |
+| 5 | [如何才能免費製作 AI 影片？將 ComfyUI 接上 Claude (ChatGPT) 讓影片生成不再卡關！本機電腦變成超級創作工坊！](https://www.youtube.com/watch?v=fAWliYuOiuc) | 1 month ago |
 
 ### JayLuxAI | AI 自動化 · [@JayLuxAI](https://www.youtube.com/@JayLuxAI/videos)
 
