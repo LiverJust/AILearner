@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-20 22:32 HKT",
+  "last_updated": "2026-10-21 03:40 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -137,7 +137,7 @@
           "url": "https://www.youtube.com/watch?v=0X6oHw9OzrE",
           "published": "2026-10-20",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "【Brick City】叫你的 AI Agent起樓：Grok Bot 建金字塔及獅身人面像",
@@ -179,7 +179,7 @@
           "url": "https://www.youtube.com/watch?v=hJdEb0N_0sc",
           "published": "2026-10-20",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "免 AI 訂閱！用 Excel 輕鬆實現自動化！Power Query 手把手基礎教學，一鍵自動清理所有雜亂資料！",
