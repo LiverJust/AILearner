@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-10-21 22:43 HKT*
+*Last updated: 2026-10-22 03:43 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -30,20 +30,20 @@
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [由諗橋到 IG 出 Post！Grokbot + Higgsfield MCP 幫產品做搞笑短片：真AI Agent 自動化社交平台管理 #HiggsfieldMCP #AIAgent #AI影片製作](https://www.youtube.com/watch?v=EUVxwy6FdVs) | 4 days ago |
-| 2 | [ChatGPT Dots、Manus Cue 香港實試：以後唔洗自己設定AI助理？由開通到交代工作 #ChatGPTdots #ManusCue #AIAgent #廣東話 #香港AI應用](https://www.youtube.com/watch?v=I7PMmmIv_Ro) | 2 weeks ago |
-| 3 | [Grok Bot 香港實測：只請一個 AI 總經理，就能自組員工團隊？#GrokBot #AI員工 #一人公司 #香港AI #AI工具 #我想用AI賺錢 #AI實測 #廣東話 #粵語 #香港AI應用](https://www.youtube.com/watch?v=ds0kLueaJXY) | 1 month ago |
-| 4 | [GPT-6 Astra 令我即刻轉會！點解我會即刻升級 ChatGPT Pro？GPT- Live 語音功能＋Images 2.5 更新 #GPT6 #Astra #ChatGPT #廣東話](https://www.youtube.com/watch?v=fb0qd_SKEFU) | 1 month ago |
-| 5 | [Hermes Agent 實戰：18分鐘教你用免費AI模型製作CRM系統 #廣東話 #AI實戰 #AI應用教學 #香港AI #HermesAgent #免費AI工具 #CRM系統](https://www.youtube.com/watch?v=6NHo--3kHLw) | 1 month ago |
+| 2 | [AI 日常小技巧 #1 群組幾百個未讀？善用AI處理 #我想用AI賺錢 #AI日常小技巧 #AI教學 #ChatGPT #Gemini #WhatsApp #生活小技巧 #香港AI #AI小技巧](https://www.youtube.com/watch?v=8SVWrLypoS4) | 1 week ago |
+| 3 | [#Claude 直接坐入 #Google Docs／Sheets／Slide：直接在旁邊用 Claude #AI工具 #GoogleWorkspace #廣東話 #AI應用 #AI日常使用](https://www.youtube.com/watch?v=dsZQHh3JNb0) | 2 weeks ago |
+| 4 | [#ChatGPT iPhone app 最近更新咗相機入面多咗個「Scan」#AI教學 #廣東話 #ChatGPT教學 #AI教學 #AI工具 #我想用AI賺錢 #香港AI #我想用AI賺錢](https://www.youtube.com/watch?v=W6y1fYq6QKM) | 2 weeks ago |
+| 5 | [#ChatGPT 可以直接整WhatsApp Sticker！ #ai工具 #廣東話 #我想用ai賺錢 #chatgpt #香港ai #openai](https://www.youtube.com/watch?v=oTycZBOx_6Q) | 2 weeks ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [將 Grok Bot 放入公司 WhatsApp 群組\|Skill-Wise 教學](https://www.youtube.com/watch?v=L4HPiPtzkpA) | Today |
-| 2 | [不再用 CapCut \| AI 剪片要用邊個 AI Agent？電腦配置同成本一次講清](https://www.youtube.com/watch?v=0X6oHw9OzrE) | 1 day ago |
+| 2 | [不再用 CapCut  \| AI 剪片要用邊個 AI Agent？電腦配置同成本一次講清](https://www.youtube.com/watch?v=0X6oHw9OzrE) | 1 day ago |
 | 3 | [【Brick City】叫你的 AI Agent起樓：Grok Bot 建金字塔及獅身人面像](https://www.youtube.com/watch?v=Dzr9FIEHguc) | 2 days ago |
-| 4 | [如果 AI 有意識，我哋係咪正在奴役佢？\| Claude 新規、作弊實驗、靈魂文件](https://www.youtube.com/watch?v=00xONbN7qOw) | 3 days ago |
-| 5 | [【Skill-Wise Webhook 教學】即時通知發送到 WhatsApp 群組：（Zapier + Google Forms）](https://www.youtube.com/watch?v=92VPLAFPnuc) | 3 days ago |
+| 4 | [Anthropic 撥 5% 股份成立公益基金：公司越值錢、撥出越多，合共約 20% 股份做公益](https://www.youtube.com/watch?v=Y3xf3U-I8pM) | 2 days ago |
+| 5 | [如果 AI 有意識，我哋係咪正在奴役佢？\| Claude 新規、作弊實驗、靈魂文件](https://www.youtube.com/watch?v=00xONbN7qOw) | 3 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -69,11 +69,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Gemini 4 Argon 來了！Google 全面進化成：3D 建模、Skill、自動排程全解析\|泛科學院](https://www.youtube.com/watch?v=EIu0F591Jvg) | Today |
-| 2 | [ChatGPT 只是高級文字接龍？諾貝爾獎 AI 教父打臉：它真的聽得懂！\|泛科學院](https://www.youtube.com/watch?v=S6JizkTVMQM) | 5 days ago |
-| 3 | [Claude 外掛推薦！8 款上班族實測：簡報、會議、CRM、求職\|泛科學院](https://www.youtube.com/watch?v=ygkPm3-6exc) | 2 weeks ago |
-| 4 | [AI 不看你的證照 科技公司人資主管告訴你：企業真正要的 AI 能力是什麼？ft. 鄭智維](https://www.youtube.com/watch?v=ZPcGNFgF4mE) | 2 weeks ago |
-| 5 | [最後通牒！狗急也會跳牆！不要逼我放大招 用AI盜我聲音的人看好了！](https://www.youtube.com/watch?v=6hl9kTfKjNM) | 3 weeks ago |
+| 1 | [Gemini 4 Argon 登場！連瑜珈動作都可以分析？終於可以讀電腦檔案？](https://www.youtube.com/watch?v=EIu0F591Jvg) | Today |
+| 2 | [金曲獎製作人也擁抱AI？ 到底如何生成好音樂？\|泛科學院](https://www.youtube.com/watch?v=Rp5vKGoE1Z8) | 2 days ago |
+| 3 | [ChatGPT 只是高級文字接龍？諾貝爾獎 AI 教父打臉：它真的聽得懂！\|泛科學院](https://www.youtube.com/watch?v=S6JizkTVMQM) | 5 days ago |
+| 4 | [Claude 外掛推薦！8 款上班族實測：簡報、會議、CRM、求職\|泛科學院](https://www.youtube.com/watch?v=ygkPm3-6exc) | 2 weeks ago |
+| 5 | [AI 不看你的證照 科技公司人資主管告訴你：企業真正要的 AI 能力是什麼？ft. 鄭智維](https://www.youtube.com/watch?v=ZPcGNFgF4mE) | 2 weeks ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
