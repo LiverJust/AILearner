@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-10-21 16:55 HKT*
+*Last updated: 2026-10-21 22:43 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [不再用 CapCut \| AI 剪片要用邊個 AI Agent？電腦配置同成本一次講清](https://www.youtube.com/watch?v=0X6oHw9OzrE) | 1 day ago |
-| 2 | [【Brick City】叫你的 AI Agent起樓：Grok Bot 建金字塔及獅身人面像](https://www.youtube.com/watch?v=Dzr9FIEHguc) | 2 days ago |
-| 3 | [如果 AI 有意識，我哋係咪正在奴役佢？\| Claude 新規、作弊實驗、靈魂文件](https://www.youtube.com/watch?v=00xONbN7qOw) | 3 days ago |
-| 4 | [【Skill-Wise Webhook 教學】即時通知發送到 WhatsApp 群組：（Zapier + Google Forms）](https://www.youtube.com/watch?v=92VPLAFPnuc) | 3 days ago |
-| 5 | [公開我全自動 AI 剪片流程 \| 明年今日，人人都可以是 YouTuber ！](https://www.youtube.com/watch?v=QOqEUXaXMsk) | 5 days ago |
+| 1 | [將 Grok Bot 放入公司 WhatsApp 群組\|Skill-Wise 教學](https://www.youtube.com/watch?v=L4HPiPtzkpA) | Today |
+| 2 | [不再用 CapCut \| AI 剪片要用邊個 AI Agent？電腦配置同成本一次講清](https://www.youtube.com/watch?v=0X6oHw9OzrE) | 1 day ago |
+| 3 | [【Brick City】叫你的 AI Agent起樓：Grok Bot 建金字塔及獅身人面像](https://www.youtube.com/watch?v=Dzr9FIEHguc) | 2 days ago |
+| 4 | [如果 AI 有意識，我哋係咪正在奴役佢？\| Claude 新規、作弊實驗、靈魂文件](https://www.youtube.com/watch?v=00xONbN7qOw) | 3 days ago |
+| 5 | [【Skill-Wise Webhook 教學】即時通知發送到 WhatsApp 群組：（Zapier + Google Forms）](https://www.youtube.com/watch?v=92VPLAFPnuc) | 3 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -69,21 +69,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [ChatGPT 只是高級文字接龍？諾貝爾獎 AI 教父打臉：它真的聽得懂！\|泛科學院](https://www.youtube.com/watch?v=S6JizkTVMQM) | 5 days ago |
-| 2 | [Claude 外掛推薦！8 款上班族實測：簡報、會議、CRM、求職\|泛科學院](https://www.youtube.com/watch?v=ygkPm3-6exc) | 2 weeks ago |
-| 3 | [AI 不看你的證照 科技公司人資主管告訴你：企業真正要的 AI 能力是什麼？ft. 鄭智維](https://www.youtube.com/watch?v=ZPcGNFgF4mE) | 2 weeks ago |
-| 4 | [最後通牒！狗急也會跳牆！不要逼我放大招 用AI盜我聲音的人看好了！](https://www.youtube.com/watch?v=6hl9kTfKjNM) | 3 weeks ago |
-| 5 | [ChatGPT Claude免費都能用外掛軟體！台灣能用的 8 款熱門功能生活功能 跨平台比價蕭方便！](https://www.youtube.com/watch?v=1M9BX6LEcy0) | 1 month ago |
+| 1 | [Gemini 4 Argon 來了！Google 全面進化成：3D 建模、Skill、自動排程全解析\|泛科學院](https://www.youtube.com/watch?v=EIu0F591Jvg) | Today |
+| 2 | [ChatGPT 只是高級文字接龍？諾貝爾獎 AI 教父打臉：它真的聽得懂！\|泛科學院](https://www.youtube.com/watch?v=S6JizkTVMQM) | 5 days ago |
+| 3 | [Claude 外掛推薦！8 款上班族實測：簡報、會議、CRM、求職\|泛科學院](https://www.youtube.com/watch?v=ygkPm3-6exc) | 2 weeks ago |
+| 4 | [AI 不看你的證照 科技公司人資主管告訴你：企業真正要的 AI 能力是什麼？ft. 鄭智維](https://www.youtube.com/watch?v=ZPcGNFgF4mE) | 2 weeks ago |
+| 5 | [最後通牒！狗急也會跳牆！不要逼我放大招 用AI盜我聲音的人看好了！](https://www.youtube.com/watch?v=6hl9kTfKjNM) | 3 weeks ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [别再乱下载 AI 模型了！一个命令，找出你的电脑最适合跑哪个大模型。](https://www.youtube.com/watch?v=6d9s_hmXQX0) | 3 days ago |
-| 2 | [Claude Code 教程：30个隐藏最深功能，有些你一次都沒用過](https://www.youtube.com/watch?v=Lx22N9R_0As) | 4 days ago |
-| 3 | [用好Opus 5 5的13条新规则：官方提示词指南逐条拆解\|Claude Code 2026教程](https://www.youtube.com/watch?v=b84VdIprZXA) | 1 week ago |
-| 4 | [GitHub Trending爆火：Claude Code接入REA，小白也能做逆向 \| AI逆向入门教程](https://www.youtube.com/watch?v=o8Ca8Y9LG_0) | 1 week ago |
-| 5 | [老外疯传的GitHub 9.8万星神器：AI员工自动上班、超预算自动停机，Claude订阅直接用\|Claude Code 教学\|Paperclip教学](https://www.youtube.com/watch?v=vZHaSwnJmSk) | 1 week ago |
+| 1 | [14 分钟掌握Claude Code最新的14个进阶配置 \| CLAUDE.md \| Skills \| MCP \| Fork \| Subtask \| OpusPlan](https://www.youtube.com/watch?v=qZOtyc6gWWI) | Today |
+| 2 | [别再乱下载 AI 模型了！一个命令，找出你的电脑最适合跑哪个大模型。](https://www.youtube.com/watch?v=6d9s_hmXQX0) | 3 days ago |
+| 3 | [Claude Code 教程：30个隐藏最深功能，有些你一次都沒用過](https://www.youtube.com/watch?v=Lx22N9R_0As) | 4 days ago |
+| 4 | [用好Opus 5 5的13条新规则：官方提示词指南逐条拆解\|Claude Code 2026教程](https://www.youtube.com/watch?v=b84VdIprZXA) | 1 week ago |
+| 5 | [GitHub Trending爆火：Claude Code接入REA，小白也能做逆向 \| AI逆向入门教程](https://www.youtube.com/watch?v=o8Ca8Y9LG_0) | 1 week ago |
 
 ---
 

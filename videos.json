@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21 16:55 HKT",
+  "last_updated": "2026-10-21 22:43 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "將 Grok Bot 放入公司 WhatsApp 群組｜Skill-Wise 教學",
+          "url": "https://www.youtube.com/watch?v=L4HPiPtzkpA",
+          "published": "2026-10-21",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "不再用 CapCut | AI 剪片要用邊個 AI Agent？電腦配置同成本一次講清",
           "url": "https://www.youtube.com/watch?v=0X6oHw9OzrE",
           "published": "2026-10-20",
@@ -158,13 +165,6 @@
           "url": "https://www.youtube.com/watch?v=92VPLAFPnuc",
           "published": "2026-10-18",
           "age": "3 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "公開我全自動 AI 剪片流程 | 明年今日，人人都可以是 YouTuber ！",
-          "url": "https://www.youtube.com/watch?v=QOqEUXaXMsk",
-          "published": "2026-10-16",
-          "age": "5 days ago",
           "is_new_today": false
         }
       ]
@@ -259,6 +259,13 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
+          "title": "Gemini 4 Argon 來了！Google 全面進化成：3D 建模、Skill、自動排程全解析｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=EIu0F591Jvg",
+          "published": "2026-10-21",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "ChatGPT 只是高級文字接龍？諾貝爾獎 AI 教父打臉：它真的聽得懂！｜泛科學院",
           "url": "https://www.youtube.com/watch?v=S6JizkTVMQM",
           "published": "2026-10-16",
@@ -285,13 +292,6 @@
           "published": "2026-09-24",
           "age": "3 weeks ago",
           "is_new_today": false
-        },
-        {
-          "title": "ChatGPT Claude免費都能用外掛軟體！台灣能用的 8 款熱門功能生活功能 跨平台比價蕭方便！",
-          "url": "https://www.youtube.com/watch?v=1M9BX6LEcy0",
-          "published": "2026-09-17",
-          "age": "1 month ago",
-          "is_new_today": false
         }
       ]
     },
@@ -300,6 +300,13 @@
       "handle": "@YAHAClass",
       "url": "https://www.youtube.com/@YAHAClass/featured",
       "videos": [
+        {
+          "title": "14 分钟掌握Claude Code最新的14个进阶配置 | CLAUDE.md | Skills | MCP | Fork | Subtask | OpusPlan",
+          "url": "https://www.youtube.com/watch?v=qZOtyc6gWWI",
+          "published": "2026-10-21",
+          "age": "Today",
+          "is_new_today": true
+        },
         {
           "title": "别再乱下载 AI 模型了！一个命令，找出你的电脑最适合跑哪个大模型。",
           "url": "https://www.youtube.com/watch?v=6d9s_hmXQX0",
@@ -325,13 +332,6 @@
           "title": "GitHub Trending爆火：Claude Code接入REA，小白也能做逆向 | AI逆向入门教程",
           "url": "https://www.youtube.com/watch?v=o8Ca8Y9LG_0",
           "published": "2026-10-11",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "老外疯传的GitHub 9.8万星神器：AI员工自动上班、超预算自动停机，Claude订阅直接用｜Claude Code 教学｜Paperclip教学",
-          "url": "https://www.youtube.com/watch?v=vZHaSwnJmSk",
-          "published": "2026-10-10",
           "age": "1 week ago",
           "is_new_today": false
         }
