@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-10-22 16:57 HKT*
+*Last updated: 2026-10-22 22:43 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [將 Grok Bot 放入公司 WhatsApp 群組\|Skill-Wise 教學](https://www.youtube.com/watch?v=L4HPiPtzkpA) | 1 day ago |
-| 2 | [不再用 CapCut \| AI 剪片要用邊個 AI Agent？電腦配置同成本一次講清](https://www.youtube.com/watch?v=0X6oHw9OzrE) | 2 days ago |
-| 3 | [【Brick City】叫你的 AI Agent起樓：Grok Bot 建金字塔及獅身人面像](https://www.youtube.com/watch?v=Dzr9FIEHguc) | 3 days ago |
-| 4 | [如果 AI 有意識，我哋係咪正在奴役佢？\| Claude 新規、作弊實驗、靈魂文件](https://www.youtube.com/watch?v=00xONbN7qOw) | 4 days ago |
-| 5 | [【Skill-Wise Webhook 教學】即時通知發送到 WhatsApp 群組：（Zapier + Google Forms）](https://www.youtube.com/watch?v=92VPLAFPnuc) | 4 days ago |
+| 1 | [AI 賺得更多，普通人點樣有份？Elon Musk 派股背後嘅三條路](https://www.youtube.com/watch?v=NslAFlNN45I) | Today |
+| 2 | [將 Grok Bot 放入公司 WhatsApp 群組\|Skill-Wise 教學](https://www.youtube.com/watch?v=L4HPiPtzkpA) | 1 day ago |
+| 3 | [不再用 CapCut \| AI 剪片要用邊個 AI Agent？電腦配置同成本一次講清](https://www.youtube.com/watch?v=0X6oHw9OzrE) | 2 days ago |
+| 4 | [【Brick City】叫你的 AI Agent起樓：Grok Bot 建金字塔及獅身人面像](https://www.youtube.com/watch?v=Dzr9FIEHguc) | 3 days ago |
+| 5 | [如果 AI 有意識，我哋係咪正在奴役佢？\| Claude 新規、作弊實驗、靈魂文件](https://www.youtube.com/watch?v=00xONbN7qOw) | 4 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 

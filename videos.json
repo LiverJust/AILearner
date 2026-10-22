@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-22 16:57 HKT",
+  "last_updated": "2026-10-22 22:43 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "AI 賺得更多，普通人點樣有份？Elon Musk 派股背後嘅三條路",
+          "url": "https://www.youtube.com/watch?v=NslAFlNN45I",
+          "published": "2026-10-22",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "將 Grok Bot 放入公司 WhatsApp 群組｜Skill-Wise 教學",
           "url": "https://www.youtube.com/watch?v=L4HPiPtzkpA",
           "published": "2026-10-21",
@@ -156,13 +163,6 @@
         {
           "title": "如果 AI 有意識，我哋係咪正在奴役佢？| Claude 新規、作弊實驗、靈魂文件",
           "url": "https://www.youtube.com/watch?v=00xONbN7qOw",
-          "published": "2026-10-18",
-          "age": "4 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "【Skill-Wise Webhook 教學】即時通知發送到 WhatsApp 群組：（Zapier + Google Forms）",
-          "url": "https://www.youtube.com/watch?v=92VPLAFPnuc",
           "published": "2026-10-18",
           "age": "4 days ago",
           "is_new_today": false
