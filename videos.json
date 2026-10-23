@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-23 16:52 HKT",
+  "last_updated": "2026-10-23 22:29 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -91,6 +91,13 @@
       "url": "https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos",
       "videos": [
         {
+          "title": "唔想打字，又唔想 Send 語音？我點用 Typeless 將口述整理成清楚嘅工作訊息？ #AI語音輸入 #AI工具 #廣東話 #TypelessAI #香港AI #工作效率",
+          "url": "https://www.youtube.com/watch?v=_EtoUpwbBGE",
+          "published": "2026-10-23",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "由諗橋到 IG 出 Post！Grokbot + Higgsfield MCP 幫產品做搞笑短片：真AI Agent 自動化社交平台管理 #HiggsfieldMCP #AIAgent #AI影片製作",
           "url": "https://www.youtube.com/watch?v=EUVxwy6FdVs",
           "published": "2026-10-17",
@@ -117,13 +124,6 @@
           "published": "2026-09-11",
           "age": "1 month ago",
           "is_new_today": false
-        },
-        {
-          "title": "Hermes Agent 實戰：18分鐘教你用免費AI模型製作CRM系統 #廣東話 #AI實戰 #AI應用教學 #香港AI #HermesAgent #免費AI工具 #CRM系統",
-          "url": "https://www.youtube.com/watch?v=6NHo--3kHLw",
-          "published": "2026-09-04",
-          "age": "1 month ago",
-          "is_new_today": false
         }
       ]
     },
@@ -132,6 +132,13 @@
       "handle": "@ompshek",
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
+        {
+          "title": "每天只讀兩小時？AI 學校 Alpha 與未來教育",
+          "url": "https://www.youtube.com/watch?v=_dTXkUmVfg0",
+          "published": "2026-10-23",
+          "age": "Today",
+          "is_new_today": true
+        },
         {
           "title": "AI 賺得更多，普通人點樣有份？Elon Musk 派股背後嘅三條路",
           "url": "https://www.youtube.com/watch?v=NslAFlNN45I",
@@ -158,13 +165,6 @@
           "url": "https://www.youtube.com/watch?v=Dzr9FIEHguc",
           "published": "2026-10-19",
           "age": "4 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "如果 AI 有意識，我哋係咪正在奴役佢？| Claude 新規、作弊實驗、靈魂文件",
-          "url": "https://www.youtube.com/watch?v=00xONbN7qOw",
-          "published": "2026-10-18",
-          "age": "5 days ago",
           "is_new_today": false
         }
       ]
