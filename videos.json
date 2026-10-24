@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24 21:40 HKT",
+  "last_updated": "2026-10-25 02:24 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -53,7 +53,7 @@
           "url": "https://www.youtube.com/watch?v=2tg451W2yZo",
           "published": "2026-10-24",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "GPT 6 + ChatGPT Work: 3套AI自動化工作流，直接拿去用！",
@@ -305,7 +305,7 @@
           "url": "https://www.youtube.com/watch?v=63_Y_8Cw7_U",
           "published": "2026-10-24",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "Filmora 16 调色根本不用动脑？我把参数面板丢给 ChatGPT，灰片秒变电影级",
