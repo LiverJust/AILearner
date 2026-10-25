@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25 16:45 HKT",
+  "last_updated": "2026-10-25 21:58 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -259,6 +259,13 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
+          "title": "15分鐘解析全球網路危機 PHP2Shell 到底是什麼？｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=hdPBHRFHaUw",
+          "published": "2026-10-25",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "Gemini 4 Argon 登場！連瑜珈動作都可以分析？終於可以讀電腦檔案？",
           "url": "https://www.youtube.com/watch?v=EIu0F591Jvg",
           "published": "2026-10-21",
@@ -284,13 +291,6 @@
           "url": "https://www.youtube.com/watch?v=ZPcGNFgF4mE",
           "published": "2026-10-02",
           "age": "3 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "最後通牒！狗急也會跳牆！不要逼我放大招 用AI盜我聲音的人看好了！",
-          "url": "https://www.youtube.com/watch?v=6hl9kTfKjNM",
-          "published": "2026-09-24",
-          "age": "1 month ago",
           "is_new_today": false
         }
       ]
