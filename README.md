@@ -3,17 +3,17 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-10-26 17:25 HKT*
+*Last updated: 2026-10-27 00:19 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片...](https://www.youtube.com/watch?v=v7UUfn7JQNk) | 1 week ago |
+| 1 | [如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片紅利，早用早贏！](https://www.youtube.com/watch?v=v7UUfn7JQNk) | 1 week ago |
 | 2 | [ChatGPT-6.1 完整教學，全新15大功能＋所有場景實測！GPT Work、Codex、Skills 一次搞懂，從入門到進階，新手也能用 AI 賺錢、效率翻10倍！](https://www.youtube.com/watch?v=6n14rKV6oJc) | 3 weeks ago |
-| 3 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...](https://www.youtube.com/watch?v=gIac2n4nIPg) | 1 month ago |
+| 3 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不使用的人真的很吃虧！](https://www.youtube.com/watch?v=gIac2n4nIPg) | 1 month ago |
 | 4 | [GPT Image 2.5 上線 OiiOii！這次生圖真的更強了？實測生圖、改圖到商業素材一次看，循序漸進小白也能快速上手賺錢！](https://www.youtube.com/watch?v=17jkSr_THtk) | 1 month ago |
-| 5 | [GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5....](https://www.youtube.com/watch?v=CmjNjWeRE0Y) | 1 month ago |
+| 5 | [GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5.1，AGI真的來了！](https://www.youtube.com/watch?v=CmjNjWeRE0Y) | 1 month ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
 
@@ -39,7 +39,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [模型自己改善 Harness \| AI 學會改寫自己的工作流程](https://www.youtube.com/watch?v=J19WsmInQfw) | 1 day ago |
+| 1 | [模型自己改善 Harness \| AI 學會改寫自己的工作流程 建立 AI Agent Team](https://www.youtube.com/watch?v=J19WsmInQfw) | 1 day ago |
 | 2 | [每天只讀兩小時？AI 學校 Alpha 與未來教育](https://www.youtube.com/watch?v=_dTXkUmVfg0) | 3 days ago |
 | 3 | [AI 賺得更多，普通人點樣有份？Elon Musk 派股背後嘅三條路](https://www.youtube.com/watch?v=NslAFlNN45I) | 4 days ago |
 | 4 | [將 Grok Bot 放入公司 WhatsApp 群組\|Skill-Wise 教學](https://www.youtube.com/watch?v=L4HPiPtzkpA) | 5 days ago |
