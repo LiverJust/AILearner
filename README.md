@@ -3,23 +3,23 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-10-27 00:19 HKT*
+*Last updated: 2026-10-27 17:23 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片紅利，早用早贏！](https://www.youtube.com/watch?v=v7UUfn7JQNk) | 1 week ago |
+| 1 | [如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片...](https://www.youtube.com/watch?v=v7UUfn7JQNk) | 1 week ago |
 | 2 | [ChatGPT-6.1 完整教學，全新15大功能＋所有場景實測！GPT Work、Codex、Skills 一次搞懂，從入門到進階，新手也能用 AI 賺錢、效率翻10倍！](https://www.youtube.com/watch?v=6n14rKV6oJc) | 3 weeks ago |
-| 3 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不使用的人真的很吃虧！](https://www.youtube.com/watch?v=gIac2n4nIPg) | 1 month ago |
+| 3 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...](https://www.youtube.com/watch?v=gIac2n4nIPg) | 1 month ago |
 | 4 | [GPT Image 2.5 上線 OiiOii！這次生圖真的更強了？實測生圖、改圖到商業素材一次看，循序漸進小白也能快速上手賺錢！](https://www.youtube.com/watch?v=17jkSr_THtk) | 1 month ago |
-| 5 | [GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5.1，AGI真的來了！](https://www.youtube.com/watch?v=CmjNjWeRE0Y) | 1 month ago |
+| 5 | [GPT-6 Astra真的很好用！8個應用案例，從實用到幾乎不可能：一句話生成網頁、做3D模型、自動做簡報，你的工作直接交給它...看完你就懂為什麼它全面碾壓 Fable 5....](https://www.youtube.com/watch?v=CmjNjWeRE0Y) | 1 month ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [13分鐘搞懂全網爆火的循環工程 Loop Engineering！](https://www.youtube.com/watch?v=2tg451W2yZo) | 2 days ago |
+| 1 | [13分鐘搞懂全網爆火的循環工程 Loop Engineering！](https://www.youtube.com/watch?v=2tg451W2yZo) | 3 days ago |
 | 2 | [GPT 6 + ChatGPT Work: 3套AI自動化工作流，直接拿去用！](https://www.youtube.com/watch?v=5uftzRIrhGA) | 1 week ago |
 | 3 | [谷歌 Gemini Skills 終於來了！免費贈送7個核心Skills！](https://www.youtube.com/watch?v=CnxQAYniJFs) | 2 weeks ago |
 | 4 | [Anthropic 公布了掌握 Opus 5.5 的13條秘訣！](https://www.youtube.com/watch?v=iWL-quhw9g4) | 3 weeks ago |
@@ -29,7 +29,7 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [我「講」服了AI！唔想打字，又唔想 Send 語音？Typeless 真係估唔到咁好用！ #AI語音輸入 #AI工具 #廣東話 #TypelessAI #香港AI #工作效率](https://www.youtube.com/watch?v=_EtoUpwbBGE) | 3 days ago |
+| 1 | [我「講」服了AI！唔想打字，又唔想 Send 語音？Typeless 真係估唔到咁好用！ #AI語音輸入 #AI工具 #廣東話 #TypelessAI #香港AI #工作效率](https://www.youtube.com/watch?v=_EtoUpwbBGE) | 4 days ago |
 | 2 | [由諗橋到 IG 出 Post！Grokbot + Higgsfield MCP 幫產品做搞笑短片：真AI Agent 自動化社交平台管理 #HiggsfieldMCP #AIAgent #AI影片製作](https://www.youtube.com/watch?v=EUVxwy6FdVs) | 1 week ago |
 | 3 | [ChatGPT Dots、Manus Cue 香港實試：以後唔洗自己設定AI助理？由開通到交代工作 #ChatGPTdots #ManusCue #AIAgent #廣東話 #香港AI應用](https://www.youtube.com/watch?v=I7PMmmIv_Ro) | 3 weeks ago |
 | 4 | [Grok Bot 香港實測：只請一個 AI 總經理，就能自組員工團隊？#GrokBot #AI員工 #一人公司 #香港AI #AI工具 #我想用AI賺錢 #AI實測 #廣東話 #粵語 #香港AI應用](https://www.youtube.com/watch?v=ds0kLueaJXY) | 1 month ago |
@@ -39,17 +39,17 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [模型自己改善 Harness \| AI 學會改寫自己的工作流程 建立 AI Agent Team](https://www.youtube.com/watch?v=J19WsmInQfw) | 1 day ago |
-| 2 | [每天只讀兩小時？AI 學校 Alpha 與未來教育](https://www.youtube.com/watch?v=_dTXkUmVfg0) | 3 days ago |
-| 3 | [AI 賺得更多，普通人點樣有份？Elon Musk 派股背後嘅三條路](https://www.youtube.com/watch?v=NslAFlNN45I) | 4 days ago |
-| 4 | [將 Grok Bot 放入公司 WhatsApp 群組\|Skill-Wise 教學](https://www.youtube.com/watch?v=L4HPiPtzkpA) | 5 days ago |
-| 5 | [不再用 CapCut \| AI 剪片要用邊個 AI Agent？電腦配置同成本一次講清](https://www.youtube.com/watch?v=0X6oHw9OzrE) | 6 days ago |
+| 1 | [四個 AI 模型剪片比拼：Kimi vs DeepSeek vs GPT-6 vs Grok Bot](https://www.youtube.com/watch?v=WFohmM94V3M) | Today |
+| 2 | [模型自己改善 Harness \| AI 學會改寫自己的工作流程 建立 AI Agent Team](https://www.youtube.com/watch?v=J19WsmInQfw) | 2 days ago |
+| 3 | [每天只讀兩小時？AI 學校 Alpha 與未來教育](https://www.youtube.com/watch?v=_dTXkUmVfg0) | 4 days ago |
+| 4 | [AI 賺得更多，普通人點樣有份？Elon Musk 派股背後嘅三條路](https://www.youtube.com/watch?v=NslAFlNN45I) | 5 days ago |
+| 5 | [將 Grok Bot 放入公司 WhatsApp 群組\|Skill-Wise 教學](https://www.youtube.com/watch?v=L4HPiPtzkpA) | 6 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [為什麼一堆人在瘋 Grok Bot？全網公認最簡單又好玩的 AI 助理，輕鬆組建你專屬的數位分身小隊！](https://www.youtube.com/watch?v=hJdEb0N_0sc) | 6 days ago |
+| 1 | [為什麼一堆人在瘋 Grok Bot？全網公認最簡單又好玩的 AI 助理，輕鬆組建你專屬的數位分身小隊！](https://www.youtube.com/watch?v=hJdEb0N_0sc) | 1 week ago |
 | 2 | [免 AI 訂閱！用 Excel 輕鬆實現自動化！Power Query 手把手基礎教學，一鍵自動清理所有雜亂資料！](https://www.youtube.com/watch?v=3nuFa5yEvvQ) | 2 weeks ago |
 | 3 | [找不到適合自己的 App？不如乾脆自己做一個！沒有程式基礎也沒有關係，只要會「許願」就可以了喔！](https://www.youtube.com/watch?v=0VdLfs1t7dk) | 4 weeks ago |
 | 4 | [這款開源軟體將顛覆你對地圖的認知！用語音操控上帝視角，一秒掌握情報局等級的全球即時動態！](https://www.youtube.com/watch?v=tlEnf7P7wDA) | 1 month ago |
@@ -59,18 +59,18 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [我把所有 AI 影片模型都試過一遍了，結果最好的模型居然是這個..](https://www.youtube.com/watch?v=C3yav2x_bSs) | 3 days ago |
+| 1 | [我把所有 AI 影片模型都試過一遍了，結果最好的模型居然是這個..](https://www.youtube.com/watch?v=C3yav2x_bSs) | 4 days ago |
 | 2 | [Claude + Higgsfield MCP = 無限內容產生器](https://www.youtube.com/watch?v=Aq3DCWL_6Cs) | 1 week ago |
-| 3 | [我實測 Claude + Jev，竟然能玩出這 3 種應用](https://www.youtube.com/watch?v=EbJzxrhaXmM) | 1 week ago |
+| 3 | [我實測 Claude + Jev，竟然能玩出這 3 種應用](https://www.youtube.com/watch?v=EbJzxrhaXmM) | 2 weeks ago |
 | 4 | [挑戰從零開始，全程用語音使用 Claude Code 做出能收錢的電商網站(Typeless)](https://www.youtube.com/watch?v=DaEd0gUH5-g) | 3 weeks ago |
-| 5 | [我把這個工具交給 Claude Code 操控我的瀏覽器，結果真的太扯了。 (Windows + Mac 現已支援)](https://www.youtube.com/watch?v=AuI2EL9IEeI) | 4 weeks ago |
+| 5 | [我把這個工具交給 Claude Code 操控我的瀏覽器，結果真的太扯了。 (Windows + Mac 現已支援)](https://www.youtube.com/watch?v=AuI2EL9IEeI) | 1 month ago |
 
 ### 泛科學院 · [@panscischool](https://www.youtube.com/@panscischool/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [15分鐘解析全球網路危機 PHP2Shell 到底是什麼？\|泛科學院](https://www.youtube.com/watch?v=hdPBHRFHaUw) | 1 day ago |
-| 2 | [Gemini 4 Argon 登場！連瑜珈動作都可以分析？終於可以讀電腦檔案？](https://www.youtube.com/watch?v=EIu0F591Jvg) | 5 days ago |
+| 1 | [15分鐘解析全球網路危機 PHP2Shell 到底是什麼？\|泛科學院](https://www.youtube.com/watch?v=hdPBHRFHaUw) | 2 days ago |
+| 2 | [Gemini 4 Argon 登場！連瑜珈動作都可以分析？終於可以讀電腦檔案？](https://www.youtube.com/watch?v=EIu0F591Jvg) | 6 days ago |
 | 3 | [ChatGPT 只是高級文字接龍？諾貝爾獎 AI 教父打臉：它真的聽得懂！\|泛科學院](https://www.youtube.com/watch?v=S6JizkTVMQM) | 1 week ago |
 | 4 | [Claude 外掛推薦！8 款上班族實測：簡報、會議、CRM、求職\|泛科學院](https://www.youtube.com/watch?v=ygkPm3-6exc) | 2 weeks ago |
 | 5 | [AI 不看你的證照 科技公司人資主管告訴你：企業真正要的 AI 能力是什麼？ft. 鄭智維](https://www.youtube.com/watch?v=ZPcGNFgF4mE) | 3 weeks ago |
@@ -79,10 +79,10 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [GitHub2.1萬星神器 VHS 實測：終端機教學不用再重錄！VHS 寫一份腳本，自動生成 GIF 和 MP4\|Mac 免費開源工具](https://www.youtube.com/watch?v=QQqUj0ZB2Ro) | 1 day ago |
-| 2 | [别再跟Claude说“做专业一点” \| 15分钟把设计规则写成 Skill，25个技巧一次讲透](https://www.youtube.com/watch?v=63_Y_8Cw7_U) | 2 days ago |
-| 3 | [Filmora 16 调色根本不用动脑？我把参数面板丢给 ChatGPT，灰片秒变电影级](https://www.youtube.com/watch?v=5gHSazZA2OU) | 3 days ago |
-| 4 | [14 分钟掌握Claude Code最新的14个进阶配置 \| CLAUDE.md \| Skills \| MCP \| Fork \| Subtask \| OpusPlan](https://www.youtube.com/watch?v=qZOtyc6gWWI) | 5 days ago |
+| 1 | [GitHub2.1萬星神器 VHS 實測：終端機教學不用再重錄！VHS 寫一份腳本，自動生成 GIF 和 MP4\|Mac 免費開源工具](https://www.youtube.com/watch?v=QQqUj0ZB2Ro) | 2 days ago |
+| 2 | [别再跟Claude说“做专业一点” \| 15分钟把设计规则写成 Skill，25个技巧一次讲透](https://www.youtube.com/watch?v=63_Y_8Cw7_U) | 3 days ago |
+| 3 | [Filmora 16 调色根本不用动脑？我把参数面板丢给 ChatGPT，灰片秒变电影级](https://www.youtube.com/watch?v=5gHSazZA2OU) | 4 days ago |
+| 4 | [14 分钟掌握Claude Code最新的14个进阶配置 \| CLAUDE.md \| Skills \| MCP \| Fork \| Subtask \| OpusPlan](https://www.youtube.com/watch?v=qZOtyc6gWWI) | 6 days ago |
 | 5 | [别再乱下载 AI 模型了！一个命令，找出你的电脑最适合跑哪个大模型。](https://www.youtube.com/watch?v=6d9s_hmXQX0) | 1 week ago |
 
 ---
