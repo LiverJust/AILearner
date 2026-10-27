@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-10-27 17:23 HKT*
+*Last updated: 2026-10-27 23:34 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [四個 AI 模型剪片比拼：Kimi vs DeepSeek vs GPT-6 vs Grok Bot](https://www.youtube.com/watch?v=WFohmM94V3M) | Today |
-| 2 | [模型自己改善 Harness \| AI 學會改寫自己的工作流程 建立 AI Agent Team](https://www.youtube.com/watch?v=J19WsmInQfw) | 2 days ago |
-| 3 | [每天只讀兩小時？AI 學校 Alpha 與未來教育](https://www.youtube.com/watch?v=_dTXkUmVfg0) | 4 days ago |
-| 4 | [AI 賺得更多，普通人點樣有份？Elon Musk 派股背後嘅三條路](https://www.youtube.com/watch?v=NslAFlNN45I) | 5 days ago |
-| 5 | [將 Grok Bot 放入公司 WhatsApp 群組\|Skill-Wise 教學](https://www.youtube.com/watch?v=L4HPiPtzkpA) | 6 days ago |
+| 1 | [拆解 Anthropic 的經營策略：唔搞 Personal AI Agent 、專注 B2B 。半年蝕 807 億美元，為何竟然開始賺錢？](https://www.youtube.com/watch?v=KMsAfQQ8yLg) | Today |
+| 2 | [四個 AI 模型剪片比拼：Kimi vs DeepSeek vs GPT-6 vs Grok Bot](https://www.youtube.com/watch?v=WFohmM94V3M) | Today |
+| 3 | [模型自己改善 Harness \| AI 學會改寫自己的工作流程 建立 AI Agent Team](https://www.youtube.com/watch?v=J19WsmInQfw) | 2 days ago |
+| 4 | [每天只讀兩小時？AI 學校 Alpha 與未來教育](https://www.youtube.com/watch?v=_dTXkUmVfg0) | 4 days ago |
+| 5 | [AI 賺得更多，普通人點樣有份？Elon Musk 派股背後嘅三條路](https://www.youtube.com/watch?v=NslAFlNN45I) | 5 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
