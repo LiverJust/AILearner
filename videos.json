@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-09 20:14 HKT",
+  "last_updated": "2026-11-10 07:52 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -305,14 +305,14 @@
           "url": "https://www.youtube.com/watch?v=0z8h88OE6SY",
           "published": "2026-11-09",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "Claude 2 0 更新整理：Claude Code 桌面版的專案、側邊對話、Mods 怎麼用",
           "url": "https://www.youtube.com/watch?v=SbP97CbptRY",
           "published": "2026-11-09",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "ChatGPT Sites教學｜一段話做出報名網站，額滿自動擋、名單存雲端",
