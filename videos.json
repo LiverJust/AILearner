@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-10 19:53 HKT",
+  "last_updated": "2026-11-11 05:30 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -21,7 +21,7 @@
           "is_new_today": false
         },
         {
-          "title": "如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片...",
+          "title": "如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片紅利，早用早贏！",
           "url": "https://www.youtube.com/watch?v=v7UUfn7JQNk",
           "published": "2026-10-17",
           "age": "3 weeks ago",
@@ -35,7 +35,7 @@
           "is_new_today": false
         },
         {
-          "title": "強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...",
+          "title": "強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不使用的人真的很吃虧！",
           "url": "https://www.youtube.com/watch?v=gIac2n4nIPg",
           "published": "2026-09-20",
           "age": "1 month ago",
@@ -98,7 +98,14 @@
           "is_new_today": false
         },
         {
-          "title": "善用AI工具口述整理工作的實測示範：我點用 Typeless AI 語音整理工作？真係估唔到咁好用！ #AI語音輸入 #AI工具 #廣東話 #TypelessAI #香港AI #工作效率",
+          "title": "返工覆 Message，打完仲要改？#Typeless 廣東話實試｜我點用 Typeless 整理工作 Message #Typeless #AI工具 #工作效率 #廣東話AI #我想用AI賺錢",
+          "url": "https://www.youtube.com/watch?v=ESI_9v_BpRo",
+          "published": "2026-10-25",
+          "age": "2 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "善用AI工具口述整理工作的實測示範：我點用 Typeless AI 語音整理工作？真係估唔到咁好用！  #AI語音輸入 #AI工具 #廣東話 #TypelessAI #香港AI #工作效率",
           "url": "https://www.youtube.com/watch?v=_EtoUpwbBGE",
           "published": "2026-10-23",
           "age": "2 weeks ago",
@@ -112,16 +119,9 @@
           "is_new_today": false
         },
         {
-          "title": "ChatGPT Dots、Manus Cue 香港實試：以後唔洗自己設定AI助理？由開通到交代工作 #ChatGPTdots #ManusCue #AIAgent #廣東話 #香港AI應用",
-          "url": "https://www.youtube.com/watch?v=I7PMmmIv_Ro",
-          "published": "2026-10-02",
-          "age": "1 month ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Grok Bot 香港實測：只請一個 AI 總經理，就能自組員工團隊？#GrokBot #AI員工 #一人公司 #香港AI #AI工具 #我想用AI賺錢 #AI實測 #廣東話 #粵語 #香港AI應用",
-          "url": "https://www.youtube.com/watch?v=ds0kLueaJXY",
-          "published": "2026-09-18",
+          "title": "AI 日常小技巧 #1 群組幾百個未讀？善用AI處理 #我想用AI賺錢 #AI日常小技巧 #AI教學 #ChatGPT #Gemini #WhatsApp #生活小技巧 #香港AI #AI小技巧",
+          "url": "https://www.youtube.com/watch?v=8SVWrLypoS4",
+          "published": "2026-10-09",
           "age": "1 month ago",
           "is_new_today": false
         }
@@ -133,8 +133,22 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "Claude Fable 5.2：1,000 個 AI Agent 30 小時驗證費馬定理 #Shorts",
+          "url": "https://www.youtube.com/watch?v=agr2krcOBLs",
+          "published": "2026-11-10",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "AI 是提升效率，還是令你變蠢 | AI 讓強者更強",
           "url": "https://www.youtube.com/watch?v=upQmUK5iy7s",
+          "published": "2026-11-09",
+          "age": "1 day ago",
+          "is_new_today": false
+        },
+        {
+          "title": "這把聲音不是我錄的！Gemini 3.8 Flash TTS 30 秒複製聲音 #Shorts",
+          "url": "https://www.youtube.com/watch?v=BYZAZCuJd5o",
           "published": "2026-11-09",
           "age": "1 day ago",
           "is_new_today": false
@@ -151,20 +165,6 @@
           "url": "https://www.youtube.com/watch?v=c58bTVo6jv8",
           "published": "2026-11-06",
           "age": "4 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Anthropic 收購一人公司 | AI + 一人公司 OPC",
-          "url": "https://www.youtube.com/watch?v=qHAhR0gLEpk",
-          "published": "2026-11-05",
-          "age": "5 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "我取消了 Canva，全交給 AI | Canva 裁員 22%，AI 畫圖怎樣搶走設計工具的飯碗",
-          "url": "https://www.youtube.com/watch?v=x8S35WUHXYE",
-          "published": "2026-11-04",
-          "age": "6 days ago",
           "is_new_today": false
         }
       ]
@@ -221,7 +221,7 @@
           "url": "https://www.youtube.com/watch?v=byCdyKQRe9A",
           "published": "2026-11-10",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "我把所有 AI 影片模型都試過一遍了，結果最好的模型居然是這個..",
@@ -266,6 +266,13 @@
           "is_new_today": false
         },
         {
+          "title": "AI 外掛不是越多越好！串 ChatGPT、Claude 前要注意這 4 件事｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=-QEbjdb93Wc",
+          "published": "2026-11-01",
+          "age": "1 week ago",
+          "is_new_today": false
+        },
+        {
           "title": "15分鐘解析全球網路危機 PHP2Shell 到底是什麼？｜泛科學院",
           "url": "https://www.youtube.com/watch?v=hdPBHRFHaUw",
           "published": "2026-10-25",
@@ -273,24 +280,17 @@
           "is_new_today": false
         },
         {
-          "title": "Gemini 4 Argon 登場！連瑜珈動作都可以分析？終於可以讀電腦檔案？",
-          "url": "https://www.youtube.com/watch?v=EIu0F591Jvg",
-          "published": "2026-10-21",
+          "title": "ChatGPT 免費串蝦皮！一句話幫你比價、挑評價、找禮物｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=zG1AmSRA8-g",
+          "published": "2026-10-23",
           "age": "2 weeks ago",
           "is_new_today": false
         },
         {
-          "title": "ChatGPT 只是高級文字接龍？諾貝爾獎 AI 教父打臉：它真的聽得懂！｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=S6JizkTVMQM",
-          "published": "2026-10-16",
-          "age": "3 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Claude 外掛推薦！8 款上班族實測：簡報、會議、CRM、求職｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=ygkPm3-6exc",
-          "published": "2026-10-07",
-          "age": "1 month ago",
+          "title": "Claude 串 Strava、AllTrails、Audible，冷門外掛其實超好用｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=Y7nrwdmzHe8",
+          "published": "2026-10-22",
+          "age": "2 weeks ago",
           "is_new_today": false
         }
       ]
@@ -300,6 +300,13 @@
       "handle": "@YAHAClass",
       "url": "https://www.youtube.com/@YAHAClass/featured",
       "videos": [
+        {
+          "title": "Claude Code 桌面版整個重做了！這 3 個新功能先學 #Shorts",
+          "url": "https://www.youtube.com/watch?v=0z8h88OE6SY",
+          "published": "2026-11-09",
+          "age": "1 day ago",
+          "is_new_today": false
+        },
         {
           "title": "Claude 2 0 更新整理：Claude Code 桌面版的專案、側邊對話、Mods 怎麼用",
           "url": "https://www.youtube.com/watch?v=SbP97CbptRY",
@@ -326,13 +333,6 @@
           "url": "https://www.youtube.com/watch?v=8tmDJ9ZuFc8",
           "published": "2026-11-06",
           "age": "4 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Gemini 技能做一次，Claude Code 也能用｜同一份 SKILL md 兩邊跑",
-          "url": "https://www.youtube.com/watch?v=zmUbbJYtxmM",
-          "published": "2026-10-31",
-          "age": "1 week ago",
           "is_new_today": false
         }
       ]
