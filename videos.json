@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-12 19:56 HKT",
+  "last_updated": "2026-11-13 05:56 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -140,8 +140,22 @@
           "is_new_today": false
         },
         {
+          "title": "Claude Fable 5.2：1,000 個 AI Agent 30 小時驗證費馬定理 #Shorts",
+          "url": "https://www.youtube.com/watch?v=agr2krcOBLs",
+          "published": "2026-11-10",
+          "age": "2 days ago",
+          "is_new_today": false
+        },
+        {
           "title": "AI 是提升效率，還是令你變蠢 | AI 讓強者更強",
           "url": "https://www.youtube.com/watch?v=upQmUK5iy7s",
+          "published": "2026-11-09",
+          "age": "3 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "這把聲音不是我錄的！Gemini 3.8 Flash TTS 30 秒複製聲音 #Shorts",
+          "url": "https://www.youtube.com/watch?v=BYZAZCuJd5o",
           "published": "2026-11-09",
           "age": "3 days ago",
           "is_new_today": false
@@ -151,20 +165,6 @@
           "url": "https://www.youtube.com/watch?v=RGVZv7FKYxk",
           "published": "2026-11-08",
           "age": "4 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "AI 代你用手機 | 由 Siri 定鬧鐘到 AI 接管整部手機",
-          "url": "https://www.youtube.com/watch?v=c58bTVo6jv8",
-          "published": "2026-11-06",
-          "age": "6 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Anthropic 收購一人公司 | AI + 一人公司 OPC",
-          "url": "https://www.youtube.com/watch?v=qHAhR0gLEpk",
-          "published": "2026-11-05",
-          "age": "1 week ago",
           "is_new_today": false
         }
       ]
@@ -259,11 +259,25 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
+          "title": "開會最累的是整理？Notion 和 Granola 兩款 AI 會議記錄實測｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=fUl0u51ktKQ",
+          "published": "2026-11-12",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "AI 怎樣記得我？3 招讓 Claude 記住你的工作方式｜泛科學院",
           "url": "https://www.youtube.com/watch?v=aMxxskHjhxY",
           "published": "2026-11-12",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
+        },
+        {
+          "title": "Claude 自己就能做簡報，為什麼還要串外掛？Canva、Gamma 實測｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=lSjYrBTe8HU",
+          "published": "2026-11-11",
+          "age": "1 day ago",
+          "is_new_today": false
         },
         {
           "title": "Claude 禁令上路：不能再罵 AI 了？研究實測到底有沒有用｜泛科學院",
@@ -273,24 +287,10 @@
           "is_new_today": false
         },
         {
-          "title": "15分鐘解析全球網路危機 PHP2Shell 到底是什麼？｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=hdPBHRFHaUw",
-          "published": "2026-10-25",
-          "age": "2 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Gemini 4 Argon 登場！連瑜珈動作都可以分析？終於可以讀電腦檔案？",
-          "url": "https://www.youtube.com/watch?v=EIu0F591Jvg",
-          "published": "2026-10-21",
-          "age": "3 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "ChatGPT 只是高級文字接龍？諾貝爾獎 AI 教父打臉：它真的聽得懂！｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=S6JizkTVMQM",
-          "published": "2026-10-16",
-          "age": "3 weeks ago",
+          "title": "AI 外掛不是越多越好！串 ChatGPT、Claude 前要注意這 4 件事｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=-QEbjdb93Wc",
+          "published": "2026-11-01",
+          "age": "1 week ago",
           "is_new_today": false
         }
       ]
@@ -300,6 +300,13 @@
       "handle": "@YAHAClass",
       "url": "https://www.youtube.com/@YAHAClass/featured",
       "videos": [
+        {
+          "title": "如何从零做出你的第一支AI视频？Higgsfield 新手分步教程",
+          "url": "https://www.youtube.com/watch?v=y-Kv0ZZeBGk",
+          "published": "2026-11-12",
+          "age": "Today",
+          "is_new_today": false
+        },
         {
           "title": "Fable 5 2 实测翻车了！API升级前先看这些坑 |  Claude Fable 5.2 基础单价是Opus 5.5两倍，什么任务才值得用？",
           "url": "https://www.youtube.com/watch?v=Q7Cih2-RnnM",
@@ -326,13 +333,6 @@
           "url": "https://www.youtube.com/watch?v=LtN0pAsmgjc",
           "published": "2026-11-06",
           "age": "6 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Gemini 技能做一次，Claude Code 也能用｜同一份 SKILL md 兩邊跑",
-          "url": "https://www.youtube.com/watch?v=zmUbbJYtxmM",
-          "published": "2026-10-31",
-          "age": "1 week ago",
           "is_new_today": false
         }
       ]

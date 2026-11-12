@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-11-12 19:56 HKT*
+*Last updated: 2026-11-13 05:56 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -40,10 +40,10 @@
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [ChatGPT 開放商戶認領：藍剔驗證、Business Agent、Shopify 一鍵接入 #AI新聞](https://www.youtube.com/watch?v=U3CCoWlXx2g) | 1 day ago |
-| 2 | [AI 是提升效率，還是令你變蠢 \| AI 讓強者更強](https://www.youtube.com/watch?v=upQmUK5iy7s) | 3 days ago |
-| 3 | [不用 Canva 怎樣做 YouTube 封面？\| GPT Image 2.6 + AI 相片編輯器教學](https://www.youtube.com/watch?v=RGVZv7FKYxk) | 4 days ago |
-| 4 | [AI 代你用手機 \| 由 Siri 定鬧鐘到 AI 接管整部手機](https://www.youtube.com/watch?v=c58bTVo6jv8) | 6 days ago |
-| 5 | [Anthropic 收購一人公司 \| AI + 一人公司 OPC](https://www.youtube.com/watch?v=qHAhR0gLEpk) | 1 week ago |
+| 2 | [Claude Fable 5.2：1,000 個 AI Agent 30 小時驗證費馬定理 #Shorts](https://www.youtube.com/watch?v=agr2krcOBLs) | 2 days ago |
+| 3 | [AI 是提升效率，還是令你變蠢 \| AI 讓強者更強](https://www.youtube.com/watch?v=upQmUK5iy7s) | 3 days ago |
+| 4 | [這把聲音不是我錄的！Gemini 3.8 Flash TTS 30 秒複製聲音 #Shorts](https://www.youtube.com/watch?v=BYZAZCuJd5o) | 3 days ago |
+| 5 | [不用 Canva 怎樣做 YouTube 封面？\| GPT Image 2.6 + AI 相片編輯器教學](https://www.youtube.com/watch?v=RGVZv7FKYxk) | 4 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -69,21 +69,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [AI 怎樣記得我？3 招讓 Claude 記住你的工作方式\|泛科學院](https://www.youtube.com/watch?v=aMxxskHjhxY) | Today |
-| 2 | [Claude 禁令上路：不能再罵 AI 了？研究實測到底有沒有用\|泛科學院](https://www.youtube.com/watch?v=LhW5Fsv7ShY) | 1 week ago |
-| 3 | [15分鐘解析全球網路危機 PHP2Shell 到底是什麼？\|泛科學院](https://www.youtube.com/watch?v=hdPBHRFHaUw) | 2 weeks ago |
-| 4 | [Gemini 4 Argon 登場！連瑜珈動作都可以分析？終於可以讀電腦檔案？](https://www.youtube.com/watch?v=EIu0F591Jvg) | 3 weeks ago |
-| 5 | [ChatGPT 只是高級文字接龍？諾貝爾獎 AI 教父打臉：它真的聽得懂！\|泛科學院](https://www.youtube.com/watch?v=S6JizkTVMQM) | 3 weeks ago |
+| 1 | [開會最累的是整理？Notion 和 Granola 兩款 AI 會議記錄實測\|泛科學院](https://www.youtube.com/watch?v=fUl0u51ktKQ) | Today |
+| 2 | [AI 怎樣記得我？3 招讓 Claude 記住你的工作方式\|泛科學院](https://www.youtube.com/watch?v=aMxxskHjhxY) | Today |
+| 3 | [Claude 自己就能做簡報，為什麼還要串外掛？Canva、Gamma 實測\|泛科學院](https://www.youtube.com/watch?v=lSjYrBTe8HU) | 1 day ago |
+| 4 | [Claude 禁令上路：不能再罵 AI 了？研究實測到底有沒有用\|泛科學院](https://www.youtube.com/watch?v=LhW5Fsv7ShY) | 1 week ago |
+| 5 | [AI 外掛不是越多越好！串 ChatGPT、Claude 前要注意這 4 件事\|泛科學院](https://www.youtube.com/watch?v=-QEbjdb93Wc) | 1 week ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Fable 5 2 实测翻车了！API升级前先看这些坑 \|  Claude Fable 5.2 基础单价是Opus 5.5两倍，什么任务才值得用？](https://www.youtube.com/watch?v=Q7Cih2-RnnM) | 1 day ago |
-| 2 | [Claude Code 桌面版整個重做了！這 3 個新功能先學 #Shorts](https://www.youtube.com/watch?v=0z8h88OE6SY) | 3 days ago |
-| 3 | [Claude 2 0 更新整理：Claude Code 桌面版的專案、側邊對話、Mods 怎麼用](https://www.youtube.com/watch?v=SbP97CbptRY) | 3 days ago |
-| 4 | [剪影片最花時間的不是剪接！實測 Filmora 16 智慧校對，專有名詞零翻車](https://www.youtube.com/watch?v=LtN0pAsmgjc) | 6 days ago |
-| 5 | [Gemini 技能做一次，Claude Code 也能用\|同一份 SKILL md 兩邊跑](https://www.youtube.com/watch?v=zmUbbJYtxmM) | 1 week ago |
+| 1 | [如何从零做出你的第一支AI视频？Higgsfield 新手分步教程](https://www.youtube.com/watch?v=y-Kv0ZZeBGk) | Today |
+| 2 | [Fable 5 2 实测翻车了！API升级前先看这些坑 \|  Claude Fable 5.2 基础单价是Opus 5.5两倍，什么任务才值得用？](https://www.youtube.com/watch?v=Q7Cih2-RnnM) | 1 day ago |
+| 3 | [Claude Code 桌面版整個重做了！這 3 個新功能先學 #Shorts](https://www.youtube.com/watch?v=0z8h88OE6SY) | 3 days ago |
+| 4 | [Claude 2 0 更新整理：Claude Code 桌面版的專案、側邊對話、Mods 怎麼用](https://www.youtube.com/watch?v=SbP97CbptRY) | 3 days ago |
+| 5 | [剪影片最花時間的不是剪接！實測 Filmora 16 智慧校對，專有名詞零翻車](https://www.youtube.com/watch?v=LtN0pAsmgjc) | 6 days ago |
 
 ---
 
