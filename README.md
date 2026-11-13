@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-11-13 19:39 HKT*
+*Last updated: 2026-11-14 05:41 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -29,11 +29,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Grokbot 應用實例分享：舞台劇取消，好彩AI提醒我！AI 助理幫你跟進邊件生活瑣事 #Grokbot #香港AI #廣東話 #香港AI應用 #香港Grokbot應用 #Grokbot實戰技巧](https://www.youtube.com/watch?v=HHjzkvz5i-U) | 2 days ago |
-| 2 | [Grok bot 香港老闆的 10 個工作與生活實戰：我每日點用 Grok Bot？#GrokBot #AI助理 #AI生活應用 #AI工具 #我想用AI賺錢 #廣東話 #香港AI應用 #香港AI教學](https://www.youtube.com/watch?v=vbkNbM3jP-o) | 1 week ago |
-| 3 | [返工覆 Message，打完仲要改？#Typeless 廣東話實試\|我點用 Typeless 整理工作 Message #Typeless #AI工具 #工作效率 #廣東話AI #我想用AI賺錢](https://www.youtube.com/watch?v=ESI_9v_BpRo) | 2 weeks ago |
-| 4 | [善用AI工具口述整理工作的實測示範：我點用 Typeless AI 語音整理工作？真係估唔到咁好用！  #AI語音輸入 #AI工具 #廣東話 #TypelessAI #香港AI #工作效率](https://www.youtube.com/watch?v=_EtoUpwbBGE) | 3 weeks ago |
-| 5 | [由諗橋到 IG 出 Post！Grokbot + Higgsfield MCP 幫產品做搞笑短片：真AI Agent 自動化社交平台管理 #HiggsfieldMCP #AIAgent #AI影片製作](https://www.youtube.com/watch?v=EUVxwy6FdVs) | 3 weeks ago |
+| 1 | [Grokbot實際應用案例分享：會議前後由AI幫忙整理！香港老闆點樣用Grokbot提升效率？#grokbot #香港AI應用 #廣東話 #我想用AI賺錢 #Grokbot應用](https://www.youtube.com/watch?v=9zmMGf5W-iM) | Today |
+| 2 | [Grokbot 應用實例分享：舞台劇取消，好彩AI提醒我！AI 助理幫你跟進邊件生活瑣事 #Grokbot #香港AI #廣東話 #香港AI應用 #香港Grokbot應用 #Grokbot實戰技巧](https://www.youtube.com/watch?v=HHjzkvz5i-U) | 2 days ago |
+| 3 | [Grok bot 香港老闆的 10 個工作與生活實戰：我每日點用 Grok Bot？#GrokBot #AI助理 #AI生活應用 #AI工具 #我想用AI賺錢 #廣東話 #香港AI應用 #香港AI教學](https://www.youtube.com/watch?v=vbkNbM3jP-o) | 1 week ago |
+| 4 | [返工覆 Message，打完仲要改？#Typeless 廣東話實試\|我點用 Typeless 整理工作 Message #Typeless #AI工具 #工作效率 #廣東話AI #我想用AI賺錢](https://www.youtube.com/watch?v=ESI_9v_BpRo) | 2 weeks ago |
+| 5 | [善用AI工具口述整理工作的實測示範：我點用 Typeless AI 語音整理工作？真係估唔到咁好用！  #AI語音輸入 #AI工具 #廣東話 #TypelessAI #香港AI #工作效率](https://www.youtube.com/watch?v=_EtoUpwbBGE) | 3 weeks ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
@@ -69,11 +69,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [開會最累的是整理？Notion 和 Granola 兩款 AI 會議記錄實測\|泛科學院](https://www.youtube.com/watch?v=fUl0u51ktKQ) | 1 day ago |
-| 2 | [AI 怎樣記得我？3 招讓 Claude 記住你的工作方式\|泛科學院](https://www.youtube.com/watch?v=aMxxskHjhxY) | 1 day ago |
-| 3 | [Claude 自己就能做簡報，為什麼還要串外掛？Canva、Gamma 實測\|泛科學院](https://www.youtube.com/watch?v=lSjYrBTe8HU) | 2 days ago |
-| 4 | [Claude 禁令上路：不能再罵 AI 了？研究實測到底有沒有用\|泛科學院](https://www.youtube.com/watch?v=LhW5Fsv7ShY) | 1 week ago |
-| 5 | [AI 外掛不是越多越好！串 ChatGPT、Claude 前要注意這 4 件事\|泛科學院](https://www.youtube.com/watch?v=-QEbjdb93Wc) | 1 week ago |
+| 1 | [Claude 連 Indeed 一句話搜職缺！小心詐騙職缺這樣看\|泛科學院](https://www.youtube.com/watch?v=6tYxzS5O5AM) | Today |
+| 2 | [開會最累的是整理？Notion 和 Granola 兩款 AI 會議記錄實測\|泛科學院](https://www.youtube.com/watch?v=fUl0u51ktKQ) | 1 day ago |
+| 3 | [AI 怎樣記得我？3 招讓 Claude 記住你的工作方式\|泛科學院](https://www.youtube.com/watch?v=aMxxskHjhxY) | 1 day ago |
+| 4 | [Claude 自己就能做簡報，為什麼還要串外掛？Canva、Gamma 實測\|泛科學院](https://www.youtube.com/watch?v=lSjYrBTe8HU) | 2 days ago |
+| 5 | [Claude 禁令上路：不能再罵 AI 了？研究實測到底有沒有用\|泛科學院](https://www.youtube.com/watch?v=LhW5Fsv7ShY) | 1 week ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
