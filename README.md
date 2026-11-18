@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-11-18 20:22 HKT*
+*Last updated: 2026-11-19 06:43 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -29,21 +29,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Grok bot 香港老闆的 10 個工作與生活實戰：我每日點用 Grok Bot？#GrokBot #AI助理 #AI生活應用 #AI工具 #我想用AI賺錢 #廣東話 #香港AI應用 #香港AI教學](https://www.youtube.com/watch?v=vbkNbM3jP-o) | 1 week ago |
-| 2 | [善用AI工具口述整理工作的實測示範：我點用 Typeless AI 語音整理工作？真係估唔到咁好用！ #AI語音輸入 #AI工具 #廣東話 #TypelessAI #香港AI #工作效率](https://www.youtube.com/watch?v=_EtoUpwbBGE) | 3 weeks ago |
-| 3 | [由諗橋到 IG 出 Post！Grokbot + Higgsfield MCP 幫產品做搞笑短片：真AI Agent 自動化社交平台管理 #HiggsfieldMCP #AIAgent #AI影片製作](https://www.youtube.com/watch?v=EUVxwy6FdVs) | 1 month ago |
-| 4 | [ChatGPT Dots、Manus Cue 香港實試：以後唔洗自己設定AI助理？由開通到交代工作 #ChatGPTdots #ManusCue #AIAgent #廣東話 #香港AI應用](https://www.youtube.com/watch?v=I7PMmmIv_Ro) | 1 month ago |
-| 5 | [Grok Bot 香港實測：只請一個 AI 總經理，就能自組員工團隊？#GrokBot #AI員工 #一人公司 #香港AI #AI工具 #我想用AI賺錢 #AI實測 #廣東話 #粵語 #香港AI應用](https://www.youtube.com/watch?v=ds0kLueaJXY) | 2 months ago |
+| 1 | [Grokbot 香港實際應用案例分享：收藏工具或Skills，叫AI隨時分析同幫你搵返 #Grokbot #香港AI #香港Grokbot應用 #我想用AI賺錢 #Grokbot實用教學 #廣東話](https://www.youtube.com/watch?v=WPxF_mQEOto) | 3 days ago |
+| 2 | [Grokbot實際應用案例分享：會議前後由AI幫忙整理！香港老闆點樣用Grokbot提升效率？#grokbot #香港AI應用 #廣東話 #我想用AI賺錢 #Grokbot應用](https://www.youtube.com/watch?v=9zmMGf5W-iM) | 5 days ago |
+| 3 | [Grokbot 應用實例分享：舞台劇取消，好彩AI提醒我！AI 助理幫你跟進邊件生活瑣事 #Grokbot #香港AI #廣東話 #香港AI應用 #香港Grokbot應用 #Grokbot實戰技巧](https://www.youtube.com/watch?v=HHjzkvz5i-U) | 1 week ago |
+| 4 | [Grok bot 香港老闆的 10 個工作與生活實戰：我每日點用 Grok Bot？#GrokBot #AI助理 #AI生活應用 #AI工具 #我想用AI賺錢 #廣東話 #香港AI應用 #香港AI教學](https://www.youtube.com/watch?v=vbkNbM3jP-o) | 1 week ago |
+| 5 | [返工覆 Message，打完仲要改？#Typeless 廣東話實試\|我點用 Typeless 整理工作 Message #Typeless #AI工具 #工作效率 #廣東話AI #我想用AI賺錢](https://www.youtube.com/watch?v=ESI_9v_BpRo) | 3 weeks ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [這次影片使用 Gemini 4 Carbon 剪接 \| 能取代 Opus 嗎？](https://www.youtube.com/watch?v=pL1Ytm9cq2E) | 3 days ago |
-| 2 | [AI 是提升效率，還是令你變蠢 \| AI 讓強者更強](https://www.youtube.com/watch?v=upQmUK5iy7s) | 1 week ago |
-| 3 | [不用 Canva 怎樣做 YouTube 封面？\| GPT Image 2.6 + AI 相片編輯器教學](https://www.youtube.com/watch?v=RGVZv7FKYxk) | 1 week ago |
-| 4 | [AI 代你用手機 \| 由 Siri 定鬧鐘到 AI 接管整部手機](https://www.youtube.com/watch?v=c58bTVo6jv8) | 1 week ago |
-| 5 | [Anthropic 收購一人公司 \| AI + 一人公司 OPC](https://www.youtube.com/watch?v=qHAhR0gLEpk) | 1 week ago |
+| 1 | [Google AI Studio 一句話做 Android App\|可加 Google 登入、Firebase 和 Gemini](https://www.youtube.com/watch?v=JQtSueHjhiQ) | Today |
+| 2 | [Artificial Analysis 實測 Gemini 4 Hydrogen：追貼旗艦僅差 1 分，成本僅 Sonnet 三分一 #Shorts](https://www.youtube.com/watch?v=MVPHWuJ-3p0) | 1 day ago |
+| 3 | [這次影片使用 Gemini 4 Carbon 剪接 \| 能取代 Opus 嗎？](https://www.youtube.com/watch?v=pL1Ytm9cq2E) | 3 days ago |
+| 4 | [Shopify 全線網店及 Meta 啟用 Poppy 1.0！個人 AI 代理直通企業開放標準 #Shorts](https://www.youtube.com/watch?v=3LTwDORUUEk) | 4 days ago |
+| 5 | [ChatGPT 開放商戶認領：藍剔驗證、Business Agent、Shopify 一鍵接入 #AI新聞](https://www.youtube.com/watch?v=U3CCoWlXx2g) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -69,11 +69,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [11月AI更新大亂鬥：Gemini 4 Carbon、Claude Fable 5.2與Astra實測評比](https://www.youtube.com/watch?v=NTmbr0LoZiY) | 1 day ago |
-| 2 | [AI 怎樣記得我？3 招讓 Claude 記住你的工作方式\|泛科學院](https://www.youtube.com/watch?v=aMxxskHjhxY) | 6 days ago |
-| 3 | [Claude 禁令上路：不能再罵 AI 了？研究實測到底有沒有用\|泛科學院](https://www.youtube.com/watch?v=LhW5Fsv7ShY) | 2 weeks ago |
-| 4 | [15分鐘解析全球網路危機 PHP2Shell 到底是什麼？\|泛科學院](https://www.youtube.com/watch?v=hdPBHRFHaUw) | 3 weeks ago |
-| 5 | [Gemini 4 Argon 登場！連瑜珈動作都可以分析？終於可以讀電腦檔案？](https://www.youtube.com/watch?v=EIu0F591Jvg) | 4 weeks ago |
+| 1 | [Gemini 4 Argon 實測！它真能看懂影片、分析瑜珈動作嗎？\|泛科學院](https://www.youtube.com/watch?v=zMFFuCtMtXg) | Today |
+| 2 | [Gemini 大更新！Task 模式、Skill 技能卡、排程功能一次看懂\|泛科學院](https://www.youtube.com/watch?v=wQzMEj5LS5Y) | 1 day ago |
+| 3 | [Gemini 終於變聰明！Carbon、Hydrogen 到底好不好用？](https://www.youtube.com/watch?v=NTmbr0LoZiY) | 1 day ago |
+| 4 | [你的 Claude 還只拿來聊天嗎？上班族不可不知的 5 個 Claude 外掛\|泛科學院](https://www.youtube.com/watch?v=RXgGoHpBL6U) | 2 days ago |
+| 5 | [影片上架了沒？Claude 串 Airtable 一句話幫你對帳\|泛科學院](https://www.youtube.com/watch?v=FkOnuAt4TX0) | 3 days ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
