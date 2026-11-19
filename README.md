@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-11-19 20:16 HKT*
+*Last updated: 2026-11-20 06:47 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -11,9 +11,9 @@
 |---|-------|-----|
 | 1 | [Anthropic推出Claude 2.0！18分鐘快速上手 5 個真正能改變你工作方式的新功能，從入門到專業手把手教你，看完比 99% 的人更會用 Claude！](https://www.youtube.com/watch?v=mLSQ-jE6nF0) | 1 week ago |
 | 2 | [一個人20分鐘跑通 AI 短漫劇製作全流程！人物一致性搞定，50集系列連續劇也能做！最全最細 AI 真人短劇保姆級教程，從入門到精通實現商業變現！](https://www.youtube.com/watch?v=hzdPM1PcG3Q) | 2 weeks ago |
-| 3 | [如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片...](https://www.youtube.com/watch?v=v7UUfn7JQNk) | 1 month ago |
+| 3 | [如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片紅利，早用早贏！](https://www.youtube.com/watch?v=v7UUfn7JQNk) | 1 month ago |
 | 4 | [ChatGPT-6.1 完整教學，全新15大功能＋所有場景實測！GPT Work、Codex、Skills 一次搞懂，從入門到進階，新手也能用 AI 賺錢、效率翻10倍！](https://www.youtube.com/watch?v=6n14rKV6oJc) | 1 month ago |
-| 5 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...](https://www.youtube.com/watch?v=gIac2n4nIPg) | 2 months ago |
+| 5 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不使用的人真的很吃虧！](https://www.youtube.com/watch?v=gIac2n4nIPg) | 2 months ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [這次影片使用 Gemini 4 Carbon 剪接 \| 能取代 Opus 嗎？](https://www.youtube.com/watch?v=pL1Ytm9cq2E) | 4 days ago |
-| 2 | [AI 是提升效率，還是令你變蠢 \| AI 讓強者更強](https://www.youtube.com/watch?v=upQmUK5iy7s) | 1 week ago |
-| 3 | [不用 Canva 怎樣做 YouTube 封面？\| GPT Image 2.6 + AI 相片編輯器教學](https://www.youtube.com/watch?v=RGVZv7FKYxk) | 1 week ago |
-| 4 | [AI 代你用手機 \| 由 Siri 定鬧鐘到 AI 接管整部手機](https://www.youtube.com/watch?v=c58bTVo6jv8) | 1 week ago |
-| 5 | [Anthropic 收購一人公司 \| AI + 一人公司 OPC](https://www.youtube.com/watch?v=qHAhR0gLEpk) | 2 weeks ago |
+| 1 | [Gemini 4 Neon 推出：中階價錢反超旗艦 Carbon，編程代理奪第 1 #Shorts](https://www.youtube.com/watch?v=mOaPtCnMBTg) | Today |
+| 2 | [Google AI Studio 一句話做 Android App\|可加 Google 登入、Firebase 和 Gemini](https://www.youtube.com/watch?v=JQtSueHjhiQ) | 1 day ago |
+| 3 | [Artificial Analysis 實測 Gemini 4 Hydrogen：追貼旗艦僅差 1 分，成本僅 Sonnet 三分一 #Shorts](https://www.youtube.com/watch?v=MVPHWuJ-3p0) | 2 days ago |
+| 4 | [這次影片使用 Gemini 4 Carbon 剪接 \| 能取代 Opus 嗎？](https://www.youtube.com/watch?v=pL1Ytm9cq2E) | 4 days ago |
+| 5 | [Shopify 全線網店及 Meta 啟用 Poppy 1.0！個人 AI 代理直通企業開放標準 #Shorts](https://www.youtube.com/watch?v=3LTwDORUUEk) | 5 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -69,11 +69,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Gemini 終於變聰明！Carbon、Hydrogen 到底好不好用？](https://www.youtube.com/watch?v=NTmbr0LoZiY) | 2 days ago |
-| 2 | [AI 怎樣記得我？3 招讓 Claude 記住你的工作方式\|泛科學院](https://www.youtube.com/watch?v=aMxxskHjhxY) | 1 week ago |
-| 3 | [Claude 禁令上路：不能再罵 AI 了？研究實測到底有沒有用\|泛科學院](https://www.youtube.com/watch?v=LhW5Fsv7ShY) | 2 weeks ago |
-| 4 | [15分鐘解析全球網路危機 PHP2Shell 到底是什麼？\|泛科學院](https://www.youtube.com/watch?v=hdPBHRFHaUw) | 3 weeks ago |
-| 5 | [Gemini 4 Argon 登場！連瑜珈動作都可以分析？終於可以讀電腦檔案？](https://www.youtube.com/watch?v=EIu0F591Jvg) | 4 weeks ago |
+| 1 | [Gemini 桌面版新介面：Task 模式、Skill、排程怎麼用？\|泛科學院](https://www.youtube.com/watch?v=30jmoXGzjlA) | Today |
+| 2 | [Gemini 4 Argon 實測！它真能看懂影片、分析瑜珈動作嗎？\|泛科學院](https://www.youtube.com/watch?v=zMFFuCtMtXg) | 1 day ago |
+| 3 | [Gemini 大更新！Task 模式、Skill 技能卡、排程功能一次看懂\|泛科學院](https://www.youtube.com/watch?v=wQzMEj5LS5Y) | 2 days ago |
+| 4 | [Gemini 終於變聰明！Carbon、Hydrogen 到底好不好用？](https://www.youtube.com/watch?v=NTmbr0LoZiY) | 2 days ago |
+| 5 | [你的 Claude 還只拿來聊天嗎？上班族不可不知的 5 個 Claude 外掛\|泛科學院](https://www.youtube.com/watch?v=RXgGoHpBL6U) | 3 days ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 

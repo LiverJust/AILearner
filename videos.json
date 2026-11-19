@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-19 20:16 HKT",
+  "last_updated": "2026-11-20 06:47 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -21,7 +21,7 @@
           "is_new_today": false
         },
         {
-          "title": "如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片...",
+          "title": "如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片紅利，早用早贏！",
           "url": "https://www.youtube.com/watch?v=v7UUfn7JQNk",
           "published": "2026-10-17",
           "age": "1 month ago",
@@ -35,7 +35,7 @@
           "is_new_today": false
         },
         {
-          "title": "強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...",
+          "title": "強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不使用的人真的很吃虧！",
           "url": "https://www.youtube.com/watch?v=gIac2n4nIPg",
           "published": "2026-09-20",
           "age": "2 months ago",
@@ -133,6 +133,27 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "Gemini 4 Neon 推出：中階價錢反超旗艦 Carbon，編程代理奪第 1 #Shorts",
+          "url": "https://www.youtube.com/watch?v=mOaPtCnMBTg",
+          "published": "2026-11-19",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
+          "title": "Google AI Studio 一句話做 Android App｜可加 Google 登入、Firebase 和 Gemini",
+          "url": "https://www.youtube.com/watch?v=JQtSueHjhiQ",
+          "published": "2026-11-18",
+          "age": "1 day ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Artificial Analysis 實測 Gemini 4 Hydrogen：追貼旗艦僅差 1 分，成本僅 Sonnet 三分一 #Shorts",
+          "url": "https://www.youtube.com/watch?v=MVPHWuJ-3p0",
+          "published": "2026-11-17",
+          "age": "2 days ago",
+          "is_new_today": false
+        },
+        {
           "title": "這次影片使用 Gemini 4 Carbon 剪接 | 能取代 Opus 嗎？",
           "url": "https://www.youtube.com/watch?v=pL1Ytm9cq2E",
           "published": "2026-11-15",
@@ -140,31 +161,10 @@
           "is_new_today": false
         },
         {
-          "title": "AI 是提升效率，還是令你變蠢 | AI 讓強者更強",
-          "url": "https://www.youtube.com/watch?v=upQmUK5iy7s",
-          "published": "2026-11-09",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "不用 Canva 怎樣做 YouTube 封面？| GPT Image 2.6 + AI 相片編輯器教學",
-          "url": "https://www.youtube.com/watch?v=RGVZv7FKYxk",
-          "published": "2026-11-08",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "AI 代你用手機 | 由 Siri 定鬧鐘到 AI 接管整部手機",
-          "url": "https://www.youtube.com/watch?v=c58bTVo6jv8",
-          "published": "2026-11-06",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Anthropic 收購一人公司 | AI + 一人公司 OPC",
-          "url": "https://www.youtube.com/watch?v=qHAhR0gLEpk",
-          "published": "2026-11-05",
-          "age": "2 weeks ago",
+          "title": "Shopify 全線網店及 Meta 啟用 Poppy 1.0！個人 AI 代理直通企業開放標準 #Shorts",
+          "url": "https://www.youtube.com/watch?v=3LTwDORUUEk",
+          "published": "2026-11-14",
+          "age": "5 days ago",
           "is_new_today": false
         }
       ]
@@ -259,6 +259,27 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
+          "title": "Gemini 桌面版新介面：Task 模式、Skill、排程怎麼用？｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=30jmoXGzjlA",
+          "published": "2026-11-19",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
+          "title": "Gemini 4 Argon 實測！它真能看懂影片、分析瑜珈動作嗎？｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=zMFFuCtMtXg",
+          "published": "2026-11-18",
+          "age": "1 day ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Gemini 大更新！Task 模式、Skill 技能卡、排程功能一次看懂｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=wQzMEj5LS5Y",
+          "published": "2026-11-17",
+          "age": "2 days ago",
+          "is_new_today": false
+        },
+        {
           "title": "Gemini 終於變聰明！Carbon、Hydrogen 到底好不好用？",
           "url": "https://www.youtube.com/watch?v=NTmbr0LoZiY",
           "published": "2026-11-17",
@@ -266,31 +287,10 @@
           "is_new_today": false
         },
         {
-          "title": "AI 怎樣記得我？3 招讓 Claude 記住你的工作方式｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=aMxxskHjhxY",
-          "published": "2026-11-12",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Claude 禁令上路：不能再罵 AI 了？研究實測到底有沒有用｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=LhW5Fsv7ShY",
-          "published": "2026-11-02",
-          "age": "2 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "15分鐘解析全球網路危機 PHP2Shell 到底是什麼？｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=hdPBHRFHaUw",
-          "published": "2026-10-25",
-          "age": "3 weeks ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Gemini 4 Argon 登場！連瑜珈動作都可以分析？終於可以讀電腦檔案？",
-          "url": "https://www.youtube.com/watch?v=EIu0F591Jvg",
-          "published": "2026-10-21",
-          "age": "4 weeks ago",
+          "title": "你的 Claude 還只拿來聊天嗎？上班族不可不知的 5 個 Claude 外掛｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=RXgGoHpBL6U",
+          "published": "2026-11-16",
+          "age": "3 days ago",
           "is_new_today": false
         }
       ]
@@ -305,14 +305,14 @@
           "url": "https://www.youtube.com/watch?v=gPh5T2eUFgU",
           "published": "2026-11-19",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "「从0到1實戰教程」ChatGPT 不只寫劇本，還能直接做 AI 短劇？Higgsfield MCP 實測教學",
           "url": "https://www.youtube.com/watch?v=AqUpkztK9yg",
           "published": "2026-11-19",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "Claude Code 真需要 Google 這個技能？Modern Web Guidance 教學｜13 次實測，效果與代價一次看",
