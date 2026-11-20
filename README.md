@@ -3,23 +3,23 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-11-20 06:47 HKT*
+*Last updated: 2026-11-20 20:16 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Anthropic推出Claude 2.0！18分鐘快速上手 5 個真正能改變你工作方式的新功能，從入門到專業手把手教你，看完比 99% 的人更會用 Claude！](https://www.youtube.com/watch?v=mLSQ-jE6nF0) | 1 week ago |
+| 1 | [Anthropic推出Claude 2.0！18分鐘快速上手 5 個真正能改變你工作方式的新功能，從入門到專業手把手教你，看完比 99% 的人更會用 Claude！](https://www.youtube.com/watch?v=mLSQ-jE6nF0) | 2 weeks ago |
 | 2 | [一個人20分鐘跑通 AI 短漫劇製作全流程！人物一致性搞定，50集系列連續劇也能做！最全最細 AI 真人短劇保姆級教程，從入門到精通實現商業變現！](https://www.youtube.com/watch?v=hzdPM1PcG3Q) | 2 weeks ago |
-| 3 | [如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片紅利，早用早贏！](https://www.youtube.com/watch?v=v7UUfn7JQNk) | 1 month ago |
+| 3 | [如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片...](https://www.youtube.com/watch?v=v7UUfn7JQNk) | 1 month ago |
 | 4 | [ChatGPT-6.1 完整教學，全新15大功能＋所有場景實測！GPT Work、Codex、Skills 一次搞懂，從入門到進階，新手也能用 AI 賺錢、效率翻10倍！](https://www.youtube.com/watch?v=6n14rKV6oJc) | 1 month ago |
-| 5 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不使用的人真的很吃虧！](https://www.youtube.com/watch?v=gIac2n4nIPg) | 2 months ago |
+| 5 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...](https://www.youtube.com/watch?v=gIac2n4nIPg) | 2 months ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Anthropic 發布了有史以來最強的AI模型: Claude Fable 5.2！](https://www.youtube.com/watch?v=QTawe_f0FV4) | 5 days ago |
+| 1 | [Anthropic 發布了有史以來最強的AI模型: Claude Fable 5.2！](https://www.youtube.com/watch?v=QTawe_f0FV4) | 6 days ago |
 | 2 | [13分鐘學會開源模型\|完整講解](https://www.youtube.com/watch?v=V813OCL7IMA) | 1 week ago |
 | 3 | [12分鐘搞懂ChatGPT Sites: 10個真實案例！](https://www.youtube.com/watch?v=roHGbU1rMwE) | 2 weeks ago |
 | 4 | [13分鐘搞懂全網爆火的循環工程 Loop Engineering！](https://www.youtube.com/watch?v=2tg451W2yZo) | 3 weeks ago |
@@ -29,21 +29,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Grok bot 香港老闆的 10 個工作與生活實戰：我每日點用 Grok Bot？#GrokBot #AI助理 #AI生活應用 #AI工具 #我想用AI賺錢 #廣東話 #香港AI應用 #香港AI教學](https://www.youtube.com/watch?v=vbkNbM3jP-o) | 1 week ago |
-| 2 | [善用AI工具口述整理工作的實測示範：我點用 Typeless AI 語音整理工作？真係估唔到咁好用！ #AI語音輸入 #AI工具 #廣東話 #TypelessAI #香港AI #工作效率](https://www.youtube.com/watch?v=_EtoUpwbBGE) | 3 weeks ago |
-| 3 | [由諗橋到 IG 出 Post！Grokbot + Higgsfield MCP 幫產品做搞笑短片：真AI Agent 自動化社交平台管理 #HiggsfieldMCP #AIAgent #AI影片製作](https://www.youtube.com/watch?v=EUVxwy6FdVs) | 1 month ago |
-| 4 | [ChatGPT Dots、Manus Cue 香港實試：以後唔洗自己設定AI助理？由開通到交代工作 #ChatGPTdots #ManusCue #AIAgent #廣東話 #香港AI應用](https://www.youtube.com/watch?v=I7PMmmIv_Ro) | 1 month ago |
-| 5 | [Grok Bot 香港實測：只請一個 AI 總經理，就能自組員工團隊？#GrokBot #AI員工 #一人公司 #香港AI #AI工具 #我想用AI賺錢 #AI實測 #廣東話 #粵語 #香港AI應用](https://www.youtube.com/watch?v=ds0kLueaJXY) | 2 months ago |
+| 1 | [Google Antigravity 香港終於正式用到！開通教學\|US$300 迎新額度點用？Gemini 4 四款模型點揀？#GoogleAntigravity #Gemini4 #廣東話](https://www.youtube.com/watch?v=ZIO-neguXwE) | Today |
+| 2 | [Grok bot 香港老闆的 10 個工作與生活實戰：我每日點用 Grok Bot？#GrokBot #AI助理 #AI生活應用 #AI工具 #我想用AI賺錢 #廣東話 #香港AI應用 #香港AI教學](https://www.youtube.com/watch?v=vbkNbM3jP-o) | 2 weeks ago |
+| 3 | [善用AI工具口述整理工作的實測示範：我點用 Typeless AI 語音整理工作？真係估唔到咁好用！ #AI語音輸入 #AI工具 #廣東話 #TypelessAI #香港AI #工作效率](https://www.youtube.com/watch?v=_EtoUpwbBGE) | 4 weeks ago |
+| 4 | [由諗橋到 IG 出 Post！Grokbot + Higgsfield MCP 幫產品做搞笑短片：真AI Agent 自動化社交平台管理 #HiggsfieldMCP #AIAgent #AI影片製作](https://www.youtube.com/watch?v=EUVxwy6FdVs) | 1 month ago |
+| 5 | [ChatGPT Dots、Manus Cue 香港實試：以後唔洗自己設定AI助理？由開通到交代工作 #ChatGPTdots #ManusCue #AIAgent #廣東話 #香港AI應用](https://www.youtube.com/watch?v=I7PMmmIv_Ro) | 1 month ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Gemini 4 Neon 推出：中階價錢反超旗艦 Carbon，編程代理奪第 1 #Shorts](https://www.youtube.com/watch?v=mOaPtCnMBTg) | Today |
-| 2 | [Google AI Studio 一句話做 Android App\|可加 Google 登入、Firebase 和 Gemini](https://www.youtube.com/watch?v=JQtSueHjhiQ) | 1 day ago |
-| 3 | [Artificial Analysis 實測 Gemini 4 Hydrogen：追貼旗艦僅差 1 分，成本僅 Sonnet 三分一 #Shorts](https://www.youtube.com/watch?v=MVPHWuJ-3p0) | 2 days ago |
-| 4 | [這次影片使用 Gemini 4 Carbon 剪接 \| 能取代 Opus 嗎？](https://www.youtube.com/watch?v=pL1Ytm9cq2E) | 4 days ago |
-| 5 | [Shopify 全線網店及 Meta 啟用 Poppy 1.0！個人 AI 代理直通企業開放標準 #Shorts](https://www.youtube.com/watch?v=3LTwDORUUEk) | 5 days ago |
+| 1 | [實測 Gemini 4 Neon 剪片, 媲美 Opus ! 正式反超 GPT](https://www.youtube.com/watch?v=CPtSO95ygCg) | Today |
+| 2 | [這次影片使用 Gemini 4 Carbon 剪接 \| 能取代 Opus 嗎？](https://www.youtube.com/watch?v=pL1Ytm9cq2E) | 5 days ago |
+| 3 | [AI 是提升效率，還是令你變蠢 \| AI 讓強者更強](https://www.youtube.com/watch?v=upQmUK5iy7s) | 1 week ago |
+| 4 | [不用 Canva 怎樣做 YouTube 封面？\| GPT Image 2.6 + AI 相片編輯器教學](https://www.youtube.com/watch?v=RGVZv7FKYxk) | 1 week ago |
+| 5 | [AI 代你用手機 \| 由 Siri 定鬧鐘到 AI 接管整部手機](https://www.youtube.com/watch?v=c58bTVo6jv8) | 2 weeks ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -60,7 +60,7 @@
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [Claude 最近 10 個大更新，新手一定要會的 3 個](https://www.youtube.com/watch?v=byCdyKQRe9A) | 1 week ago |
-| 2 | [我把所有 AI 影片模型都試過一遍了，結果最好的模型居然是這個..](https://www.youtube.com/watch?v=C3yav2x_bSs) | 3 weeks ago |
+| 2 | [我把所有 AI 影片模型都試過一遍了，結果最好的模型居然是這個..](https://www.youtube.com/watch?v=C3yav2x_bSs) | 4 weeks ago |
 | 3 | [Claude + Higgsfield MCP = 無限內容產生器](https://www.youtube.com/watch?v=Aq3DCWL_6Cs) | 1 month ago |
 | 4 | [我實測 Claude + Jev，竟然能玩出這 3 種應用](https://www.youtube.com/watch?v=EbJzxrhaXmM) | 1 month ago |
 | 5 | [挑戰從零開始，全程用語音使用 Claude Code 做出能收錢的電商網站(Typeless)](https://www.youtube.com/watch?v=DaEd0gUH5-g) | 1 month ago |
@@ -69,21 +69,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Gemini 桌面版新介面：Task 模式、Skill、排程怎麼用？\|泛科學院](https://www.youtube.com/watch?v=30jmoXGzjlA) | Today |
-| 2 | [Gemini 4 Argon 實測！它真能看懂影片、分析瑜珈動作嗎？\|泛科學院](https://www.youtube.com/watch?v=zMFFuCtMtXg) | 1 day ago |
-| 3 | [Gemini 大更新！Task 模式、Skill 技能卡、排程功能一次看懂\|泛科學院](https://www.youtube.com/watch?v=wQzMEj5LS5Y) | 2 days ago |
-| 4 | [Gemini 終於變聰明！Carbon、Hydrogen 到底好不好用？](https://www.youtube.com/watch?v=NTmbr0LoZiY) | 2 days ago |
-| 5 | [你的 Claude 還只拿來聊天嗎？上班族不可不知的 5 個 Claude 外掛\|泛科學院](https://www.youtube.com/watch?v=RXgGoHpBL6U) | 3 days ago |
+| 1 | [Gemini 終於變聰明！Carbon、Hydrogen 到底好不好用？](https://www.youtube.com/watch?v=NTmbr0LoZiY) | 3 days ago |
+| 2 | [AI 怎樣記得我？3 招讓 Claude 記住你的工作方式\|泛科學院](https://www.youtube.com/watch?v=aMxxskHjhxY) | 1 week ago |
+| 3 | [Claude 禁令上路：不能再罵 AI 了？研究實測到底有沒有用\|泛科學院](https://www.youtube.com/watch?v=LhW5Fsv7ShY) | 2 weeks ago |
+| 4 | [15分鐘解析全球網路危機 PHP2Shell 到底是什麼？\|泛科學院](https://www.youtube.com/watch?v=hdPBHRFHaUw) | 3 weeks ago |
+| 5 | [Gemini 4 Argon 登場！連瑜珈動作都可以分析？終於可以讀電腦檔案？](https://www.youtube.com/watch?v=EIu0F591Jvg) | 1 month ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [ChatGPT Astra 6 2初体验：这些游戏竟然是它做的？！](https://www.youtube.com/watch?v=gPh5T2eUFgU) | Today |
-| 2 | [「从0到1實戰教程」ChatGPT 不只寫劇本，還能直接做 AI 短劇？Higgsfield MCP 實測教學](https://www.youtube.com/watch?v=AqUpkztK9yg) | Today |
-| 3 | [Claude Code 真需要 Google 這個技能？Modern Web Guidance 教學\|13 次實測，效果與代價一次看](https://www.youtube.com/watch?v=vLTHW_MHWFM) | 1 day ago |
-| 4 | [Claude Code不再可靠？ Google EGM 實測：9個問題，兩次審查結果不同\|安裝與使用教學課程](https://www.youtube.com/watch?v=1tsoTS8qqoM) | 3 days ago |
-| 5 | [我用Cinema Studio 4 0制作了一部电影级的AI短剧 - HiggsfieldAI电影实战教程](https://www.youtube.com/watch?v=2D6UZSlIXr0) | 4 days ago |
+| 1 | [都说Claude Code省Token，账单却没降？微软TokenEconomizer实测与安装教程](https://www.youtube.com/watch?v=0fJNblNJgcs) | Today |
+| 2 | [ChatGPT Astra 6 2初体验：这些游戏竟然是它做的？！](https://www.youtube.com/watch?v=gPh5T2eUFgU) | 1 day ago |
+| 3 | [「从0到1實戰教程」ChatGPT 不只寫劇本，還能直接做 AI 短劇？Higgsfield MCP 實測教學](https://www.youtube.com/watch?v=AqUpkztK9yg) | 1 day ago |
+| 4 | [Claude Code 真需要 Google 這個技能？Modern Web Guidance 教學\|13 次實測，效果與代價一次看](https://www.youtube.com/watch?v=vLTHW_MHWFM) | 2 days ago |
+| 5 | [Claude Code不再可靠？ Google EGM 實測：9個問題，兩次審查結果不同\|安裝與使用教學課程](https://www.youtube.com/watch?v=1tsoTS8qqoM) | 4 days ago |
 
 ---
 
