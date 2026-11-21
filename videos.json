@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-21 19:51 HKT",
+  "last_updated": "2026-11-22 05:14 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -53,7 +53,7 @@
           "url": "https://www.youtube.com/watch?v=3GBv0OftNrk",
           "published": "2026-11-21",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "Anthropic 發布了有史以來最強的AI模型: Claude Fable 5.2！",
@@ -137,7 +137,7 @@
           "url": "https://www.youtube.com/watch?v=deqH4gEBmTY",
           "published": "2026-11-21",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "實測 Gemini 4 Neon 剪片, 媲美 Opus ! 正式反超 GPT",
