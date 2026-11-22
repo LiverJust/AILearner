@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22 20:03 HKT",
+  "last_updated": "2026-11-23 05:21 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -133,6 +133,13 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "Tesla FSD v15 實時生成 3D 城市！不夠一部 iPhone 算力，為何能改寫無人車戰局？",
+          "url": "https://www.youtube.com/watch?v=s2d0vpBXI7o",
+          "published": "2026-11-22",
+          "age": "Today",
+          "is_new_today": false
+        },
+        {
           "title": "我取消了 4 萬元軟件訂閱 | AI Agent 管理系統 AMS",
           "url": "https://www.youtube.com/watch?v=deqH4gEBmTY",
           "published": "2026-11-21",
@@ -158,13 +165,6 @@
           "url": "https://www.youtube.com/watch?v=upQmUK5iy7s",
           "published": "2026-11-09",
           "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "不用 Canva 怎樣做 YouTube 封面？| GPT Image 2.6 + AI 相片編輯器教學",
-          "url": "https://www.youtube.com/watch?v=RGVZv7FKYxk",
-          "published": "2026-11-08",
-          "age": "2 weeks ago",
           "is_new_today": false
         }
       ]
@@ -305,7 +305,7 @@
           "url": "https://www.youtube.com/watch?v=ZoexGoFe-HI",
           "published": "2026-11-22",
           "age": "Today",
-          "is_new_today": true
+          "is_new_today": false
         },
         {
           "title": "都说Claude Code省Token，账单却没降？微软TokenEconomizer实测与安装教程",

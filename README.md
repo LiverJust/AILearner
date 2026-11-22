@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-11-22 20:03 HKT*
+*Last updated: 2026-11-23 05:21 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [我取消了 4 萬元軟件訂閱 \| AI Agent 管理系統 AMS](https://www.youtube.com/watch?v=deqH4gEBmTY) | 1 day ago |
-| 2 | [實測 Gemini 4 Neon 剪片, 媲美 Opus ! 正式反超 GPT](https://www.youtube.com/watch?v=CPtSO95ygCg) | 2 days ago |
-| 3 | [這次影片使用 Gemini 4 Carbon 剪接 \| 能取代 Opus 嗎？](https://www.youtube.com/watch?v=pL1Ytm9cq2E) | 1 week ago |
-| 4 | [AI 是提升效率，還是令你變蠢 \| AI 讓強者更強](https://www.youtube.com/watch?v=upQmUK5iy7s) | 1 week ago |
-| 5 | [不用 Canva 怎樣做 YouTube 封面？\| GPT Image 2.6 + AI 相片編輯器教學](https://www.youtube.com/watch?v=RGVZv7FKYxk) | 2 weeks ago |
+| 1 | [Tesla FSD v15 實時生成 3D 城市！不夠一部 iPhone 算力，為何能改寫無人車戰局？](https://www.youtube.com/watch?v=s2d0vpBXI7o) | Today |
+| 2 | [我取消了 4 萬元軟件訂閱 \| AI Agent 管理系統 AMS](https://www.youtube.com/watch?v=deqH4gEBmTY) | 1 day ago |
+| 3 | [實測 Gemini 4 Neon 剪片, 媲美 Opus ! 正式反超 GPT](https://www.youtube.com/watch?v=CPtSO95ygCg) | 2 days ago |
+| 4 | [這次影片使用 Gemini 4 Carbon 剪接 \| 能取代 Opus 嗎？](https://www.youtube.com/watch?v=pL1Ytm9cq2E) | 1 week ago |
+| 5 | [AI 是提升效率，還是令你變蠢 \| AI 讓強者更強](https://www.youtube.com/watch?v=upQmUK5iy7s) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
