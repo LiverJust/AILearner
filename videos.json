@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-22 05:14 HKT",
+  "last_updated": "2026-11-22 20:03 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -52,7 +52,7 @@
           "title": "全新 Claude 2.0: 你需要了解的10個新功能！Claude Code不再只是寫代碼！",
           "url": "https://www.youtube.com/watch?v=3GBv0OftNrk",
           "published": "2026-11-21",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
@@ -94,7 +94,7 @@
           "title": "Google Antigravity 香港終於正式用到！開通教學｜US$300 迎新額度點用？Gemini 4 四款模型點揀？#GoogleAntigravity #Gemini4 #廣東話",
           "url": "https://www.youtube.com/watch?v=ZIO-neguXwE",
           "published": "2026-11-20",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
@@ -108,7 +108,7 @@
           "title": "善用AI工具口述整理工作的實測示範：我點用 Typeless AI 語音整理工作？真係估唔到咁好用！ #AI語音輸入 #AI工具 #廣東話 #TypelessAI #香港AI #工作效率",
           "url": "https://www.youtube.com/watch?v=_EtoUpwbBGE",
           "published": "2026-10-23",
-          "age": "4 weeks ago",
+          "age": "1 month ago",
           "is_new_today": false
         },
         {
@@ -136,21 +136,21 @@
           "title": "我取消了 4 萬元軟件訂閱 | AI Agent 管理系統 AMS",
           "url": "https://www.youtube.com/watch?v=deqH4gEBmTY",
           "published": "2026-11-21",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
           "title": "實測 Gemini 4 Neon 剪片, 媲美 Opus ! 正式反超 GPT",
           "url": "https://www.youtube.com/watch?v=CPtSO95ygCg",
           "published": "2026-11-20",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
           "title": "這次影片使用 Gemini 4 Carbon 剪接 | 能取代 Opus 嗎？",
           "url": "https://www.youtube.com/watch?v=pL1Ytm9cq2E",
           "published": "2026-11-15",
-          "age": "6 days ago",
+          "age": "1 week ago",
           "is_new_today": false
         },
         {
@@ -164,7 +164,7 @@
           "title": "不用 Canva 怎樣做 YouTube 封面？| GPT Image 2.6 + AI 相片編輯器教學",
           "url": "https://www.youtube.com/watch?v=RGVZv7FKYxk",
           "published": "2026-11-08",
-          "age": "1 week ago",
+          "age": "2 weeks ago",
           "is_new_today": false
         }
       ]
@@ -227,7 +227,7 @@
           "title": "我把所有 AI 影片模型都試過一遍了，結果最好的模型居然是這個..",
           "url": "https://www.youtube.com/watch?v=C3yav2x_bSs",
           "published": "2026-10-23",
-          "age": "4 weeks ago",
+          "age": "1 month ago",
           "is_new_today": false
         },
         {
@@ -259,10 +259,10 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
-          "title": "Gemini 終於變聰明！Carbon、Hydrogen 到底好不好用？",
+          "title": "Gemini 黑五優惠半價大放送！Carbon、Hydrogen 到底好不好用？",
           "url": "https://www.youtube.com/watch?v=NTmbr0LoZiY",
           "published": "2026-11-17",
-          "age": "4 days ago",
+          "age": "5 days ago",
           "is_new_today": false
         },
         {
@@ -283,7 +283,7 @@
           "title": "15分鐘解析全球網路危機 PHP2Shell 到底是什麼？｜泛科學院",
           "url": "https://www.youtube.com/watch?v=hdPBHRFHaUw",
           "published": "2026-10-25",
-          "age": "3 weeks ago",
+          "age": "4 weeks ago",
           "is_new_today": false
         },
         {
@@ -301,38 +301,38 @@
       "url": "https://www.youtube.com/@YAHAClass/featured",
       "videos": [
         {
+          "title": "怎么做出像实拍一样的4K AI视频？完整制作流程",
+          "url": "https://www.youtube.com/watch?v=ZoexGoFe-HI",
+          "published": "2026-11-22",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "都说Claude Code省Token，账单却没降？微软TokenEconomizer实测与安装教程",
           "url": "https://www.youtube.com/watch?v=0fJNblNJgcs",
           "published": "2026-11-20",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
           "title": "ChatGPT Astra 6 2初体验：这些游戏竟然是它做的？！",
           "url": "https://www.youtube.com/watch?v=gPh5T2eUFgU",
           "published": "2026-11-19",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
           "title": "「从0到1實戰教程」ChatGPT 不只寫劇本，還能直接做 AI 短劇？Higgsfield MCP 實測教學",
           "url": "https://www.youtube.com/watch?v=AqUpkztK9yg",
           "published": "2026-11-19",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
           "title": "Claude Code 真需要 Google 這個技能？Modern Web Guidance 教學｜13 次實測，效果與代價一次看",
           "url": "https://www.youtube.com/watch?v=vLTHW_MHWFM",
           "published": "2026-11-18",
-          "age": "3 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Claude Code不再可靠？ Google EGM 實測：9個問題，兩次審查結果不同｜安裝與使用教學課程",
-          "url": "https://www.youtube.com/watch?v=1tsoTS8qqoM",
-          "published": "2026-11-16",
-          "age": "5 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         }
       ]
