@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-23 05:21 HKT",
+  "last_updated": "2026-11-23 21:45 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -17,7 +17,7 @@
           "title": "一個人20分鐘跑通 AI 短漫劇製作全流程！人物一致性搞定，50集系列連續劇也能做！最全最細 AI 真人短劇保姆級教程，從入門到精通實現商業變現！",
           "url": "https://www.youtube.com/watch?v=hzdPM1PcG3Q",
           "published": "2026-11-02",
-          "age": "2 weeks ago",
+          "age": "3 weeks ago",
           "is_new_today": false
         },
         {
@@ -52,7 +52,7 @@
           "title": "全新 Claude 2.0: 你需要了解的10個新功能！Claude Code不再只是寫代碼！",
           "url": "https://www.youtube.com/watch?v=3GBv0OftNrk",
           "published": "2026-11-21",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
@@ -80,7 +80,7 @@
           "title": "13分鐘搞懂全網爆火的循環工程 Loop Engineering！",
           "url": "https://www.youtube.com/watch?v=2tg451W2yZo",
           "published": "2026-10-24",
-          "age": "4 weeks ago",
+          "age": "1 month ago",
           "is_new_today": false
         }
       ]
@@ -94,7 +94,7 @@
           "title": "Google Antigravity 香港終於正式用到！開通教學｜US$300 迎新額度點用？Gemini 4 四款模型點揀？#GoogleAntigravity #Gemini4 #廣東話",
           "url": "https://www.youtube.com/watch?v=ZIO-neguXwE",
           "published": "2026-11-20",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
@@ -133,37 +133,37 @@
       "url": "https://www.youtube.com/@ompshek/videos",
       "videos": [
         {
+          "title": "如何把 Gemini Antigravity 綁定到個人 AI Agent？Zo Computer 與免費開源 T3 Code 實戰教學（附封鎖政策拆解）",
+          "url": "https://www.youtube.com/watch?v=53fZdQ9FqJo",
+          "published": "2026-11-23",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "Tesla FSD v15 實時生成 3D 城市！不夠一部 iPhone 算力，為何能改寫無人車戰局？",
           "url": "https://www.youtube.com/watch?v=s2d0vpBXI7o",
           "published": "2026-11-22",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
           "title": "我取消了 4 萬元軟件訂閱 | AI Agent 管理系統 AMS",
           "url": "https://www.youtube.com/watch?v=deqH4gEBmTY",
           "published": "2026-11-21",
-          "age": "1 day ago",
+          "age": "2 days ago",
           "is_new_today": false
         },
         {
           "title": "實測 Gemini 4 Neon 剪片, 媲美 Opus ! 正式反超 GPT",
           "url": "https://www.youtube.com/watch?v=CPtSO95ygCg",
           "published": "2026-11-20",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
           "title": "這次影片使用 Gemini 4 Carbon 剪接 | 能取代 Opus 嗎？",
           "url": "https://www.youtube.com/watch?v=pL1Ytm9cq2E",
           "published": "2026-11-15",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "AI 是提升效率，還是令你變蠢 | AI 讓強者更強",
-          "url": "https://www.youtube.com/watch?v=upQmUK5iy7s",
-          "published": "2026-11-09",
           "age": "1 week ago",
           "is_new_today": false
         }
@@ -262,7 +262,7 @@
           "title": "Gemini 黑五優惠半價大放送！Carbon、Hydrogen 到底好不好用？",
           "url": "https://www.youtube.com/watch?v=NTmbr0LoZiY",
           "published": "2026-11-17",
-          "age": "5 days ago",
+          "age": "6 days ago",
           "is_new_today": false
         },
         {
@@ -276,7 +276,7 @@
           "title": "Claude 禁令上路：不能再罵 AI 了？研究實測到底有沒有用｜泛科學院",
           "url": "https://www.youtube.com/watch?v=LhW5Fsv7ShY",
           "published": "2026-11-02",
-          "age": "2 weeks ago",
+          "age": "3 weeks ago",
           "is_new_today": false
         },
         {
@@ -301,37 +301,37 @@
       "url": "https://www.youtube.com/@YAHAClass/featured",
       "videos": [
         {
+          "title": "OpenDesign＋Claude Code 實測教學｜從安裝到做出兩套可互動的落地頁",
+          "url": "https://www.youtube.com/watch?v=z_FOC_GvBVg",
+          "published": "2026-11-23",
+          "age": "Today",
+          "is_new_today": true
+        },
+        {
           "title": "怎么做出像实拍一样的4K AI视频？完整制作流程",
           "url": "https://www.youtube.com/watch?v=ZoexGoFe-HI",
           "published": "2026-11-22",
-          "age": "Today",
+          "age": "1 day ago",
           "is_new_today": false
         },
         {
           "title": "都说Claude Code省Token，账单却没降？微软TokenEconomizer实测与安装教程",
           "url": "https://www.youtube.com/watch?v=0fJNblNJgcs",
           "published": "2026-11-20",
-          "age": "2 days ago",
+          "age": "3 days ago",
           "is_new_today": false
         },
         {
           "title": "ChatGPT Astra 6 2初体验：这些游戏竟然是它做的？！",
           "url": "https://www.youtube.com/watch?v=gPh5T2eUFgU",
           "published": "2026-11-19",
-          "age": "3 days ago",
+          "age": "4 days ago",
           "is_new_today": false
         },
         {
           "title": "「从0到1實戰教程」ChatGPT 不只寫劇本，還能直接做 AI 短劇？Higgsfield MCP 實測教學",
           "url": "https://www.youtube.com/watch?v=AqUpkztK9yg",
           "published": "2026-11-19",
-          "age": "3 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Claude Code 真需要 Google 這個技能？Modern Web Guidance 教學｜13 次實測，效果與代價一次看",
-          "url": "https://www.youtube.com/watch?v=vLTHW_MHWFM",
-          "published": "2026-11-18",
           "age": "4 days ago",
           "is_new_today": false
         }

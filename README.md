@@ -3,14 +3,14 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-11-23 05:21 HKT*
+*Last updated: 2026-11-23 21:45 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [Anthropic推出Claude 2.0！18分鐘快速上手 5 個真正能改變你工作方式的新功能，從入門到專業手把手教你，看完比 99% 的人更會用 Claude！](https://www.youtube.com/watch?v=mLSQ-jE6nF0) | 2 weeks ago |
-| 2 | [一個人20分鐘跑通 AI 短漫劇製作全流程！人物一致性搞定，50集系列連續劇也能做！最全最細 AI 真人短劇保姆級教程，從入門到精通實現商業變現！](https://www.youtube.com/watch?v=hzdPM1PcG3Q) | 2 weeks ago |
+| 2 | [一個人20分鐘跑通 AI 短漫劇製作全流程！人物一致性搞定，50集系列連續劇也能做！最全最細 AI 真人短劇保姆級教程，從入門到精通實現商業變現！](https://www.youtube.com/watch?v=hzdPM1PcG3Q) | 3 weeks ago |
 | 3 | [如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片...](https://www.youtube.com/watch?v=v7UUfn7JQNk) | 1 month ago |
 | 4 | [ChatGPT-6.1 完整教學，全新15大功能＋所有場景實測！GPT Work、Codex、Skills 一次搞懂，從入門到進階，新手也能用 AI 賺錢、效率翻10倍！](https://www.youtube.com/watch?v=6n14rKV6oJc) | 1 month ago |
 | 5 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...](https://www.youtube.com/watch?v=gIac2n4nIPg) | 2 months ago |
@@ -19,17 +19,17 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [全新 Claude 2.0: 你需要了解的10個新功能！Claude Code不再只是寫代碼！](https://www.youtube.com/watch?v=3GBv0OftNrk) | 1 day ago |
+| 1 | [全新 Claude 2.0: 你需要了解的10個新功能！Claude Code不再只是寫代碼！](https://www.youtube.com/watch?v=3GBv0OftNrk) | 2 days ago |
 | 2 | [Anthropic 發布了有史以來最強的AI模型: Claude Fable 5.2！](https://www.youtube.com/watch?v=QTawe_f0FV4) | 1 week ago |
 | 3 | [13分鐘學會開源模型\|完整講解](https://www.youtube.com/watch?v=V813OCL7IMA) | 2 weeks ago |
 | 4 | [12分鐘搞懂ChatGPT Sites: 10個真實案例！](https://www.youtube.com/watch?v=roHGbU1rMwE) | 3 weeks ago |
-| 5 | [13分鐘搞懂全網爆火的循環工程 Loop Engineering！](https://www.youtube.com/watch?v=2tg451W2yZo) | 4 weeks ago |
+| 5 | [13分鐘搞懂全網爆火的循環工程 Loop Engineering！](https://www.youtube.com/watch?v=2tg451W2yZo) | 1 month ago |
 
 ### 我想用Ai賺錢 · [@我想用Ai賺錢](https://www.youtube.com/@%E6%88%91%E6%83%B3%E7%94%A8Ai%E8%B3%BA%E9%8C%A2/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Google Antigravity 香港終於正式用到！開通教學\|US$300 迎新額度點用？Gemini 4 四款模型點揀？#GoogleAntigravity #Gemini4 #廣東話](https://www.youtube.com/watch?v=ZIO-neguXwE) | 2 days ago |
+| 1 | [Google Antigravity 香港終於正式用到！開通教學\|US$300 迎新額度點用？Gemini 4 四款模型點揀？#GoogleAntigravity #Gemini4 #廣東話](https://www.youtube.com/watch?v=ZIO-neguXwE) | 3 days ago |
 | 2 | [Grok bot 香港老闆的 10 個工作與生活實戰：我每日點用 Grok Bot？#GrokBot #AI助理 #AI生活應用 #AI工具 #我想用AI賺錢 #廣東話 #香港AI應用 #香港AI教學](https://www.youtube.com/watch?v=vbkNbM3jP-o) | 2 weeks ago |
 | 3 | [善用AI工具口述整理工作的實測示範：我點用 Typeless AI 語音整理工作？真係估唔到咁好用！ #AI語音輸入 #AI工具 #廣東話 #TypelessAI #香港AI #工作效率](https://www.youtube.com/watch?v=_EtoUpwbBGE) | 1 month ago |
 | 4 | [由諗橋到 IG 出 Post！Grokbot + Higgsfield MCP 幫產品做搞笑短片：真AI Agent 自動化社交平台管理 #HiggsfieldMCP #AIAgent #AI影片製作](https://www.youtube.com/watch?v=EUVxwy6FdVs) | 1 month ago |
@@ -39,11 +39,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Tesla FSD v15 實時生成 3D 城市！不夠一部 iPhone 算力，為何能改寫無人車戰局？](https://www.youtube.com/watch?v=s2d0vpBXI7o) | Today |
-| 2 | [我取消了 4 萬元軟件訂閱 \| AI Agent 管理系統 AMS](https://www.youtube.com/watch?v=deqH4gEBmTY) | 1 day ago |
-| 3 | [實測 Gemini 4 Neon 剪片, 媲美 Opus ! 正式反超 GPT](https://www.youtube.com/watch?v=CPtSO95ygCg) | 2 days ago |
-| 4 | [這次影片使用 Gemini 4 Carbon 剪接 \| 能取代 Opus 嗎？](https://www.youtube.com/watch?v=pL1Ytm9cq2E) | 1 week ago |
-| 5 | [AI 是提升效率，還是令你變蠢 \| AI 讓強者更強](https://www.youtube.com/watch?v=upQmUK5iy7s) | 1 week ago |
+| 1 | [如何把 Gemini Antigravity 綁定到個人 AI Agent？Zo Computer 與免費開源 T3 Code 實戰教學（附封鎖政策拆解）](https://www.youtube.com/watch?v=53fZdQ9FqJo) | Today |
+| 2 | [Tesla FSD v15 實時生成 3D 城市！不夠一部 iPhone 算力，為何能改寫無人車戰局？](https://www.youtube.com/watch?v=s2d0vpBXI7o) | 1 day ago |
+| 3 | [我取消了 4 萬元軟件訂閱 \| AI Agent 管理系統 AMS](https://www.youtube.com/watch?v=deqH4gEBmTY) | 2 days ago |
+| 4 | [實測 Gemini 4 Neon 剪片, 媲美 Opus ! 正式反超 GPT](https://www.youtube.com/watch?v=CPtSO95ygCg) | 3 days ago |
+| 5 | [這次影片使用 Gemini 4 Carbon 剪接 \| 能取代 Opus 嗎？](https://www.youtube.com/watch?v=pL1Ytm9cq2E) | 1 week ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -69,9 +69,9 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Gemini 黑五優惠半價大放送！Carbon、Hydrogen 到底好不好用？](https://www.youtube.com/watch?v=NTmbr0LoZiY) | 5 days ago |
+| 1 | [Gemini 黑五優惠半價大放送！Carbon、Hydrogen 到底好不好用？](https://www.youtube.com/watch?v=NTmbr0LoZiY) | 6 days ago |
 | 2 | [AI 怎樣記得我？3 招讓 Claude 記住你的工作方式\|泛科學院](https://www.youtube.com/watch?v=aMxxskHjhxY) | 1 week ago |
-| 3 | [Claude 禁令上路：不能再罵 AI 了？研究實測到底有沒有用\|泛科學院](https://www.youtube.com/watch?v=LhW5Fsv7ShY) | 2 weeks ago |
+| 3 | [Claude 禁令上路：不能再罵 AI 了？研究實測到底有沒有用\|泛科學院](https://www.youtube.com/watch?v=LhW5Fsv7ShY) | 3 weeks ago |
 | 4 | [15分鐘解析全球網路危機 PHP2Shell 到底是什麼？\|泛科學院](https://www.youtube.com/watch?v=hdPBHRFHaUw) | 4 weeks ago |
 | 5 | [Gemini 4 Argon 登場！連瑜珈動作都可以分析？終於可以讀電腦檔案？](https://www.youtube.com/watch?v=EIu0F591Jvg) | 1 month ago |
 
@@ -79,11 +79,11 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [怎么做出像实拍一样的4K AI视频？完整制作流程](https://www.youtube.com/watch?v=ZoexGoFe-HI) | Today |
-| 2 | [都说Claude Code省Token，账单却没降？微软TokenEconomizer实测与安装教程](https://www.youtube.com/watch?v=0fJNblNJgcs) | 2 days ago |
-| 3 | [ChatGPT Astra 6 2初体验：这些游戏竟然是它做的？！](https://www.youtube.com/watch?v=gPh5T2eUFgU) | 3 days ago |
-| 4 | [「从0到1實戰教程」ChatGPT 不只寫劇本，還能直接做 AI 短劇？Higgsfield MCP 實測教學](https://www.youtube.com/watch?v=AqUpkztK9yg) | 3 days ago |
-| 5 | [Claude Code 真需要 Google 這個技能？Modern Web Guidance 教學\|13 次實測，效果與代價一次看](https://www.youtube.com/watch?v=vLTHW_MHWFM) | 4 days ago |
+| 1 | [OpenDesign＋Claude Code 實測教學\|從安裝到做出兩套可互動的落地頁](https://www.youtube.com/watch?v=z_FOC_GvBVg) | Today |
+| 2 | [怎么做出像实拍一样的4K AI视频？完整制作流程](https://www.youtube.com/watch?v=ZoexGoFe-HI) | 1 day ago |
+| 3 | [都说Claude Code省Token，账单却没降？微软TokenEconomizer实测与安装教程](https://www.youtube.com/watch?v=0fJNblNJgcs) | 3 days ago |
+| 4 | [ChatGPT Astra 6 2初体验：这些游戏竟然是它做的？！](https://www.youtube.com/watch?v=gPh5T2eUFgU) | 4 days ago |
+| 5 | [「从0到1實戰教程」ChatGPT 不只寫劇本，還能直接做 AI 短劇？Higgsfield MCP 實測教學](https://www.youtube.com/watch?v=AqUpkztK9yg) | 4 days ago |
 
 ---
 
