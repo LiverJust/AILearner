@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-24 10:39 HKT",
+  "last_updated": "2026-11-24 22:21 HKT",
   "channels": [
     {
       "name": "孔老師AI研習社",
@@ -21,7 +21,7 @@
           "is_new_today": false
         },
         {
-          "title": "如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片紅利，早用早贏！",
+          "title": "如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片...",
           "url": "https://www.youtube.com/watch?v=v7UUfn7JQNk",
           "published": "2026-10-17",
           "age": "1 month ago",
@@ -35,7 +35,7 @@
           "is_new_today": false
         },
         {
-          "title": "強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不使用的人真的很吃虧！",
+          "title": "強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...",
           "url": "https://www.youtube.com/watch?v=gIac2n4nIPg",
           "published": "2026-09-20",
           "age": "2 months ago",
@@ -98,31 +98,31 @@
           "is_new_today": false
         },
         {
-          "title": "Grokbot 香港實際應用案例分享：收藏工具或Skills，叫AI隨時分析同幫你搵返 #Grokbot #香港AI #香港Grokbot應用 #我想用AI賺錢 #Grokbot實用教學 #廣東話",
-          "url": "https://www.youtube.com/watch?v=WPxF_mQEOto",
-          "published": "2026-11-15",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Grokbot實際應用案例分享：會議前後由AI幫忙整理！香港老闆點樣用Grokbot提升效率？#grokbot #香港AI應用 #廣東話 #我想用AI賺錢 #Grokbot應用",
-          "url": "https://www.youtube.com/watch?v=9zmMGf5W-iM",
-          "published": "2026-11-13",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Grokbot 應用實例分享：舞台劇取消，好彩AI提醒我！AI 助理幫你跟進邊件生活瑣事 #Grokbot #香港AI #廣東話 #香港AI應用 #香港Grokbot應用 #Grokbot實戰技巧",
-          "url": "https://www.youtube.com/watch?v=HHjzkvz5i-U",
-          "published": "2026-11-11",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
           "title": "Grok bot 香港老闆的 10 個工作與生活實戰：我每日點用 Grok Bot？#GrokBot #AI助理 #AI生活應用 #AI工具 #我想用AI賺錢 #廣東話 #香港AI應用 #香港AI教學",
           "url": "https://www.youtube.com/watch?v=vbkNbM3jP-o",
           "published": "2026-11-06",
           "age": "2 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "善用AI工具口述整理工作的實測示範：我點用 Typeless AI 語音整理工作？真係估唔到咁好用！ #AI語音輸入 #AI工具 #廣東話 #TypelessAI #香港AI #工作效率",
+          "url": "https://www.youtube.com/watch?v=_EtoUpwbBGE",
+          "published": "2026-10-23",
+          "age": "1 month ago",
+          "is_new_today": false
+        },
+        {
+          "title": "由諗橋到 IG 出 Post！Grokbot + Higgsfield MCP 幫產品做搞笑短片：真AI Agent 自動化社交平台管理 #HiggsfieldMCP #AIAgent #AI影片製作",
+          "url": "https://www.youtube.com/watch?v=EUVxwy6FdVs",
+          "published": "2026-10-17",
+          "age": "1 month ago",
+          "is_new_today": false
+        },
+        {
+          "title": "ChatGPT Dots、Manus Cue 香港實試：以後唔洗自己設定AI助理？由開通到交代工作 #ChatGPTdots #ManusCue #AIAgent #廣東話 #香港AI應用",
+          "url": "https://www.youtube.com/watch?v=I7PMmmIv_Ro",
+          "published": "2026-10-02",
+          "age": "1 month ago",
           "is_new_today": false
         }
       ]
@@ -140,20 +140,6 @@
           "is_new_today": false
         },
         {
-          "title": "Claude 助證 167 年黎曼猜想！1,737 萬行 Lean 程式碼獲認證，卻無人讀得完？ #AI新聞 #Shorts",
-          "url": "https://www.youtube.com/watch?v=N3HEv0dYNTI",
-          "published": "2026-11-23",
-          "age": "1 day ago",
-          "is_new_today": false
-        },
-        {
-          "title": "OpenAI 首公開內部預訓練曲線：新模型跌至 0.732，籲全行設 AI 安全上限 #Shorts",
-          "url": "https://www.youtube.com/watch?v=tnHQ26nQj3k",
-          "published": "2026-11-23",
-          "age": "1 day ago",
-          "is_new_today": false
-        },
-        {
           "title": "Tesla FSD v15 實時生成 3D 城市！不夠一部 iPhone 算力，為何能改寫無人車戰局？",
           "url": "https://www.youtube.com/watch?v=s2d0vpBXI7o",
           "published": "2026-11-22",
@@ -165,6 +151,20 @@
           "url": "https://www.youtube.com/watch?v=deqH4gEBmTY",
           "published": "2026-11-21",
           "age": "3 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "實測 Gemini 4 Neon 剪片, 媲美 Opus ! 正式反超 GPT",
+          "url": "https://www.youtube.com/watch?v=CPtSO95ygCg",
+          "published": "2026-11-20",
+          "age": "4 days ago",
+          "is_new_today": false
+        },
+        {
+          "title": "這次影片使用 Gemini 4 Carbon 剪接 | 能取代 Opus 嗎？",
+          "url": "https://www.youtube.com/watch?v=pL1Ytm9cq2E",
+          "published": "2026-11-15",
+          "age": "1 week ago",
           "is_new_today": false
         }
       ]
@@ -259,38 +259,38 @@
       "url": "https://www.youtube.com/@panscischool/featured",
       "videos": [
         {
-          "title": "Chrome 裡的 Gemini 怎麼用？側邊欄跨分頁比較、對話轉 Email｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=g2o1iyvdpQg",
-          "published": "2026-11-20",
-          "age": "4 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Gemini 桌面版新介面：Task 模式、Skill、排程怎麼用？｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=30jmoXGzjlA",
-          "published": "2026-11-19",
-          "age": "5 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Gemini 4 Argon 實測！它真能看懂影片、分析瑜珈動作嗎？｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=zMFFuCtMtXg",
-          "published": "2026-11-18",
-          "age": "6 days ago",
-          "is_new_today": false
-        },
-        {
-          "title": "Gemini 大更新！Task 模式、Skill 技能卡、排程功能一次看懂｜泛科學院",
-          "url": "https://www.youtube.com/watch?v=wQzMEj5LS5Y",
-          "published": "2026-11-17",
-          "age": "1 week ago",
-          "is_new_today": false
-        },
-        {
           "title": "Gemini 黑五優惠半價大放送！Carbon、Hydrogen 到底好不好用？",
           "url": "https://www.youtube.com/watch?v=NTmbr0LoZiY",
           "published": "2026-11-17",
           "age": "1 week ago",
+          "is_new_today": false
+        },
+        {
+          "title": "AI 怎樣記得我？3 招讓 Claude 記住你的工作方式｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=aMxxskHjhxY",
+          "published": "2026-11-12",
+          "age": "1 week ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Claude 禁令上路：不能再罵 AI 了？研究實測到底有沒有用｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=LhW5Fsv7ShY",
+          "published": "2026-11-02",
+          "age": "3 weeks ago",
+          "is_new_today": false
+        },
+        {
+          "title": "15分鐘解析全球網路危機 PHP2Shell 到底是什麼？｜泛科學院",
+          "url": "https://www.youtube.com/watch?v=hdPBHRFHaUw",
+          "published": "2026-10-25",
+          "age": "1 month ago",
+          "is_new_today": false
+        },
+        {
+          "title": "Gemini 4 Argon 登場！連瑜珈動作都可以分析？終於可以讀電腦檔案？",
+          "url": "https://www.youtube.com/watch?v=EIu0F591Jvg",
+          "published": "2026-10-21",
+          "age": "1 month ago",
           "is_new_today": false
         }
       ]
