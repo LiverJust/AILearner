@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-11-25 08:11 HKT*
+*Last updated: 2026-11-25 21:40 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -11,9 +11,9 @@
 |---|-------|-----|
 | 1 | [Anthropic推出Claude 2.0！18分鐘快速上手 5 個真正能改變你工作方式的新功能，從入門到專業手把手教你，看完比 99% 的人更會用 Claude！](https://www.youtube.com/watch?v=mLSQ-jE6nF0) | 2 weeks ago |
 | 2 | [一個人20分鐘跑通 AI 短漫劇製作全流程！人物一致性搞定，50集系列連續劇也能做！最全最細 AI 真人短劇保姆級教程，從入門到精通實現商業變現！](https://www.youtube.com/watch?v=hzdPM1PcG3Q) | 3 weeks ago |
-| 3 | [如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片紅利，早用早贏！](https://www.youtube.com/watch?v=v7UUfn7JQNk) | 1 month ago |
+| 3 | [如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片...](https://www.youtube.com/watch?v=v7UUfn7JQNk) | 1 month ago |
 | 4 | [ChatGPT-6.1 完整教學，全新15大功能＋所有場景實測！GPT Work、Codex、Skills 一次搞懂，從入門到進階，新手也能用 AI 賺錢、效率翻10倍！](https://www.youtube.com/watch?v=6n14rKV6oJc) | 1 month ago |
-| 5 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不使用的人真的很吃虧！](https://www.youtube.com/watch?v=gIac2n4nIPg) | 2 months ago |
+| 5 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...](https://www.youtube.com/watch?v=gIac2n4nIPg) | 2 months ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
 
@@ -30,20 +30,20 @@
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [Google Antigravity 香港終於正式用到！開通教學\|US$300 迎新額度點用？Gemini 4 四款模型點揀？#GoogleAntigravity #Gemini4 #廣東話](https://www.youtube.com/watch?v=ZIO-neguXwE) | 5 days ago |
-| 2 | [Grokbot 香港實際應用案例分享：收藏工具或Skills，叫AI隨時分析同幫你搵返 #Grokbot #香港AI #香港Grokbot應用 #我想用AI賺錢 #Grokbot實用教學 #廣東話](https://www.youtube.com/watch?v=WPxF_mQEOto) | 1 week ago |
-| 3 | [Grokbot實際應用案例分享：會議前後由AI幫忙整理！香港老闆點樣用Grokbot提升效率？#grokbot #香港AI應用 #廣東話 #我想用AI賺錢 #Grokbot應用](https://www.youtube.com/watch?v=9zmMGf5W-iM) | 1 week ago |
-| 4 | [Grokbot 應用實例分享：舞台劇取消，好彩AI提醒我！AI 助理幫你跟進邊件生活瑣事 #Grokbot #香港AI #廣東話 #香港AI應用 #香港Grokbot應用 #Grokbot實戰技巧](https://www.youtube.com/watch?v=HHjzkvz5i-U) | 2 weeks ago |
-| 5 | [Grok bot 香港老闆的 10 個工作與生活實戰：我每日點用 Grok Bot？#GrokBot #AI助理 #AI生活應用 #AI工具 #我想用AI賺錢 #廣東話 #香港AI應用 #香港AI教學](https://www.youtube.com/watch?v=vbkNbM3jP-o) | 2 weeks ago |
+| 2 | [Grok bot 香港老闆的 10 個工作與生活實戰：我每日點用 Grok Bot？#GrokBot #AI助理 #AI生活應用 #AI工具 #我想用AI賺錢 #廣東話 #香港AI應用 #香港AI教學](https://www.youtube.com/watch?v=vbkNbM3jP-o) | 2 weeks ago |
+| 3 | [善用AI工具口述整理工作的實測示範：我點用 Typeless AI 語音整理工作？真係估唔到咁好用！ #AI語音輸入 #AI工具 #廣東話 #TypelessAI #香港AI #工作效率](https://www.youtube.com/watch?v=_EtoUpwbBGE) | 1 month ago |
+| 4 | [由諗橋到 IG 出 Post！Grokbot + Higgsfield MCP 幫產品做搞笑短片：真AI Agent 自動化社交平台管理 #HiggsfieldMCP #AIAgent #AI影片製作](https://www.youtube.com/watch?v=EUVxwy6FdVs) | 1 month ago |
+| 5 | [ChatGPT Dots、Manus Cue 香港實試：以後唔洗自己設定AI助理？由開通到交代工作 #ChatGPTdots #ManusCue #AIAgent #廣東話 #香港AI應用](https://www.youtube.com/watch?v=I7PMmmIv_Ro) | 1 month ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Pika Enact：AI 拍片不再抽卡！走進實時 AI 片場當導演，擺位、講戲、運鏡原理全拆解](https://www.youtube.com/watch?v=HtfUo4fOas0) | 1 day ago |
-| 2 | [不用再困在黑畫面 Terminal！1 分鐘看懂 Antigravity × ACP（同一個工作台切換 Gemini 4 / Codex / Claude）](https://www.youtube.com/watch?v=XTg7Ed3LD9w) | 1 day ago |
-| 3 | [Gemini API 推出原生檔案切片控制！支援直傳 Office，Vercel 實測省 14 倍 Token #Shorts](https://www.youtube.com/watch?v=rAlV3WFQF_8) | 1 day ago |
-| 4 | [如何把 Gemini Antigravity 綁定到個人 AI Agent？Zo Computer 與免費開源 T3 Code 實戰教學（附封鎖政策拆解）](https://www.youtube.com/watch?v=53fZdQ9FqJo) | 2 days ago |
-| 5 | [Claude 助證 167 年黎曼猜想！1,737 萬行 Lean 程式碼獲認證，卻無人讀得完？ #AI新聞 #Shorts](https://www.youtube.com/watch?v=N3HEv0dYNTI) | 2 days ago |
+| 1 | [用 AI 剪片之後：一日一條片，YouTube 廣告收入升至 HK$7,300\|我的內容營銷流程全公開](https://www.youtube.com/watch?v=CgIlkq0QuSM) | Today |
+| 2 | [Pika Enact：AI 拍片不再抽卡！走進實時 AI 片場當導演，擺位、講戲、運鏡原理全拆解](https://www.youtube.com/watch?v=HtfUo4fOas0) | 1 day ago |
+| 3 | [如何把 Gemini Antigravity 綁定到個人 AI Agent？Zo Computer 與免費開源 T3 Code 實戰教學（附封鎖政策拆解）](https://www.youtube.com/watch?v=53fZdQ9FqJo) | 2 days ago |
+| 4 | [Tesla FSD v15 實時生成 3D 城市！不夠一部 iPhone 算力，為何能改寫無人車戰局？](https://www.youtube.com/watch?v=s2d0vpBXI7o) | 3 days ago |
+| 5 | [我取消了 4 萬元軟件訂閱 \| AI Agent 管理系統 AMS](https://www.youtube.com/watch?v=deqH4gEBmTY) | 4 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -69,21 +69,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [11月AI更新：三大旗艦模型做遊戲，誰最強、誰最省錢？\|泛科學院](https://www.youtube.com/watch?v=WatlUVCIGkc) | 1 day ago |
-| 2 | [Chrome 裡的 Gemini 怎麼用？側邊欄跨分頁比較、對話轉 Email\|泛科學院](https://www.youtube.com/watch?v=g2o1iyvdpQg) | 5 days ago |
-| 3 | [Gemini 桌面版新介面：Task 模式、Skill、排程怎麼用？\|泛科學院](https://www.youtube.com/watch?v=30jmoXGzjlA) | 6 days ago |
-| 4 | [Gemini 4 Argon 實測！它真能看懂影片、分析瑜珈動作嗎？\|泛科學院](https://www.youtube.com/watch?v=zMFFuCtMtXg) | 1 week ago |
-| 5 | [Gemini 大更新！Task 模式、Skill 技能卡、排程功能一次看懂\|泛科學院](https://www.youtube.com/watch?v=wQzMEj5LS5Y) | 1 week ago |
+| 1 | [Gemini 黑五優惠半價大放送！Carbon、Hydrogen 到底好不好用？](https://www.youtube.com/watch?v=NTmbr0LoZiY) | 1 week ago |
+| 2 | [AI 怎樣記得我？3 招讓 Claude 記住你的工作方式\|泛科學院](https://www.youtube.com/watch?v=aMxxskHjhxY) | 1 week ago |
+| 3 | [Claude 禁令上路：不能再罵 AI 了？研究實測到底有沒有用\|泛科學院](https://www.youtube.com/watch?v=LhW5Fsv7ShY) | 3 weeks ago |
+| 4 | [15分鐘解析全球網路危機 PHP2Shell 到底是什麼？\|泛科學院](https://www.youtube.com/watch?v=hdPBHRFHaUw) | 1 month ago |
+| 5 | [Gemini 4 Argon 登場！連瑜珈動作都可以分析？終於可以讀電腦檔案？](https://www.youtube.com/watch?v=EIu0F591Jvg) | 1 month ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [OpenDesign＋Claude Code 實測教學\|從安裝到做出兩套可互動的落地頁](https://www.youtube.com/watch?v=z_FOC_GvBVg) | 2 days ago |
-| 2 | [怎么做出像实拍一样的4K AI视频？完整制作流程](https://www.youtube.com/watch?v=ZoexGoFe-HI) | 3 days ago |
-| 3 | [都说Claude Code省Token，账单却没降？微软TokenEconomizer实测与安装教程](https://www.youtube.com/watch?v=0fJNblNJgcs) | 5 days ago |
-| 4 | [ChatGPT Astra 6 2初体验：这些游戏竟然是它做的？！](https://www.youtube.com/watch?v=gPh5T2eUFgU) | 6 days ago |
-| 5 | [「从0到1實戰教程」ChatGPT 不只寫劇本，還能直接做 AI 短劇？Higgsfield MCP 實測教學](https://www.youtube.com/watch?v=AqUpkztK9yg) | 6 days ago |
+| 1 | [我用 Claude Code 搭了台不露脸短视频印钞机：单条成品仅需$0.8](https://www.youtube.com/watch?v=kL8b53s3LlQ) | Today |
+| 2 | [OpenDesign＋Claude Code 實測教學\|從安裝到做出兩套可互動的落地頁](https://www.youtube.com/watch?v=z_FOC_GvBVg) | 2 days ago |
+| 3 | [怎么做出像实拍一样的4K AI视频？完整制作流程](https://www.youtube.com/watch?v=ZoexGoFe-HI) | 3 days ago |
+| 4 | [都说Claude Code省Token，账单却没降？微软TokenEconomizer实测与安装教程](https://www.youtube.com/watch?v=0fJNblNJgcs) | 5 days ago |
+| 5 | [ChatGPT Astra 6 2初体验：这些游戏竟然是它做的？！](https://www.youtube.com/watch?v=gPh5T2eUFgU) | 6 days ago |
 
 ---
 
