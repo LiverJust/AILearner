@@ -3,7 +3,7 @@
 <!-- YOUTUBE_TRACKER_START -->
 ## 📺 AI Learning Video Tracker
 
-*Last updated: 2026-11-27 08:07 HKT*
+*Last updated: 2026-11-27 21:14 HKT*
 
 ### 孔老師AI研習社 · [@Teacher_Kong](https://www.youtube.com/@Teacher_Kong/videos)
 
@@ -11,9 +11,9 @@
 |---|-------|-----|
 | 1 | [Anthropic推出Claude 2.0！18分鐘快速上手 5 個真正能改變你工作方式的新功能，從入門到專業手把手教你，看完比 99% 的人更會用 Claude！](https://www.youtube.com/watch?v=mLSQ-jE6nF0) | 3 weeks ago |
 | 2 | [一個人20分鐘跑通 AI 短漫劇製作全流程！人物一致性搞定，50集系列連續劇也能做！最全最細 AI 真人短劇保姆級教程，從入門到精通實現商業變現！](https://www.youtube.com/watch?v=hzdPM1PcG3Q) | 3 weeks ago |
-| 3 | [如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片紅利，早用早贏！](https://www.youtube.com/watch?v=v7UUfn7JQNk) | 1 month ago |
+| 3 | [如何使用 Opus 5.5 製作酷炫的動態設計？5 個案例從動態圖像Showreel做到長影片自動補動畫！完整動態影片製作教學，手把手帶你做，看完就能直接用！這波 AI 影片...](https://www.youtube.com/watch?v=v7UUfn7JQNk) | 1 month ago |
 | 4 | [ChatGPT-6.1 完整教學，全新15大功能＋所有場景實測！GPT Work、Codex、Skills 一次搞懂，從入門到進階，新手也能用 AI 賺錢、效率翻10倍！](https://www.youtube.com/watch?v=6n14rKV6oJc) | 1 month ago |
-| 5 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不使用的人真的很吃虧！](https://www.youtube.com/watch?v=gIac2n4nIPg) | 2 months ago |
+| 5 | [強到離譜！Gemini 3.8 最強教程，全新功能解析＋所有場景實測！Canvas、Gem、Spark 等新手必學 20 大功能完整介紹，從入門到進階到核心技巧，完全搞懂怎麼用，不...](https://www.youtube.com/watch?v=gIac2n4nIPg) | 2 months ago |
 
 ### 李厂长来了 · [@lichangzhanglaile](https://www.youtube.com/@lichangzhanglaile/videos)
 
@@ -30,20 +30,20 @@
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [Google Antigravity 香港終於正式用到！開通教學\|US$300 迎新額度點用？Gemini 4 四款模型點揀？#GoogleAntigravity #Gemini4 #廣東話](https://www.youtube.com/watch?v=ZIO-neguXwE) | 1 week ago |
-| 2 | [Grokbot 香港實際應用案例分享：收藏工具或Skills，叫AI隨時分析同幫你搵返 #Grokbot #香港AI #香港Grokbot應用 #我想用AI賺錢 #Grokbot實用教學 #廣東話](https://www.youtube.com/watch?v=WPxF_mQEOto) | 1 week ago |
-| 3 | [Grokbot實際應用案例分享：會議前後由AI幫忙整理！香港老闆點樣用Grokbot提升效率？#grokbot #香港AI應用 #廣東話 #我想用AI賺錢 #Grokbot應用](https://www.youtube.com/watch?v=9zmMGf5W-iM) | 2 weeks ago |
-| 4 | [Grokbot 應用實例分享：舞台劇取消，好彩AI提醒我！AI 助理幫你跟進邊件生活瑣事 #Grokbot #香港AI #廣東話 #香港AI應用 #香港Grokbot應用 #Grokbot實戰技巧](https://www.youtube.com/watch?v=HHjzkvz5i-U) | 2 weeks ago |
-| 5 | [Grok bot 香港老闆的 10 個工作與生活實戰：我每日點用 Grok Bot？#GrokBot #AI助理 #AI生活應用 #AI工具 #我想用AI賺錢 #廣東話 #香港AI應用 #香港AI教學](https://www.youtube.com/watch?v=vbkNbM3jP-o) | 3 weeks ago |
+| 2 | [Grok bot 香港老闆的 10 個工作與生活實戰：我每日點用 Grok Bot？#GrokBot #AI助理 #AI生活應用 #AI工具 #我想用AI賺錢 #廣東話 #香港AI應用 #香港AI教學](https://www.youtube.com/watch?v=vbkNbM3jP-o) | 3 weeks ago |
+| 3 | [善用AI工具口述整理工作的實測示範：我點用 Typeless AI 語音整理工作？真係估唔到咁好用！ #AI語音輸入 #AI工具 #廣東話 #TypelessAI #香港AI #工作效率](https://www.youtube.com/watch?v=_EtoUpwbBGE) | 1 month ago |
+| 4 | [由諗橋到 IG 出 Post！Grokbot + Higgsfield MCP 幫產品做搞笑短片：真AI Agent 自動化社交平台管理 #HiggsfieldMCP #AIAgent #AI影片製作](https://www.youtube.com/watch?v=EUVxwy6FdVs) | 1 month ago |
+| 5 | [ChatGPT Dots、Manus Cue 香港實試：以後唔洗自己設定AI助理？由開通到交代工作 #ChatGPTdots #ManusCue #AIAgent #廣東話 #香港AI應用](https://www.youtube.com/watch?v=I7PMmmIv_Ro) | 1 month ago |
 
 ### 阿石OMP · [@ompshek](https://www.youtube.com/@ompshek/videos)
 
 | # | Title | Age |
 |---|-------|-----|
 | 1 | [MCP 兩週年大升級：AI Agent 終於識睇說明書、後台做嘢、出事前先問你！5 大新功能全拆解](https://www.youtube.com/watch?v=zkIKYjI02s0) | 1 day ago |
-| 2 | [OpenAI 與 Anthropic 爆安全風波：AI 67% 識破考試？Dario Amodei 長文反擊交權論 #Shorts](https://www.youtube.com/watch?v=0-k32ALPcQQ) | 1 day ago |
-| 3 | [用 AI 剪片之後：一日一條片，YouTube 廣告收入升至 HK$7,300\|我的內容營銷流程全公開](https://www.youtube.com/watch?v=CgIlkq0QuSM) | 2 days ago |
-| 4 | [免費搵出網站隱藏 FAQ！3 步用 Google Search Console 提升 GEO（AI 搜尋引用）\|香港版 16 條公式 #Shorts](https://www.youtube.com/watch?v=T-5IJtN5ZGA) | 2 days ago |
-| 5 | [Pika Enact：AI 拍片不再抽卡！走進實時 AI 片場當導演，擺位、講戲、運鏡原理全拆解](https://www.youtube.com/watch?v=HtfUo4fOas0) | 3 days ago |
+| 2 | [用 AI 剪片之後：一日一條片，YouTube 廣告收入升至 HK$7,300\|我的內容營銷流程全公開](https://www.youtube.com/watch?v=CgIlkq0QuSM) | 2 days ago |
+| 3 | [Pika Enact：AI 拍片不再抽卡！走進實時 AI 片場當導演，擺位、講戲、運鏡原理全拆解](https://www.youtube.com/watch?v=HtfUo4fOas0) | 3 days ago |
+| 4 | [如何把 Gemini Antigravity 綁定到個人 AI Agent？Zo Computer 與免費開源 T3 Code 實戰教學（附封鎖政策拆解）](https://www.youtube.com/watch?v=53fZdQ9FqJo) | 4 days ago |
+| 5 | [Tesla FSD v15 實時生成 3D 城市！不夠一部 iPhone 算力，為何能改寫無人車戰局？](https://www.youtube.com/watch?v=s2d0vpBXI7o) | 5 days ago |
 
 ### PAPAYA 電腦教室 · [@papayaclass](https://www.youtube.com/@papayaclass/videos)
 
@@ -69,21 +69,21 @@
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [Gemini 4 Hydrogen 實測！寫 3D 互動遊戲只要 56 秒？\|泛科學院](https://www.youtube.com/watch?v=-74jBe4KQdA) | 1 day ago |
-| 2 | [誰在幫 AI 模型評分？看懂 Artificial Analysis 排行榜，模型原來這樣選\|泛科學院](https://www.youtube.com/watch?v=rurFPRaojdE) | 1 day ago |
-| 3 | [Claude Fable 5.2 實測：自己寫作業系統、畫電路板有多強？\|泛科學院](https://www.youtube.com/watch?v=1dddQwY4kDU) | 2 days ago |
-| 4 | [11月AI更新：三大旗艦模型做遊戲，誰最強、誰最省錢？\|泛科學院](https://www.youtube.com/watch?v=WatlUVCIGkc) | 3 days ago |
-| 5 | [Chrome 裡的 Gemini 怎麼用？側邊欄跨分頁比較、對話轉 Email\|泛科學院](https://www.youtube.com/watch?v=g2o1iyvdpQg) | 1 week ago |
+| 1 | [誰在幫 AI 模型評分？看懂 Artificial Analysis 排行榜，模型原來這樣選\|泛科學院](https://www.youtube.com/watch?v=rurFPRaojdE) | 1 day ago |
+| 2 | [Gemini 黑五優惠半價大放送！Carbon、Hydrogen 到底好不好用？](https://www.youtube.com/watch?v=NTmbr0LoZiY) | 1 week ago |
+| 3 | [AI 怎樣記得我？3 招讓 Claude 記住你的工作方式\|泛科學院](https://www.youtube.com/watch?v=aMxxskHjhxY) | 2 weeks ago |
+| 4 | [Claude 禁令上路：不能再罵 AI 了？研究實測到底有沒有用\|泛科學院](https://www.youtube.com/watch?v=LhW5Fsv7ShY) | 3 weeks ago |
+| 5 | [15分鐘解析全球網路危機 PHP2Shell 到底是什麼？\|泛科學院](https://www.youtube.com/watch?v=hdPBHRFHaUw) | 1 month ago |
 
 ### YAHA学堂 · [@YAHAClass](https://www.youtube.com/@YAHAClass/featured)
 
 | # | Title | Age |
 |---|-------|-----|
-| 1 | [商家花 300 美元买这套广告，我用 AI 只花了不到20美元](https://www.youtube.com/watch?v=gdggHLA8QQ8) | 1 day ago |
-| 2 | [我用 Claude Code 搭了台不露脸短视频印钞机：单条成品仅需$0.8](https://www.youtube.com/watch?v=kL8b53s3LlQ) | 2 days ago |
-| 3 | [OpenDesign＋Claude Code 實測教學\|從安裝到做出兩套可互動的落地頁](https://www.youtube.com/watch?v=z_FOC_GvBVg) | 4 days ago |
-| 4 | [怎么做出像实拍一样的4K AI视频？完整制作流程](https://www.youtube.com/watch?v=ZoexGoFe-HI) | 5 days ago |
-| 5 | [都说Claude Code省Token，账单却没降？微软TokenEconomizer实测与安装教程](https://www.youtube.com/watch?v=0fJNblNJgcs) | 1 week ago |
+| 1 | [MAGI-2实测：一张照片做出商业大片级 AI 产品广告：全流程配方 + 真实花费拆解](https://www.youtube.com/watch?v=bGK_iIFtqEE) | Today |
+| 2 | [商家花 300 美元买这套广告，我用 AI 只花了不到20美元](https://www.youtube.com/watch?v=gdggHLA8QQ8) | 1 day ago |
+| 3 | [我用 Claude Code 搭了台不露脸短视频印钞机：单条成品仅需$0.8](https://www.youtube.com/watch?v=kL8b53s3LlQ) | 2 days ago |
+| 4 | [OpenDesign＋Claude Code 實測教學\|從安裝到做出兩套可互動的落地頁](https://www.youtube.com/watch?v=z_FOC_GvBVg) | 4 days ago |
+| 5 | [怎么做出像实拍一样的4K AI视频？完整制作流程](https://www.youtube.com/watch?v=ZoexGoFe-HI) | 5 days ago |
 
 ---
 
